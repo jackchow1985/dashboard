@@ -1,0 +1,205 @@
+<meta charset="utf-8">
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="stylesheets/qfver1.0.css">
+<title>FDT Testing Dashboard</title>
+<link rel="icon" href="http://www.forexmaster.io/images/favicon.ico">
+
+<h1 align="center">  FDT Gemstone Dashboard<br>
+      <div style="font-size: 12px;">
+
+
+      </div>
+ </h1>
+<table>
+  <tr>
+     <td colspan="6" style="font-size: 24px; text-align: center">
+      Total Users Number
+    </td>
+
+  </tr>
+  <tr>
+    <td colspan="6"><div id="Date_TU_Global_China" class="chart1 chartFromFile" data="Date_TU_Global|Date_TU_China" style="width: 90%" align="center"></div></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div id="Date_Global_Country_TU" class="chart2"></div></td>
+    <td colspan="3"><div id="Date_TU_China_FX_FC_SC" class="chart2"></div></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div id="FX_FC_SC_OverlapGrowing" class="chart2"></div></td>
+    <td colspan="3"><div class="venn chart2" style="width: 20%"></div></td>
+  </tr>
+ <tr><td colspan="6" style="font-size: 24px; text-align: center">New Users and Active Users</td>
+ </tr>
+  <tr>
+    <td class="radio" colspan="6">
+        <input type="radio" class="radio" name="Region" id="radio_Global" checked="checked"><strong>Global</strong>
+        <input type="radio" class="radio" name="Region" id="radio_China"><strong>China</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="Date_NU_Global" class="chart3"></div><div id="Date_NU_China" class="invisible_chart3"></div></td>
+    <td colspan="2"><div id="Week_NU_Global" class="chart3"></div><div id="Week_NU_China" class="invisible_chart3"></div></td>
+    <td colspan="2"><div id="Month_NU_Global" class="chart3"></div><div id="Month_NU_China" class="invisible_chart3"></div></td>
+  </tr>
+  <tr>
+    <td class="radio" colspan="6">
+        <input type="radio" class="radio" name="App" id="radio_Global_FX" checked="checked"><strong>Global_FX</strong>
+        <input type="radio" class="radio" name="App" id="radio_China_FX"><strong>China_FX</strong>
+        <input type="radio" class="radio" name="App" id="radio_China_FC"><strong>China_FC</strong>
+        <input type="radio" class="radio" name="App" id="radio_China_SC"><strong>China_SC</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div id="Date_AU_Global_FX" class="AU1D chart3"></div>
+      <div id="Date_AU_China_FX" class="AU1D invisible_chart3"></div>
+      <div id="Date_AU_China_FC" class="AU1D invisible_chart3"></div>
+      <div id="Date_AU_China_SC" class="AU1D invisible_chart3"></div>
+    </td>
+    <td colspan="2">
+      <div id="Week_AU_Global_FX" class="AU7D chart3"></div>
+      <div id="Week_AU_China_FX" class="AU7D invisible_chart3"></div>
+      <div id="Week_AU_China_FC" class="AU7D invisible_chart3"></div>
+      <div id="Week_AU_China_SC" class="AU7D invisible_chart3"></div>
+    </td>
+    <td colspan="2">
+      <div id="Month_AU_Global_FX" class="AU30D chart3"></div>
+      <div id="Month_AU_China_FX" class="AU30D invisible_chart3"></div>
+      <div id="Month_AU_China_FC" class="AU30D invisible_chart3"></div>
+      <div id="Month_AU_China_SC" class="AU30D invisible_chart3"></div>
+    </td>
+  </tr>
+</table>
+
+<script>
+$(document).ready(function() {
+  var chartLoadFromFile = $(".chartFromFile");
+  var dataFiles = []
+  for(var i = 0 ; i < chartLoadFromFile.length; i ++) {
+  
+    
+      $.get("getDataFromFile?file=" + chartLoadFromFile.eq(i).attr("data"), function(data) {
+           console.info(data) 
+           var globalData = [];
+           var chinaData = [];
+
+           for(var i = 0 ; i < data["Date_TU_Global"].length; i ++) {
+              globalData.push([Date.parse(data["Date_TU_Global"][i].date), parseInt(data["Date_TU_Global"][i]["Total Users"])])
+           }
+
+           for(var i = 0 ; i < data["Date_TU_China"].length; i ++) {
+              chinaData.push([Date.parse(data["Date_TU_China"][i].date), parseInt(data["Date_TU_China"][i]["Total Users"])])
+           }
+          $('#Date_TU_Global_China').highcharts({
+          colors: ["#0000ff", "#ff0066", "#2b908f", "#90ee7e", "#eeaaee",
+        "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+            chart: {
+          backgroundColor: null,
+                zoomType: 'x'
+            },
+            title: {
+                text: 'Total User Growth'
+            },
+            subtitle: {
+                text: 'Global & China'
+            },
+            xAxis: {
+                type: 'datetime',
+                title: {
+                  text: 'Date'
+                },
+                floor: Date.UTC(2015, 00, 01)
+            },
+            yAxis: {
+                floor: 0,
+                title: {
+                    text: 'Users'
+                }
+            },
+            legend: {
+                enabled: true
+            },
+            plotOptions: {
+                area: {
+                    color: '#0038ff',
+                    marker: {
+                        enabled: null
+                    },
+                    lineWidth: 1,
+                    states: {
+                        hover: {
+                            lineWidth: 1
+                        }
+                    },
+                    threshold: null
+                }
+            },
+
+            series: [{
+                name: 'Global',
+                data: globalData
+            },
+            {
+                name: 'China',
+                data: chinaData
+            }]
+        });
+      }) 
+    
+  }
+
+})
+function display(a,b) {
+  var charts=document.getElementsByClassName(a);
+  for(var i=0;i<charts.length;i++){
+    charts[i].style.display="none";
+  }
+  document.getElementById(b).style.display="inline";
+}
+document.getElementById("radio_Global").onclick=function(){
+  document.getElementById("Date_NU_Global").style.display="inline";
+  document.getElementById("Week_NU_Global").style.display="inline";
+  document.getElementById("Month_NU_Global").style.display="inline";
+
+  document.getElementById("Date_NU_China").style.display="none";
+  document.getElementById("Week_NU_China").style.display="none";
+  document.getElementById("Month_NU_China").style.display="none";
+}
+
+document.getElementById("radio_China").onclick=function(){
+  document.getElementById("Date_NU_Global").style.display="none";
+  document.getElementById("Week_NU_Global").style.display="none";
+  document.getElementById("Month_NU_Global").style.display="none";
+
+  document.getElementById("Date_NU_China").style.display="inline";
+  document.getElementById("Week_NU_China").style.display="inline";
+  document.getElementById("Month_NU_China").style.display="inline";
+}
+
+document.getElementById("radio_Global_FX").onclick=function(){
+  display("AU1D", "Date_AU_Global_FX");
+  display("AU7D", "Week_AU_Global_FX");
+  display("AU30D", "Month_AU_Global_FX");
+}
+
+document.getElementById("radio_China_FX").onclick=function(){
+  display("AU1D", "Date_AU_China_FX");
+  display("AU7D", "Week_AU_China_FX");
+  display("AU30D", "Month_AU_China_FX");
+}
+
+document.getElementById("radio_China_FC").onclick=function(){
+  display("AU1D", "Date_AU_China_FC");
+  display("AU7D", "Week_AU_China_FC");
+  display("AU30D", "Month_AU_China_FC");
+}
+
+document.getElementById("radio_China_SC").onclick=function(){
+  display("AU1D", "Date_AU_China_SC");
+  display("AU7D", "Week_AU_China_SC");
+  display("AU30D", "Month_AU_China_SC");
+}
+</script>
