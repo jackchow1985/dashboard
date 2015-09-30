@@ -3,10 +3,24 @@
 <script src="http://code.highcharts.com/highcharts.js"></script>
 <script src="http://code.highcharts.com/modules/exporting.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+
+<script src="/javascripts/chart.js"></script>
 <link rel="stylesheet" type="text/css" href="stylesheets/qfver1.0.css">
 <title>FDT Testing Dashboard</title>
 <link rel="icon" href="http://www.forexmaster.io/images/favicon.ico">
-
+<style>
+.venntooltip {
+  position: absolute;
+  text-align: center;
+  width: 128px;
+  height: 22px;
+  background: #333;
+  color: #ddd;
+  border: 0px;
+  border-radius: 8px;
+  opacity: 0;
+}
+</style>
 <h1 align="center">  FDT Gemstone Dashboard<br>
       <div style="font-size: 12px;">
 
@@ -16,7 +30,7 @@
 <table>
   <tr>
      <td colspan="6" style="font-size: 24px; text-align: center">
-      Total Users Number
+      Total Users N umber
     </td>
 
   </tr>
@@ -24,12 +38,12 @@
     <td colspan="6"><div id="Date_TU_Global_China" class="chart1 chartFromFile" data="Date_TU_Global|Date_TU_China" style="width: 90%" align="center"></div></td>
   </tr>
   <tr>
-    <td colspan="3"><div id="Date_Global_Country_TU" class="chart2"></div></td>
-    <td colspan="3"><div id="Date_TU_China_FX_FC_SC" class="chart2"></div></td>
+    <td colspan="3"><div id="Date_Global_Country_TU" data="Date_Global_Country_TU|Global_Country_TU" class="chart2 chartFromFile"></div></td>
+    <td colspan="3"><div id="Date_TU_China_FX_FC_SC" data="Date_TU_China_FX|Date_TU_China_FC|Date_TU_China_SC" class="chart2 chartFromFile"></div></td>
   </tr>
   <tr>
-    <td colspan="3"><div id="FX_FC_SC_OverlapGrowing" class="chart2"></div></td>
-    <td colspan="3"><div class="venn chart2" style="width: 20%"></div></td>
+    <td colspan="3"><div id="FX_FC_SC_OverlapGrowing" data="FX_FC_Overlap|FX_SC_Overlap|FC_SC_Overlap|FX_FC_SC_Overlap" class="chart2 chartFromFile"></div></td>
+    <td colspan="3"><div id="VEEN" class="venn chart2 chartFromFile" data="China_FX_FC_SC_TU" style="width: 20%"></div></td>
   </tr>
  <tr><td colspan="6" style="font-size: 24px; text-align: center">New Users and Active Users</td>
  </tr>
@@ -40,9 +54,18 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2"><div id="Date_NU_Global" class="chart3"></div><div id="Date_NU_China" class="invisible_chart3"></div></td>
-    <td colspan="2"><div id="Week_NU_Global" class="chart3"></div><div id="Week_NU_China" class="invisible_chart3"></div></td>
-    <td colspan="2"><div id="Month_NU_Global" class="chart3"></div><div id="Month_NU_China" class="invisible_chart3"></div></td>
+    <td colspan="2">
+    <div id="Date_NU_Global" data="Date_NU_Global" class="chart3 chartFromFile"></div>
+    <div id="Date_NU_China" data="Date_NU_China" class="invisible_chart3 chartFromFile"></div>
+    </td>
+    <td colspan="2">
+    <div id="Week_NU_Global" data="Week_NU_Global" class="chart3 chartFromFile"></div>
+    <div id="Week_NU_China" data="Week_NU_China" class="invisible_chart3 chartFromFile"></div>
+    </td>
+    <td colspan="2">
+    <div id="Month_NU_Global" data="Month_NU_Global" class="chart3 chartFromFile"></div>
+    <div id="Month_NU_China" data="Month_NU_China" class="invisible_chart3 chartFromFile"></div>
+    </td>
   </tr>
   <tr>
     <td class="radio" colspan="6">
@@ -75,78 +98,15 @@
 </table>
 
 <script>
+
 $(document).ready(function() {
   var chartLoadFromFile = $(".chartFromFile");
   var dataFiles = []
-  for(var i = 0 ; i < chartLoadFromFile.length; i ++) {
-  
-    
-      $.get("getDataFromFile?file=" + chartLoadFromFile.eq(i).attr("data"), function(data) {
-           console.info(data) 
-           var globalData = [];
-           var chinaData = [];
-
-           for(var i = 0 ; i < data["Date_TU_Global"].length; i ++) {
-              globalData.push([Date.parse(data["Date_TU_Global"][i].date), parseInt(data["Date_TU_Global"][i]["Total Users"])])
-           }
-
-           for(var i = 0 ; i < data["Date_TU_China"].length; i ++) {
-              chinaData.push([Date.parse(data["Date_TU_China"][i].date), parseInt(data["Date_TU_China"][i]["Total Users"])])
-           }
-          $('#Date_TU_Global_China').highcharts({
-          colors: ["#0000ff", "#ff0066", "#2b908f", "#90ee7e", "#eeaaee",
-        "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
-            chart: {
-          backgroundColor: null,
-                zoomType: 'x'
-            },
-            title: {
-                text: 'Total User Growth'
-            },
-            subtitle: {
-                text: 'Global & China'
-            },
-            xAxis: {
-                type: 'datetime',
-                title: {
-                  text: 'Date'
-                },
-                floor: Date.UTC(2015, 00, 01)
-            },
-            yAxis: {
-                floor: 0,
-                title: {
-                    text: 'Users'
-                }
-            },
-            legend: {
-                enabled: true
-            },
-            plotOptions: {
-                area: {
-                    color: '#0038ff',
-                    marker: {
-                        enabled: null
-                    },
-                    lineWidth: 1,
-                    states: {
-                        hover: {
-                            lineWidth: 1
-                        }
-                    },
-                    threshold: null
-                }
-            },
-
-            series: [{
-                name: 'Global',
-                data: globalData
-            },
-            {
-                name: 'China',
-                data: chinaData
-            }]
-        });
+  for(var i = 0 ; i < chartLoadFromFile.length; i ++) {   
+      $.get("getDataFromFile?file=" + chartLoadFromFile.eq(i).attr("data") + "&chartName=" + chartLoadFromFile.eq(i).attr("id"), function(result) {
+           // console.info(result) 
+           chartGenerator[result.chartName](result.data);
+           
       }) 
     
   }

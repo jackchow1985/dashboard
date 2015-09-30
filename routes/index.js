@@ -13,7 +13,10 @@ router.get('/getDataFromFile', function(req, res, next) {
 	for(var i = 0; i < dataFiles.length; i ++) {
 		obj[dataFiles[i]] = JSON.parse(fs.readFileSync('data/' + dataFiles[i] + '.js'));
   	}
-	res.json(obj);
+	res.json({
+		chartName : req.query["chartName"],
+		data : obj
+	});
 	
 });
 
