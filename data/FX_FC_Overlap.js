@@ -292,787 +292,815 @@
 "Common Users": "196"
 }, 
 {
+"date": "2015-03-10", 
+"Common Users": "197"
+}, 
+{
 "date": "2015-03-11", 
-"Common Users": "200"
+"Common Users": "201"
 }, 
 {
 "date": "2015-03-12", 
-"Common Users": "204"
+"Common Users": "205"
 }, 
 {
 "date": "2015-03-13", 
-"Common Users": "215"
+"Common Users": "216"
 }, 
 {
 "date": "2015-03-14", 
-"Common Users": "217"
+"Common Users": "218"
 }, 
 {
 "date": "2015-03-15", 
-"Common Users": "220"
+"Common Users": "221"
 }, 
 {
 "date": "2015-03-16", 
-"Common Users": "222"
+"Common Users": "223"
 }, 
 {
 "date": "2015-03-17", 
-"Common Users": "227"
+"Common Users": "228"
 }, 
 {
 "date": "2015-03-18", 
-"Common Users": "238"
+"Common Users": "239"
 }, 
 {
 "date": "2015-03-19", 
-"Common Users": "244"
+"Common Users": "245"
 }, 
 {
 "date": "2015-03-20", 
-"Common Users": "246"
+"Common Users": "247"
 }, 
 {
 "date": "2015-03-21", 
-"Common Users": "252"
+"Common Users": "253"
 }, 
 {
 "date": "2015-03-22", 
-"Common Users": "259"
+"Common Users": "260"
 }, 
 {
 "date": "2015-03-23", 
-"Common Users": "262"
+"Common Users": "263"
 }, 
 {
 "date": "2015-03-24", 
-"Common Users": "276"
+"Common Users": "277"
 }, 
 {
 "date": "2015-03-25", 
-"Common Users": "307"
+"Common Users": "308"
 }, 
 {
 "date": "2015-03-26", 
-"Common Users": "340"
+"Common Users": "342"
 }, 
 {
 "date": "2015-03-27", 
-"Common Users": "371"
+"Common Users": "373"
 }, 
 {
 "date": "2015-03-28", 
-"Common Users": "384"
+"Common Users": "386"
 }, 
 {
 "date": "2015-03-29", 
-"Common Users": "406"
+"Common Users": "408"
 }, 
 {
 "date": "2015-03-30", 
-"Common Users": "428"
+"Common Users": "430"
 }, 
 {
 "date": "2015-03-31", 
-"Common Users": "451"
+"Common Users": "453"
 }, 
 {
 "date": "2015-04-01", 
-"Common Users": "478"
+"Common Users": "480"
 }, 
 {
 "date": "2015-04-02", 
-"Common Users": "506"
+"Common Users": "508"
 }, 
 {
 "date": "2015-04-03", 
-"Common Users": "526"
-}, 
-{
-"date": "2015-04-04", 
 "Common Users": "528"
 }, 
 {
+"date": "2015-04-04", 
+"Common Users": "530"
+}, 
+{
 "date": "2015-04-05", 
-"Common Users": "529"
+"Common Users": "531"
 }, 
 {
 "date": "2015-04-06", 
-"Common Users": "533"
+"Common Users": "535"
 }, 
 {
 "date": "2015-04-07", 
-"Common Users": "548"
+"Common Users": "551"
 }, 
 {
 "date": "2015-04-08", 
-"Common Users": "553"
+"Common Users": "556"
 }, 
 {
 "date": "2015-04-09", 
-"Common Users": "567"
+"Common Users": "570"
 }, 
 {
 "date": "2015-04-10", 
-"Common Users": "572"
+"Common Users": "575"
 }, 
 {
 "date": "2015-04-11", 
-"Common Users": "574"
+"Common Users": "577"
 }, 
 {
 "date": "2015-04-12", 
-"Common Users": "578"
+"Common Users": "581"
 }, 
 {
 "date": "2015-04-13", 
-"Common Users": "583"
+"Common Users": "586"
 }, 
 {
 "date": "2015-04-14", 
-"Common Users": "593"
+"Common Users": "596"
 }, 
 {
 "date": "2015-04-15", 
-"Common Users": "609"
+"Common Users": "612"
 }, 
 {
 "date": "2015-04-16", 
-"Common Users": "624"
+"Common Users": "627"
 }, 
 {
 "date": "2015-04-17", 
-"Common Users": "633"
+"Common Users": "636"
 }, 
 {
 "date": "2015-04-18", 
-"Common Users": "634"
+"Common Users": "637"
 }, 
 {
 "date": "2015-04-19", 
-"Common Users": "635"
+"Common Users": "638"
 }, 
 {
 "date": "2015-04-20", 
-"Common Users": "640"
+"Common Users": "643"
 }, 
 {
 "date": "2015-04-21", 
-"Common Users": "644"
+"Common Users": "647"
 }, 
 {
 "date": "2015-04-22", 
-"Common Users": "657"
+"Common Users": "660"
 }, 
 {
 "date": "2015-04-23", 
-"Common Users": "659"
+"Common Users": "662"
 }, 
 {
 "date": "2015-04-24", 
-"Common Users": "664"
+"Common Users": "667"
 }, 
 {
 "date": "2015-04-25", 
-"Common Users": "670"
-}, 
-{
-"date": "2015-04-26", 
 "Common Users": "673"
 }, 
 {
-"date": "2015-04-27", 
-"Common Users": "684"
+"date": "2015-04-26", 
+"Common Users": "676"
 }, 
 {
-"date": "2015-04-28", 
+"date": "2015-04-27", 
 "Common Users": "688"
 }, 
 {
+"date": "2015-04-28", 
+"Common Users": "692"
+}, 
+{
 "date": "2015-04-29", 
-"Common Users": "689"
+"Common Users": "693"
 }, 
 {
 "date": "2015-04-30", 
-"Common Users": "691"
+"Common Users": "695"
 }, 
 {
 "date": "2015-05-01", 
-"Common Users": "697"
+"Common Users": "701"
 }, 
 {
 "date": "2015-05-03", 
-"Common Users": "699"
+"Common Users": "703"
 }, 
 {
 "date": "2015-05-04", 
-"Common Users": "704"
+"Common Users": "708"
 }, 
 {
 "date": "2015-05-05", 
-"Common Users": "710"
+"Common Users": "714"
 }, 
 {
 "date": "2015-05-06", 
-"Common Users": "716"
+"Common Users": "720"
 }, 
 {
 "date": "2015-05-07", 
-"Common Users": "725"
+"Common Users": "729"
 }, 
 {
 "date": "2015-05-08", 
-"Common Users": "726"
+"Common Users": "730"
 }, 
 {
 "date": "2015-05-09", 
-"Common Users": "727"
-}, 
-{
-"date": "2015-05-10", 
 "Common Users": "731"
 }, 
 {
+"date": "2015-05-10", 
+"Common Users": "735"
+}, 
+{
 "date": "2015-05-11", 
-"Common Users": "738"
+"Common Users": "742"
 }, 
 {
 "date": "2015-05-12", 
-"Common Users": "743"
+"Common Users": "747"
 }, 
 {
 "date": "2015-05-13", 
-"Common Users": "748"
+"Common Users": "752"
 }, 
 {
 "date": "2015-05-15", 
-"Common Users": "751"
+"Common Users": "755"
 }, 
 {
 "date": "2015-05-16", 
-"Common Users": "754"
+"Common Users": "758"
 }, 
 {
 "date": "2015-05-17", 
-"Common Users": "756"
+"Common Users": "760"
 }, 
 {
 "date": "2015-05-18", 
-"Common Users": "761"
+"Common Users": "765"
 }, 
 {
 "date": "2015-05-19", 
-"Common Users": "767"
+"Common Users": "771"
 }, 
 {
 "date": "2015-05-20", 
-"Common Users": "773"
-}, 
-{
-"date": "2015-05-21", 
 "Common Users": "777"
 }, 
 {
+"date": "2015-05-21", 
+"Common Users": "781"
+}, 
+{
 "date": "2015-05-22", 
-"Common Users": "784"
+"Common Users": "788"
 }, 
 {
 "date": "2015-05-23", 
-"Common Users": "791"
+"Common Users": "795"
 }, 
 {
 "date": "2015-05-24", 
-"Common Users": "794"
+"Common Users": "798"
 }, 
 {
 "date": "2015-05-25", 
-"Common Users": "796"
+"Common Users": "800"
 }, 
 {
 "date": "2015-05-26", 
-"Common Users": "804"
+"Common Users": "808"
 }, 
 {
 "date": "2015-05-27", 
-"Common Users": "813"
-}, 
-{
-"date": "2015-05-28", 
 "Common Users": "818"
 }, 
 {
+"date": "2015-05-28", 
+"Common Users": "823"
+}, 
+{
 "date": "2015-05-29", 
-"Common Users": "828"
-}, 
-{
-"date": "2015-05-30", 
-"Common Users": "830"
-}, 
-{
-"date": "2015-05-31", 
 "Common Users": "833"
 }, 
 {
+"date": "2015-05-30", 
+"Common Users": "835"
+}, 
+{
+"date": "2015-05-31", 
+"Common Users": "838"
+}, 
+{
 "date": "2015-06-01", 
-"Common Users": "837"
+"Common Users": "842"
 }, 
 {
 "date": "2015-06-02", 
-"Common Users": "843"
-}, 
-{
-"date": "2015-06-03", 
 "Common Users": "848"
 }, 
 {
-"date": "2015-06-04", 
+"date": "2015-06-03", 
 "Common Users": "854"
 }, 
 {
+"date": "2015-06-04", 
+"Common Users": "860"
+}, 
+{
 "date": "2015-06-05", 
-"Common Users": "862"
+"Common Users": "868"
 }, 
 {
 "date": "2015-06-06", 
-"Common Users": "865"
+"Common Users": "871"
 }, 
 {
 "date": "2015-06-07", 
-"Common Users": "872"
+"Common Users": "878"
 }, 
 {
 "date": "2015-06-08", 
-"Common Users": "873"
+"Common Users": "879"
 }, 
 {
 "date": "2015-06-09", 
-"Common Users": "880"
+"Common Users": "886"
 }, 
 {
 "date": "2015-06-10", 
-"Common Users": "895"
+"Common Users": "901"
 }, 
 {
 "date": "2015-06-11", 
-"Common Users": "899"
+"Common Users": "905"
 }, 
 {
 "date": "2015-06-12", 
-"Common Users": "903"
-}, 
-{
-"date": "2015-06-13", 
 "Common Users": "909"
 }, 
 {
-"date": "2015-06-14", 
-"Common Users": "913"
+"date": "2015-06-13", 
+"Common Users": "915"
 }, 
 {
-"date": "2015-06-15", 
+"date": "2015-06-14", 
 "Common Users": "919"
 }, 
 {
-"date": "2015-06-16", 
-"Common Users": "924"
+"date": "2015-06-15", 
+"Common Users": "925"
 }, 
 {
-"date": "2015-06-17", 
+"date": "2015-06-16", 
 "Common Users": "930"
 }, 
 {
+"date": "2015-06-17", 
+"Common Users": "936"
+}, 
+{
 "date": "2015-06-18", 
-"Common Users": "937"
+"Common Users": "943"
 }, 
 {
 "date": "2015-06-19", 
-"Common Users": "941"
+"Common Users": "947"
 }, 
 {
 "date": "2015-06-20", 
-"Common Users": "946"
+"Common Users": "952"
 }, 
 {
 "date": "2015-06-21", 
-"Common Users": "953"
+"Common Users": "959"
 }, 
 {
 "date": "2015-06-22", 
-"Common Users": "955"
+"Common Users": "961"
 }, 
 {
 "date": "2015-06-23", 
-"Common Users": "960"
+"Common Users": "967"
 }, 
 {
 "date": "2015-06-24", 
-"Common Users": "972"
+"Common Users": "979"
 }, 
 {
 "date": "2015-06-25", 
-"Common Users": "980"
+"Common Users": "987"
 }, 
 {
 "date": "2015-06-26", 
-"Common Users": "988"
+"Common Users": "995"
 }, 
 {
 "date": "2015-06-27", 
-"Common Users": "1005"
+"Common Users": "1012"
 }, 
 {
 "date": "2015-06-28", 
-"Common Users": "1016"
+"Common Users": "1023"
 }, 
 {
 "date": "2015-06-29", 
-"Common Users": "1035"
+"Common Users": "1042"
 }, 
 {
 "date": "2015-06-30", 
-"Common Users": "1049"
+"Common Users": "1056"
 }, 
 {
 "date": "2015-07-01", 
-"Common Users": "1066"
+"Common Users": "1074"
 }, 
 {
 "date": "2015-07-02", 
-"Common Users": "1093"
+"Common Users": "1102"
 }, 
 {
 "date": "2015-07-03", 
-"Common Users": "1125"
+"Common Users": "1134"
 }, 
 {
 "date": "2015-07-04", 
-"Common Users": "1157"
+"Common Users": "1166"
 }, 
 {
 "date": "2015-07-05", 
-"Common Users": "1177"
+"Common Users": "1186"
 }, 
 {
 "date": "2015-07-06", 
-"Common Users": "1205"
+"Common Users": "1214"
 }, 
 {
 "date": "2015-07-07", 
-"Common Users": "1251"
+"Common Users": "1260"
 }, 
 {
 "date": "2015-07-08", 
-"Common Users": "1273"
+"Common Users": "1283"
 }, 
 {
 "date": "2015-07-09", 
-"Common Users": "1294"
+"Common Users": "1305"
 }, 
 {
 "date": "2015-07-10", 
-"Common Users": "1313"
+"Common Users": "1324"
 }, 
 {
 "date": "2015-07-11", 
-"Common Users": "1330"
+"Common Users": "1341"
 }, 
 {
 "date": "2015-07-12", 
-"Common Users": "1336"
+"Common Users": "1347"
 }, 
 {
 "date": "2015-07-13", 
-"Common Users": "1350"
+"Common Users": "1361"
 }, 
 {
 "date": "2015-07-14", 
-"Common Users": "1373"
+"Common Users": "1384"
 }, 
 {
 "date": "2015-07-15", 
-"Common Users": "1393"
+"Common Users": "1406"
 }, 
 {
 "date": "2015-07-16", 
-"Common Users": "1416"
+"Common Users": "1430"
 }, 
 {
 "date": "2015-07-17", 
-"Common Users": "1432"
+"Common Users": "1446"
 }, 
 {
 "date": "2015-07-18", 
-"Common Users": "1443"
+"Common Users": "1457"
 }, 
 {
 "date": "2015-07-19", 
-"Common Users": "1449"
+"Common Users": "1463"
 }, 
 {
 "date": "2015-07-20", 
-"Common Users": "1469"
+"Common Users": "1483"
 }, 
 {
 "date": "2015-07-21", 
-"Common Users": "1478"
+"Common Users": "1492"
 }, 
 {
 "date": "2015-07-22", 
-"Common Users": "1486"
+"Common Users": "1500"
 }, 
 {
 "date": "2015-07-23", 
-"Common Users": "1495"
+"Common Users": "1509"
 }, 
 {
 "date": "2015-07-24", 
-"Common Users": "1511"
+"Common Users": "1525"
 }, 
 {
 "date": "2015-07-25", 
-"Common Users": "1522"
+"Common Users": "1537"
 }, 
 {
 "date": "2015-07-26", 
-"Common Users": "1540"
+"Common Users": "1555"
 }, 
 {
 "date": "2015-07-27", 
-"Common Users": "1554"
+"Common Users": "1569"
 }, 
 {
 "date": "2015-07-28", 
-"Common Users": "1576"
+"Common Users": "1591"
 }, 
 {
 "date": "2015-07-29", 
-"Common Users": "1603"
+"Common Users": "1618"
 }, 
 {
 "date": "2015-07-30", 
-"Common Users": "1619"
+"Common Users": "1634"
 }, 
 {
 "date": "2015-07-31", 
-"Common Users": "1629"
+"Common Users": "1644"
 }, 
 {
 "date": "2015-08-01", 
-"Common Users": "1635"
+"Common Users": "1650"
 }, 
 {
 "date": "2015-08-02", 
-"Common Users": "1641"
-}, 
-{
-"date": "2015-08-03", 
-"Common Users": "1648"
-}, 
-{
-"date": "2015-08-04", 
 "Common Users": "1656"
 }, 
 {
+"date": "2015-08-03", 
+"Common Users": "1663"
+}, 
+{
+"date": "2015-08-04", 
+"Common Users": "1672"
+}, 
+{
 "date": "2015-08-05", 
-"Common Users": "1667"
+"Common Users": "1684"
 }, 
 {
 "date": "2015-08-06", 
-"Common Users": "1681"
+"Common Users": "1699"
 }, 
 {
 "date": "2015-08-07", 
-"Common Users": "1685"
+"Common Users": "1703"
 }, 
 {
 "date": "2015-08-08", 
-"Common Users": "1689"
+"Common Users": "1707"
 }, 
 {
 "date": "2015-08-09", 
-"Common Users": "1698"
+"Common Users": "1716"
 }, 
 {
 "date": "2015-08-10", 
-"Common Users": "1705"
+"Common Users": "1723"
 }, 
 {
 "date": "2015-08-11", 
-"Common Users": "1718"
+"Common Users": "1736"
 }, 
 {
 "date": "2015-08-12", 
-"Common Users": "1732"
+"Common Users": "1750"
 }, 
 {
 "date": "2015-08-13", 
-"Common Users": "1751"
+"Common Users": "1770"
 }, 
 {
 "date": "2015-08-14", 
-"Common Users": "1756"
+"Common Users": "1775"
 }, 
 {
 "date": "2015-08-15", 
-"Common Users": "1763"
+"Common Users": "1782"
 }, 
 {
 "date": "2015-08-16", 
-"Common Users": "1769"
+"Common Users": "1788"
 }, 
 {
 "date": "2015-08-17", 
-"Common Users": "1777"
+"Common Users": "1796"
 }, 
 {
 "date": "2015-08-18", 
-"Common Users": "1785"
+"Common Users": "1804"
 }, 
 {
 "date": "2015-08-19", 
-"Common Users": "1795"
+"Common Users": "1814"
 }, 
 {
 "date": "2015-08-20", 
-"Common Users": "1798"
+"Common Users": "1817"
 }, 
 {
 "date": "2015-08-21", 
-"Common Users": "1811"
+"Common Users": "1830"
 }, 
 {
 "date": "2015-08-22", 
-"Common Users": "1822"
+"Common Users": "1841"
 }, 
 {
 "date": "2015-08-23", 
-"Common Users": "1833"
+"Common Users": "1852"
 }, 
 {
 "date": "2015-08-24", 
-"Common Users": "1849"
+"Common Users": "1868"
 }, 
 {
 "date": "2015-08-25", 
-"Common Users": "1863"
+"Common Users": "1882"
 }, 
 {
 "date": "2015-08-26", 
-"Common Users": "1875"
+"Common Users": "1894"
 }, 
 {
 "date": "2015-08-27", 
-"Common Users": "1888"
+"Common Users": "1907"
 }, 
 {
 "date": "2015-08-28", 
-"Common Users": "1912"
+"Common Users": "1933"
 }, 
 {
 "date": "2015-08-29", 
-"Common Users": "1932"
+"Common Users": "1953"
 }, 
 {
 "date": "2015-08-30", 
-"Common Users": "1942"
+"Common Users": "1963"
 }, 
 {
 "date": "2015-08-31", 
-"Common Users": "1960"
+"Common Users": "1984"
 }, 
 {
 "date": "2015-09-01", 
-"Common Users": "1990"
+"Common Users": "2014"
 }, 
 {
 "date": "2015-09-02", 
-"Common Users": "2015"
+"Common Users": "2040"
 }, 
 {
 "date": "2015-09-03", 
-"Common Users": "2035"
+"Common Users": "2060"
 }, 
 {
 "date": "2015-09-04", 
-"Common Users": "2058"
+"Common Users": "2083"
 }, 
 {
 "date": "2015-09-05", 
-"Common Users": "2071"
+"Common Users": "2097"
 }, 
 {
 "date": "2015-09-06", 
-"Common Users": "2087"
+"Common Users": "2114"
 }, 
 {
 "date": "2015-09-07", 
-"Common Users": "2125"
+"Common Users": "2153"
 }, 
 {
 "date": "2015-09-08", 
-"Common Users": "2149"
+"Common Users": "2177"
 }, 
 {
 "date": "2015-09-09", 
-"Common Users": "2174"
+"Common Users": "2203"
 }, 
 {
 "date": "2015-09-10", 
-"Common Users": "2196"
+"Common Users": "2226"
 }, 
 {
 "date": "2015-09-11", 
-"Common Users": "2207"
-}, 
-{
-"date": "2015-09-12", 
-"Common Users": "2214"
-}, 
-{
-"date": "2015-09-13", 
-"Common Users": "2223"
-}, 
-{
-"date": "2015-09-14", 
-"Common Users": "2230"
-}, 
-{
-"date": "2015-09-15", 
 "Common Users": "2237"
 }, 
 {
+"date": "2015-09-12", 
+"Common Users": "2244"
+}, 
+{
+"date": "2015-09-13", 
+"Common Users": "2254"
+}, 
+{
+"date": "2015-09-14", 
+"Common Users": "2263"
+}, 
+{
+"date": "2015-09-15", 
+"Common Users": "2271"
+}, 
+{
 "date": "2015-09-16", 
-"Common Users": "2256"
+"Common Users": "2295"
 }, 
 {
 "date": "2015-09-17", 
-"Common Users": "2265"
+"Common Users": "2304"
 }, 
 {
 "date": "2015-09-18", 
-"Common Users": "2272"
+"Common Users": "2313"
 }, 
 {
 "date": "2015-09-19", 
-"Common Users": "2282"
+"Common Users": "2323"
 }, 
 {
 "date": "2015-09-20", 
-"Common Users": "2294"
+"Common Users": "2335"
 }, 
 {
 "date": "2015-09-21", 
-"Common Users": "2310"
+"Common Users": "2355"
 }, 
 {
 "date": "2015-09-22", 
-"Common Users": "2320"
+"Common Users": "2366"
 }, 
 {
 "date": "2015-09-23", 
-"Common Users": "2332"
+"Common Users": "2381"
 }, 
 {
 "date": "2015-09-24", 
-"Common Users": "2336"
+"Common Users": "2390"
+}, 
+{
+"date": "2015-09-25", 
+"Common Users": "2398"
+}, 
+{
+"date": "2015-09-26", 
+"Common Users": "2403"
+}, 
+{
+"date": "2015-09-27", 
+"Common Users": "2406"
+}, 
+{
+"date": "2015-09-28", 
+"Common Users": "2413"
+}, 
+{
+"date": "2015-09-29", 
+"Common Users": "2422"
+}, 
+{
+"date": "2015-09-30", 
+"Common Users": "2428"
 }
 ]

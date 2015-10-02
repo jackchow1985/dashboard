@@ -70,6 +70,11 @@
 "New Users": "1"
 }, 
 {
+"date": "2015-01-15", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"New Users": "1"
+}, 
+{
 "date": "2015-01-17", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
 "New Users": "1"
@@ -1127,7 +1132,7 @@
 {
 "date": "2015-04-10", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"New Users": "15"
+"New Users": "16"
 }, 
 {
 "date": "2015-04-10", 
@@ -2952,7 +2957,7 @@
 {
 "date": "2015-07-02", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"New Users": "18"
+"New Users": "19"
 }, 
 {
 "date": "2015-07-02", 
@@ -3952,7 +3957,7 @@
 {
 "date": "2015-08-22", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"New Users": "2"
+"New Users": "3"
 }, 
 {
 "date": "2015-08-22", 
@@ -3997,7 +4002,7 @@
 {
 "date": "2015-08-25", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"New Users": "8"
+"New Users": "9"
 }, 
 {
 "date": "2015-08-25", 
@@ -4012,7 +4017,7 @@
 {
 "date": "2015-08-26", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"New Users": "9"
+"New Users": "10"
 }, 
 {
 "date": "2015-08-26", 
@@ -4262,7 +4267,7 @@
 {
 "date": "2015-09-03", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"New Users": "3"
+"New Users": "4"
 }, 
 {
 "date": "2015-09-03", 
@@ -4272,7 +4277,7 @@
 {
 "date": "2015-09-03", 
 "school": "\u6c88\u9633\u5de5\u5b66\u9662", 
-"New Users": "7"
+"New Users": "8"
 }, 
 {
 "date": "2015-09-03", 
@@ -4292,7 +4297,7 @@
 {
 "date": "2015-09-04", 
 "school": "\u6c88\u9633\u5316\u5de5\u5927\u5b66", 
-"New Users": "189"
+"New Users": "188"
 }, 
 {
 "date": "2015-09-04", 
@@ -4407,7 +4412,7 @@
 {
 "date": "2015-09-07", 
 "school": "\u8fbd\u5b81\u5927\u5b66", 
-"New Users": "113"
+"New Users": "114"
 }, 
 {
 "date": "2015-09-07", 
@@ -4462,7 +4467,7 @@
 {
 "date": "2015-09-09", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"New Users": "1"
+"New Users": "2"
 }, 
 {
 "date": "2015-09-09", 
@@ -4547,7 +4552,7 @@
 {
 "date": "2015-09-11", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"New Users": "1"
+"New Users": "3"
 }, 
 {
 "date": "2015-09-11", 
@@ -4587,7 +4592,7 @@
 {
 "date": "2015-09-12", 
 "school": "\u8fbd\u5b81\u5927\u5b66", 
-"New Users": "159"
+"New Users": "158"
 }, 
 {
 "date": "2015-09-12", 
@@ -4617,7 +4622,7 @@
 {
 "date": "2015-09-13", 
 "school": "\u8fbd\u5b81\u79d1\u6280\u5927\u5b66", 
-"New Users": "181"
+"New Users": "182"
 }, 
 {
 "date": "2015-09-14", 
@@ -4692,7 +4697,7 @@
 {
 "date": "2015-09-16", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"New Users": "3"
+"New Users": "5"
 }, 
 {
 "date": "2015-09-16", 
@@ -4912,7 +4917,7 @@
 {
 "date": "2015-09-22", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"New Users": "7"
+"New Users": "8"
 }, 
 {
 "date": "2015-09-22", 
@@ -4927,7 +4932,7 @@
 {
 "date": "2015-09-22", 
 "school": "\u6e05\u534e\u5927\u5b66", 
-"New Users": "1"
+"New Users": "2"
 }, 
 {
 "date": "2015-09-22", 
@@ -4942,7 +4947,7 @@
 {
 "date": "2015-09-23", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"New Users": "3"
+"New Users": "4"
 }, 
 {
 "date": "2015-09-23", 
@@ -5007,6 +5012,131 @@
 {
 "date": "2015-09-25", 
 "school": "\u5317\u4eac\u5927\u5b66", 
+"New Users": "5"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u6c88\u9633\u5de5\u5b66\u9662", 
+"New Users": "3"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u8fbd\u5b81\u5927\u5b66", 
+"New Users": "4"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u8fbd\u5b81\u79d1\u6280\u5927\u5b66", 
 "New Users": "2"
+}, 
+{
+"date": "2015-09-26", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"New Users": "1"
+}, 
+{
+"date": "2015-09-26", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"New Users": "4"
+}, 
+{
+"date": "2015-09-26", 
+"school": "\u8fbd\u5b81\u5927\u5b66", 
+"New Users": "1"
+}, 
+{
+"date": "2015-09-26", 
+"school": "\u8fbd\u5b81\u79d1\u6280\u5927\u5b66", 
+"New Users": "2"
+}, 
+{
+"date": "2015-09-27", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"New Users": "1"
+}, 
+{
+"date": "2015-09-27", 
+"school": "\u6c88\u9633\u5316\u5de5\u5927\u5b66", 
+"New Users": "1"
+}, 
+{
+"date": "2015-09-27", 
+"school": "\u6e05\u534e\u5927\u5b66", 
+"New Users": "1"
+}, 
+{
+"date": "2015-09-27", 
+"school": "\u8fbd\u5b81\u5927\u5b66", 
+"New Users": "2"
+}, 
+{
+"date": "2015-09-27", 
+"school": "\u8fbd\u5b81\u79d1\u6280\u5927\u5b66", 
+"New Users": "2"
+}, 
+{
+"date": "2015-09-28", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"New Users": "1"
+}, 
+{
+"date": "2015-09-28", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"New Users": "1"
+}, 
+{
+"date": "2015-09-28", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"New Users": "1"
+}, 
+{
+"date": "2015-09-28", 
+"school": "\u6c88\u9633\u5de5\u5b66\u9662", 
+"New Users": "1"
+}, 
+{
+"date": "2015-09-28", 
+"school": "\u6e05\u534e\u5927\u5b66", 
+"New Users": "2"
+}, 
+{
+"date": "2015-09-28", 
+"school": "\u8fbd\u5b81\u5927\u5b66", 
+"New Users": "3"
+}, 
+{
+"date": "2015-09-29", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"New Users": "2"
+}, 
+{
+"date": "2015-09-29", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"New Users": "2"
+}, 
+{
+"date": "2015-09-29", 
+"school": "\u6e05\u534e\u5927\u5b66", 
+"New Users": "2"
+}, 
+{
+"date": "2015-09-29", 
+"school": "\u8fbd\u5b81\u5927\u5b66", 
+"New Users": "2"
+}, 
+{
+"date": "2015-09-30", 
+"school": "\u6c88\u9633\u5316\u5de5\u5927\u5b66", 
+"New Users": "1"
+}, 
+{
+"date": "2015-09-30", 
+"school": "\u6c88\u9633\u5de5\u5b66\u9662", 
+"New Users": "1"
+}, 
+{
+"date": "2015-10-01", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"New Users": "1"
 }
 ]

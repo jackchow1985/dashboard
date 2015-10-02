@@ -590,5 +590,33 @@
 {
 "date": "2015-09-25", 
 "Active Users": "8522"
+}, 
+{
+"date": "2015-09-26", 
+"Active Users": "8583"
+}, 
+{
+"date": "2015-09-27", 
+"Active Users": "8448"
+}, 
+{
+"date": "2015-09-28", 
+"Active Users": "7948"
+}, 
+{
+"date": "2015-09-29", 
+"Active Users": "7513"
+}, 
+{
+"date": "2015-09-30", 
+"Active Users": "7207"
+}, 
+{
+"date": "2015-10-01", 
+"Active Users": "6826"
+}, 
+{
+"date": "2015-10-02", 
+"Active Users": "6357"
 }
 ]

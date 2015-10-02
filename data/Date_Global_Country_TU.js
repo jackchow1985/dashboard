@@ -26,12 +26,12 @@
 }, 
 {
 "date": "2014-12-21", 
-"country": "TW", 
+"country": "HK", 
 "Total Users": "1"
 }, 
 {
 "date": "2014-12-21", 
-"country": "HK", 
+"country": "TW", 
 "Total Users": "1"
 }, 
 {
@@ -76,11 +76,6 @@
 }, 
 {
 "date": "2015-01-04", 
-"country": "HK", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-01-04", 
 "country": "GB", 
 "Total Users": "1"
 }, 
@@ -90,9 +85,9 @@
 "Total Users": "17"
 }, 
 {
-"date": "2015-01-05", 
-"country": "US", 
-"Total Users": "2"
+"date": "2015-01-04", 
+"country": "HK", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-01-05", 
@@ -101,13 +96,13 @@
 }, 
 {
 "date": "2015-01-05", 
-"country": "HK", 
-"Total Users": "5"
+"country": "GB", 
+"Total Users": "11"
 }, 
 {
 "date": "2015-01-05", 
-"country": "GB", 
-"Total Users": "11"
+"country": "US", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-01-05", 
@@ -115,7 +110,7 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-01-06", 
+"date": "2015-01-05", 
 "country": "HK", 
 "Total Users": "5"
 }, 
@@ -136,6 +131,11 @@
 }, 
 {
 "date": "2015-01-06", 
+"country": "HK", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-01-06", 
 "country": "ES", 
 "Total Users": "1"
 }, 
@@ -143,16 +143,6 @@
 "date": "2015-01-07", 
 "country": "US", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-01-07", 
-"country": "TW", 
-"Total Users": "84"
-}, 
-{
-"date": "2015-01-07", 
-"country": "HK", 
-"Total Users": "7"
 }, 
 {
 "date": "2015-01-07", 
@@ -165,19 +155,19 @@
 "Total Users": "4"
 }, 
 {
-"date": "2015-01-08", 
+"date": "2015-01-07", 
 "country": "HK", 
-"Total Users": "26"
+"Total Users": "7"
+}, 
+{
+"date": "2015-01-07", 
+"country": "TW", 
+"Total Users": "84"
 }, 
 {
 "date": "2015-01-08", 
 "country": "TW", 
 "Total Users": "88"
-}, 
-{
-"date": "2015-01-08", 
-"country": "GB", 
-"Total Users": "15"
 }, 
 {
 "date": "2015-01-08", 
@@ -190,13 +180,33 @@
 "Total Users": "1"
 }, 
 {
+"date": "2015-01-08", 
+"country": "GB", 
+"Total Users": "15"
+}, 
+{
+"date": "2015-01-08", 
+"country": "HK", 
+"Total Users": "26"
+}, 
+{
 "date": "2015-01-09", 
-"country": "CA", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-01-09", 
+"country": "GB", 
+"Total Users": "12"
 }, 
 {
 "date": "2015-01-09", 
 "country": "DE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-01-09", 
+"country": "CA", 
 "Total Users": "1"
 }, 
 {
@@ -210,14 +220,19 @@
 "Total Users": "43"
 }, 
 {
-"date": "2015-01-09", 
-"country": "GB", 
-"Total Users": "12"
+"date": "2015-01-10", 
+"country": "DE", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-01-09", 
-"country": "US", 
-"Total Users": "3"
+"date": "2015-01-10", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-01-10", 
+"country": "RO", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-10", 
@@ -241,22 +256,17 @@
 }, 
 {
 "date": "2015-01-10", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-10", 
-"country": "RO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-10", 
 "country": "IN", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-01-10", 
-"country": "DE", 
+"date": "2015-01-11", 
+"country": "GB", 
+"Total Users": "22"
+}, 
+{
+"date": "2015-01-11", 
+"country": "CA", 
 "Total Users": "1"
 }, 
 {
@@ -266,27 +276,12 @@
 }, 
 {
 "date": "2015-01-11", 
-"country": "AZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-11", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-11", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-11", 
 "country": "TW", 
 "Total Users": "146"
 }, 
 {
 "date": "2015-01-11", 
-"country": "SG", 
+"country": "AZ", 
 "Total Users": "1"
 }, 
 {
@@ -301,6 +296,21 @@
 }, 
 {
 "date": "2015-01-11", 
+"country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-01-11", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-01-12", 
+"country": "LK", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-01-12", 
 "country": "GB", 
 "Total Users": "22"
 }, 
@@ -311,27 +321,17 @@
 }, 
 {
 "date": "2015-01-12", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-12", 
-"country": "SG", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-01-12", 
-"country": "FR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-12", 
 "country": "JP", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-01-12", 
-"country": "LK", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-01-12", 
+"country": "FR", 
 "Total Users": "1"
 }, 
 {
@@ -341,8 +341,23 @@
 }, 
 {
 "date": "2015-01-12", 
-"country": "GB", 
-"Total Users": "22"
+"country": "SG", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-01-13", 
+"country": "LT", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-01-13", 
+"country": "HK", 
+"Total Users": "30"
+}, 
+{
+"date": "2015-01-13", 
+"country": "IE", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-01-13", 
@@ -365,24 +380,9 @@
 "Total Users": "129"
 }, 
 {
-"date": "2015-01-13", 
-"country": "LT", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-13", 
-"country": "HK", 
-"Total Users": "30"
-}, 
-{
-"date": "2015-01-13", 
-"country": "IE", 
-"Total Users": "2"
-}, 
-{
 "date": "2015-01-14", 
-"country": "HK", 
-"Total Users": "18"
+"country": "ID", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-14", 
@@ -396,13 +396,13 @@
 }, 
 {
 "date": "2015-01-14", 
-"country": "NZ", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "108"
 }, 
 {
 "date": "2015-01-14", 
-"country": "TW", 
-"Total Users": "108"
+"country": "NZ", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-14", 
@@ -411,8 +411,13 @@
 }, 
 {
 "date": "2015-01-14", 
-"country": "ID", 
-"Total Users": "1"
+"country": "HK", 
+"Total Users": "18"
+}, 
+{
+"date": "2015-01-15", 
+"country": "US", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-01-15", 
@@ -421,8 +426,8 @@
 }, 
 {
 "date": "2015-01-15", 
-"country": "GB", 
-"Total Users": "17"
+"country": "SG", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-15", 
@@ -431,18 +436,13 @@
 }, 
 {
 "date": "2015-01-15", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-15", 
-"country": "US", 
-"Total Users": "2"
+"country": "GB", 
+"Total Users": "17"
 }, 
 {
 "date": "2015-01-16", 
-"country": "SG", 
-"Total Users": "1"
+"country": "HK", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-01-16", 
@@ -451,7 +451,7 @@
 }, 
 {
 "date": "2015-01-16", 
-"country": "US", 
+"country": "SG", 
 "Total Users": "1"
 }, 
 {
@@ -466,12 +466,17 @@
 }, 
 {
 "date": "2015-01-16", 
-"country": "HK", 
-"Total Users": "3"
+"country": "US", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-17", 
-"country": "AU", 
+"country": "IN", 
+"Total Users": "12"
+}, 
+{
+"date": "2015-01-17", 
+"country": "NZ", 
 "Total Users": "1"
 }, 
 {
@@ -481,22 +486,12 @@
 }, 
 {
 "date": "2015-01-17", 
-"country": "NZ", 
+"country": "ID", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-01-17", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-17", 
-"country": "US", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-01-17", 
-"country": "SR", 
+"country": "AU", 
 "Total Users": "1"
 }, 
 {
@@ -506,12 +501,12 @@
 }, 
 {
 "date": "2015-01-17", 
-"country": "IN", 
-"Total Users": "12"
+"country": "SR", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-17", 
-"country": "ID", 
+"country": "MY", 
 "Total Users": "1"
 }, 
 {
@@ -530,6 +525,21 @@
 "Total Users": "7"
 }, 
 {
+"date": "2015-01-17", 
+"country": "US", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-01-18", 
+"country": "GB", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-01-18", 
+"country": "US", 
+"Total Users": "3"
+}, 
+{
 "date": "2015-01-18", 
 "country": "IN", 
 "Total Users": "3"
@@ -538,11 +548,6 @@
 "date": "2015-01-18", 
 "country": "MA", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-01-18", 
-"country": "US", 
-"Total Users": "3"
 }, 
 {
 "date": "2015-01-18", 
@@ -556,27 +561,27 @@
 }, 
 {
 "date": "2015-01-18", 
-"country": "GB", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-01-18", 
 "country": "HK", 
 "Total Users": "29"
 }, 
 {
 "date": "2015-01-19", 
-"country": "MY", 
+"country": "GB", 
+"Total Users": "10"
+}, 
+{
+"date": "2015-01-19", 
+"country": "ID", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-01-19", 
-"country": "HK", 
-"Total Users": "6"
+"country": "KR", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-19", 
-"country": "KR", 
+"country": "MY", 
 "Total Users": "1"
 }, 
 {
@@ -591,28 +596,28 @@
 }, 
 {
 "date": "2015-01-19", 
+"country": "TW", 
+"Total Users": "28"
+}, 
+{
+"date": "2015-01-19", 
 "country": "BD", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-01-19", 
-"country": "GB", 
-"Total Users": "10"
-}, 
-{
-"date": "2015-01-19", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-19", 
-"country": "TW", 
-"Total Users": "28"
+"country": "HK", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-01-20", 
 "country": "HK", 
 "Total Users": "6"
+}, 
+{
+"date": "2015-01-20", 
+"country": "US", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-01-20", 
@@ -630,24 +635,24 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-01-20", 
-"country": "US", 
-"Total Users": "2"
+"date": "2015-01-21", 
+"country": "GB", 
+"Total Users": "13"
 }, 
 {
 "date": "2015-01-21", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-21", 
-"country": "US", 
+"country": "IN", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-01-21", 
 "country": "NG", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-01-21", 
+"country": "HK", 
+"Total Users": "7"
 }, 
 {
 "date": "2015-01-21", 
@@ -666,18 +671,18 @@
 }, 
 {
 "date": "2015-01-21", 
-"country": "GB", 
-"Total Users": "13"
+"country": "JP", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-21", 
-"country": "IN", 
+"country": "US", 
 "Total Users": "2"
 }, 
 {
-"date": "2015-01-21", 
-"country": "HK", 
-"Total Users": "7"
+"date": "2015-01-22", 
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-22", 
@@ -691,13 +696,13 @@
 }, 
 {
 "date": "2015-01-22", 
-"country": "ID", 
-"Total Users": "3"
+"country": "TW", 
+"Total Users": "61"
 }, 
 {
 "date": "2015-01-22", 
-"country": "AU", 
-"Total Users": "1"
+"country": "ID", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-01-22", 
@@ -706,28 +711,23 @@
 }, 
 {
 "date": "2015-01-22", 
-"country": "TW", 
-"Total Users": "61"
-}, 
-{
-"date": "2015-01-22", 
 "country": "US", 
 "Total Users": "4"
 }, 
 {
 "date": "2015-01-23", 
-"country": "US", 
-"Total Users": "9"
+"country": "HK", 
+"Total Users": "11"
+}, 
+{
+"date": "2015-01-23", 
+"country": "JP", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-01-23", 
 "country": "TW", 
 "Total Users": "72"
-}, 
-{
-"date": "2015-01-23", 
-"country": "GB", 
-"Total Users": "14"
 }, 
 {
 "date": "2015-01-23", 
@@ -741,8 +741,8 @@
 }, 
 {
 "date": "2015-01-23", 
-"country": "HK", 
-"Total Users": "11"
+"country": "GB", 
+"Total Users": "14"
 }, 
 {
 "date": "2015-01-23", 
@@ -751,13 +751,13 @@
 }, 
 {
 "date": "2015-01-23", 
-"country": "JP", 
-"Total Users": "2"
+"country": "US", 
+"Total Users": "9"
 }, 
 {
 "date": "2015-01-24", 
-"country": "IN", 
-"Total Users": "2"
+"country": "TW", 
+"Total Users": "57"
 }, 
 {
 "date": "2015-01-24", 
@@ -771,18 +771,13 @@
 }, 
 {
 "date": "2015-01-24", 
-"country": "GB", 
-"Total Users": "9"
+"country": "MY", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-01-24", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-24", 
-"country": "TW", 
-"Total Users": "57"
+"country": "IN", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-01-24", 
@@ -791,12 +786,27 @@
 }, 
 {
 "date": "2015-01-24", 
+"country": "GB", 
+"Total Users": "9"
+}, 
+{
+"date": "2015-01-24", 
 "country": "HK", 
 "Total Users": "3"
 }, 
 {
 "date": "2015-01-24", 
-"country": "MY", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-01-25", 
+"country": "IN", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-01-25", 
+"country": "ID", 
 "Total Users": "2"
 }, 
 {
@@ -806,7 +816,17 @@
 }, 
 {
 "date": "2015-01-25", 
+"country": "HK", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-01-25", 
 "country": "US", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-01-25", 
+"country": "DE", 
 "Total Users": "1"
 }, 
 {
@@ -821,26 +841,6 @@
 }, 
 {
 "date": "2015-01-25", 
-"country": "HK", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-01-25", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-25", 
-"country": "IN", 
-"Total Users": "7"
-}, 
-{
-"date": "2015-01-25", 
-"country": "DE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-25", 
 "country": "TH", 
 "Total Users": "1"
 }, 
@@ -851,8 +851,8 @@
 }, 
 {
 "date": "2015-01-25", 
-"country": "ID", 
-"Total Users": "2"
+"country": "JP", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-26", 
@@ -861,8 +861,13 @@
 }, 
 {
 "date": "2015-01-26", 
-"country": "QA", 
+"country": "MY", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-01-26", 
+"country": "IN", 
+"Total Users": "14"
 }, 
 {
 "date": "2015-01-26", 
@@ -871,12 +876,12 @@
 }, 
 {
 "date": "2015-01-26", 
-"country": "ID", 
-"Total Users": "3"
+"country": "US", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-01-26", 
-"country": "TR", 
+"country": "QA", 
 "Total Users": "1"
 }, 
 {
@@ -886,23 +891,33 @@
 }, 
 {
 "date": "2015-01-26", 
-"country": "IN", 
-"Total Users": "14"
-}, 
-{
-"date": "2015-01-26", 
 "country": "HK", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-01-26", 
-"country": "US", 
-"Total Users": "4"
+"country": "ID", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-01-26", 
-"country": "MY", 
+"country": "TR", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-01-27", 
+"country": "HK", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-01-27", 
+"country": "IQ", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-01-27", 
+"country": "TW", 
+"Total Users": "115"
 }, 
 {
 "date": "2015-01-27", 
@@ -911,7 +926,7 @@
 }, 
 {
 "date": "2015-01-27", 
-"country": "IQ", 
+"country": "MY", 
 "Total Users": "1"
 }, 
 {
@@ -921,18 +936,13 @@
 }, 
 {
 "date": "2015-01-27", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-27", 
 "country": "IN", 
 "Total Users": "28"
 }, 
 {
 "date": "2015-01-27", 
-"country": "HK", 
-"Total Users": "3"
+"country": "TH", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-01-27", 
@@ -945,24 +955,29 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-01-27", 
+"date": "2015-01-28", 
 "country": "TH", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-01-27", 
-"country": "TW", 
-"Total Users": "115"
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-28", 
-"country": "TW", 
-"Total Users": "118"
+"country": "GB", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-01-28", 
-"country": "US", 
+"country": "IN", 
+"Total Users": "22"
+}, 
+{
+"date": "2015-01-28", 
+"country": "HK", 
 "Total Users": "2"
+}, 
+{
+"date": "2015-01-28", 
+"country": "TR", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-28", 
@@ -976,28 +991,13 @@
 }, 
 {
 "date": "2015-01-28", 
-"country": "TR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-28", 
-"country": "HK", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-01-28", 
 "country": "ID", 
 "Total Users": "5"
 }, 
 {
 "date": "2015-01-28", 
-"country": "TH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-28", 
-"country": "IN", 
-"Total Users": "22"
+"country": "US", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-01-28", 
@@ -1006,8 +1006,8 @@
 }, 
 {
 "date": "2015-01-28", 
-"country": "GB", 
-"Total Users": "6"
+"country": "TW", 
+"Total Users": "118"
 }, 
 {
 "date": "2015-01-28", 
@@ -1016,7 +1016,7 @@
 }, 
 {
 "date": "2015-01-29", 
-"country": "FR", 
+"country": "DE", 
 "Total Users": "1"
 }, 
 {
@@ -1031,32 +1031,12 @@
 }, 
 {
 "date": "2015-01-29", 
-"country": "US", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-01-29", 
-"country": "HK", 
-"Total Users": "7"
-}, 
-{
-"date": "2015-01-29", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-29", 
-"country": "TW", 
-"Total Users": "143"
-}, 
-{
-"date": "2015-01-29", 
 "country": "ID", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-01-29", 
-"country": "TR", 
+"country": "FR", 
 "Total Users": "1"
 }, 
 {
@@ -1066,28 +1046,28 @@
 }, 
 {
 "date": "2015-01-29", 
-"country": "DE", 
+"country": "TR", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-01-30", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-30", 
+"date": "2015-01-29", 
 "country": "TW", 
-"Total Users": "162"
+"Total Users": "143"
 }, 
 {
-"date": "2015-01-30", 
-"country": "TH", 
-"Total Users": "3"
+"date": "2015-01-29", 
+"country": "HK", 
+"Total Users": "7"
 }, 
 {
-"date": "2015-01-30", 
-"country": "IN", 
-"Total Users": "15"
+"date": "2015-01-29", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-01-29", 
+"country": "US", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-01-30", 
@@ -1101,8 +1081,8 @@
 }, 
 {
 "date": "2015-01-30", 
-"country": "GB", 
-"Total Users": "21"
+"country": "AZ", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-01-30", 
@@ -1111,17 +1091,12 @@
 }, 
 {
 "date": "2015-01-30", 
-"country": "OM", 
+"country": "SG", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-01-30", 
-"country": "AZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-01-30", 
-"country": "ID", 
+"country": "TH", 
 "Total Users": "3"
 }, 
 {
@@ -1131,8 +1106,8 @@
 }, 
 {
 "date": "2015-01-30", 
-"country": "HK", 
-"Total Users": "7"
+"country": "ID", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-01-30", 
@@ -1140,13 +1115,33 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-01-31", 
-"country": "CY", 
+"date": "2015-01-30", 
+"country": "IN", 
+"Total Users": "15"
+}, 
+{
+"date": "2015-01-30", 
+"country": "OM", 
 "Total Users": "1"
 }, 
 {
+"date": "2015-01-30", 
+"country": "GB", 
+"Total Users": "21"
+}, 
+{
+"date": "2015-01-30", 
+"country": "HK", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-01-30", 
+"country": "TW", 
+"Total Users": "162"
+}, 
+{
 "date": "2015-01-31", 
-"country": "MY", 
+"country": "ID", 
 "Total Users": "4"
 }, 
 {
@@ -1161,23 +1156,8 @@
 }, 
 {
 "date": "2015-01-31", 
-"country": "GB", 
-"Total Users": "11"
-}, 
-{
-"date": "2015-01-31", 
-"country": "US", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-01-31", 
 "country": "IN", 
 "Total Users": "16"
-}, 
-{
-"date": "2015-01-31", 
-"country": "ID", 
-"Total Users": "4"
 }, 
 {
 "date": "2015-01-31", 
@@ -1186,13 +1166,58 @@
 }, 
 {
 "date": "2015-01-31", 
+"country": "GB", 
+"Total Users": "11"
+}, 
+{
+"date": "2015-01-31", 
 "country": "IT", 
 "Total Users": "1"
 }, 
 {
+"date": "2015-01-31", 
+"country": "US", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-01-31", 
+"country": "CY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-01-31", 
+"country": "MY", 
+"Total Users": "4"
+}, 
+{
 "date": "2015-02-01", 
-"country": "JP", 
-"Total Users": "2"
+"country": "HK", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-02-01", 
+"country": "MO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-01", 
+"country": "US", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-02-01", 
+"country": "TW", 
+"Total Users": "159"
+}, 
+{
+"date": "2015-02-01", 
+"country": "IN", 
+"Total Users": "16"
+}, 
+{
+"date": "2015-02-01", 
+"country": "TR", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-01", 
@@ -1206,17 +1231,17 @@
 }, 
 {
 "date": "2015-02-01", 
-"country": "IN", 
-"Total Users": "16"
+"country": "PH", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-01", 
-"country": "US", 
-"Total Users": "6"
+"country": "JP", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-02-01", 
-"country": "TH", 
+"country": "MY", 
 "Total Users": "1"
 }, 
 {
@@ -1226,62 +1251,7 @@
 }, 
 {
 "date": "2015-02-01", 
-"country": "MO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-01", 
-"country": "TR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-01", 
-"country": "HK", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-02-01", 
-"country": "TW", 
-"Total Users": "159"
-}, 
-{
-"date": "2015-02-01", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-01", 
-"country": "PH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-02", 
-"country": "IN", 
-"Total Users": "14"
-}, 
-{
-"date": "2015-02-02", 
-"country": "TW", 
-"Total Users": "183"
-}, 
-{
-"date": "2015-02-02", 
-"country": "TR", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-02-02", 
-"country": "HK", 
-"Total Users": "36"
-}, 
-{
-"date": "2015-02-02", 
-"country": "GB", 
-"Total Users": "15"
-}, 
-{
-"date": "2015-02-02", 
-"country": "UY", 
+"country": "TH", 
 "Total Users": "1"
 }, 
 {
@@ -1291,23 +1261,28 @@
 }, 
 {
 "date": "2015-02-02", 
-"country": "MY", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-02-02", 
-"country": "TH", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-02-02", 
 "country": "BN", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-02-02", 
-"country": "DE", 
-"Total Users": "1"
+"country": "IN", 
+"Total Users": "14"
+}, 
+{
+"date": "2015-02-02", 
+"country": "US", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-02-02", 
+"country": "MY", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-02-02", 
+"country": "HK", 
+"Total Users": "36"
 }, 
 {
 "date": "2015-02-02", 
@@ -1316,8 +1291,53 @@
 }, 
 {
 "date": "2015-02-02", 
-"country": "US", 
-"Total Users": "4"
+"country": "TW", 
+"Total Users": "183"
+}, 
+{
+"date": "2015-02-02", 
+"country": "UY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-02", 
+"country": "TH", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-02-02", 
+"country": "TR", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-02-02", 
+"country": "GB", 
+"Total Users": "15"
+}, 
+{
+"date": "2015-02-02", 
+"country": "DE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-03", 
+"country": "ES", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-03", 
+"country": "GB", 
+"Total Users": "20"
+}, 
+{
+"date": "2015-02-03", 
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-02-03", 
+"country": "HK", 
+"Total Users": "45"
 }, 
 {
 "date": "2015-02-03", 
@@ -1326,8 +1346,13 @@
 }, 
 {
 "date": "2015-02-03", 
-"country": "ES", 
+"country": "MY", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-02-03", 
+"country": "TW", 
+"Total Users": "55"
 }, 
 {
 "date": "2015-02-03", 
@@ -1341,33 +1366,8 @@
 }, 
 {
 "date": "2015-02-03", 
-"country": "HK", 
-"Total Users": "45"
-}, 
-{
-"date": "2015-02-03", 
 "country": "ID", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-02-03", 
-"country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-02-03", 
-"country": "TW", 
-"Total Users": "55"
-}, 
-{
-"date": "2015-02-03", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-03", 
-"country": "GB", 
-"Total Users": "20"
 }, 
 {
 "date": "2015-02-04", 
@@ -1378,6 +1378,26 @@
 "date": "2015-02-04", 
 "country": "HK", 
 "Total Users": "23"
+}, 
+{
+"date": "2015-02-04", 
+"country": "GB", 
+"Total Users": "26"
+}, 
+{
+"date": "2015-02-04", 
+"country": "IN", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-02-04", 
+"country": "AT", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-04", 
+"country": "TH", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-04", 
@@ -1396,28 +1416,23 @@
 }, 
 {
 "date": "2015-02-04", 
-"country": "TH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-04", 
-"country": "GB", 
-"Total Users": "26"
-}, 
-{
-"date": "2015-02-04", 
-"country": "IN", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-02-04", 
 "country": "TW", 
 "Total Users": "37"
 }, 
 {
-"date": "2015-02-04", 
-"country": "AT", 
+"date": "2015-02-05", 
+"country": "GB", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-02-05", 
+"country": "EG", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-02-05", 
+"country": "HK", 
+"Total Users": "23"
 }, 
 {
 "date": "2015-02-05", 
@@ -1436,23 +1451,8 @@
 }, 
 {
 "date": "2015-02-05", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-05", 
 "country": "TW", 
 "Total Users": "51"
-}, 
-{
-"date": "2015-02-05", 
-"country": "HK", 
-"Total Users": "23"
-}, 
-{
-"date": "2015-02-05", 
-"country": "EG", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-02-05", 
@@ -1461,47 +1461,12 @@
 }, 
 {
 "date": "2015-02-05", 
-"country": "GB", 
-"Total Users": "7"
-}, 
-{
-"date": "2015-02-06", 
-"country": "AE", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-02-06", 
 "country": "PH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-06", 
-"country": "FR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-06", 
-"country": "UA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-06", 
-"country": "NL", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-06", 
-"country": "US", 
-"Total Users": "40"
-}, 
-{
-"date": "2015-02-06", 
-"country": "AZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-06", 
-"country": "MY", 
 "Total Users": "1"
 }, 
 {
@@ -1521,13 +1486,53 @@
 }, 
 {
 "date": "2015-02-06", 
-"country": "TW", 
-"Total Users": "31"
+"country": "NL", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-06", 
+"country": "FR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-06", 
+"country": "AZ", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-06", 
 "country": "HK", 
 "Total Users": "31"
+}, 
+{
+"date": "2015-02-06", 
+"country": "TW", 
+"Total Users": "31"
+}, 
+{
+"date": "2015-02-06", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-06", 
+"country": "UA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-06", 
+"country": "US", 
+"Total Users": "40"
+}, 
+{
+"date": "2015-02-06", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-07", 
+"country": "GB", 
+"Total Users": "5"
 }, 
 {
 "date": "2015-02-07", 
@@ -1541,18 +1546,13 @@
 }, 
 {
 "date": "2015-02-07", 
-"country": "US", 
-"Total Users": "9"
-}, 
-{
-"date": "2015-02-07", 
-"country": "NP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-07", 
 "country": "JP", 
 "Total Users": "2"
+}, 
+{
+"date": "2015-02-07", 
+"country": "HK", 
+"Total Users": "19"
 }, 
 {
 "date": "2015-02-07", 
@@ -1561,8 +1561,8 @@
 }, 
 {
 "date": "2015-02-07", 
-"country": "IN", 
-"Total Users": "20"
+"country": "US", 
+"Total Users": "9"
 }, 
 {
 "date": "2015-02-07", 
@@ -1571,18 +1571,23 @@
 }, 
 {
 "date": "2015-02-07", 
-"country": "GB", 
-"Total Users": "5"
+"country": "NP", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-07", 
-"country": "HK", 
-"Total Users": "19"
+"country": "IN", 
+"Total Users": "20"
 }, 
 {
 "date": "2015-02-08", 
-"country": "ID", 
-"Total Users": "1"
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-02-08", 
+"country": "US", 
+"Total Users": "10"
 }, 
 {
 "date": "2015-02-08", 
@@ -1596,18 +1601,18 @@
 }, 
 {
 "date": "2015-02-08", 
-"country": "IN", 
-"Total Users": "22"
-}, 
-{
-"date": "2015-02-08", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-02-08", 
 "country": "JP", 
 "Total Users": "2"
+}, 
+{
+"date": "2015-02-08", 
+"country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-08", 
+"country": "IN", 
+"Total Users": "22"
 }, 
 {
 "date": "2015-02-08", 
@@ -1615,9 +1620,19 @@
 "Total Users": "8"
 }, 
 {
-"date": "2015-02-08", 
-"country": "US", 
-"Total Users": "10"
+"date": "2015-02-09", 
+"country": "DE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-09", 
+"country": "IN", 
+"Total Users": "14"
+}, 
+{
+"date": "2015-02-09", 
+"country": "", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-09", 
@@ -1631,13 +1646,23 @@
 }, 
 {
 "date": "2015-02-09", 
-"country": "DE", 
-"Total Users": "1"
+"country": "GB", 
+"Total Users": "9"
 }, 
 {
 "date": "2015-02-09", 
 "country": "EG", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-02-09", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-09", 
+"country": "TW", 
+"Total Users": "81"
 }, 
 {
 "date": "2015-02-09", 
@@ -1650,48 +1675,13 @@
 "Total Users": "9"
 }, 
 {
-"date": "2015-02-09", 
-"country": "TW", 
-"Total Users": "81"
-}, 
-{
-"date": "2015-02-09", 
-"country": "GB", 
-"Total Users": "9"
-}, 
-{
-"date": "2015-02-09", 
-"country": "", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-09", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-09", 
-"country": "IN", 
-"Total Users": "14"
-}, 
-{
-"date": "2015-02-10", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-10", 
-"country": "DK", 
-"Total Users": "1"
-}, 
-{
 "date": "2015-02-10", 
 "country": "PK", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-02-10", 
-"country": "JP", 
+"country": "MO", 
 "Total Users": "1"
 }, 
 {
@@ -1701,7 +1691,17 @@
 }, 
 {
 "date": "2015-02-10", 
+"country": "US", 
+"Total Users": "39"
+}, 
+{
+"date": "2015-02-10", 
 "country": "PH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-10", 
+"country": "DK", 
 "Total Users": "1"
 }, 
 {
@@ -1711,13 +1711,13 @@
 }, 
 {
 "date": "2015-02-10", 
-"country": "TW", 
-"Total Users": "64"
+"country": "GB", 
+"Total Users": "5"
 }, 
 {
 "date": "2015-02-10", 
-"country": "US", 
-"Total Users": "39"
+"country": "JP", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-10", 
@@ -1726,13 +1726,8 @@
 }, 
 {
 "date": "2015-02-10", 
-"country": "MO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-10", 
-"country": "GB", 
-"Total Users": "5"
+"country": "TW", 
+"Total Users": "64"
 }, 
 {
 "date": "2015-02-10", 
@@ -1740,29 +1735,24 @@
 "Total Users": "2"
 }, 
 {
-"date": "2015-02-11", 
-"country": "KH", 
+"date": "2015-02-10", 
+"country": "ID", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-02-11", 
-"country": "DK", 
-"Total Users": "1"
+"country": "IN", 
+"Total Users": "21"
+}, 
+{
+"date": "2015-02-11", 
+"country": "GB", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-02-11", 
 "country": "", 
 "Total Users": "2"
-}, 
-{
-"date": "2015-02-11", 
-"country": "HK", 
-"Total Users": "9"
-}, 
-{
-"date": "2015-02-11", 
-"country": "CA", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-02-11", 
@@ -1776,13 +1766,18 @@
 }, 
 {
 "date": "2015-02-11", 
-"country": "IN", 
-"Total Users": "21"
+"country": "DK", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-11", 
-"country": "GB", 
-"Total Users": "6"
+"country": "KH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-11", 
+"country": "CA", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-11", 
@@ -1790,9 +1785,9 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-02-12", 
-"country": "GB", 
-"Total Users": "7"
+"date": "2015-02-11", 
+"country": "HK", 
+"Total Users": "9"
 }, 
 {
 "date": "2015-02-12", 
@@ -1801,18 +1796,18 @@
 }, 
 {
 "date": "2015-02-12", 
-"country": "HK", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-02-12", 
 "country": "JP", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-02-12", 
-"country": "FR", 
-"Total Users": "1"
+"country": "HK", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-02-12", 
+"country": "GB", 
+"Total Users": "7"
 }, 
 {
 "date": "2015-02-12", 
@@ -1821,53 +1816,18 @@
 }, 
 {
 "date": "2015-02-12", 
+"country": "FR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-12", 
 "country": "US", 
 "Total Users": "5"
 }, 
 {
 "date": "2015-02-13", 
-"country": "MY", 
+"country": "LV", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-02-13", 
-"country": "US", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-02-13", 
-"country": "TR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-13", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-13", 
-"country": "GB", 
-"Total Users": "8"
-}, 
-{
-"date": "2015-02-13", 
-"country": "FR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-13", 
-"country": "IT", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-02-13", 
-"country": "SA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-13", 
-"country": "TW", 
-"Total Users": "57"
 }, 
 {
 "date": "2015-02-13", 
@@ -1881,18 +1841,83 @@
 }, 
 {
 "date": "2015-02-13", 
-"country": "CA", 
-"Total Users": "1"
+"country": "GB", 
+"Total Users": "8"
 }, 
 {
 "date": "2015-02-13", 
-"country": "LV", 
+"country": "SA", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-02-13", 
 "country": "HK", 
 "Total Users": "17"
+}, 
+{
+"date": "2015-02-13", 
+"country": "US", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-02-13", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-13", 
+"country": "FR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-13", 
+"country": "TR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-13", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-13", 
+"country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-13", 
+"country": "IT", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-02-13", 
+"country": "TW", 
+"Total Users": "57"
+}, 
+{
+"date": "2015-02-14", 
+"country": "TW", 
+"Total Users": "17"
+}, 
+{
+"date": "2015-02-14", 
+"country": "US", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-02-14", 
+"country": "HK", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-02-14", 
+"country": "NO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-14", 
+"country": "IN", 
+"Total Users": "8"
 }, 
 {
 "date": "2015-02-14", 
@@ -1906,32 +1931,22 @@
 }, 
 {
 "date": "2015-02-14", 
-"country": "TW", 
-"Total Users": "17"
-}, 
-{
-"date": "2015-02-14", 
-"country": "NO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-14", 
-"country": "HK", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-02-14", 
 "country": "", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-02-14", 
-"country": "US", 
-"Total Users": "7"
+"date": "2015-02-15", 
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-02-14", 
+"date": "2015-02-15", 
 "country": "IN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-15", 
+"country": "HK", 
 "Total Users": "8"
 }, 
 {
@@ -1941,13 +1956,8 @@
 }, 
 {
 "date": "2015-02-15", 
-"country": "HK", 
-"Total Users": "8"
-}, 
-{
-"date": "2015-02-15", 
-"country": "PK", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "16"
 }, 
 {
 "date": "2015-02-15", 
@@ -1961,33 +1971,48 @@
 }, 
 {
 "date": "2015-02-15", 
-"country": "IN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-15", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-15", 
 "country": "US", 
 "Total Users": "4"
 }, 
 {
 "date": "2015-02-15", 
-"country": "TW", 
-"Total Users": "16"
+"country": "PK", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-16", 
-"country": "JP", 
+"country": "ID", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-02-16", 
+"country": "VN", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-02-16", 
+"country": "ES", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-16", 
+"country": "HK", 
+"Total Users": "25"
 }, 
 {
 "date": "2015-02-16", 
 "country": "NL", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-02-16", 
+"country": "TW", 
+"Total Users": "91"
+}, 
+{
+"date": "2015-02-16", 
+"country": "MY", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-02-16", 
@@ -2001,18 +2026,8 @@
 }, 
 {
 "date": "2015-02-16", 
-"country": "HK", 
-"Total Users": "25"
-}, 
-{
-"date": "2015-02-16", 
-"country": "MY", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-02-16", 
-"country": "ID", 
-"Total Users": "2"
+"country": "JP", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-16", 
@@ -2025,39 +2040,9 @@
 "Total Users": "13"
 }, 
 {
-"date": "2015-02-16", 
-"country": "TW", 
-"Total Users": "91"
-}, 
-{
-"date": "2015-02-16", 
-"country": "ES", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-16", 
-"country": "VN", 
-"Total Users": "1"
-}, 
-{
 "date": "2015-02-17", 
-"country": "HK", 
-"Total Users": "7"
-}, 
-{
-"date": "2015-02-17", 
-"country": "GB", 
-"Total Users": "10"
-}, 
-{
-"date": "2015-02-17", 
-"country": "TW", 
-"Total Users": "64"
-}, 
-{
-"date": "2015-02-17", 
-"country": "US", 
-"Total Users": "6"
+"country": "MY", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-02-17", 
@@ -2066,18 +2051,23 @@
 }, 
 {
 "date": "2015-02-17", 
-"country": "MY", 
-"Total Users": "2"
+"country": "US", 
+"Total Users": "6"
 }, 
 {
-"date": "2015-02-18", 
+"date": "2015-02-17", 
 "country": "GB", 
-"Total Users": "2"
+"Total Users": "10"
 }, 
 {
-"date": "2015-02-18", 
-"country": "JP", 
-"Total Users": "1"
+"date": "2015-02-17", 
+"country": "HK", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-02-17", 
+"country": "TW", 
+"Total Users": "64"
 }, 
 {
 "date": "2015-02-18", 
@@ -2086,18 +2076,18 @@
 }, 
 {
 "date": "2015-02-18", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-18", 
-"country": "TW", 
-"Total Users": "28"
+"country": "GB", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-02-18", 
 "country": "US", 
 "Total Users": "7"
+}, 
+{
+"date": "2015-02-18", 
+"country": "CA", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-18", 
@@ -2110,23 +2100,23 @@
 "Total Users": "16"
 }, 
 {
-"date": "2015-02-19", 
-"country": "GB", 
-"Total Users": "3"
+"date": "2015-02-18", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-18", 
+"country": "TW", 
+"Total Users": "28"
 }, 
 {
 "date": "2015-02-19", 
-"country": "TH", 
+"country": "HK", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-02-19", 
-"country": "TW", 
-"Total Users": "21"
-}, 
-{
-"date": "2015-02-19", 
-"country": "FR", 
+"country": "CA", 
 "Total Users": "1"
 }, 
 {
@@ -2136,8 +2126,23 @@
 }, 
 {
 "date": "2015-02-19", 
-"country": "MY", 
-"Total Users": "2"
+"country": "NO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-19", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-02-19", 
+"country": "TW", 
+"Total Users": "21"
+}, 
+{
+"date": "2015-02-19", 
+"country": "TH", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-19", 
@@ -2146,7 +2151,17 @@
 }, 
 {
 "date": "2015-02-19", 
-"country": "CA", 
+"country": "MY", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-02-19", 
+"country": "FR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-19", 
+"country": "IE", 
 "Total Users": "1"
 }, 
 {
@@ -2155,43 +2170,8 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-02-19", 
-"country": "HK", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-19", 
-"country": "NO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-19", 
-"country": "IE", 
-"Total Users": "1"
-}, 
-{
 "date": "2015-02-20", 
-"country": "TW", 
-"Total Users": "21"
-}, 
-{
-"date": "2015-02-20", 
-"country": "HK", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-02-20", 
-"country": "GB", 
-"Total Users": "15"
-}, 
-{
-"date": "2015-02-20", 
-"country": "IN", 
-"Total Users": "23"
-}, 
-{
-"date": "2015-02-20", 
-"country": "TH", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
@@ -2201,8 +2181,8 @@
 }, 
 {
 "date": "2015-02-20", 
-"country": "DE", 
-"Total Users": "1"
+"country": "GB", 
+"Total Users": "15"
 }, 
 {
 "date": "2015-02-20", 
@@ -2211,13 +2191,28 @@
 }, 
 {
 "date": "2015-02-20", 
-"country": "JP", 
+"country": "TW", 
+"Total Users": "21"
+}, 
+{
+"date": "2015-02-20", 
+"country": "DE", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-02-21", 
+"date": "2015-02-20", 
+"country": "TH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-20", 
 "country": "HK", 
-"Total Users": "9"
+"Total Users": "6"
+}, 
+{
+"date": "2015-02-20", 
+"country": "IN", 
+"Total Users": "23"
 }, 
 {
 "date": "2015-02-21", 
@@ -2226,23 +2221,8 @@
 }, 
 {
 "date": "2015-02-21", 
-"country": "US", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-02-21", 
 "country": "TW", 
 "Total Users": "16"
-}, 
-{
-"date": "2015-02-21", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-21", 
-"country": "IE", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-02-21", 
@@ -2256,22 +2236,42 @@
 }, 
 {
 "date": "2015-02-21", 
+"country": "LK", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-21", 
 "country": "IN", 
 "Total Users": "15"
 }, 
 {
 "date": "2015-02-21", 
-"country": "LK", 
-"Total Users": "1"
+"country": "HK", 
+"Total Users": "9"
 }, 
 {
-"date": "2015-02-22", 
+"date": "2015-02-21", 
 "country": "US", 
 "Total Users": "4"
 }, 
 {
+"date": "2015-02-21", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-21", 
+"country": "IE", 
+"Total Users": "1"
+}, 
+{
 "date": "2015-02-22", 
-"country": "KE", 
+"country": "HK", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-02-22", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
@@ -2281,17 +2281,7 @@
 }, 
 {
 "date": "2015-02-22", 
-"country": "SA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-22", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-22", 
-"country": "HK", 
+"country": "US", 
 "Total Users": "4"
 }, 
 {
@@ -2301,8 +2291,18 @@
 }, 
 {
 "date": "2015-02-22", 
+"country": "SA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-22", 
 "country": "TW", 
 "Total Users": "11"
+}, 
+{
+"date": "2015-02-22", 
+"country": "KE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-22", 
@@ -2311,18 +2311,8 @@
 }, 
 {
 "date": "2015-02-23", 
-"country": "DE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-23", 
 "country": "US", 
 "Total Users": "3"
-}, 
-{
-"date": "2015-02-23", 
-"country": "JP", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-02-23", 
@@ -2331,8 +2321,13 @@
 }, 
 {
 "date": "2015-02-23", 
-"country": "GB", 
-"Total Users": "22"
+"country": "IN", 
+"Total Users": "28"
+}, 
+{
+"date": "2015-02-23", 
+"country": "DE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-23", 
@@ -2341,8 +2336,8 @@
 }, 
 {
 "date": "2015-02-23", 
-"country": "IN", 
-"Total Users": "28"
+"country": "HK", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-02-23", 
@@ -2351,18 +2346,23 @@
 }, 
 {
 "date": "2015-02-23", 
-"country": "HK", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-02-24", 
-"country": "", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-02-24", 
-"country": "TW", 
+"date": "2015-02-23", 
+"country": "GB", 
 "Total Users": "22"
+}, 
+{
+"date": "2015-02-24", 
+"country": "IN", 
+"Total Users": "16"
+}, 
+{
+"date": "2015-02-24", 
+"country": "GB", 
+"Total Users": "8"
 }, 
 {
 "date": "2015-02-24", 
@@ -2371,8 +2371,23 @@
 }, 
 {
 "date": "2015-02-24", 
-"country": "GB", 
-"Total Users": "8"
+"country": "", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-24", 
+"country": "US", 
+"Total Users": "12"
+}, 
+{
+"date": "2015-02-24", 
+"country": "TW", 
+"Total Users": "22"
+}, 
+{
+"date": "2015-02-24", 
+"country": "DE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-24", 
@@ -2385,24 +2400,9 @@
 "Total Users": "13"
 }, 
 {
-"date": "2015-02-24", 
-"country": "IN", 
-"Total Users": "16"
-}, 
-{
-"date": "2015-02-24", 
-"country": "DE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-24", 
-"country": "US", 
-"Total Users": "12"
-}, 
-{
 "date": "2015-02-25", 
-"country": "ID", 
-"Total Users": "1"
+"country": "HK", 
+"Total Users": "9"
 }, 
 {
 "date": "2015-02-25", 
@@ -2411,8 +2411,8 @@
 }, 
 {
 "date": "2015-02-25", 
-"country": "IN", 
-"Total Users": "23"
+"country": "ID", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-25", 
@@ -2431,17 +2431,12 @@
 }, 
 {
 "date": "2015-02-25", 
+"country": "IN", 
+"Total Users": "23"
+}, 
+{
+"date": "2015-02-25", 
 "country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-25", 
-"country": "GR", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-02-25", 
-"country": "JP", 
 "Total Users": "1"
 }, 
 {
@@ -2451,37 +2446,12 @@
 }, 
 {
 "date": "2015-02-25", 
-"country": "HK", 
-"Total Users": "9"
-}, 
-{
-"date": "2015-02-26", 
-"country": "UA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-26", 
-"country": "MY", 
+"country": "GR", 
 "Total Users": "2"
 }, 
 {
-"date": "2015-02-26", 
-"country": "RO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-26", 
+"date": "2015-02-25", 
 "country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-02-26", 
-"country": "GB", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-02-26", 
-"country": "TR", 
 "Total Users": "1"
 }, 
 {
@@ -2496,8 +2466,8 @@
 }, 
 {
 "date": "2015-02-26", 
-"country": "US", 
-"Total Users": "5"
+"country": "TR", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-26", 
@@ -2505,29 +2475,34 @@
 "Total Users": "17"
 }, 
 {
-"date": "2015-02-27", 
+"date": "2015-02-26", 
 "country": "US", 
-"Total Users": "3"
+"Total Users": "5"
 }, 
 {
-"date": "2015-02-27", 
-"country": "IN", 
-"Total Users": "8"
+"date": "2015-02-26", 
+"country": "GB", 
+"Total Users": "6"
 }, 
 {
-"date": "2015-02-27", 
-"country": "TW", 
-"Total Users": "117"
+"date": "2015-02-26", 
+"country": "MY", 
+"Total Users": "2"
 }, 
 {
-"date": "2015-02-27", 
-"country": "TH", 
+"date": "2015-02-26", 
+"country": "RO", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-02-27", 
-"country": "SG", 
+"date": "2015-02-26", 
+"country": "UA", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-02-26", 
+"country": "JP", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-02-27", 
@@ -2536,8 +2511,13 @@
 }, 
 {
 "date": "2015-02-27", 
-"country": "IT", 
+"country": "TH", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-02-27", 
+"country": "US", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-02-27", 
@@ -2546,7 +2526,27 @@
 }, 
 {
 "date": "2015-02-27", 
+"country": "TW", 
+"Total Users": "117"
+}, 
+{
+"date": "2015-02-27", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-27", 
+"country": "IN", 
+"Total Users": "8"
+}, 
+{
+"date": "2015-02-27", 
 "country": "DE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-27", 
+"country": "IT", 
 "Total Users": "1"
 }, 
 {
@@ -2556,12 +2556,32 @@
 }, 
 {
 "date": "2015-02-28", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-02-28", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-02-28", 
+"country": "IN", 
+"Total Users": "9"
+}, 
+{
+"date": "2015-02-28", 
+"country": "TW", 
+"Total Users": "84"
+}, 
+{
+"date": "2015-02-28", 
 "country": "HK", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-02-28", 
-"country": "JP", 
+"country": "ES", 
 "Total Users": "1"
 }, 
 {
@@ -2571,18 +2591,8 @@
 }, 
 {
 "date": "2015-02-28", 
-"country": "US", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-02-28", 
-"country": "GB", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-02-28", 
-"country": "TW", 
-"Total Users": "84"
+"country": "SA", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-02-28", 
@@ -2591,18 +2601,8 @@
 }, 
 {
 "date": "2015-02-28", 
-"country": "ES", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-02-28", 
-"country": "IN", 
-"Total Users": "9"
-}, 
-{
-"date": "2015-02-28", 
-"country": "SA", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-03-01", 
@@ -2611,27 +2611,17 @@
 }, 
 {
 "date": "2015-03-01", 
-"country": "NL", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-01", 
-"country": "US", 
-"Total Users": "3"
+"country": "GB", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-01", 
 "country": "NZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-01", 
-"country": "IN", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-03-01", 
-"country": "CA", 
 "Total Users": "1"
 }, 
 {
@@ -2641,13 +2631,13 @@
 }, 
 {
 "date": "2015-03-01", 
-"country": "JP", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-03-01", 
-"country": "GB", 
-"Total Users": "2"
+"country": "CA", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-01", 
@@ -2655,18 +2645,23 @@
 "Total Users": "45"
 }, 
 {
-"date": "2015-03-02", 
-"country": "ES", 
+"date": "2015-03-01", 
+"country": "IN", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-03-01", 
+"country": "NL", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-02", 
-"country": "GB", 
-"Total Users": "4"
+"country": "HK", 
+"Total Users": "11"
 }, 
 {
 "date": "2015-03-02", 
-"country": "AU", 
+"country": "ES", 
 "Total Users": "1"
 }, 
 {
@@ -2676,8 +2671,18 @@
 }, 
 {
 "date": "2015-03-02", 
+"country": "FR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-02", 
 "country": "US", 
 "Total Users": "6"
+}, 
+{
+"date": "2015-03-02", 
+"country": "GB", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-03-02", 
@@ -2691,13 +2696,13 @@
 }, 
 {
 "date": "2015-03-02", 
-"country": "MY", 
-"Total Users": "2"
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-02", 
-"country": "FR", 
-"Total Users": "1"
+"country": "MY", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-02", 
@@ -2705,18 +2710,33 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-02", 
-"country": "HK", 
-"Total Users": "11"
-}, 
-{
 "date": "2015-03-03", 
-"country": "JP", 
-"Total Users": "1"
+"country": "GB", 
+"Total Users": "22"
 }, 
 {
 "date": "2015-03-03", 
 "country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-03", 
+"country": "US", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-03-03", 
+"country": "IN", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-03-03", 
+"country": "TW", 
+"Total Users": "192"
+}, 
+{
+"date": "2015-03-03", 
+"country": "AU", 
 "Total Users": "1"
 }, 
 {
@@ -2726,32 +2746,7 @@
 }, 
 {
 "date": "2015-03-03", 
-"country": "GB", 
-"Total Users": "22"
-}, 
-{
-"date": "2015-03-03", 
-"country": "TW", 
-"Total Users": "192"
-}, 
-{
-"date": "2015-03-03", 
-"country": "IN", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-03-03", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-03", 
-"country": "US", 
-"Total Users": "7"
-}, 
-{
-"date": "2015-03-04", 
-"country": "AU", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
@@ -2761,18 +2756,13 @@
 }, 
 {
 "date": "2015-03-04", 
-"country": "US", 
-"Total Users": "11"
-}, 
-{
-"date": "2015-03-04", 
-"country": "GB", 
-"Total Users": "11"
-}, 
-{
-"date": "2015-03-04", 
 "country": "HK", 
 "Total Users": "11"
+}, 
+{
+"date": "2015-03-04", 
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-04", 
@@ -2785,8 +2775,18 @@
 "Total Users": "3"
 }, 
 {
+"date": "2015-03-04", 
+"country": "US", 
+"Total Users": "11"
+}, 
+{
+"date": "2015-03-04", 
+"country": "GB", 
+"Total Users": "11"
+}, 
+{
 "date": "2015-03-05", 
-"country": "BR", 
+"country": "CA", 
 "Total Users": "1"
 }, 
 {
@@ -2806,6 +2806,16 @@
 }, 
 {
 "date": "2015-03-05", 
+"country": "BR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-05", 
+"country": "GB", 
+"Total Users": "12"
+}, 
+{
+"date": "2015-03-05", 
 "country": "TW", 
 "Total Users": "174"
 }, 
@@ -2820,19 +2830,9 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-05", 
-"country": "GB", 
-"Total Users": "12"
-}, 
-{
-"date": "2015-03-05", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
 "date": "2015-03-06", 
-"country": "GB", 
-"Total Users": "8"
+"country": "AE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-06", 
@@ -2841,18 +2841,8 @@
 }, 
 {
 "date": "2015-03-06", 
-"country": "HK", 
-"Total Users": "16"
-}, 
-{
-"date": "2015-03-06", 
 "country": "US", 
 "Total Users": "37"
-}, 
-{
-"date": "2015-03-06", 
-"country": "IN", 
-"Total Users": "2"
 }, 
 {
 "date": "2015-03-06", 
@@ -2861,13 +2851,43 @@
 }, 
 {
 "date": "2015-03-06", 
+"country": "HK", 
+"Total Users": "16"
+}, 
+{
+"date": "2015-03-06", 
+"country": "IN", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-06", 
+"country": "GB", 
+"Total Users": "8"
+}, 
+{
+"date": "2015-03-06", 
 "country": "MY", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-06", 
-"country": "AE", 
-"Total Users": "1"
+"date": "2015-03-07", 
+"country": "IN", 
+"Total Users": "22"
+}, 
+{
+"date": "2015-03-07", 
+"country": "JP", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-03-07", 
+"country": "HK", 
+"Total Users": "8"
+}, 
+{
+"date": "2015-03-07", 
+"country": "", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-07", 
@@ -2881,33 +2901,8 @@
 }, 
 {
 "date": "2015-03-07", 
-"country": "HK", 
-"Total Users": "8"
-}, 
-{
-"date": "2015-03-07", 
-"country": "", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-07", 
-"country": "IN", 
-"Total Users": "22"
-}, 
-{
-"date": "2015-03-07", 
 "country": "IT", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-03-07", 
-"country": "JP", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-03-07", 
-"country": "US", 
-"Total Users": "7"
 }, 
 {
 "date": "2015-03-07", 
@@ -2915,19 +2910,14 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-08", 
-"country": "TR", 
-"Total Users": "1"
+"date": "2015-03-07", 
+"country": "US", 
+"Total Users": "7"
 }, 
 {
 "date": "2015-03-08", 
-"country": "HK", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-03-08", 
-"country": "ES", 
-"Total Users": "1"
+"country": "JP", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-08", 
@@ -2936,7 +2926,7 @@
 }, 
 {
 "date": "2015-03-08", 
-"country": "GB", 
+"country": "TR", 
 "Total Users": "1"
 }, 
 {
@@ -2946,18 +2936,13 @@
 }, 
 {
 "date": "2015-03-08", 
-"country": "DE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-08", 
 "country": "ID", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-08", 
-"country": "TW", 
-"Total Users": "170"
+"country": "HK", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-03-08", 
@@ -2971,43 +2956,23 @@
 }, 
 {
 "date": "2015-03-08", 
-"country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-09", 
-"country": "US", 
-"Total Users": "7"
-}, 
-{
-"date": "2015-03-09", 
-"country": "JP", 
+"country": "DE", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-09", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-09", 
-"country": "GB", 
-"Total Users": "10"
-}, 
-{
-"date": "2015-03-09", 
+"date": "2015-03-08", 
 "country": "TW", 
-"Total Users": "201"
+"Total Users": "170"
 }, 
 {
-"date": "2015-03-09", 
-"country": "NL", 
+"date": "2015-03-08", 
+"country": "GB", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-09", 
-"country": "IN", 
-"Total Users": "27"
+"date": "2015-03-08", 
+"country": "ES", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-09", 
@@ -3021,33 +2986,48 @@
 }, 
 {
 "date": "2015-03-09", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-09", 
+"country": "TW", 
+"Total Users": "201"
+}, 
+{
+"date": "2015-03-09", 
+"country": "US", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-03-09", 
+"country": "GB", 
+"Total Users": "10"
+}, 
+{
+"date": "2015-03-09", 
+"country": "NL", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-09", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-09", 
+"country": "IN", 
+"Total Users": "27"
+}, 
+{
+"date": "2015-03-09", 
 "country": "KH", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-10", 
-"country": "GB", 
-"Total Users": "8"
-}, 
-{
-"date": "2015-03-10", 
-"country": "IT", 
+"country": "DE", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-03-10", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-10", 
-"country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-10", 
-"country": "HK", 
-"Total Users": "6"
 }, 
 {
 "date": "2015-03-10", 
@@ -3061,18 +3041,13 @@
 }, 
 {
 "date": "2015-03-10", 
+"country": "GB", 
+"Total Users": "8"
+}, 
+{
+"date": "2015-03-10", 
 "country": "TH", 
 "Total Users": "2"
-}, 
-{
-"date": "2015-03-10", 
-"country": "TW", 
-"Total Users": "237"
-}, 
-{
-"date": "2015-03-10", 
-"country": "DE", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-03-10", 
@@ -3081,8 +3056,48 @@
 }, 
 {
 "date": "2015-03-10", 
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-10", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-10", 
+"country": "HK", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-03-10", 
+"country": "IT", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-10", 
 "country": "US", 
 "Total Users": "5"
+}, 
+{
+"date": "2015-03-10", 
+"country": "TW", 
+"Total Users": "237"
+}, 
+{
+"date": "2015-03-11", 
+"country": "MY", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-11", 
+"country": "BR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-11", 
+"country": "TW", 
+"Total Users": "225"
 }, 
 {
 "date": "2015-03-11", 
@@ -3096,43 +3111,8 @@
 }, 
 {
 "date": "2015-03-11", 
-"country": "IN", 
-"Total Users": "43"
-}, 
-{
-"date": "2015-03-11", 
-"country": "GB", 
+"country": "ID", 
 "Total Users": "3"
-}, 
-{
-"date": "2015-03-11", 
-"country": "BR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-11", 
-"country": "RU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-11", 
-"country": "US", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-03-11", 
-"country": "TW", 
-"Total Users": "225"
-}, 
-{
-"date": "2015-03-11", 
-"country": "MY", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-11", 
-"country": "HK", 
-"Total Users": "8"
 }, 
 {
 "date": "2015-03-11", 
@@ -3141,8 +3121,58 @@
 }, 
 {
 "date": "2015-03-11", 
-"country": "ID", 
+"country": "GB", 
 "Total Users": "3"
+}, 
+{
+"date": "2015-03-11", 
+"country": "HK", 
+"Total Users": "8"
+}, 
+{
+"date": "2015-03-11", 
+"country": "IN", 
+"Total Users": "43"
+}, 
+{
+"date": "2015-03-11", 
+"country": "US", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-03-11", 
+"country": "RU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-12", 
+"country": "MT", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-12", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-12", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-12", 
+"country": "MO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-12", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-12", 
+"country": "US", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-12", 
@@ -3151,18 +3181,33 @@
 }, 
 {
 "date": "2015-03-12", 
-"country": "GB", 
-"Total Users": "29"
-}, 
-{
-"date": "2015-03-12", 
 "country": "BR", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-12", 
-"country": "MT", 
+"country": "", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-03-12", 
+"country": "HK", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-03-12", 
+"country": "KR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-12", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-12", 
+"country": "TW", 
+"Total Users": "216"
 }, 
 {
 "date": "2015-03-12", 
@@ -3176,32 +3221,12 @@
 }, 
 {
 "date": "2015-03-12", 
-"country": "MY", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-03-12", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-12", 
-"country": "HK", 
-"Total Users": "5"
+"country": "GB", 
+"Total Users": "29"
 }, 
 {
 "date": "2015-03-12", 
 "country": "FR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-12", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-12", 
-"country": "", 
 "Total Users": "1"
 }, 
 {
@@ -3211,38 +3236,18 @@
 }, 
 {
 "date": "2015-03-12", 
-"country": "AU", 
-"Total Users": "1"
+"country": "MY", 
+"Total Users": "3"
 }, 
 {
-"date": "2015-03-12", 
-"country": "KR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-12", 
-"country": "US", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-12", 
-"country": "TW", 
-"Total Users": "216"
-}, 
-{
-"date": "2015-03-12", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-12", 
+"date": "2015-03-13", 
 "country": "MO", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-13", 
-"country": "HK", 
-"Total Users": "4"
+"country": "AE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-13", 
@@ -3251,18 +3256,8 @@
 }, 
 {
 "date": "2015-03-13", 
-"country": "MO", 
+"country": "SE", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-03-13", 
-"country": "US", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-03-13", 
-"country": "IN", 
-"Total Users": "36"
 }, 
 {
 "date": "2015-03-13", 
@@ -3271,17 +3266,12 @@
 }, 
 {
 "date": "2015-03-13", 
-"country": "IT", 
-"Total Users": "2"
+"country": "FR", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-13", 
-"country": "MY", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-13", 
-"country": "CA", 
+"country": "SG", 
 "Total Users": "2"
 }, 
 {
@@ -3291,8 +3281,18 @@
 }, 
 {
 "date": "2015-03-13", 
-"country": "AU", 
-"Total Users": "2"
+"country": "IN", 
+"Total Users": "36"
+}, 
+{
+"date": "2015-03-13", 
+"country": "US", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-03-13", 
+"country": "HK", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-03-13", 
@@ -3301,17 +3301,12 @@
 }, 
 {
 "date": "2015-03-13", 
-"country": "FR", 
-"Total Users": "1"
+"country": "MY", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-13", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-13", 
-"country": "SG", 
+"country": "IT", 
 "Total Users": "2"
 }, 
 {
@@ -3321,7 +3316,27 @@
 }, 
 {
 "date": "2015-03-13", 
-"country": "SE", 
+"country": "CA", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-13", 
+"country": "AU", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-14", 
+"country": "US", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-03-14", 
+"country": "AU", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-03-14", 
+"country": "CA", 
 "Total Users": "1"
 }, 
 {
@@ -3331,8 +3346,8 @@
 }, 
 {
 "date": "2015-03-14", 
-"country": "CA", 
-"Total Users": "1"
+"country": "ID", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-03-14", 
@@ -3341,18 +3356,13 @@
 }, 
 {
 "date": "2015-03-14", 
-"country": "IN", 
-"Total Users": "10"
-}, 
-{
-"date": "2015-03-14", 
 "country": "SG", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-14", 
-"country": "CO", 
-"Total Users": "1"
+"country": "IN", 
+"Total Users": "10"
 }, 
 {
 "date": "2015-03-14", 
@@ -3361,8 +3371,8 @@
 }, 
 {
 "date": "2015-03-14", 
-"country": "US", 
-"Total Users": "7"
+"country": "CO", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-14", 
@@ -3370,24 +3380,49 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-14", 
-"country": "AU", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-03-14", 
-"country": "ID", 
-"Total Users": "3"
+"date": "2015-03-15", 
+"country": "EG", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-15", 
-"country": "ZA", 
+"country": "AE", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-03-15", 
+"country": "MV", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-03-15", 
+"country": "HR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-15", 
+"country": "HK", 
+"Total Users": "18"
+}, 
+{
+"date": "2015-03-15", 
+"country": "GB", 
+"Total Users": "5"
 }, 
 {
 "date": "2015-03-15", 
 "country": "IL", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-03-15", 
+"country": "TW", 
+"Total Users": "36"
+}, 
+{
+"date": "2015-03-15", 
+"country": "US", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-15", 
@@ -3401,8 +3436,8 @@
 }, 
 {
 "date": "2015-03-15", 
-"country": "US", 
-"Total Users": "2"
+"country": "FR", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-15", 
@@ -3411,17 +3446,7 @@
 }, 
 {
 "date": "2015-03-15", 
-"country": "TW", 
-"Total Users": "36"
-}, 
-{
-"date": "2015-03-15", 
-"country": "IE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-15", 
-"country": "FR", 
+"country": "ZA", 
 "Total Users": "1"
 }, 
 {
@@ -3431,28 +3456,8 @@
 }, 
 {
 "date": "2015-03-15", 
-"country": "AU", 
+"country": "IE", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-03-15", 
-"country": "EG", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-15", 
-"country": "GB", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-03-15", 
-"country": "MV", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-15", 
-"country": "HK", 
-"Total Users": "18"
 }, 
 {
 "date": "2015-03-15", 
@@ -3461,17 +3466,12 @@
 }, 
 {
 "date": "2015-03-15", 
-"country": "AE", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-03-15", 
 "country": "ID", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-15", 
-"country": "HR", 
+"country": "AU", 
 "Total Users": "1"
 }, 
 {
@@ -3483,81 +3483,11 @@
 "date": "2015-03-15", 
 "country": "CA", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-03-16", 
-"country": "US", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-03-16", 
-"country": "RU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-16", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-16", 
-"country": "AU", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-16", 
-"country": "BN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-16", 
-"country": "TR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-16", 
-"country": "GB", 
-"Total Users": "8"
-}, 
-{
-"date": "2015-03-16", 
-"country": "CO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-16", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-16", 
-"country": "TH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-16", 
-"country": "SG", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-03-16", 
-"country": "UA", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-16", 
-"country": "HK", 
-"Total Users": "15"
 }, 
 {
 "date": "2015-03-16", 
 "country": "FR", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-03-16", 
-"country": "CA", 
-"Total Users": "2"
 }, 
 {
 "date": "2015-03-16", 
@@ -3570,19 +3500,89 @@
 "Total Users": "4"
 }, 
 {
-"date": "2015-03-17", 
+"date": "2015-03-16", 
+"country": "US", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-03-16", 
+"country": "BN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-16", 
+"country": "CA", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-16", 
+"country": "AU", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-16", 
+"country": "TR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-16", 
+"country": "CO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-16", 
+"country": "RU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-16", 
+"country": "TH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-16", 
+"country": "SG", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-03-16", 
+"country": "HK", 
+"Total Users": "15"
+}, 
+{
+"date": "2015-03-16", 
+"country": "UA", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-16", 
 "country": "GB", 
+"Total Users": "8"
+}, 
+{
+"date": "2015-03-16", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-16", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-17", 
+"country": "ID", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-03-17", 
-"country": "IN", 
-"Total Users": "13"
+"country": "AE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-17", 
-"country": "NZ", 
-"Total Users": "1"
+"country": "GB", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-17", 
@@ -3601,6 +3601,21 @@
 }, 
 {
 "date": "2015-03-17", 
+"country": "TW", 
+"Total Users": "151"
+}, 
+{
+"date": "2015-03-17", 
+"country": "IN", 
+"Total Users": "13"
+}, 
+{
+"date": "2015-03-17", 
+"country": "NZ", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-17", 
 "country": "BR", 
 "Total Users": "3"
 }, 
@@ -3608,11 +3623,6 @@
 "date": "2015-03-17", 
 "country": "AZ", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-03-17", 
-"country": "SG", 
-"Total Users": "2"
 }, 
 {
 "date": "2015-03-17", 
@@ -3626,18 +3636,13 @@
 }, 
 {
 "date": "2015-03-17", 
-"country": "ID", 
+"country": "SG", 
 "Total Users": "2"
 }, 
 {
-"date": "2015-03-17", 
-"country": "AE", 
+"date": "2015-03-18", 
+"country": "GB", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-03-17", 
-"country": "TW", 
-"Total Users": "151"
 }, 
 {
 "date": "2015-03-18", 
@@ -3646,8 +3651,8 @@
 }, 
 {
 "date": "2015-03-18", 
-"country": "HK", 
-"Total Users": "6"
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-18", 
@@ -3656,63 +3661,18 @@
 }, 
 {
 "date": "2015-03-18", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-18", 
-"country": "", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-03-18", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-18", 
 "country": "TW", 
 "Total Users": "108"
 }, 
 {
-"date": "2015-03-19", 
-"country": "GB", 
-"Total Users": "3"
+"date": "2015-03-18", 
+"country": "HK", 
+"Total Users": "6"
 }, 
 {
-"date": "2015-03-19", 
-"country": "TW", 
-"Total Users": "242"
-}, 
-{
-"date": "2015-03-19", 
-"country": "KR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-19", 
-"country": "VE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-19", 
-"country": "US", 
-"Total Users": "33"
-}, 
-{
-"date": "2015-03-19", 
-"country": "IE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-19", 
+"date": "2015-03-18", 
 "country": "", 
-"Total Users": "20"
-}, 
-{
-"date": "2015-03-19", 
-"country": "IN", 
-"Total Users": "18"
+"Total Users": "3"
 }, 
 {
 "date": "2015-03-19", 
@@ -3726,7 +3686,17 @@
 }, 
 {
 "date": "2015-03-19", 
-"country": "MY", 
+"country": "IE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-19", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-03-19", 
+"country": "KR", 
 "Total Users": "1"
 }, 
 {
@@ -3735,33 +3705,38 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-20", 
-"country": "KE", 
+"date": "2015-03-19", 
+"country": "VE", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-20", 
-"country": "GB", 
-"Total Users": "4"
+"date": "2015-03-19", 
+"country": "", 
+"Total Users": "20"
 }, 
 {
-"date": "2015-03-20", 
-"country": "US", 
-"Total Users": "9"
+"date": "2015-03-19", 
+"country": "MY", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-03-20", 
-"country": "AE", 
-"Total Users": "2"
+"date": "2015-03-19", 
+"country": "IN", 
+"Total Users": "18"
 }, 
 {
-"date": "2015-03-20", 
+"date": "2015-03-19", 
 "country": "TW", 
-"Total Users": "119"
+"Total Users": "242"
+}, 
+{
+"date": "2015-03-19", 
+"country": "US", 
+"Total Users": "33"
 }, 
 {
 "date": "2015-03-20", 
-"country": "MU", 
+"country": "KE", 
 "Total Users": "1"
 }, 
 {
@@ -3772,6 +3747,16 @@
 {
 "date": "2015-03-20", 
 "country": "VN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-20", 
+"country": "AE", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-20", 
+"country": "MU", 
 "Total Users": "1"
 }, 
 {
@@ -3790,44 +3775,19 @@
 "Total Users": "5"
 }, 
 {
-"date": "2015-03-21", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-21", 
-"country": "ES", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-21", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-21", 
-"country": "HK", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-03-21", 
-"country": "IN", 
-"Total Users": "11"
-}, 
-{
-"date": "2015-03-21", 
-"country": "TW", 
-"Total Users": "48"
-}, 
-{
-"date": "2015-03-21", 
-"country": "PE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-21", 
+"date": "2015-03-20", 
 "country": "US", 
-"Total Users": "2"
+"Total Users": "9"
+}, 
+{
+"date": "2015-03-20", 
+"country": "TW", 
+"Total Users": "119"
+}, 
+{
+"date": "2015-03-20", 
+"country": "GB", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-03-21", 
@@ -3840,8 +3800,58 @@
 "Total Users": "1"
 }, 
 {
+"date": "2015-03-21", 
+"country": "IN", 
+"Total Users": "11"
+}, 
+{
+"date": "2015-03-21", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-21", 
+"country": "ES", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-21", 
+"country": "US", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-21", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-21", 
+"country": "TW", 
+"Total Users": "48"
+}, 
+{
+"date": "2015-03-21", 
+"country": "HK", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-03-21", 
+"country": "PE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-22", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
 "date": "2015-03-22", 
 "country": "BR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-22", 
+"country": "AE", 
 "Total Users": "1"
 }, 
 {
@@ -3852,11 +3862,6 @@
 {
 "date": "2015-03-22", 
 "country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-22", 
-"country": "HK", 
 "Total Users": "1"
 }, 
 {
@@ -3876,7 +3881,7 @@
 }, 
 {
 "date": "2015-03-22", 
-"country": "AE", 
+"country": "HK", 
 "Total Users": "1"
 }, 
 {
@@ -3895,9 +3900,14 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-22", 
-"country": "MY", 
-"Total Users": "1"
+"date": "2015-03-23", 
+"country": "HK", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-03-23", 
+"country": "TR", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-23", 
@@ -3911,8 +3921,8 @@
 }, 
 {
 "date": "2015-03-23", 
-"country": "MY", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "61"
 }, 
 {
 "date": "2015-03-23", 
@@ -3926,23 +3936,33 @@
 }, 
 {
 "date": "2015-03-23", 
+"country": "US", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-03-23", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-24", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-24", 
 "country": "HK", 
 "Total Users": "7"
 }, 
 {
-"date": "2015-03-23", 
-"country": "TR", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-23", 
+"date": "2015-03-24", 
 "country": "TW", 
-"Total Users": "61"
+"Total Users": "78"
 }, 
 {
-"date": "2015-03-23", 
-"country": "US", 
-"Total Users": "3"
+"date": "2015-03-24", 
+"country": "NZ", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-24", 
@@ -3956,8 +3976,33 @@
 }, 
 {
 "date": "2015-03-24", 
+"country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-24", 
 "country": "CA", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-03-24", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-24", 
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-24", 
+"country": "US", 
+"Total Users": "13"
+}, 
+{
+"date": "2015-03-24", 
+"country": "", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-24", 
@@ -3976,78 +4021,13 @@
 }, 
 {
 "date": "2015-03-24", 
-"country": "", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-24", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-24", 
-"country": "HK", 
-"Total Users": "7"
-}, 
-{
-"date": "2015-03-24", 
-"country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-24", 
-"country": "US", 
-"Total Users": "13"
-}, 
-{
-"date": "2015-03-24", 
 "country": "GB", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-24", 
-"country": "TW", 
-"Total Users": "78"
-}, 
-{
-"date": "2015-03-24", 
-"country": "NZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-24", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-24", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
 "date": "2015-03-25", 
-"country": "TW", 
-"Total Users": "145"
-}, 
-{
-"date": "2015-03-25", 
-"country": "ZA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-25", 
-"country": "TH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-25", 
-"country": "HK", 
-"Total Users": "14"
-}, 
-{
-"date": "2015-03-25", 
-"country": "ID", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "16"
 }, 
 {
 "date": "2015-03-25", 
@@ -4056,37 +4036,7 @@
 }, 
 {
 "date": "2015-03-25", 
-"country": "KW", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-25", 
-"country": "", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-03-25", 
-"country": "NG", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-25", 
-"country": "IN", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-03-25", 
-"country": "GB", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-03-25", 
-"country": "MY", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-03-25", 
-"country": "NL", 
+"country": "AU", 
 "Total Users": "1"
 }, 
 {
@@ -4101,23 +4051,88 @@
 }, 
 {
 "date": "2015-03-25", 
+"country": "", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-03-25", 
 "country": "JP", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-25", 
-"country": "US", 
-"Total Users": "16"
+"country": "ID", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-25", 
-"country": "AU", 
+"country": "ZA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-25", 
+"country": "MY", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-03-25", 
+"country": "NG", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-25", 
+"country": "HK", 
+"Total Users": "14"
+}, 
+{
+"date": "2015-03-25", 
+"country": "KW", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-25", 
+"country": "TH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-25", 
+"country": "IN", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-03-25", 
+"country": "GB", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-03-25", 
+"country": "NL", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-25", 
+"country": "TW", 
+"Total Users": "145"
+}, 
+{
+"date": "2015-03-26", 
+"country": "RO", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-26", 
-"country": "", 
-"Total Users": "4"
+"country": "HK", 
+"Total Users": "11"
+}, 
+{
+"date": "2015-03-26", 
+"country": "SC", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-26", 
+"country": "ZA", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-26", 
@@ -4131,13 +4146,8 @@
 }, 
 {
 "date": "2015-03-26", 
-"country": "US", 
-"Total Users": "10"
-}, 
-{
-"date": "2015-03-26", 
-"country": "HK", 
-"Total Users": "11"
+"country": "TW", 
+"Total Users": "158"
 }, 
 {
 "date": "2015-03-26", 
@@ -4146,13 +4156,8 @@
 }, 
 {
 "date": "2015-03-26", 
-"country": "TW", 
-"Total Users": "158"
-}, 
-{
-"date": "2015-03-26", 
-"country": "ID", 
-"Total Users": "2"
+"country": "US", 
+"Total Users": "10"
 }, 
 {
 "date": "2015-03-26", 
@@ -4161,28 +4166,33 @@
 }, 
 {
 "date": "2015-03-26", 
-"country": "RO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-26", 
-"country": "ZA", 
+"country": "ID", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-03-26", 
-"country": "SC", 
+"country": "", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-03-27", 
+"country": "GB", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-27", 
-"country": "TW", 
-"Total Users": "150"
+"country": "HK", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-03-27", 
 "country": "IN", 
 "Total Users": "2"
+}, 
+{
+"date": "2015-03-27", 
+"country": "SG", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-27", 
@@ -4216,17 +4226,12 @@
 }, 
 {
 "date": "2015-03-27", 
-"country": "HK", 
-"Total Users": "6"
+"country": "TW", 
+"Total Users": "150"
 }, 
 {
-"date": "2015-03-27", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-27", 
-"country": "SG", 
+"date": "2015-03-28", 
+"country": "MO", 
 "Total Users": "1"
 }, 
 {
@@ -4236,8 +4241,8 @@
 }, 
 {
 "date": "2015-03-28", 
-"country": "TW", 
-"Total Users": "90"
+"country": "GB", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-28", 
@@ -4246,18 +4251,18 @@
 }, 
 {
 "date": "2015-03-28", 
-"country": "IN", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-28", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-03-28", 
 "country": "IL", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-03-28", 
+"country": "TW", 
+"Total Users": "90"
+}, 
+{
+"date": "2015-03-28", 
+"country": "IN", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-03-28", 
@@ -4265,14 +4270,24 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-28", 
-"country": "MO", 
+"date": "2015-03-29", 
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-03-29", 
+"country": "HK", 
+"Total Users": "17"
+}, 
+{
+"date": "2015-03-29", 
+"country": "GB", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-29", 
-"country": "IN", 
-"Total Users": "6"
+"country": "TW", 
+"Total Users": "45"
 }, 
 {
 "date": "2015-03-29", 
@@ -4281,13 +4296,8 @@
 }, 
 {
 "date": "2015-03-29", 
-"country": "FR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-29", 
-"country": "JP", 
-"Total Users": "2"
+"country": "IN", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-03-29", 
@@ -4301,17 +4311,32 @@
 }, 
 {
 "date": "2015-03-29", 
-"country": "TW", 
-"Total Users": "45"
+"country": "FR", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-03-29", 
-"country": "HK", 
-"Total Users": "17"
+"date": "2015-03-30", 
+"country": "IN", 
+"Total Users": "4"
 }, 
 {
-"date": "2015-03-29", 
-"country": "GB", 
+"date": "2015-03-30", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-30", 
+"country": "US", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-03-30", 
+"country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-03-30", 
+"country": "BR", 
 "Total Users": "1"
 }, 
 {
@@ -4326,23 +4351,13 @@
 }, 
 {
 "date": "2015-03-30", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-30", 
-"country": "TR", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "82"
 }, 
 {
 "date": "2015-03-30", 
 "country": "AU", 
 "Total Users": "2"
-}, 
-{
-"date": "2015-03-30", 
-"country": "HK", 
-"Total Users": "9"
 }, 
 {
 "date": "2015-03-30", 
@@ -4361,28 +4376,23 @@
 }, 
 {
 "date": "2015-03-30", 
-"country": "IN", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-03-30", 
-"country": "JP", 
+"country": "TR", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-30", 
-"country": "US", 
-"Total Users": "3"
+"country": "HK", 
+"Total Users": "9"
 }, 
 {
-"date": "2015-03-30", 
-"country": "BR", 
+"date": "2015-03-31", 
+"country": "ID", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-03-30", 
-"country": "TW", 
-"Total Users": "82"
+"date": "2015-03-31", 
+"country": "DE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-31", 
@@ -4396,13 +4406,13 @@
 }, 
 {
 "date": "2015-03-31", 
-"country": "DE", 
+"country": "", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-03-31", 
-"country": "TW", 
-"Total Users": "63"
+"country": "FR", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-03-31", 
@@ -4418,6 +4428,11 @@
 "date": "2015-03-31", 
 "country": "KH", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-03-31", 
+"country": "TW", 
+"Total Users": "63"
 }, 
 {
 "date": "2015-03-31", 
@@ -4441,32 +4456,7 @@
 }, 
 {
 "date": "2015-03-31", 
-"country": "HK", 
-"Total Users": "12"
-}, 
-{
-"date": "2015-03-31", 
 "country": "NZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-31", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-31", 
-"country": "", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-31", 
-"country": "IN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-03-31", 
-"country": "FR", 
 "Total Users": "1"
 }, 
 {
@@ -4475,38 +4465,13 @@
 "Total Users": "2"
 }, 
 {
-"date": "2015-04-01", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-01", 
-"country": "US", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-04-01", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-01", 
+"date": "2015-03-31", 
 "country": "HK", 
-"Total Users": "8"
+"Total Users": "12"
 }, 
 {
-"date": "2015-04-01", 
-"country": "PL", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-01", 
-"country": "IE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-01", 
-"country": "SA", 
+"date": "2015-03-31", 
+"country": "IN", 
 "Total Users": "1"
 }, 
 {
@@ -4521,8 +4486,8 @@
 }, 
 {
 "date": "2015-04-01", 
-"country": "TW", 
-"Total Users": "74"
+"country": "IE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-01", 
@@ -4540,34 +4505,44 @@
 "Total Users": "2"
 }, 
 {
-"date": "2015-04-02", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-02", 
-"country": "IN", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-02", 
+"date": "2015-04-01", 
 "country": "AE", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-02", 
+"date": "2015-04-01", 
+"country": "PL", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-01", 
 "country": "US", 
-"Total Users": "10"
+"Total Users": "4"
 }, 
 {
-"date": "2015-04-02", 
+"date": "2015-04-01", 
+"country": "SA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-01", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-01", 
+"country": "TW", 
+"Total Users": "74"
+}, 
+{
+"date": "2015-04-01", 
 "country": "HK", 
-"Total Users": "6"
+"Total Users": "8"
 }, 
 {
 "date": "2015-04-02", 
-"country": "JP", 
-"Total Users": "2"
+"country": "DK", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-02", 
@@ -4581,8 +4556,23 @@
 }, 
 {
 "date": "2015-04-02", 
-"country": "TR", 
+"country": "MY", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-04-02", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-02", 
+"country": "US", 
+"Total Users": "10"
+}, 
+{
+"date": "2015-04-02", 
+"country": "IN", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-04-02", 
@@ -4591,13 +4581,48 @@
 }, 
 {
 "date": "2015-04-02", 
-"country": "DK", 
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-02", 
+"country": "TR", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-04-02", 
 "country": "TW", 
 "Total Users": "80"
+}, 
+{
+"date": "2015-04-02", 
+"country": "HK", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-04-03", 
+"country": "DE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-03", 
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-03", 
+"country": "HK", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-04-03", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-03", 
+"country": "KR", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-03", 
@@ -4611,13 +4636,13 @@
 }, 
 {
 "date": "2015-04-03", 
-"country": "AE", 
-"Total Users": "2"
+"country": "MX", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-03", 
-"country": "MX", 
-"Total Users": "1"
+"country": "AE", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-04-03", 
@@ -4640,76 +4665,6 @@
 "Total Users": "2"
 }, 
 {
-"date": "2015-04-03", 
-"country": "DE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-03", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-03", 
-"country": "HK", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-04-03", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-03", 
-"country": "KR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-04", 
-"country": "CV", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-04", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-04", 
-"country": "HK", 
-"Total Users": "11"
-}, 
-{
-"date": "2015-04-04", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-04", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-04", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-04", 
-"country": "IN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-04", 
-"country": "MY", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-04", 
-"country": "TW", 
-"Total Users": "46"
-}, 
-{
 "date": "2015-04-04", 
 "country": "AF", 
 "Total Users": "1"
@@ -4726,17 +4681,62 @@
 }, 
 {
 "date": "2015-04-04", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-04", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-04", 
+"country": "CV", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-04", 
+"country": "HK", 
+"Total Users": "11"
+}, 
+{
+"date": "2015-04-04", 
 "country": "IQ", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-05", 
-"country": "CO", 
+"date": "2015-04-04", 
+"country": "TW", 
+"Total Users": "46"
+}, 
+{
+"date": "2015-04-04", 
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-04", 
+"country": "MY", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-04", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-04", 
+"country": "IN", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-04-05", 
-"country": "AU", 
+"country": "TW", 
+"Total Users": "31"
+}, 
+{
+"date": "2015-04-05", 
+"country": "CO", 
 "Total Users": "1"
 }, 
 {
@@ -4753,11 +4753,6 @@
 "date": "2015-04-05", 
 "country": "RO", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-04-05", 
-"country": "TW", 
-"Total Users": "31"
 }, 
 {
 "date": "2015-04-05", 
@@ -4781,6 +4776,16 @@
 }, 
 {
 "date": "2015-04-05", 
+"country": "NZ", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-05", 
+"country": "HK", 
+"Total Users": "18"
+}, 
+{
+"date": "2015-04-05", 
 "country": "BR", 
 "Total Users": "1"
 }, 
@@ -4796,13 +4801,13 @@
 }, 
 {
 "date": "2015-04-05", 
-"country": "NZ", 
+"country": "AU", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-05", 
-"country": "HK", 
-"Total Users": "18"
+"date": "2015-04-06", 
+"country": "IN", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-06", 
@@ -4813,6 +4818,11 @@
 "date": "2015-04-06", 
 "country": "US", 
 "Total Users": "19"
+}, 
+{
+"date": "2015-04-06", 
+"country": "HK", 
+"Total Users": "15"
 }, 
 {
 "date": "2015-04-06", 
@@ -4845,14 +4855,14 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-06", 
-"country": "IN", 
+"date": "2015-04-07", 
+"country": "BE", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-06", 
-"country": "HK", 
-"Total Users": "15"
+"date": "2015-04-07", 
+"country": "JP", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-07", 
@@ -4866,13 +4876,8 @@
 }, 
 {
 "date": "2015-04-07", 
-"country": "AU", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-04-07", 
-"country": "JP", 
-"Total Users": "1"
+"country": "SG", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-04-07", 
@@ -4886,8 +4891,8 @@
 }, 
 {
 "date": "2015-04-07", 
-"country": "IN", 
-"Total Users": "2"
+"country": "TW", 
+"Total Users": "61"
 }, 
 {
 "date": "2015-04-07", 
@@ -4901,11 +4906,6 @@
 }, 
 {
 "date": "2015-04-07", 
-"country": "SG", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-07", 
 "country": "GB", 
 "Total Users": "2"
 }, 
@@ -4916,8 +4916,8 @@
 }, 
 {
 "date": "2015-04-07", 
-"country": "TW", 
-"Total Users": "61"
+"country": "AU", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-04-07", 
@@ -4926,42 +4926,12 @@
 }, 
 {
 "date": "2015-04-07", 
-"country": "MA", 
+"country": "IN", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-04-07", 
-"country": "BE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-08", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-08", 
-"country": "RO", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-08", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-08", 
-"country": "JM", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-08", 
-"country": "US", 
-"Total Users": "11"
-}, 
-{
-"date": "2015-04-08", 
-"country": "IN", 
+"country": "MA", 
 "Total Users": "2"
 }, 
 {
@@ -4976,7 +4946,22 @@
 }, 
 {
 "date": "2015-04-08", 
-"country": "PT", 
+"country": "JM", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-08", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-08", 
+"country": "US", 
+"Total Users": "11"
+}, 
+{
+"date": "2015-04-08", 
+"country": "MY", 
 "Total Users": "1"
 }, 
 {
@@ -4986,13 +4971,13 @@
 }, 
 {
 "date": "2015-04-08", 
-"country": "TW", 
-"Total Users": "79"
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-08", 
-"country": "MY", 
-"Total Users": "1"
+"country": "RO", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-04-08", 
@@ -5000,14 +4985,44 @@
 "Total Users": "4"
 }, 
 {
+"date": "2015-04-08", 
+"country": "PT", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-08", 
+"country": "IN", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-08", 
+"country": "TW", 
+"Total Users": "79"
+}, 
+{
 "date": "2015-04-09", 
-"country": "ES", 
+"country": "TH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-09", 
+"country": "IN", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-04-09", 
+"country": "PT", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-04-09", 
 "country": "TW", 
 "Total Users": "74"
+}, 
+{
+"date": "2015-04-09", 
+"country": "SG", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-09", 
@@ -5031,73 +5046,13 @@
 }, 
 {
 "date": "2015-04-09", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-09", 
-"country": "PT", 
+"country": "ES", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-04-09", 
 "country": "GB", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-04-09", 
-"country": "TH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-09", 
-"country": "IN", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-04-10", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-10", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-10", 
-"country": "ID", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-10", 
-"country": "BR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-10", 
-"country": "TR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-10", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-10", 
-"country": "IN", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-04-10", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-10", 
-"country": "TW", 
-"Total Users": "80"
 }, 
 {
 "date": "2015-04-10", 
@@ -5111,6 +5066,11 @@
 }, 
 {
 "date": "2015-04-10", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-10", 
 "country": "AU", 
 "Total Users": "1"
 }, 
@@ -5120,23 +5080,68 @@
 "Total Users": "7"
 }, 
 {
+"date": "2015-04-10", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-10", 
+"country": "ID", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-10", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-10", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-10", 
+"country": "BR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-10", 
+"country": "TR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-10", 
+"country": "IN", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-04-10", 
+"country": "TW", 
+"Total Users": "80"
+}, 
+{
+"date": "2015-04-11", 
+"country": "IN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-11", 
+"country": "US", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-04-11", 
+"country": "MY", 
+"Total Users": "2"
+}, 
+{
 "date": "2015-04-11", 
 "country": "HK", 
 "Total Users": "6"
 }, 
 {
 "date": "2015-04-11", 
-"country": "NZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-11", 
 "country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-11", 
-"country": "SA", 
 "Total Users": "1"
 }, 
 {
@@ -5146,7 +5151,12 @@
 }, 
 {
 "date": "2015-04-11", 
-"country": "ID", 
+"country": "SA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-11", 
+"country": "NZ", 
 "Total Users": "1"
 }, 
 {
@@ -5156,23 +5166,23 @@
 }, 
 {
 "date": "2015-04-11", 
-"country": "IN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-11", 
 "country": "TW", 
 "Total Users": "43"
 }, 
 {
 "date": "2015-04-11", 
-"country": "MY", 
-"Total Users": "2"
+"country": "ID", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-04-11", 
-"country": "US", 
-"Total Users": "5"
+"date": "2015-04-12", 
+"country": "IN", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-04-12", 
+"country": "ID", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-12", 
@@ -5206,68 +5216,13 @@
 }, 
 {
 "date": "2015-04-12", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-12", 
 "country": "TW", 
 "Total Users": "31"
 }, 
 {
 "date": "2015-04-12", 
-"country": "IN", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-04-12", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-13", 
 "country": "GB", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-04-13", 
-"country": "IN", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-04-13", 
-"country": "HK", 
-"Total Users": "14"
-}, 
-{
-"date": "2015-04-13", 
-"country": "MY", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-04-13", 
-"country": "TH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-13", 
-"country": "TW", 
-"Total Users": "59"
-}, 
-{
-"date": "2015-04-13", 
-"country": "KG", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-13", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-13", 
-"country": "US", 
-"Total Users": "14"
 }, 
 {
 "date": "2015-04-13", 
@@ -5276,8 +5231,8 @@
 }, 
 {
 "date": "2015-04-13", 
-"country": "IT", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "59"
 }, 
 {
 "date": "2015-04-13", 
@@ -5290,14 +5245,54 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-14", 
-"country": "TW", 
-"Total Users": "54"
+"date": "2015-04-13", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-13", 
+"country": "MY", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-04-13", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-04-13", 
+"country": "HK", 
+"Total Users": "14"
+}, 
+{
+"date": "2015-04-13", 
+"country": "TH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-13", 
+"country": "IN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-13", 
+"country": "KG", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-13", 
+"country": "IT", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-13", 
+"country": "US", 
+"Total Users": "14"
 }, 
 {
 "date": "2015-04-14", 
-"country": "DK", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "54"
 }, 
 {
 "date": "2015-04-14", 
@@ -5306,13 +5301,23 @@
 }, 
 {
 "date": "2015-04-14", 
-"country": "IN", 
-"Total Users": "4"
+"country": "HK", 
+"Total Users": "10"
 }, 
 {
 "date": "2015-04-14", 
-"country": "HK", 
-"Total Users": "10"
+"country": "US", 
+"Total Users": "16"
+}, 
+{
+"date": "2015-04-14", 
+"country": "DK", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-14", 
+"country": "IT", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-04-14", 
@@ -5326,18 +5331,8 @@
 }, 
 {
 "date": "2015-04-14", 
-"country": "IT", 
+"country": "IN", 
 "Total Users": "4"
-}, 
-{
-"date": "2015-04-14", 
-"country": "US", 
-"Total Users": "16"
-}, 
-{
-"date": "2015-04-14", 
-"country": "PK", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-04-14", 
@@ -5345,48 +5340,8 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-15", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-15", 
-"country": "IN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-15", 
-"country": "HK", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-04-15", 
-"country": "UA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-15", 
-"country": "BR", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-04-15", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-15", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-15", 
-"country": "IT", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-15", 
-"country": "GB", 
+"date": "2015-04-14", 
+"country": "PK", 
 "Total Users": "1"
 }, 
 {
@@ -5401,8 +5356,38 @@
 }, 
 {
 "date": "2015-04-15", 
+"country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-15", 
+"country": "IN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-15", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-15", 
 "country": "US", 
 "Total Users": "12"
+}, 
+{
+"date": "2015-04-15", 
+"country": "UA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-15", 
+"country": "HK", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-04-15", 
+"country": "BR", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-04-15", 
@@ -5410,14 +5395,39 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-16", 
-"country": "TW", 
-"Total Users": "48"
+"date": "2015-04-15", 
+"country": "IT", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-15", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-15", 
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-16", 
-"country": "US", 
-"Total Users": "26"
+"country": "AE", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-16", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-16", 
+"country": "MY", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-04-16", 
+"country": "QA", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-16", 
@@ -5431,8 +5441,18 @@
 }, 
 {
 "date": "2015-04-16", 
-"country": "IN", 
-"Total Users": "3"
+"country": "MO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-16", 
+"country": "TW", 
+"Total Users": "48"
+}, 
+{
+"date": "2015-04-16", 
+"country": "US", 
+"Total Users": "26"
 }, 
 {
 "date": "2015-04-16", 
@@ -5451,58 +5471,23 @@
 }, 
 {
 "date": "2015-04-16", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-16", 
 "country": "HK", 
 "Total Users": "5"
 }, 
 {
 "date": "2015-04-16", 
-"country": "MO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-16", 
-"country": "AE", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-16", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-16", 
-"country": "MY", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-04-16", 
-"country": "QA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-17", 
-"country": "MY", 
+"country": "IN", 
 "Total Users": "3"
 }, 
 {
-"date": "2015-04-17", 
-"country": "IN", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-17", 
-"country": "US", 
-"Total Users": "10"
-}, 
-{
-"date": "2015-04-17", 
-"country": "GB", 
+"date": "2015-04-16", 
+"country": "AU", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-04-17", 
+"country": "CA", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-04-17", 
@@ -5511,27 +5496,27 @@
 }, 
 {
 "date": "2015-04-17", 
+"country": "US", 
+"Total Users": "10"
+}, 
+{
+"date": "2015-04-17", 
+"country": "IN", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-17", 
 "country": "TW", 
 "Total Users": "51"
 }, 
 {
 "date": "2015-04-17", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-17", 
-"country": "TR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-17", 
-"country": "MO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-17", 
 "country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-17", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
@@ -5541,22 +5526,27 @@
 }, 
 {
 "date": "2015-04-17", 
-"country": "CA", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-18", 
-"country": "QA", 
+"country": "TR", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-18", 
-"country": "US", 
-"Total Users": "36"
+"date": "2015-04-17", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-17", 
+"country": "MO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-17", 
+"country": "MY", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-04-18", 
-"country": "PK", 
+"country": "BR", 
 "Total Users": "1"
 }, 
 {
@@ -5566,13 +5556,33 @@
 }, 
 {
 "date": "2015-04-18", 
-"country": "TW", 
-"Total Users": "41"
+"country": "QA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-18", 
+"country": "BN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-18", 
+"country": "PK", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-18", 
 "country": "SG", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-04-18", 
+"country": "US", 
+"Total Users": "36"
+}, 
+{
+"date": "2015-04-18", 
+"country": "TW", 
+"Total Users": "41"
 }, 
 {
 "date": "2015-04-18", 
@@ -5585,18 +5595,13 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-18", 
-"country": "BR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-18", 
-"country": "BN", 
+"date": "2015-04-19", 
+"country": "PK", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-04-19", 
-"country": "CO", 
+"country": "MO", 
 "Total Users": "1"
 }, 
 {
@@ -5606,12 +5611,12 @@
 }, 
 {
 "date": "2015-04-19", 
-"country": "US", 
-"Total Users": "47"
+"country": "KE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-19", 
-"country": "MO", 
+"country": "CO", 
 "Total Users": "1"
 }, 
 {
@@ -5631,8 +5636,18 @@
 }, 
 {
 "date": "2015-04-19", 
+"country": "US", 
+"Total Users": "47"
+}, 
+{
+"date": "2015-04-19", 
 "country": "JP", 
 "Total Users": "4"
+}, 
+{
+"date": "2015-04-19", 
+"country": "HK", 
+"Total Users": "10"
 }, 
 {
 "date": "2015-04-19", 
@@ -5645,18 +5660,8 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-19", 
-"country": "HK", 
-"Total Users": "10"
-}, 
-{
-"date": "2015-04-19", 
-"country": "PK", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-19", 
-"country": "KE", 
+"date": "2015-04-20", 
+"country": "ID", 
 "Total Users": "1"
 }, 
 {
@@ -5681,23 +5686,8 @@
 }, 
 {
 "date": "2015-04-20", 
-"country": "TW", 
-"Total Users": "54"
-}, 
-{
-"date": "2015-04-20", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-20", 
 "country": "US", 
 "Total Users": "69"
-}, 
-{
-"date": "2015-04-20", 
-"country": "HK", 
-"Total Users": "21"
 }, 
 {
 "date": "2015-04-20", 
@@ -5711,32 +5701,27 @@
 }, 
 {
 "date": "2015-04-20", 
-"country": "ID", 
-"Total Users": "1"
+"country": "HK", 
+"Total Users": "21"
 }, 
 {
-"date": "2015-04-21", 
+"date": "2015-04-20", 
 "country": "TW", 
-"Total Users": "51"
+"Total Users": "54"
 }, 
 {
-"date": "2015-04-21", 
+"date": "2015-04-20", 
 "country": "AE", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-21", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-21", 
-"country": "MO", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-04-21", 
-"country": "MX", 
+"country": "CH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-21", 
+"country": "OM", 
 "Total Users": "1"
 }, 
 {
@@ -5746,8 +5731,28 @@
 }, 
 {
 "date": "2015-04-21", 
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-21", 
+"country": "AE", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-21", 
+"country": "MX", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-21", 
 "country": "HK", 
 "Total Users": "9"
+}, 
+{
+"date": "2015-04-21", 
+"country": "MO", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-21", 
@@ -5776,48 +5781,13 @@
 }, 
 {
 "date": "2015-04-21", 
+"country": "TW", 
+"Total Users": "51"
+}, 
+{
+"date": "2015-04-21", 
 "country": "MY", 
 "Total Users": "2"
-}, 
-{
-"date": "2015-04-21", 
-"country": "CH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-21", 
-"country": "OM", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-22", 
-"country": "ID", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-22", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-22", 
-"country": "LB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-22", 
-"country": "IN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-22", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-22", 
-"country": "HK", 
-"Total Users": "21"
 }, 
 {
 "date": "2015-04-22", 
@@ -5831,13 +5801,18 @@
 }, 
 {
 "date": "2015-04-22", 
-"country": "NG", 
+"country": "US", 
+"Total Users": "117"
+}, 
+{
+"date": "2015-04-22", 
+"country": "ID", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-04-22", 
-"country": "RU", 
-"Total Users": "1"
+"country": "NG", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-04-22", 
@@ -5846,8 +5821,43 @@
 }, 
 {
 "date": "2015-04-22", 
-"country": "US", 
-"Total Users": "117"
+"country": "RU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-22", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-22", 
+"country": "HK", 
+"Total Users": "21"
+}, 
+{
+"date": "2015-04-22", 
+"country": "LB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-22", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-22", 
+"country": "IN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-23", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-23", 
+"country": "ZA", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-23", 
@@ -5871,6 +5881,11 @@
 }, 
 {
 "date": "2015-04-23", 
+"country": "US", 
+"Total Users": "79"
+}, 
+{
+"date": "2015-04-23", 
 "country": "MY", 
 "Total Users": "2"
 }, 
@@ -5878,6 +5893,11 @@
 "date": "2015-04-23", 
 "country": "EG", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-04-23", 
+"country": "TW", 
+"Total Users": "153"
 }, 
 {
 "date": "2015-04-23", 
@@ -5896,63 +5916,13 @@
 }, 
 {
 "date": "2015-04-23", 
-"country": "TW", 
-"Total Users": "153"
-}, 
-{
-"date": "2015-04-23", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-23", 
 "country": "CA", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-04-23", 
-"country": "ZA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-23", 
-"country": "US", 
-"Total Users": "79"
 }, 
 {
 "date": "2015-04-24", 
 "country": "US", 
 "Total Users": "84"
-}, 
-{
-"date": "2015-04-24", 
-"country": "MY", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-04-24", 
-"country": "HK", 
-"Total Users": "23"
-}, 
-{
-"date": "2015-04-24", 
-"country": "SG", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-24", 
-"country": "TW", 
-"Total Users": "286"
-}, 
-{
-"date": "2015-04-24", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-24", 
-"country": "BR", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-04-24", 
@@ -5975,34 +5945,34 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-25", 
-"country": "RU", 
+"date": "2015-04-24", 
+"country": "CA", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-25", 
-"country": "RO", 
+"date": "2015-04-24", 
+"country": "MY", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-04-24", 
+"country": "SG", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-24", 
+"country": "BR", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-25", 
+"date": "2015-04-24", 
 "country": "HK", 
-"Total Users": "19"
+"Total Users": "23"
 }, 
 {
-"date": "2015-04-25", 
-"country": "TT", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-25", 
-"country": "VN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-25", 
-"country": "AE", 
-"Total Users": "1"
+"date": "2015-04-24", 
+"country": "TW", 
+"Total Users": "286"
 }, 
 {
 "date": "2015-04-25", 
@@ -6011,12 +5981,12 @@
 }, 
 {
 "date": "2015-04-25", 
-"country": "TW", 
-"Total Users": "189"
+"country": "IN", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-25", 
-"country": "IN", 
+"country": "RU", 
 "Total Users": "1"
 }, 
 {
@@ -6026,27 +5996,37 @@
 }, 
 {
 "date": "2015-04-25", 
+"country": "RO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-25", 
+"country": "TW", 
+"Total Users": "189"
+}, 
+{
+"date": "2015-04-25", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-25", 
+"country": "HK", 
+"Total Users": "19"
+}, 
+{
+"date": "2015-04-25", 
 "country": "SG", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-26", 
-"country": "HK", 
-"Total Users": "26"
+"date": "2015-04-25", 
+"country": "TT", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-04-26", 
-"country": "BR", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-26", 
-"country": "MY", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-26", 
-"country": "CA", 
+"date": "2015-04-25", 
+"country": "VN", 
 "Total Users": "1"
 }, 
 {
@@ -6071,8 +6051,13 @@
 }, 
 {
 "date": "2015-04-26", 
-"country": "TW", 
-"Total Users": "251"
+"country": "HK", 
+"Total Users": "26"
+}, 
+{
+"date": "2015-04-26", 
+"country": "BR", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-04-26", 
@@ -6080,29 +6065,19 @@
 "Total Users": "137"
 }, 
 {
-"date": "2015-04-27", 
-"country": "ZA", 
+"date": "2015-04-26", 
+"country": "TW", 
+"Total Users": "251"
+}, 
+{
+"date": "2015-04-26", 
+"country": "CA", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-27", 
-"country": "MA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-27", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-27", 
-"country": "BH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-27", 
-"country": "HK", 
-"Total Users": "44"
+"date": "2015-04-26", 
+"country": "MY", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-04-27", 
@@ -6111,23 +6086,8 @@
 }, 
 {
 "date": "2015-04-27", 
-"country": "US", 
-"Total Users": "199"
-}, 
-{
-"date": "2015-04-27", 
-"country": "MY", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-04-27", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-27", 
-"country": "JP", 
-"Total Users": "1"
+"country": "HK", 
+"Total Users": "44"
 }, 
 {
 "date": "2015-04-27", 
@@ -6141,7 +6101,22 @@
 }, 
 {
 "date": "2015-04-27", 
-"country": "GB", 
+"country": "ZA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-27", 
+"country": "MA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-27", 
+"country": "BH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-27", 
+"country": "AU", 
 "Total Users": "1"
 }, 
 {
@@ -6150,8 +6125,33 @@
 "Total Users": "1"
 }, 
 {
+"date": "2015-04-27", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-27", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-27", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-27", 
+"country": "US", 
+"Total Users": "199"
+}, 
+{
+"date": "2015-04-27", 
+"country": "MY", 
+"Total Users": "2"
+}, 
+{
 "date": "2015-04-28", 
-"country": "AE", 
+"country": "BE", 
 "Total Users": "1"
 }, 
 {
@@ -6161,8 +6161,8 @@
 }, 
 {
 "date": "2015-04-28", 
-"country": "JP", 
-"Total Users": "2"
+"country": "ES", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-28", 
@@ -6171,8 +6171,8 @@
 }, 
 {
 "date": "2015-04-28", 
-"country": "IN", 
-"Total Users": "4"
+"country": "AE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-28", 
@@ -6181,8 +6181,23 @@
 }, 
 {
 "date": "2015-04-28", 
-"country": "US", 
-"Total Users": "190"
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-04-28", 
+"country": "IN", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-04-28", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-28", 
+"country": "HK", 
+"Total Users": "41"
 }, 
 {
 "date": "2015-04-28", 
@@ -6201,6 +6216,11 @@
 }, 
 {
 "date": "2015-04-28", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-28", 
 "country": "CA", 
 "Total Users": "1"
 }, 
@@ -6211,13 +6231,8 @@
 }, 
 {
 "date": "2015-04-28", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-28", 
-"country": "HK", 
-"Total Users": "41"
+"country": "US", 
+"Total Users": "190"
 }, 
 {
 "date": "2015-04-28", 
@@ -6225,18 +6240,8 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-28", 
-"country": "BE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-28", 
-"country": "ES", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-28", 
-"country": "MY", 
+"date": "2015-04-29", 
+"country": "AU", 
 "Total Users": "1"
 }, 
 {
@@ -6256,11 +6261,6 @@
 }, 
 {
 "date": "2015-04-29", 
-"country": "HK", 
-"Total Users": "44"
-}, 
-{
-"date": "2015-04-29", 
 "country": "MY", 
 "Total Users": "1"
 }, 
@@ -6268,11 +6268,6 @@
 "date": "2015-04-29", 
 "country": "US", 
 "Total Users": "203"
-}, 
-{
-"date": "2015-04-29", 
-"country": "AU", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-04-29", 
@@ -6286,8 +6281,23 @@
 }, 
 {
 "date": "2015-04-29", 
+"country": "TW", 
+"Total Users": "394"
+}, 
+{
+"date": "2015-04-29", 
+"country": "HK", 
+"Total Users": "44"
+}, 
+{
+"date": "2015-04-29", 
 "country": "BR", 
 "Total Users": "3"
+}, 
+{
+"date": "2015-04-29", 
+"country": "VE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-29", 
@@ -6301,8 +6311,13 @@
 }, 
 {
 "date": "2015-04-29", 
-"country": "TW", 
-"Total Users": "394"
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-29", 
+"country": "GB", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-04-29", 
@@ -6310,19 +6325,14 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-04-29", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-29", 
-"country": "VE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-29", 
+"date": "2015-04-30", 
 "country": "GB", 
-"Total Users": "2"
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-30", 
+"country": "IN", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-30", 
@@ -6356,6 +6366,16 @@
 }, 
 {
 "date": "2015-04-30", 
+"country": "TW", 
+"Total Users": "378"
+}, 
+{
+"date": "2015-04-30", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-04-30", 
 "country": "US", 
 "Total Users": "216"
 }, 
@@ -6371,8 +6391,8 @@
 }, 
 {
 "date": "2015-04-30", 
-"country": "TW", 
-"Total Users": "378"
+"country": "PT", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-04-30", 
@@ -6380,39 +6400,9 @@
 "Total Users": "3"
 }, 
 {
-"date": "2015-04-30", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-30", 
-"country": "IN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-30", 
-"country": "PT", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-04-30", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
 "date": "2015-05-01", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-01", 
-"country": "BR", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-05-01", 
-"country": "MY", 
-"Total Users": "3"
+"country": "HK", 
+"Total Users": "46"
 }, 
 {
 "date": "2015-05-01", 
@@ -6426,6 +6416,21 @@
 }, 
 {
 "date": "2015-05-01", 
+"country": "US", 
+"Total Users": "187"
+}, 
+{
+"date": "2015-05-01", 
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-01", 
+"country": "MY", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-01", 
 "country": "ID", 
 "Total Users": "1"
 }, 
@@ -6436,18 +6441,13 @@
 }, 
 {
 "date": "2015-05-01", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-01", 
-"country": "US", 
-"Total Users": "187"
-}, 
-{
-"date": "2015-05-01", 
 "country": "TW", 
 "Total Users": "321"
+}, 
+{
+"date": "2015-05-01", 
+"country": "AE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-01", 
@@ -6456,8 +6456,8 @@
 }, 
 {
 "date": "2015-05-01", 
-"country": "HK", 
-"Total Users": "46"
+"country": "BR", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-05-02", 
@@ -6496,16 +6496,6 @@
 }, 
 {
 "date": "2015-05-02", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-02", 
-"country": "US", 
-"Total Users": "186"
-}, 
-{
-"date": "2015-05-02", 
 "country": "TH", 
 "Total Users": "1"
 }, 
@@ -6518,6 +6508,46 @@
 "date": "2015-05-02", 
 "country": "HK", 
 "Total Users": "35"
+}, 
+{
+"date": "2015-05-02", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-02", 
+"country": "US", 
+"Total Users": "186"
+}, 
+{
+"date": "2015-05-03", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-03", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-03", 
+"country": "KR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-03", 
+"country": "US", 
+"Total Users": "154"
+}, 
+{
+"date": "2015-05-03", 
+"country": "TR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-03", 
+"country": "JP", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-03", 
@@ -6556,18 +6586,8 @@
 }, 
 {
 "date": "2015-05-03", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-03", 
 "country": "AE", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-05-03", 
-"country": "US", 
-"Total Users": "154"
 }, 
 {
 "date": "2015-05-03", 
@@ -6581,33 +6601,28 @@
 }, 
 {
 "date": "2015-05-03", 
+"country": "TW", 
+"Total Users": "236"
+}, 
+{
+"date": "2015-05-03", 
 "country": "HK", 
 "Total Users": "30"
 }, 
 {
-"date": "2015-05-03", 
-"country": "AU", 
+"date": "2015-05-04", 
+"country": "SE", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-05-03", 
-"country": "SG", 
-"Total Users": "1"
+"date": "2015-05-04", 
+"country": "JP", 
+"Total Users": "3"
 }, 
 {
-"date": "2015-05-03", 
-"country": "KR", 
+"date": "2015-05-04", 
+"country": "BR", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-05-03", 
-"country": "TR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-03", 
-"country": "TW", 
-"Total Users": "236"
 }, 
 {
 "date": "2015-05-04", 
@@ -6626,8 +6641,8 @@
 }, 
 {
 "date": "2015-05-04", 
-"country": "US", 
-"Total Users": "219"
+"country": "ID", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-04", 
@@ -6636,38 +6651,43 @@
 }, 
 {
 "date": "2015-05-04", 
-"country": "MX", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-04", 
-"country": "SE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-04", 
-"country": "JP", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-04", 
 "country": "TW", 
 "Total Users": "315"
 }, 
 {
 "date": "2015-05-04", 
-"country": "BR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-04", 
-"country": "ID", 
+"country": "MX", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-05-04", 
 "country": "NZ", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-05-04", 
+"country": "US", 
+"Total Users": "219"
+}, 
+{
+"date": "2015-05-05", 
+"country": "CA", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-05", 
+"country": "NZ", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-05", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-05", 
+"country": "IN", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-05-05", 
@@ -6683,11 +6703,6 @@
 "date": "2015-05-05", 
 "country": "MX", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-05-05", 
-"country": "US", 
-"Total Users": "221"
 }, 
 {
 "date": "2015-05-05", 
@@ -6711,6 +6726,11 @@
 }, 
 {
 "date": "2015-05-05", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-05", 
 "country": "SG", 
 "Total Users": "3"
 }, 
@@ -6721,77 +6741,17 @@
 }, 
 {
 "date": "2015-05-05", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-05", 
-"country": "IN", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-05", 
-"country": "CA", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-05", 
-"country": "NZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-05", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-05", 
 "country": "TW", 
 "Total Users": "336"
 }, 
 {
-"date": "2015-05-06", 
-"country": "BR", 
-"Total Users": "3"
+"date": "2015-05-05", 
+"country": "US", 
+"Total Users": "221"
 }, 
 {
 "date": "2015-05-06", 
 "country": "MY", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-06", 
-"country": "IN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-06", 
-"country": "TW", 
-"Total Users": "345"
-}, 
-{
-"date": "2015-05-06", 
-"country": "US", 
-"Total Users": "236"
-}, 
-{
-"date": "2015-05-06", 
-"country": "HK", 
-"Total Users": "50"
-}, 
-{
-"date": "2015-05-06", 
-"country": "GB", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-06", 
-"country": "ZA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-06", 
-"country": "SG", 
 "Total Users": "3"
 }, 
 {
@@ -6806,7 +6766,27 @@
 }, 
 {
 "date": "2015-05-06", 
+"country": "TW", 
+"Total Users": "345"
+}, 
+{
+"date": "2015-05-06", 
+"country": "HK", 
+"Total Users": "50"
+}, 
+{
+"date": "2015-05-06", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-06", 
 "country": "YE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-06", 
+"country": "IN", 
 "Total Users": "1"
 }, 
 {
@@ -6815,18 +6795,58 @@
 "Total Users": "1"
 }, 
 {
+"date": "2015-05-06", 
+"country": "ZA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-06", 
+"country": "US", 
+"Total Users": "236"
+}, 
+{
+"date": "2015-05-06", 
+"country": "SG", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-06", 
+"country": "BR", 
+"Total Users": "3"
+}, 
+{
 "date": "2015-05-07", 
-"country": "GT", 
+"country": "ID", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-07", 
+"country": "CA", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-05-07", 
-"country": "US", 
-"Total Users": "212"
+"country": "TW", 
+"Total Users": "467"
 }, 
 {
 "date": "2015-05-07", 
-"country": "CS", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-07", 
+"country": "VN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-07", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-07", 
+"country": "GT", 
 "Total Users": "1"
 }, 
 {
@@ -6846,8 +6866,8 @@
 }, 
 {
 "date": "2015-05-07", 
-"country": "TW", 
-"Total Users": "467"
+"country": "MO", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-07", 
@@ -6861,6 +6881,16 @@
 }, 
 {
 "date": "2015-05-07", 
+"country": "US", 
+"Total Users": "212"
+}, 
+{
+"date": "2015-05-07", 
+"country": "SG", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-05-07", 
 "country": "SE", 
 "Total Users": "2"
 }, 
@@ -6871,11 +6901,6 @@
 }, 
 {
 "date": "2015-05-07", 
-"country": "MO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-07", 
 "country": "TR", 
 "Total Users": "1"
 }, 
@@ -6886,93 +6911,8 @@
 }, 
 {
 "date": "2015-05-07", 
-"country": "AE", 
+"country": "CS", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-05-07", 
-"country": "SG", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-05-07", 
-"country": "ID", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-07", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-07", 
-"country": "GB", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-07", 
-"country": "VN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-08", 
-"country": "NG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-08", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-08", 
-"country": "BR", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-05-08", 
-"country": "TR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-08", 
-"country": "TW", 
-"Total Users": "465"
-}, 
-{
-"date": "2015-05-08", 
-"country": "TH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-08", 
-"country": "IL", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-08", 
-"country": "ES", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-08", 
-"country": "MY", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-05-08", 
-"country": "MO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-08", 
-"country": "SE", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-05-08", 
-"country": "AU", 
-"Total Users": "2"
 }, 
 {
 "date": "2015-05-08", 
@@ -6996,18 +6936,58 @@
 }, 
 {
 "date": "2015-05-08", 
+"country": "", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-08", 
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-08", 
+"country": "TW", 
+"Total Users": "465"
+}, 
+{
+"date": "2015-05-08", 
+"country": "MO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-08", 
+"country": "NG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-08", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-08", 
+"country": "BR", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-05-08", 
+"country": "TR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-08", 
 "country": "FR", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-05-08", 
-"country": "GR", 
+"country": "IL", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-05-08", 
-"country": "HK", 
-"Total Users": "49"
+"country": "ES", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-08", 
@@ -7016,12 +6996,7 @@
 }, 
 {
 "date": "2015-05-08", 
-"country": "", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-08", 
-"country": "JP", 
+"country": "AU", 
 "Total Users": "2"
 }, 
 {
@@ -7035,8 +7010,43 @@
 "Total Users": "212"
 }, 
 {
+"date": "2015-05-08", 
+"country": "SE", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-05-08", 
+"country": "TH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-08", 
+"country": "GR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-08", 
+"country": "HK", 
+"Total Users": "49"
+}, 
+{
+"date": "2015-05-08", 
+"country": "MY", 
+"Total Users": "5"
+}, 
+{
 "date": "2015-05-09", 
-"country": "AE", 
+"country": "MO", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-09", 
+"country": "SI", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-09", 
+"country": "LK", 
 "Total Users": "1"
 }, 
 {
@@ -7051,27 +7061,17 @@
 }, 
 {
 "date": "2015-05-09", 
-"country": "SG", 
+"country": "AE", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-05-09", 
-"country": "SI", 
-"Total Users": "1"
+"country": "FR", 
+"Total Users": "7"
 }, 
 {
 "date": "2015-05-09", 
 "country": "IL", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-09", 
-"country": "BR", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-09", 
-"country": "LK", 
 "Total Users": "1"
 }, 
 {
@@ -7081,8 +7081,13 @@
 }, 
 {
 "date": "2015-05-09", 
-"country": "FR", 
-"Total Users": "7"
+"country": "BR", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-09", 
+"country": "TW", 
+"Total Users": "189"
 }, 
 {
 "date": "2015-05-09", 
@@ -7096,8 +7101,8 @@
 }, 
 {
 "date": "2015-05-09", 
-"country": "MO", 
-"Total Users": "3"
+"country": "SG", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-09", 
@@ -7105,14 +7110,34 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-05-09", 
-"country": "TW", 
-"Total Users": "189"
+"date": "2015-05-10", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-10", 
+"country": "AE", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-10", 
+"country": "IN", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-10", 
 "country": "ZA", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-05-10", 
+"country": "AU", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-10", 
+"country": "US", 
+"Total Users": "24"
 }, 
 {
 "date": "2015-05-10", 
@@ -7131,13 +7156,13 @@
 }, 
 {
 "date": "2015-05-10", 
-"country": "AU", 
-"Total Users": "2"
+"country": "MO", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-10", 
-"country": "MO", 
-"Total Users": "1"
+"country": "FR", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-05-10", 
@@ -7151,6 +7176,11 @@
 }, 
 {
 "date": "2015-05-10", 
+"country": "TW", 
+"Total Users": "290"
+}, 
+{
+"date": "2015-05-10", 
 "country": "SE", 
 "Total Users": "1"
 }, 
@@ -7160,34 +7190,29 @@
 "Total Users": "3"
 }, 
 {
-"date": "2015-05-10", 
+"date": "2015-05-11", 
+"country": "HK", 
+"Total Users": "17"
+}, 
+{
+"date": "2015-05-11", 
 "country": "IN", 
-"Total Users": "1"
+"Total Users": "3"
 }, 
 {
-"date": "2015-05-10", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-10", 
+"date": "2015-05-11", 
 "country": "AE", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-11", 
+"country": "ID", 
 "Total Users": "2"
 }, 
 {
-"date": "2015-05-10", 
-"country": "US", 
-"Total Users": "24"
-}, 
-{
-"date": "2015-05-10", 
-"country": "FR", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-05-10", 
-"country": "TW", 
-"Total Users": "290"
+"date": "2015-05-11", 
+"country": "SE", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-05-11", 
@@ -7196,8 +7221,8 @@
 }, 
 {
 "date": "2015-05-11", 
-"country": "AE", 
-"Total Users": "3"
+"country": "ES", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-11", 
@@ -7207,11 +7232,6 @@
 {
 "date": "2015-05-11", 
 "country": "RO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-11", 
-"country": "ES", 
 "Total Users": "1"
 }, 
 {
@@ -7226,33 +7246,13 @@
 }, 
 {
 "date": "2015-05-11", 
-"country": "US", 
-"Total Users": "52"
-}, 
-{
-"date": "2015-05-11", 
-"country": "JP", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-11", 
 "country": "MY", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-05-11", 
-"country": "GB", 
+"country": "JP", 
 "Total Users": "3"
-}, 
-{
-"date": "2015-05-11", 
-"country": "IN", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-11", 
-"country": "SE", 
-"Total Users": "2"
 }, 
 {
 "date": "2015-05-11", 
@@ -7261,33 +7261,23 @@
 }, 
 {
 "date": "2015-05-11", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-11", 
+"country": "US", 
+"Total Users": "52"
+}, 
+{
+"date": "2015-05-12", 
 "country": "ID", 
 "Total Users": "2"
 }, 
 {
-"date": "2015-05-11", 
-"country": "HK", 
-"Total Users": "17"
-}, 
-{
 "date": "2015-05-12", 
-"country": "IR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-12", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-12", 
-"country": "US", 
-"Total Users": "178"
-}, 
-{
-"date": "2015-05-12", 
-"country": "NZ", 
-"Total Users": "1"
+"country": "AU", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-05-12", 
@@ -7296,13 +7286,38 @@
 }, 
 {
 "date": "2015-05-12", 
+"country": "KR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-12", 
+"country": "IN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-12", 
+"country": "NZ", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-12", 
 "country": "CO", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-05-12", 
-"country": "JP", 
+"country": "IR", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-05-12", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-12", 
+"country": "US", 
+"Total Users": "178"
 }, 
 {
 "date": "2015-05-12", 
@@ -7316,8 +7331,13 @@
 }, 
 {
 "date": "2015-05-12", 
-"country": "AU", 
-"Total Users": "2"
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-12", 
+"country": "TW", 
+"Total Users": "698"
 }, 
 {
 "date": "2015-05-12", 
@@ -7327,6 +7347,11 @@
 {
 "date": "2015-05-12", 
 "country": "TR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-12", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
@@ -7341,78 +7366,8 @@
 }, 
 {
 "date": "2015-05-12", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-12", 
-"country": "TW", 
-"Total Users": "698"
-}, 
-{
-"date": "2015-05-12", 
-"country": "ID", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-12", 
-"country": "IN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-12", 
-"country": "KR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-12", 
 "country": "SG", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-05-13", 
-"country": "TR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-13", 
-"country": "AU", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-13", 
-"country": "SA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-13", 
-"country": "VN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-13", 
-"country": "JP", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-13", 
-"country": "TH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-13", 
-"country": "US", 
-"Total Users": "150"
-}, 
-{
-"date": "2015-05-13", 
-"country": "FR", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-13", 
-"country": "MY", 
-"Total Users": "2"
 }, 
 {
 "date": "2015-05-13", 
@@ -7426,8 +7381,8 @@
 }, 
 {
 "date": "2015-05-13", 
-"country": "TW", 
-"Total Users": "844"
+"country": "FR", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-05-13", 
@@ -7450,6 +7405,61 @@
 "Total Users": "2"
 }, 
 {
+"date": "2015-05-13", 
+"country": "TR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-13", 
+"country": "VN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-13", 
+"country": "US", 
+"Total Users": "150"
+}, 
+{
+"date": "2015-05-13", 
+"country": "MY", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-13", 
+"country": "JP", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-13", 
+"country": "TH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-13", 
+"country": "TW", 
+"Total Users": "844"
+}, 
+{
+"date": "2015-05-13", 
+"country": "SA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-13", 
+"country": "AU", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-14", 
+"country": "CA", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-14", 
+"country": "TW", 
+"Total Users": "764"
+}, 
+{
 "date": "2015-05-14", 
 "country": "AU", 
 "Total Users": "2"
@@ -7461,6 +7471,11 @@
 }, 
 {
 "date": "2015-05-14", 
+"country": "US", 
+"Total Users": "144"
+}, 
+{
+"date": "2015-05-14", 
 "country": "MO", 
 "Total Users": "1"
 }, 
@@ -7468,11 +7483,6 @@
 "date": "2015-05-14", 
 "country": "MY", 
 "Total Users": "2"
-}, 
-{
-"date": "2015-05-14", 
-"country": "US", 
-"Total Users": "144"
 }, 
 {
 "date": "2015-05-14", 
@@ -7491,68 +7501,13 @@
 }, 
 {
 "date": "2015-05-14", 
-"country": "HK", 
-"Total Users": "96"
-}, 
-{
-"date": "2015-05-14", 
 "country": "ID", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-05-14", 
-"country": "CA", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-14", 
-"country": "TW", 
-"Total Users": "764"
-}, 
-{
-"date": "2015-05-15", 
-"country": "US", 
-"Total Users": "124"
-}, 
-{
-"date": "2015-05-15", 
-"country": "SE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-15", 
-"country": "AU", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-15", 
-"country": "MY", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-15", 
 "country": "HK", 
-"Total Users": "36"
-}, 
-{
-"date": "2015-05-15", 
-"country": "JP", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-15", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-15", 
-"country": "AE", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-15", 
-"country": "TW", 
-"Total Users": "691"
+"Total Users": "96"
 }, 
 {
 "date": "2015-05-15", 
@@ -7566,8 +7521,68 @@
 }, 
 {
 "date": "2015-05-15", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-15", 
 "country": "SG", 
 "Total Users": "2"
+}, 
+{
+"date": "2015-05-15", 
+"country": "HK", 
+"Total Users": "36"
+}, 
+{
+"date": "2015-05-15", 
+"country": "SE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-15", 
+"country": "TW", 
+"Total Users": "691"
+}, 
+{
+"date": "2015-05-15", 
+"country": "US", 
+"Total Users": "124"
+}, 
+{
+"date": "2015-05-15", 
+"country": "AU", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-15", 
+"country": "MY", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-15", 
+"country": "JP", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-15", 
+"country": "AE", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-16", 
+"country": "TW", 
+"Total Users": "334"
+}, 
+{
+"date": "2015-05-16", 
+"country": "ZA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-16", 
+"country": "ES", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-16", 
@@ -7591,11 +7606,6 @@
 }, 
 {
 "date": "2015-05-16", 
-"country": "TW", 
-"Total Users": "334"
-}, 
-{
-"date": "2015-05-16", 
 "country": "HK", 
 "Total Users": "4"
 }, 
@@ -7611,12 +7621,12 @@
 }, 
 {
 "date": "2015-05-16", 
-"country": "BR", 
-"Total Users": "1"
+"country": "MY", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-05-16", 
-"country": "ES", 
+"country": "BR", 
 "Total Users": "1"
 }, 
 {
@@ -7631,17 +7641,17 @@
 }, 
 {
 "date": "2015-05-16", 
-"country": "MY", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-16", 
 "country": "IN", 
 "Total Users": "2"
 }, 
 {
-"date": "2015-05-16", 
-"country": "ZA", 
+"date": "2015-05-17", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-17", 
+"country": "MY", 
 "Total Users": "1"
 }, 
 {
@@ -7656,12 +7666,27 @@
 }, 
 {
 "date": "2015-05-17", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-17", 
+"country": "TW", 
+"Total Users": "215"
+}, 
+{
+"date": "2015-05-17", 
 "country": "US", 
 "Total Users": "17"
 }, 
 {
 "date": "2015-05-17", 
-"country": "MY", 
+"country": "HK", 
+"Total Users": "8"
+}, 
+{
+"date": "2015-05-17", 
+"country": "FR", 
 "Total Users": "1"
 }, 
 {
@@ -7680,33 +7705,38 @@
 "Total Users": "2"
 }, 
 {
-"date": "2015-05-17", 
-"country": "TW", 
-"Total Users": "215"
-}, 
-{
-"date": "2015-05-17", 
-"country": "HK", 
-"Total Users": "8"
-}, 
-{
-"date": "2015-05-17", 
-"country": "FR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-17", 
+"date": "2015-05-18", 
 "country": "SG", 
-"Total Users": "1"
+"Total Users": "2"
 }, 
 {
-"date": "2015-05-17", 
-"country": "AU", 
+"date": "2015-05-18", 
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-18", 
+"country": "BR", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-05-18", 
+"country": "AU", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-18", 
 "country": "IN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-18", 
+"country": "TW", 
+"Total Users": "497"
+}, 
+{
+"date": "2015-05-18", 
+"country": "AE", 
 "Total Users": "1"
 }, 
 {
@@ -7721,11 +7751,6 @@
 }, 
 {
 "date": "2015-05-18", 
-"country": "TW", 
-"Total Users": "497"
-}, 
-{
-"date": "2015-05-18", 
 "country": "ES", 
 "Total Users": "1"
 }, 
@@ -7736,13 +7761,8 @@
 }, 
 {
 "date": "2015-05-18", 
-"country": "MO", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-18", 
-"country": "ZA", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "28"
 }, 
 {
 "date": "2015-05-18", 
@@ -7751,38 +7771,13 @@
 }, 
 {
 "date": "2015-05-18", 
-"country": "SG", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-18", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-18", 
-"country": "US", 
-"Total Users": "28"
-}, 
-{
-"date": "2015-05-18", 
-"country": "BR", 
+"country": "ZA", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-05-18", 
-"country": "AU", 
+"country": "MO", 
 "Total Users": "2"
-}, 
-{
-"date": "2015-05-18", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-19", 
-"country": "AE", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-05-19", 
@@ -7791,7 +7786,12 @@
 }, 
 {
 "date": "2015-05-19", 
-"country": "NO", 
+"country": "US", 
+"Total Users": "33"
+}, 
+{
+"date": "2015-05-19", 
+"country": "AE", 
 "Total Users": "1"
 }, 
 {
@@ -7811,28 +7811,18 @@
 }, 
 {
 "date": "2015-05-19", 
-"country": "GP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-19", 
 "country": "HK", 
 "Total Users": "13"
 }, 
 {
 "date": "2015-05-19", 
-"country": "US", 
-"Total Users": "33"
+"country": "NO", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-19", 
 "country": "IN", 
 "Total Users": "3"
-}, 
-{
-"date": "2015-05-19", 
-"country": "BN", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-05-19", 
@@ -7846,17 +7836,42 @@
 }, 
 {
 "date": "2015-05-19", 
+"country": "MX", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-19", 
 "country": "CA", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-05-19", 
-"country": "MX", 
+"country": "GP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-19", 
+"country": "BN", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-05-20", 
+"country": "ID", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-20", 
 "country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-20", 
+"country": "US", 
+"Total Users": "138"
+}, 
+{
+"date": "2015-05-20", 
+"country": "CY", 
 "Total Users": "1"
 }, 
 {
@@ -7867,6 +7882,11 @@
 {
 "date": "2015-05-20", 
 "country": "EG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-20", 
+"country": "AZ", 
 "Total Users": "1"
 }, 
 {
@@ -7896,8 +7916,8 @@
 }, 
 {
 "date": "2015-05-20", 
-"country": "AZ", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "427"
 }, 
 {
 "date": "2015-05-20", 
@@ -7905,49 +7925,9 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-05-20", 
-"country": "ID", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-05-20", 
-"country": "US", 
-"Total Users": "138"
-}, 
-{
-"date": "2015-05-20", 
-"country": "CY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-20", 
-"country": "TW", 
-"Total Users": "427"
-}, 
-{
-"date": "2015-05-21", 
-"country": "AE", 
-"Total Users": "2"
-}, 
-{
 "date": "2015-05-21", 
 "country": "JP", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-05-21", 
-"country": "MA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-21", 
-"country": "BR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-21", 
-"country": "AU", 
-"Total Users": "3"
 }, 
 {
 "date": "2015-05-21", 
@@ -7961,6 +7941,16 @@
 }, 
 {
 "date": "2015-05-21", 
+"country": "BR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-21", 
+"country": "AE", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-21", 
 "country": "HK", 
 "Total Users": "15"
 }, 
@@ -7971,58 +7961,18 @@
 }, 
 {
 "date": "2015-05-21", 
-"country": "PK", 
+"country": "MA", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-05-22", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-22", 
-"country": "US", 
-"Total Users": "122"
-}, 
-{
-"date": "2015-05-22", 
-"country": "DE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-22", 
-"country": "GB", 
+"date": "2015-05-21", 
+"country": "AU", 
 "Total Users": "3"
 }, 
 {
-"date": "2015-05-22", 
-"country": "TW", 
-"Total Users": "351"
-}, 
-{
-"date": "2015-05-22", 
-"country": "BR", 
+"date": "2015-05-21", 
+"country": "PK", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-05-22", 
-"country": "MY", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-22", 
-"country": "JA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-22", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-22", 
-"country": "HK", 
-"Total Users": "18"
 }, 
 {
 "date": "2015-05-22", 
@@ -8036,8 +7986,78 @@
 }, 
 {
 "date": "2015-05-22", 
+"country": "TW", 
+"Total Users": "351"
+}, 
+{
+"date": "2015-05-22", 
+"country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-22", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-22", 
 "country": "IN", 
 "Total Users": "17"
+}, 
+{
+"date": "2015-05-22", 
+"country": "DE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-22", 
+"country": "HK", 
+"Total Users": "18"
+}, 
+{
+"date": "2015-05-22", 
+"country": "MY", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-22", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-22", 
+"country": "US", 
+"Total Users": "122"
+}, 
+{
+"date": "2015-05-22", 
+"country": "BR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-22", 
+"country": "JA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-23", 
+"country": "DE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-23", 
+"country": "AE", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-23", 
+"country": "US", 
+"Total Users": "24"
+}, 
+{
+"date": "2015-05-23", 
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-23", 
@@ -8056,23 +8076,13 @@
 }, 
 {
 "date": "2015-05-23", 
-"country": "FR", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-23", 
-"country": "US", 
-"Total Users": "24"
-}, 
-{
-"date": "2015-05-23", 
 "country": "TW", 
 "Total Users": "180"
 }, 
 {
 "date": "2015-05-23", 
-"country": "KE", 
-"Total Users": "1"
+"country": "FR", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-05-23", 
@@ -8091,18 +8101,13 @@
 }, 
 {
 "date": "2015-05-23", 
-"country": "DE", 
+"country": "KE", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-05-23", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-23", 
+"date": "2015-05-24", 
 "country": "AE", 
-"Total Users": "3"
+"Total Users": "2"
 }, 
 {
 "date": "2015-05-24", 
@@ -8121,11 +8126,6 @@
 }, 
 {
 "date": "2015-05-24", 
-"country": "TW", 
-"Total Users": "114"
-}, 
-{
-"date": "2015-05-24", 
 "country": "US", 
 "Total Users": "22"
 }, 
@@ -8136,18 +8136,23 @@
 }, 
 {
 "date": "2015-05-24", 
+"country": "TW", 
+"Total Users": "114"
+}, 
+{
+"date": "2015-05-24", 
 "country": "JP", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-05-24", 
-"country": "AE", 
+"date": "2015-05-25", 
+"country": "AU", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-05-25", 
-"country": "SG", 
-"Total Users": "3"
+"country": "US", 
+"Total Users": "25"
 }, 
 {
 "date": "2015-05-25", 
@@ -8156,13 +8161,33 @@
 }, 
 {
 "date": "2015-05-25", 
-"country": "ID", 
+"country": "IE", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-05-25", 
+"country": "TW", 
+"Total Users": "206"
 }, 
 {
 "date": "2015-05-25", 
 "country": "HK", 
 "Total Users": "7"
+}, 
+{
+"date": "2015-05-25", 
+"country": "SG", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-05-25", 
+"country": "IR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-25", 
+"country": "ID", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-25", 
@@ -8181,33 +8206,23 @@
 }, 
 {
 "date": "2015-05-25", 
-"country": "US", 
-"Total Users": "25"
-}, 
-{
-"date": "2015-05-25", 
 "country": "MY", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-05-25", 
-"country": "TW", 
-"Total Users": "206"
-}, 
-{
-"date": "2015-05-25", 
-"country": "AU", 
+"date": "2015-05-26", 
+"country": "JP", 
 "Total Users": "2"
 }, 
 {
-"date": "2015-05-25", 
-"country": "IE", 
+"date": "2015-05-26", 
+"country": "AE", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-05-25", 
-"country": "IR", 
-"Total Users": "1"
+"date": "2015-05-26", 
+"country": "US", 
+"Total Users": "48"
 }, 
 {
 "date": "2015-05-26", 
@@ -8218,6 +8233,11 @@
 "date": "2015-05-26", 
 "country": "ES", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-05-26", 
+"country": "SG", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-05-26", 
@@ -8236,28 +8256,18 @@
 }, 
 {
 "date": "2015-05-26", 
-"country": "SG", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-26", 
 "country": "MY", 
 "Total Users": "4"
 }, 
 {
-"date": "2015-05-26", 
-"country": "US", 
-"Total Users": "48"
-}, 
-{
-"date": "2015-05-26", 
-"country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-05-26", 
-"country": "AE", 
+"date": "2015-05-27", 
+"country": "SK", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-05-27", 
+"country": "IN", 
+"Total Users": "54"
 }, 
 {
 "date": "2015-05-27", 
@@ -8266,8 +8276,8 @@
 }, 
 {
 "date": "2015-05-27", 
-"country": "SK", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "279"
 }, 
 {
 "date": "2015-05-27", 
@@ -8286,48 +8296,18 @@
 }, 
 {
 "date": "2015-05-27", 
-"country": "US", 
-"Total Users": "67"
-}, 
-{
-"date": "2015-05-27", 
-"country": "TW", 
-"Total Users": "279"
-}, 
-{
-"date": "2015-05-27", 
 "country": "GB", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-05-27", 
-"country": "IN", 
-"Total Users": "54"
+"country": "US", 
+"Total Users": "67"
 }, 
 {
 "date": "2015-05-28", 
-"country": "ZA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-28", 
-"country": "TW", 
-"Total Users": "272"
-}, 
-{
-"date": "2015-05-28", 
-"country": "BR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-28", 
-"country": "GB", 
-"Total Users": "7"
-}, 
-{
-"date": "2015-05-28", 
-"country": "AU", 
-"Total Users": "1"
+"country": "MY", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-05-28", 
@@ -8341,6 +8321,36 @@
 }, 
 {
 "date": "2015-05-28", 
+"country": "BR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-28", 
+"country": "NZ", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-28", 
+"country": "ZA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-28", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-28", 
+"country": "GB", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-05-28", 
+"country": "IN", 
+"Total Users": "156"
+}, 
+{
+"date": "2015-05-28", 
 "country": "MO", 
 "Total Users": "1"
 }, 
@@ -8351,18 +8361,18 @@
 }, 
 {
 "date": "2015-05-28", 
-"country": "IN", 
-"Total Users": "156"
+"country": "TW", 
+"Total Users": "272"
 }, 
 {
-"date": "2015-05-28", 
-"country": "MY", 
-"Total Users": "4"
+"date": "2015-05-29", 
+"country": "JP", 
+"Total Users": "2"
 }, 
 {
-"date": "2015-05-28", 
-"country": "NZ", 
-"Total Users": "1"
+"date": "2015-05-29", 
+"country": "US", 
+"Total Users": "46"
 }, 
 {
 "date": "2015-05-29", 
@@ -8381,11 +8391,6 @@
 }, 
 {
 "date": "2015-05-29", 
-"country": "IN", 
-"Total Users": "26"
-}, 
-{
-"date": "2015-05-29", 
 "country": "TW", 
 "Total Users": "254"
 }, 
@@ -8396,8 +8401,8 @@
 }, 
 {
 "date": "2015-05-29", 
-"country": "US", 
-"Total Users": "46"
+"country": "IN", 
+"Total Users": "26"
 }, 
 {
 "date": "2015-05-29", 
@@ -8420,8 +8425,8 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-05-29", 
-"country": "JP", 
+"date": "2015-05-30", 
+"country": "SG", 
 "Total Users": "2"
 }, 
 {
@@ -8436,8 +8441,8 @@
 }, 
 {
 "date": "2015-05-30", 
-"country": "PH", 
-"Total Users": "2"
+"country": "MY", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-05-30", 
@@ -8451,18 +8456,18 @@
 }, 
 {
 "date": "2015-05-30", 
-"country": "JP", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-05-30", 
 "country": "US", 
 "Total Users": "27"
 }, 
 {
 "date": "2015-05-30", 
-"country": "MY", 
-"Total Users": "1"
+"country": "PH", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-05-30", 
+"country": "JP", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-05-30", 
@@ -8470,14 +8475,19 @@
 "Total Users": "51"
 }, 
 {
-"date": "2015-05-30", 
-"country": "SG", 
-"Total Users": "2"
+"date": "2015-05-31", 
+"country": "IN", 
+"Total Users": "29"
 }, 
 {
 "date": "2015-05-31", 
-"country": "GB", 
-"Total Users": "1"
+"country": "HK", 
+"Total Users": "10"
+}, 
+{
+"date": "2015-05-31", 
+"country": "TW", 
+"Total Users": "82"
 }, 
 {
 "date": "2015-05-31", 
@@ -8491,23 +8501,13 @@
 }, 
 {
 "date": "2015-05-31", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-05-31", 
 "country": "JP", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-05-31", 
-"country": "DE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-05-31", 
-"country": "TW", 
-"Total Users": "82"
-}, 
-{
-"date": "2015-05-31", 
-"country": "IN", 
-"Total Users": "29"
 }, 
 {
 "date": "2015-05-31", 
@@ -8516,8 +8516,18 @@
 }, 
 {
 "date": "2015-05-31", 
-"country": "HK", 
-"Total Users": "10"
+"country": "DE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-01", 
+"country": "ZW", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-01", 
+"country": "GB", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-06-01", 
@@ -8526,8 +8536,13 @@
 }, 
 {
 "date": "2015-06-01", 
-"country": "SG", 
-"Total Users": "1"
+"country": "IN", 
+"Total Users": "14"
+}, 
+{
+"date": "2015-06-01", 
+"country": "TW", 
+"Total Users": "134"
 }, 
 {
 "date": "2015-06-01", 
@@ -8551,8 +8566,8 @@
 }, 
 {
 "date": "2015-06-01", 
-"country": "TW", 
-"Total Users": "134"
+"country": "SG", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-01", 
@@ -8565,29 +8580,29 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-06-01", 
-"country": "IN", 
-"Total Users": "14"
-}, 
-{
-"date": "2015-06-01", 
-"country": "ZW", 
+"date": "2015-06-02", 
+"country": "AU", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-06-01", 
-"country": "GB", 
+"date": "2015-06-02", 
+"country": "JP", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-06-02", 
-"country": "FR", 
+"country": "IN", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-06-02", 
+"country": "NL", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-06-02", 
-"country": "HK", 
-"Total Users": "6"
+"country": "US", 
+"Total Users": "47"
 }, 
 {
 "date": "2015-06-02", 
@@ -8606,17 +8621,17 @@
 }, 
 {
 "date": "2015-06-02", 
+"country": "TW", 
+"Total Users": "187"
+}, 
+{
+"date": "2015-06-02", 
 "country": "CA", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-06-02", 
 "country": "TR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-02", 
-"country": "NL", 
 "Total Users": "1"
 }, 
 {
@@ -8631,17 +8646,7 @@
 }, 
 {
 "date": "2015-06-02", 
-"country": "IN", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-06-02", 
-"country": "TW", 
-"Total Users": "187"
-}, 
-{
-"date": "2015-06-02", 
-"country": "SA", 
+"country": "FR", 
 "Total Users": "1"
 }, 
 {
@@ -8651,68 +8656,13 @@
 }, 
 {
 "date": "2015-06-02", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-02", 
-"country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-06-02", 
-"country": "US", 
-"Total Users": "47"
-}, 
-{
-"date": "2015-06-03", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-03", 
-"country": "VN", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-03", 
-"country": "AU", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-06-03", 
-"country": "IR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-03", 
 "country": "HK", 
-"Total Users": "16"
+"Total Users": "6"
 }, 
 {
-"date": "2015-06-03", 
-"country": "TW", 
-"Total Users": "235"
-}, 
-{
-"date": "2015-06-03", 
-"country": "AE", 
+"date": "2015-06-02", 
+"country": "SA", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-06-03", 
-"country": "GB", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-06-03", 
-"country": "NZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-03", 
-"country": "US", 
-"Total Users": "62"
 }, 
 {
 "date": "2015-06-03", 
@@ -8730,8 +8680,83 @@
 "Total Users": "2"
 }, 
 {
+"date": "2015-06-03", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-03", 
+"country": "VN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-03", 
+"country": "US", 
+"Total Users": "62"
+}, 
+{
+"date": "2015-06-03", 
+"country": "IR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-03", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-06-03", 
+"country": "AU", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-06-03", 
+"country": "HK", 
+"Total Users": "16"
+}, 
+{
+"date": "2015-06-03", 
+"country": "NZ", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-03", 
+"country": "TW", 
+"Total Users": "235"
+}, 
+{
+"date": "2015-06-03", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
 "date": "2015-06-04", 
-"country": "CA", 
+"country": "BR", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-06-04", 
+"country": "TW", 
+"Total Users": "248"
+}, 
+{
+"date": "2015-06-04", 
+"country": "EG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-04", 
+"country": "KW", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-04", 
+"country": "US", 
+"Total Users": "58"
+}, 
+{
+"date": "2015-06-04", 
+"country": "AE", 
 "Total Users": "2"
 }, 
 {
@@ -8741,32 +8766,7 @@
 }, 
 {
 "date": "2015-06-04", 
-"country": "KW", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-04", 
-"country": "EG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-04", 
-"country": "AE", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-06-04", 
-"country": "TW", 
-"Total Users": "248"
-}, 
-{
-"date": "2015-06-04", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-04", 
-"country": "GB", 
+"country": "CA", 
 "Total Users": "2"
 }, 
 {
@@ -8786,18 +8786,28 @@
 }, 
 {
 "date": "2015-06-04", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-04", 
 "country": "MY", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-06-04", 
-"country": "BR", 
-"Total Users": "3"
+"country": "GB", 
+"Total Users": "2"
 }, 
 {
-"date": "2015-06-04", 
-"country": "US", 
-"Total Users": "58"
+"date": "2015-06-05", 
+"country": "FR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-05", 
+"country": "AE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-05", 
@@ -8821,13 +8831,23 @@
 }, 
 {
 "date": "2015-06-05", 
-"country": "TH", 
-"Total Users": "1"
+"country": "IN", 
+"Total Users": "30"
 }, 
 {
 "date": "2015-06-05", 
 "country": "US", 
 "Total Users": "26"
+}, 
+{
+"date": "2015-06-05", 
+"country": "TH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-05", 
+"country": "GB", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-05", 
@@ -8841,53 +8861,13 @@
 }, 
 {
 "date": "2015-06-05", 
-"country": "FR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-05", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-05", 
 "country": "TW", 
 "Total Users": "205"
-}, 
-{
-"date": "2015-06-05", 
-"country": "IN", 
-"Total Users": "30"
-}, 
-{
-"date": "2015-06-05", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-06", 
-"country": "IN", 
-"Total Users": "5"
 }, 
 {
 "date": "2015-06-06", 
 "country": "SG", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-06-06", 
-"country": "TW", 
-"Total Users": "81"
-}, 
-{
-"date": "2015-06-06", 
-"country": "PK", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-06", 
-"country": "HK", 
-"Total Users": "4"
 }, 
 {
 "date": "2015-06-06", 
@@ -8900,9 +8880,34 @@
 "Total Users": "2"
 }, 
 {
-"date": "2015-06-07", 
-"country": "HK", 
+"date": "2015-06-06", 
+"country": "IN", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-06-06", 
+"country": "PK", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-06-06", 
+"country": "TW", 
+"Total Users": "81"
+}, 
+{
+"date": "2015-06-06", 
+"country": "HK", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-06-07", 
+"country": "AU", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-06-07", 
+"country": "TW", 
+"Total Users": "77"
 }, 
 {
 "date": "2015-06-07", 
@@ -8911,12 +8916,32 @@
 }, 
 {
 "date": "2015-06-07", 
-"country": "NZ", 
+"country": "HK", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-07", 
+"country": "FR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-07", 
+"country": "IN", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-06-07", 
+"country": "MY", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-06-07", 
 "country": "BH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-07", 
+"country": "NZ", 
 "Total Users": "1"
 }, 
 {
@@ -8930,29 +8955,9 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-06-07", 
-"country": "IN", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-06-07", 
-"country": "AU", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-06-07", 
-"country": "FR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-07", 
+"date": "2015-06-08", 
 "country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-07", 
-"country": "TW", 
-"Total Users": "77"
+"Total Users": "2"
 }, 
 {
 "date": "2015-06-08", 
@@ -8966,13 +8971,13 @@
 }, 
 {
 "date": "2015-06-08", 
-"country": "ID", 
+"country": "CA", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-06-08", 
-"country": "CA", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "14"
 }, 
 {
 "date": "2015-06-08", 
@@ -8986,13 +8991,23 @@
 }, 
 {
 "date": "2015-06-08", 
-"country": "MY", 
-"Total Users": "2"
+"country": "ID", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-06-08", 
-"country": "US", 
-"Total Users": "14"
+"date": "2015-06-09", 
+"country": "RU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-09", 
+"country": "IN", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-06-09", 
+"country": "BR", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-09", 
@@ -9006,8 +9021,8 @@
 }, 
 {
 "date": "2015-06-09", 
-"country": "IN", 
-"Total Users": "4"
+"country": "US", 
+"Total Users": "40"
 }, 
 {
 "date": "2015-06-09", 
@@ -9022,46 +9037,6 @@
 {
 "date": "2015-06-09", 
 "country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-09", 
-"country": "RU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-09", 
-"country": "US", 
-"Total Users": "40"
-}, 
-{
-"date": "2015-06-09", 
-"country": "BR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-10", 
-"country": "AU", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-06-10", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-10", 
-"country": "TW", 
-"Total Users": "118"
-}, 
-{
-"date": "2015-06-10", 
-"country": "ID", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-06-10", 
-"country": "SG", 
 "Total Users": "1"
 }, 
 {
@@ -9076,8 +9051,48 @@
 }, 
 {
 "date": "2015-06-10", 
+"country": "TW", 
+"Total Users": "118"
+}, 
+{
+"date": "2015-06-10", 
+"country": "AU", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-06-10", 
 "country": "HK", 
 "Total Users": "6"
+}, 
+{
+"date": "2015-06-10", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-10", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-10", 
+"country": "ID", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-06-11", 
+"country": "HK", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-06-11", 
+"country": "IN", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-06-11", 
+"country": "US", 
+"Total Users": "24"
 }, 
 {
 "date": "2015-06-11", 
@@ -9086,13 +9101,13 @@
 }, 
 {
 "date": "2015-06-11", 
-"country": "GB", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "119"
 }, 
 {
 "date": "2015-06-11", 
-"country": "IN", 
-"Total Users": "7"
+"country": "GB", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-11", 
@@ -9103,11 +9118,6 @@
 "date": "2015-06-11", 
 "country": "AU", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-06-11", 
-"country": "TW", 
-"Total Users": "119"
 }, 
 {
 "date": "2015-06-11", 
@@ -9125,14 +9135,29 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-06-11", 
-"country": "HK", 
-"Total Users": "7"
+"date": "2015-06-12", 
+"country": "ID", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-06-11", 
+"date": "2015-06-12", 
+"country": "FM", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-12", 
 "country": "US", 
-"Total Users": "24"
+"Total Users": "15"
+}, 
+{
+"date": "2015-06-12", 
+"country": "CA", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-06-12", 
+"country": "IT", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-12", 
@@ -9146,23 +9171,13 @@
 }, 
 {
 "date": "2015-06-12", 
-"country": "IN", 
-"Total Users": "30"
-}, 
-{
-"date": "2015-06-12", 
-"country": "IT", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-12", 
 "country": "JP", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-06-12", 
-"country": "CA", 
-"Total Users": "2"
+"country": "IN", 
+"Total Users": "30"
 }, 
 {
 "date": "2015-06-12", 
@@ -9175,49 +9190,14 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-06-12", 
-"country": "US", 
-"Total Users": "15"
-}, 
-{
-"date": "2015-06-12", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-12", 
-"country": "FM", 
+"date": "2015-06-13", 
+"country": "KG", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-06-13", 
-"country": "NL", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-13", 
-"country": "HK", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-06-13", 
-"country": "LT", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-13", 
-"country": "US", 
-"Total Users": "12"
-}, 
-{
-"date": "2015-06-13", 
-"country": "MT", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-13", 
-"country": "AU", 
-"Total Users": "1"
+"country": "AE", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-06-13", 
@@ -9236,18 +9216,48 @@
 }, 
 {
 "date": "2015-06-13", 
-"country": "KG", 
-"Total Users": "1"
+"country": "HK", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-06-13", 
-"country": "AE", 
-"Total Users": "2"
+"country": "US", 
+"Total Users": "12"
+}, 
+{
+"date": "2015-06-13", 
+"country": "NL", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-13", 
 "country": "TW", 
 "Total Users": "50"
+}, 
+{
+"date": "2015-06-13", 
+"country": "MT", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-13", 
+"country": "LT", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-13", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-14", 
+"country": "US", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-06-14", 
+"country": "AU", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-06-14", 
@@ -9261,18 +9271,23 @@
 }, 
 {
 "date": "2015-06-14", 
-"country": "AU", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-06-14", 
 "country": "TW", 
 "Total Users": "53"
 }, 
 {
-"date": "2015-06-14", 
-"country": "US", 
-"Total Users": "2"
+"date": "2015-06-15", 
+"country": "TR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-15", 
+"country": "IN", 
+"Total Users": "139"
+}, 
+{
+"date": "2015-06-15", 
+"country": "TW", 
+"Total Users": "423"
 }, 
 {
 "date": "2015-06-15", 
@@ -9286,13 +9301,8 @@
 }, 
 {
 "date": "2015-06-15", 
-"country": "TW", 
-"Total Users": "423"
-}, 
-{
-"date": "2015-06-15", 
-"country": "MY", 
-"Total Users": "2"
+"country": "MU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-15", 
@@ -9301,8 +9311,13 @@
 }, 
 {
 "date": "2015-06-15", 
-"country": "TR", 
-"Total Users": "1"
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-06-15", 
+"country": "MY", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-06-15", 
@@ -9310,34 +9325,19 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-06-15", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-06-15", 
-"country": "IN", 
-"Total Users": "139"
-}, 
-{
-"date": "2015-06-15", 
-"country": "MU", 
-"Total Users": "1"
-}, 
-{
 "date": "2015-06-16", 
-"country": "CZ", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-06-16", 
-"country": "AU", 
+"country": "PH", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-06-16", 
 "country": "MY", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-06-16", 
+"country": "CZ", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-06-16", 
@@ -9356,8 +9356,8 @@
 }, 
 {
 "date": "2015-06-16", 
-"country": "GB", 
-"Total Users": "1"
+"country": "IN", 
+"Total Users": "30"
 }, 
 {
 "date": "2015-06-16", 
@@ -9366,13 +9366,13 @@
 }, 
 {
 "date": "2015-06-16", 
-"country": "PH", 
+"country": "GB", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-06-16", 
-"country": "IN", 
-"Total Users": "30"
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-16", 
@@ -9381,43 +9381,8 @@
 }, 
 {
 "date": "2015-06-17", 
-"country": "US", 
-"Total Users": "11"
-}, 
-{
-"date": "2015-06-17", 
-"country": "NL", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-17", 
-"country": "CZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-17", 
 "country": "TW", 
 "Total Users": "103"
-}, 
-{
-"date": "2015-06-17", 
-"country": "HK", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-06-17", 
-"country": "MO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-17", 
-"country": "MX", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-17", 
-"country": "ES", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-06-17", 
@@ -9430,9 +9395,59 @@
 "Total Users": "4"
 }, 
 {
-"date": "2015-06-18", 
+"date": "2015-06-17", 
+"country": "NL", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-17", 
+"country": "HK", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-06-17", 
+"country": "CZ", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-17", 
+"country": "MX", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-17", 
+"country": "US", 
+"Total Users": "11"
+}, 
+{
+"date": "2015-06-17", 
 "country": "MO", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-06-17", 
+"country": "ES", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-18", 
+"country": "GB", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-06-18", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-18", 
+"country": "NO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-18", 
+"country": "HK", 
+"Total Users": "5"
 }, 
 {
 "date": "2015-06-18", 
@@ -9441,8 +9456,13 @@
 }, 
 {
 "date": "2015-06-18", 
-"country": "HK", 
-"Total Users": "5"
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-18", 
+"country": "MO", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-18", 
@@ -9456,8 +9476,8 @@
 }, 
 {
 "date": "2015-06-18", 
-"country": "CA", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "139"
 }, 
 {
 "date": "2015-06-18", 
@@ -9471,22 +9491,7 @@
 }, 
 {
 "date": "2015-06-18", 
-"country": "TW", 
-"Total Users": "139"
-}, 
-{
-"date": "2015-06-18", 
-"country": "NO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-18", 
 "country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-18", 
-"country": "MY", 
 "Total Users": "1"
 }, 
 {
@@ -9495,9 +9500,9 @@
 "Total Users": "16"
 }, 
 {
-"date": "2015-06-18", 
-"country": "GB", 
-"Total Users": "6"
+"date": "2015-06-19", 
+"country": "HK", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-19", 
@@ -9506,22 +9511,17 @@
 }, 
 {
 "date": "2015-06-19", 
-"country": "ES", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-19", 
-"country": "MX", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-19", 
-"country": "US", 
-"Total Users": "13"
+"country": "GB", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-06-19", 
 "country": "IT", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-19", 
+"country": "EC", 
 "Total Users": "1"
 }, 
 {
@@ -9536,7 +9536,7 @@
 }, 
 {
 "date": "2015-06-19", 
-"country": "SG", 
+"country": "ES", 
 "Total Users": "1"
 }, 
 {
@@ -9551,7 +9551,17 @@
 }, 
 {
 "date": "2015-06-19", 
-"country": "EC", 
+"country": "NG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-19", 
+"country": "US", 
+"Total Users": "13"
+}, 
+{
+"date": "2015-06-19", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
@@ -9561,37 +9571,22 @@
 }, 
 {
 "date": "2015-06-19", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-06-19", 
-"country": "HK", 
+"country": "MX", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-06-19", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-20", 
 "country": "JP", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-06-19", 
-"country": "NG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-20", 
-"country": "US", 
-"Total Users": "5"
-}, 
-{
 "date": "2015-06-20", 
 "country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-20", 
-"country": "GB", 
 "Total Users": "1"
 }, 
 {
@@ -9601,13 +9596,8 @@
 }, 
 {
 "date": "2015-06-20", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-20", 
-"country": "JP", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "5"
 }, 
 {
 "date": "2015-06-20", 
@@ -9615,8 +9605,13 @@
 "Total Users": "90"
 }, 
 {
-"date": "2015-06-21", 
-"country": "SG", 
+"date": "2015-06-20", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-20", 
+"country": "AU", 
 "Total Users": "1"
 }, 
 {
@@ -9626,8 +9621,8 @@
 }, 
 {
 "date": "2015-06-21", 
-"country": "US", 
-"Total Users": "9"
+"country": "SG", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-21", 
@@ -9636,8 +9631,8 @@
 }, 
 {
 "date": "2015-06-21", 
-"country": "HK", 
-"Total Users": "8"
+"country": "US", 
+"Total Users": "9"
 }, 
 {
 "date": "2015-06-21", 
@@ -9645,9 +9640,9 @@
 "Total Users": "111"
 }, 
 {
-"date": "2015-06-22", 
-"country": "JP", 
-"Total Users": "4"
+"date": "2015-06-21", 
+"country": "HK", 
+"Total Users": "8"
 }, 
 {
 "date": "2015-06-22", 
@@ -9656,32 +9651,17 @@
 }, 
 {
 "date": "2015-06-22", 
+"country": "MX", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-22", 
 "country": "HK", 
 "Total Users": "3"
 }, 
 {
 "date": "2015-06-22", 
-"country": "US", 
-"Total Users": "17"
-}, 
-{
-"date": "2015-06-22", 
 "country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-22", 
-"country": "MO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-22", 
-"country": "IN", 
-"Total Users": "185"
-}, 
-{
-"date": "2015-06-22", 
-"country": "MX", 
 "Total Users": "1"
 }, 
 {
@@ -9691,13 +9671,53 @@
 }, 
 {
 "date": "2015-06-22", 
+"country": "JP", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-06-22", 
+"country": "US", 
+"Total Users": "17"
+}, 
+{
+"date": "2015-06-22", 
+"country": "MO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-22", 
 "country": "CA", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-06-22", 
+"country": "IN", 
+"Total Users": "185"
+}, 
+{
+"date": "2015-06-22", 
 "country": "ES", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-06-23", 
+"country": "MU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-23", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-23", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-23", 
+"country": "US", 
+"Total Users": "9"
 }, 
 {
 "date": "2015-06-23", 
@@ -9711,13 +9731,13 @@
 }, 
 {
 "date": "2015-06-23", 
-"country": "HK", 
-"Total Users": "6"
+"country": "MY", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-23", 
-"country": "MU", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "184"
 }, 
 {
 "date": "2015-06-23", 
@@ -9726,7 +9746,7 @@
 }, 
 {
 "date": "2015-06-23", 
-"country": "MY", 
+"country": "NP", 
 "Total Users": "1"
 }, 
 {
@@ -9736,28 +9756,48 @@
 }, 
 {
 "date": "2015-06-23", 
-"country": "NP", 
+"country": "HK", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-06-24", 
+"country": "AL", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-06-23", 
-"country": "CA", 
+"date": "2015-06-24", 
+"country": "SG", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-06-23", 
-"country": "US", 
+"date": "2015-06-24", 
+"country": "GB", 
 "Total Users": "9"
 }, 
 {
-"date": "2015-06-23", 
-"country": "TW", 
-"Total Users": "184"
+"date": "2015-06-24", 
+"country": "JP", 
+"Total Users": "6"
 }, 
 {
-"date": "2015-06-23", 
-"country": "AE", 
-"Total Users": "1"
+"date": "2015-06-24", 
+"country": "CA", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-06-24", 
+"country": "AU", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-06-24", 
+"country": "US", 
+"Total Users": "8"
+}, 
+{
+"date": "2015-06-24", 
+"country": "IN", 
+"Total Users": "259"
 }, 
 {
 "date": "2015-06-24", 
@@ -9781,48 +9821,8 @@
 }, 
 {
 "date": "2015-06-24", 
-"country": "IN", 
-"Total Users": "259"
-}, 
-{
-"date": "2015-06-24", 
-"country": "US", 
-"Total Users": "8"
-}, 
-{
-"date": "2015-06-24", 
-"country": "AL", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-24", 
-"country": "CA", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-06-24", 
-"country": "AU", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-06-24", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-24", 
 "country": "MY", 
 "Total Users": "2"
-}, 
-{
-"date": "2015-06-24", 
-"country": "JP", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-06-24", 
-"country": "GB", 
-"Total Users": "9"
 }, 
 {
 "date": "2015-06-24", 
@@ -9831,8 +9831,18 @@
 }, 
 {
 "date": "2015-06-25", 
-"country": "HK", 
-"Total Users": "6"
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-06-25", 
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-06-25", 
+"country": "SG", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-25", 
@@ -9846,23 +9856,8 @@
 }, 
 {
 "date": "2015-06-25", 
-"country": "KH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-25", 
-"country": "US", 
-"Total Users": "10"
-}, 
-{
-"date": "2015-06-25", 
-"country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-06-25", 
-"country": "GB", 
-"Total Users": "2"
+"country": "HK", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-06-25", 
@@ -9876,7 +9871,7 @@
 }, 
 {
 "date": "2015-06-25", 
-"country": "SG", 
+"country": "KH", 
 "Total Users": "1"
 }, 
 {
@@ -9885,14 +9880,24 @@
 "Total Users": "262"
 }, 
 {
-"date": "2015-06-26", 
-"country": "MY", 
-"Total Users": "1"
+"date": "2015-06-25", 
+"country": "US", 
+"Total Users": "10"
 }, 
 {
 "date": "2015-06-26", 
 "country": "IN", 
 "Total Users": "137"
+}, 
+{
+"date": "2015-06-26", 
+"country": "US", 
+"Total Users": "20"
+}, 
+{
+"date": "2015-06-26", 
+"country": "HK", 
+"Total Users": "12"
 }, 
 {
 "date": "2015-06-26", 
@@ -9906,28 +9911,23 @@
 }, 
 {
 "date": "2015-06-26", 
+"country": "TH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-26", 
 "country": "GB", 
 "Total Users": "3"
 }, 
 {
 "date": "2015-06-26", 
-"country": "HK", 
-"Total Users": "12"
-}, 
-{
-"date": "2015-06-26", 
-"country": "US", 
-"Total Users": "20"
+"country": "MY", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-26", 
 "country": "TW", 
 "Total Users": "201"
-}, 
-{
-"date": "2015-06-26", 
-"country": "TH", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-06-27", 
@@ -9936,28 +9936,8 @@
 }, 
 {
 "date": "2015-06-28", 
-"country": "IN", 
-"Total Users": "52"
-}, 
-{
-"date": "2015-06-28", 
-"country": "US", 
-"Total Users": "10"
-}, 
-{
-"date": "2015-06-28", 
-"country": "HK", 
-"Total Users": "12"
-}, 
-{
-"date": "2015-06-28", 
 "country": "KR", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-06-28", 
-"country": "GB", 
-"Total Users": "2"
 }, 
 {
 "date": "2015-06-28", 
@@ -9971,8 +9951,28 @@
 }, 
 {
 "date": "2015-06-28", 
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-06-28", 
+"country": "IN", 
+"Total Users": "52"
+}, 
+{
+"date": "2015-06-28", 
+"country": "US", 
+"Total Users": "10"
+}, 
+{
+"date": "2015-06-28", 
 "country": "JP", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-06-28", 
+"country": "HK", 
+"Total Users": "12"
 }, 
 {
 "date": "2015-06-28", 
@@ -9991,6 +9991,26 @@
 }, 
 {
 "date": "2015-06-29", 
+"country": "JO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-29", 
+"country": "IL", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-29", 
+"country": "IN", 
+"Total Users": "211"
+}, 
+{
+"date": "2015-06-29", 
+"country": "US", 
+"Total Users": "19"
+}, 
+{
+"date": "2015-06-29", 
 "country": "MY", 
 "Total Users": "1"
 }, 
@@ -10006,28 +10026,8 @@
 }, 
 {
 "date": "2015-06-29", 
-"country": "MO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-29", 
-"country": "IL", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-29", 
 "country": "NO", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-06-29", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-29", 
-"country": "US", 
-"Total Users": "19"
 }, 
 {
 "date": "2015-06-29", 
@@ -10036,22 +10036,32 @@
 }, 
 {
 "date": "2015-06-29", 
-"country": "IN", 
-"Total Users": "211"
+"country": "MO", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-06-29", 
-"country": "JO", 
+"country": "AU", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-06-30", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-30", 
+"country": "US", 
+"Total Users": "9"
+}, 
+{
+"date": "2015-06-30", 
+"country": "TW", 
+"Total Users": "229"
 }, 
 {
 "date": "2015-06-30", 
 "country": "VE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-30", 
-"country": "NP", 
 "Total Users": "1"
 }, 
 {
@@ -10061,33 +10071,23 @@
 }, 
 {
 "date": "2015-06-30", 
+"country": "HK", 
+"Total Users": "40"
+}, 
+{
+"date": "2015-06-30", 
+"country": "NP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-06-30", 
 "country": "GB", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-06-30", 
-"country": "TW", 
-"Total Users": "229"
-}, 
-{
-"date": "2015-06-30", 
-"country": "US", 
-"Total Users": "9"
-}, 
-{
-"date": "2015-06-30", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-06-30", 
 "country": "IN", 
 "Total Users": "254"
-}, 
-{
-"date": "2015-06-30", 
-"country": "HK", 
-"Total Users": "40"
 }, 
 {
 "date": "2015-07-01", 
@@ -10096,8 +10096,28 @@
 }, 
 {
 "date": "2015-07-01", 
+"country": "CO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-01", 
+"country": "JP", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-07-01", 
 "country": "TR", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-07-01", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-07-01", 
+"country": "CA", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-07-01", 
@@ -10111,28 +10131,18 @@
 }, 
 {
 "date": "2015-07-01", 
-"country": "CO", 
+"country": "ES", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-01", 
+"country": "SG", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-07-01", 
 "country": "US", 
 "Total Users": "23"
-}, 
-{
-"date": "2015-07-01", 
-"country": "HK", 
-"Total Users": "25"
-}, 
-{
-"date": "2015-07-01", 
-"country": "ZA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-01", 
-"country": "AU", 
-"Total Users": "5"
 }, 
 {
 "date": "2015-07-01", 
@@ -10146,18 +10156,13 @@
 }, 
 {
 "date": "2015-07-01", 
+"country": "AU", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-07-01", 
 "country": "TH", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-07-01", 
-"country": "ES", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-01", 
-"country": "GB", 
-"Total Users": "3"
 }, 
 {
 "date": "2015-07-01", 
@@ -10166,18 +10171,28 @@
 }, 
 {
 "date": "2015-07-01", 
-"country": "CA", 
-"Total Users": "3"
+"country": "HK", 
+"Total Users": "25"
 }, 
 {
 "date": "2015-07-01", 
-"country": "SG", 
+"country": "ZA", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-07-01", 
-"country": "JP", 
-"Total Users": "5"
+"date": "2015-07-02", 
+"country": "PH", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-07-02", 
+"country": "PL", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-02", 
+"country": "CA", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-07-02", 
@@ -10186,7 +10201,47 @@
 }, 
 {
 "date": "2015-07-02", 
+"country": "BD", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-02", 
+"country": "VE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-02", 
+"country": "KR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-02", 
+"country": "HK", 
+"Total Users": "89"
+}, 
+{
+"date": "2015-07-02", 
+"country": "AU", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-07-02", 
+"country": "GR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-02", 
+"country": "NP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-02", 
 "country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-02", 
+"country": "NO", 
 "Total Users": "1"
 }, 
 {
@@ -10206,42 +10261,7 @@
 }, 
 {
 "date": "2015-07-02", 
-"country": "AU", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-07-02", 
 "country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-07-02", 
-"country": "GR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-02", 
-"country": "HK", 
-"Total Users": "89"
-}, 
-{
-"date": "2015-07-02", 
-"country": "NO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-02", 
-"country": "BD", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-02", 
-"country": "KR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-02", 
-"country": "PH", 
 "Total Users": "2"
 }, 
 {
@@ -10251,82 +10271,27 @@
 }, 
 {
 "date": "2015-07-02", 
-"country": "IN", 
-"Total Users": "198"
-}, 
-{
-"date": "2015-07-02", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-02", 
-"country": "VE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-02", 
-"country": "PL", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-02", 
 "country": "TW", 
 "Total Users": "171"
 }, 
 {
 "date": "2015-07-02", 
-"country": "NP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-03", 
-"country": "HK", 
-"Total Users": "43"
-}, 
-{
-"date": "2015-07-03", 
-"country": "US", 
-"Total Users": "15"
-}, 
-{
-"date": "2015-07-03", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-03", 
-"country": "TW", 
-"Total Users": "128"
-}, 
-{
-"date": "2015-07-03", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-03", 
 "country": "IN", 
-"Total Users": "187"
+"Total Users": "198"
 }, 
 {
 "date": "2015-07-03", 
-"country": "BD", 
+"country": "KW", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-07-03", 
-"country": "JP", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-07-03", 
-"country": "GB", 
-"Total Users": "3"
 }, 
 {
 "date": "2015-07-03", 
 "country": "NG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-03", 
+"country": "AU", 
 "Total Users": "1"
 }, 
 {
@@ -10341,13 +10306,23 @@
 }, 
 {
 "date": "2015-07-03", 
-"country": "KW", 
+"country": "TW", 
+"Total Users": "128"
+}, 
+{
+"date": "2015-07-03", 
+"country": "CA", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-07-03", 
-"country": "BE", 
-"Total Users": "1"
+"country": "JP", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-07-03", 
+"country": "US", 
+"Total Users": "15"
 }, 
 {
 "date": "2015-07-03", 
@@ -10355,34 +10330,34 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-07-04", 
-"country": "KR", 
+"date": "2015-07-03", 
+"country": "HK", 
+"Total Users": "43"
+}, 
+{
+"date": "2015-07-03", 
+"country": "BD", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-03", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-07-03", 
+"country": "IN", 
+"Total Users": "187"
+}, 
+{
+"date": "2015-07-03", 
+"country": "BE", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-07-04", 
-"country": "NP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-04", 
-"country": "DE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-04", 
-"country": "TW", 
-"Total Users": "70"
-}, 
-{
-"date": "2015-07-04", 
-"country": "SA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-04", 
-"country": "NZ", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "8"
 }, 
 {
 "date": "2015-07-04", 
@@ -10391,23 +10366,33 @@
 }, 
 {
 "date": "2015-07-04", 
-"country": "AE", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-07-04", 
-"country": "MO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-04", 
 "country": "IN", 
 "Total Users": "181"
 }, 
 {
 "date": "2015-07-04", 
-"country": "HU", 
+"country": "ES", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-07-04", 
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-07-04", 
+"country": "KR", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-07-04", 
+"country": "BH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-04", 
+"country": "TW", 
+"Total Users": "70"
 }, 
 {
 "date": "2015-07-04", 
@@ -10421,46 +10406,36 @@
 }, 
 {
 "date": "2015-07-04", 
-"country": "US", 
-"Total Users": "8"
-}, 
-{
-"date": "2015-07-04", 
-"country": "BH", 
+"country": "NZ", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-07-04", 
-"country": "ES", 
-"Total Users": "2"
+"country": "HU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-07-04", 
-"country": "JP", 
-"Total Users": "2"
+"country": "NP", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-07-05", 
-"country": "JP", 
-"Total Users": "6"
+"date": "2015-07-04", 
+"country": "AE", 
+"Total Users": "3"
 }, 
 {
-"date": "2015-07-05", 
-"country": "US", 
-"Total Users": "7"
+"date": "2015-07-04", 
+"country": "SA", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-07-05", 
-"country": "TW", 
-"Total Users": "51"
+"date": "2015-07-04", 
+"country": "MO", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-07-05", 
-"country": "HK", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-07-05", 
+"date": "2015-07-04", 
 "country": "DE", 
 "Total Users": "1"
 }, 
@@ -10476,13 +10451,33 @@
 }, 
 {
 "date": "2015-07-05", 
-"country": "CH", 
+"country": "HK", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-07-05", 
+"country": "TW", 
+"Total Users": "51"
+}, 
+{
+"date": "2015-07-05", 
+"country": "JP", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-07-05", 
+"country": "DE", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-07-06", 
+"date": "2015-07-05", 
 "country": "US", 
-"Total Users": "18"
+"Total Users": "7"
+}, 
+{
+"date": "2015-07-05", 
+"country": "CH", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-07-06", 
@@ -10496,33 +10491,18 @@
 }, 
 {
 "date": "2015-07-06", 
-"country": "TW", 
-"Total Users": "97"
-}, 
-{
-"date": "2015-07-06", 
-"country": "QA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-06", 
 "country": "HK", 
 "Total Users": "3"
 }, 
 {
 "date": "2015-07-06", 
-"country": "AR", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "97"
 }, 
 {
 "date": "2015-07-06", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-06", 
-"country": "VN", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "18"
 }, 
 {
 "date": "2015-07-06", 
@@ -10536,23 +10516,33 @@
 }, 
 {
 "date": "2015-07-06", 
+"country": "QA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-06", 
+"country": "AR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-06", 
+"country": "VN", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-06", 
 "country": "IN", 
 "Total Users": "173"
 }, 
 {
-"date": "2015-07-07", 
+"date": "2015-07-06", 
 "country": "ID", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-07-07", 
-"country": "SA", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-07-07", 
-"country": "JP", 
-"Total Users": "4"
+"country": "TW", 
+"Total Users": "67"
 }, 
 {
 "date": "2015-07-07", 
@@ -10561,7 +10551,7 @@
 }, 
 {
 "date": "2015-07-07", 
-"country": "AU", 
+"country": "GB", 
 "Total Users": "2"
 }, 
 {
@@ -10571,17 +10561,27 @@
 }, 
 {
 "date": "2015-07-07", 
-"country": "TW", 
-"Total Users": "67"
+"country": "IN", 
+"Total Users": "188"
 }, 
 {
 "date": "2015-07-07", 
-"country": "GB", 
-"Total Users": "2"
+"country": "SA", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-07-07", 
 "country": "PR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-07", 
+"country": "JP", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-07-07", 
+"country": "NG", 
 "Total Users": "1"
 }, 
 {
@@ -10591,28 +10591,23 @@
 }, 
 {
 "date": "2015-07-07", 
+"country": "AU", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-07-07", 
+"country": "ID", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-07-07", 
 "country": "SG", 
 "Total Users": "3"
 }, 
 {
-"date": "2015-07-07", 
-"country": "IN", 
-"Total Users": "188"
-}, 
-{
-"date": "2015-07-07", 
-"country": "NG", 
-"Total Users": "1"
-}, 
-{
 "date": "2015-07-08", 
-"country": "TW", 
-"Total Users": "88"
-}, 
-{
-"date": "2015-07-08", 
-"country": "ID", 
-"Total Users": "1"
+"country": "GB", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-07-08", 
@@ -10621,8 +10616,13 @@
 }, 
 {
 "date": "2015-07-08", 
-"country": "JP", 
-"Total Users": "2"
+"country": "NL", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-08", 
+"country": "US", 
+"Total Users": "13"
 }, 
 {
 "date": "2015-07-08", 
@@ -10631,8 +10631,13 @@
 }, 
 {
 "date": "2015-07-08", 
-"country": "IN", 
-"Total Users": "194"
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-07-08", 
+"country": "HK", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-07-08", 
@@ -10641,8 +10646,28 @@
 }, 
 {
 "date": "2015-07-08", 
+"country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-08", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-08", 
 "country": "NP", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-07-08", 
+"country": "IN", 
+"Total Users": "194"
+}, 
+{
+"date": "2015-07-08", 
+"country": "TW", 
+"Total Users": "88"
 }, 
 {
 "date": "2015-07-08", 
@@ -10655,39 +10680,29 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-07-08", 
-"country": "US", 
-"Total Users": "13"
+"date": "2015-07-09", 
+"country": "JP", 
+"Total Users": "5"
 }, 
 {
-"date": "2015-07-08", 
+"date": "2015-07-09", 
+"country": "MO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-09", 
 "country": "HK", 
-"Total Users": "4"
+"Total Users": "5"
 }, 
 {
-"date": "2015-07-08", 
-"country": "NL", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-08", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-08", 
-"country": "GB", 
-"Total Users": "3"
+"date": "2015-07-09", 
+"country": "US", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-07-09", 
 "country": "AT", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-07-09", 
-"country": "TW", 
-"Total Users": "72"
 }, 
 {
 "date": "2015-07-09", 
@@ -10697,6 +10712,16 @@
 {
 "date": "2015-07-09", 
 "country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-09", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-09", 
+"country": "NZ", 
 "Total Users": "1"
 }, 
 {
@@ -10711,33 +10736,8 @@
 }, 
 {
 "date": "2015-07-09", 
-"country": "NZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-09", 
-"country": "HK", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-07-09", 
-"country": "US", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-07-09", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-09", 
-"country": "JP", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-07-09", 
-"country": "MO", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "72"
 }, 
 {
 "date": "2015-07-09", 
@@ -10751,8 +10751,13 @@
 }, 
 {
 "date": "2015-07-10", 
-"country": "HK", 
-"Total Users": "7"
+"country": "VE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-10", 
+"country": "US", 
+"Total Users": "16"
 }, 
 {
 "date": "2015-07-10", 
@@ -10761,8 +10766,23 @@
 }, 
 {
 "date": "2015-07-10", 
+"country": "HK", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-07-10", 
+"country": "JP", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-07-10", 
 "country": "KW", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-07-10", 
+"country": "TW", 
+"Total Users": "60"
 }, 
 {
 "date": "2015-07-10", 
@@ -10775,24 +10795,9 @@
 "Total Users": "2"
 }, 
 {
-"date": "2015-07-10", 
-"country": "VE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-10", 
+"date": "2015-07-11", 
 "country": "US", 
-"Total Users": "16"
-}, 
-{
-"date": "2015-07-10", 
-"country": "TW", 
-"Total Users": "60"
-}, 
-{
-"date": "2015-07-10", 
-"country": "JP", 
-"Total Users": "3"
+"Total Users": "15"
 }, 
 {
 "date": "2015-07-11", 
@@ -10801,8 +10806,23 @@
 }, 
 {
 "date": "2015-07-11", 
-"country": "ID", 
+"country": "PK", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-07-11", 
+"country": "KH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-11", 
+"country": "TW", 
+"Total Users": "35"
+}, 
+{
+"date": "2015-07-11", 
+"country": "HK", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-07-11", 
@@ -10816,27 +10836,17 @@
 }, 
 {
 "date": "2015-07-11", 
-"country": "US", 
-"Total Users": "15"
-}, 
-{
-"date": "2015-07-11", 
-"country": "TW", 
-"Total Users": "35"
-}, 
-{
-"date": "2015-07-11", 
-"country": "PK", 
+"country": "ID", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-07-11", 
-"country": "HK", 
-"Total Users": "6"
+"date": "2015-07-12", 
+"country": "SG", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-07-11", 
-"country": "KH", 
+"date": "2015-07-12", 
+"country": "ZA", 
 "Total Users": "1"
 }, 
 {
@@ -10846,8 +10856,13 @@
 }, 
 {
 "date": "2015-07-12", 
-"country": "HK", 
+"country": "GB", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-07-12", 
+"country": "TW", 
+"Total Users": "37"
 }, 
 {
 "date": "2015-07-12", 
@@ -10861,28 +10876,8 @@
 }, 
 {
 "date": "2015-07-12", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-12", 
-"country": "ZA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-12", 
 "country": "JP", 
 "Total Users": "2"
-}, 
-{
-"date": "2015-07-12", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-12", 
-"country": "TW", 
-"Total Users": "37"
 }, 
 {
 "date": "2015-07-12", 
@@ -10890,19 +10885,9 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-07-13", 
+"date": "2015-07-12", 
 "country": "HK", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-07-13", 
-"country": "NZ", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-07-13", 
-"country": "US", 
-"Total Users": "3"
 }, 
 {
 "date": "2015-07-13", 
@@ -10916,17 +10901,7 @@
 }, 
 {
 "date": "2015-07-13", 
-"country": "GB", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-07-13", 
-"country": "IN", 
-"Total Users": "73"
-}, 
-{
-"date": "2015-07-13", 
-"country": "SG", 
+"country": "NZ", 
 "Total Users": "1"
 }, 
 {
@@ -10935,8 +10910,28 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-07-14", 
-"country": "AU", 
+"date": "2015-07-13", 
+"country": "HK", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-07-13", 
+"country": "IN", 
+"Total Users": "73"
+}, 
+{
+"date": "2015-07-13", 
+"country": "US", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-07-13", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-07-13", 
+"country": "SG", 
 "Total Users": "1"
 }, 
 {
@@ -10946,23 +10941,13 @@
 }, 
 {
 "date": "2015-07-14", 
-"country": "IN", 
-"Total Users": "29"
-}, 
-{
-"date": "2015-07-14", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-07-14", 
-"country": "SG", 
+"country": "MY", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-07-14", 
-"country": "TW", 
-"Total Users": "49"
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-07-14", 
@@ -10976,7 +10961,32 @@
 }, 
 {
 "date": "2015-07-14", 
-"country": "MY", 
+"country": "TW", 
+"Total Users": "49"
+}, 
+{
+"date": "2015-07-14", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-14", 
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-07-14", 
+"country": "IN", 
+"Total Users": "29"
+}, 
+{
+"date": "2015-07-15", 
+"country": "TR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-15", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
@@ -10986,22 +10996,7 @@
 }, 
 {
 "date": "2015-07-15", 
-"country": "IN", 
-"Total Users": "45"
-}, 
-{
-"date": "2015-07-15", 
 "country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-15", 
-"country": "US", 
-"Total Users": "12"
-}, 
-{
-"date": "2015-07-15", 
-"country": "TR", 
 "Total Users": "1"
 }, 
 {
@@ -11011,13 +11006,28 @@
 }, 
 {
 "date": "2015-07-15", 
-"country": "JP", 
-"Total Users": "1"
+"country": "HK", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-07-15", 
-"country": "HK", 
-"Total Users": "3"
+"country": "IN", 
+"Total Users": "45"
+}, 
+{
+"date": "2015-07-15", 
+"country": "US", 
+"Total Users": "12"
+}, 
+{
+"date": "2015-07-16", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-16", 
+"country": "IN", 
+"Total Users": "53"
 }, 
 {
 "date": "2015-07-16", 
@@ -11031,22 +11041,12 @@
 }, 
 {
 "date": "2015-07-16", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-16", 
-"country": "HK", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-07-16", 
 "country": "TW", 
 "Total Users": "71"
 }, 
 {
 "date": "2015-07-16", 
-"country": "MO", 
+"country": "ES", 
 "Total Users": "1"
 }, 
 {
@@ -11056,23 +11056,18 @@
 }, 
 {
 "date": "2015-07-16", 
-"country": "IN", 
-"Total Users": "53"
+"country": "HK", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-07-16", 
-"country": "ES", 
+"country": "MO", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-07-17", 
-"country": "TW", 
-"Total Users": "50"
-}, 
-{
-"date": "2015-07-17", 
-"country": "IN", 
-"Total Users": "31"
+"country": "JP", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-07-17", 
@@ -11086,7 +11081,32 @@
 }, 
 {
 "date": "2015-07-17", 
-"country": "JP", 
+"country": "IN", 
+"Total Users": "31"
+}, 
+{
+"date": "2015-07-17", 
+"country": "TW", 
+"Total Users": "50"
+}, 
+{
+"date": "2015-07-18", 
+"country": "US", 
+"Total Users": "12"
+}, 
+{
+"date": "2015-07-18", 
+"country": "IR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-18", 
+"country": "TW", 
+"Total Users": "30"
+}, 
+{
+"date": "2015-07-18", 
+"country": "DE", 
 "Total Users": "1"
 }, 
 {
@@ -11096,8 +11116,8 @@
 }, 
 {
 "date": "2015-07-18", 
-"country": "DE", 
-"Total Users": "1"
+"country": "ID", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-07-18", 
@@ -11106,33 +11126,8 @@
 }, 
 {
 "date": "2015-07-18", 
-"country": "IR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-18", 
-"country": "US", 
-"Total Users": "12"
-}, 
-{
-"date": "2015-07-18", 
-"country": "TW", 
-"Total Users": "30"
-}, 
-{
-"date": "2015-07-18", 
-"country": "ID", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-07-18", 
 "country": "FR", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-07-19", 
-"country": "HK", 
-"Total Users": "3"
 }, 
 {
 "date": "2015-07-19", 
@@ -11146,23 +11141,23 @@
 }, 
 {
 "date": "2015-07-19", 
+"country": "HK", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-07-19", 
 "country": "US", 
 "Total Users": "12"
 }, 
 {
 "date": "2015-07-20", 
-"country": "IN", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-07-20", 
-"country": "HK", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-07-20", 
 "country": "US", 
 "Total Users": "7"
+}, 
+{
+"date": "2015-07-20", 
+"country": "TW", 
+"Total Users": "42"
 }, 
 {
 "date": "2015-07-20", 
@@ -11171,13 +11166,18 @@
 }, 
 {
 "date": "2015-07-20", 
-"country": "TW", 
-"Total Users": "42"
+"country": "HK", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-07-20", 
+"country": "IN", 
+"Total Users": "5"
 }, 
 {
 "date": "2015-07-21", 
-"country": "US", 
-"Total Users": "7"
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-07-21", 
@@ -11186,18 +11186,8 @@
 }, 
 {
 "date": "2015-07-21", 
-"country": "TW", 
-"Total Users": "60"
-}, 
-{
-"date": "2015-07-21", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-21", 
-"country": "MY", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "7"
 }, 
 {
 "date": "2015-07-21", 
@@ -11205,14 +11195,14 @@
 "Total Users": "7"
 }, 
 {
-"date": "2015-07-22", 
+"date": "2015-07-21", 
 "country": "TW", 
-"Total Users": "96"
+"Total Users": "60"
 }, 
 {
-"date": "2015-07-22", 
-"country": "AU", 
-"Total Users": "2"
+"date": "2015-07-21", 
+"country": "MY", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-07-22", 
@@ -11221,8 +11211,23 @@
 }, 
 {
 "date": "2015-07-22", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-22", 
 "country": "US", 
 "Total Users": "6"
+}, 
+{
+"date": "2015-07-22", 
+"country": "ZA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-22", 
+"country": "TW", 
+"Total Users": "96"
 }, 
 {
 "date": "2015-07-22", 
@@ -11236,13 +11241,13 @@
 }, 
 {
 "date": "2015-07-22", 
-"country": "CA", 
-"Total Users": "1"
+"country": "AU", 
+"Total Users": "2"
 }, 
 {
-"date": "2015-07-22", 
-"country": "ZA", 
-"Total Users": "1"
+"date": "2015-07-23", 
+"country": "GB", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-07-23", 
@@ -11256,8 +11261,8 @@
 }, 
 {
 "date": "2015-07-23", 
-"country": "HK", 
-"Total Users": "6"
+"country": "SG", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-07-23", 
@@ -11266,13 +11271,13 @@
 }, 
 {
 "date": "2015-07-23", 
-"country": "SG", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-07-23", 
-"country": "GB", 
-"Total Users": "2"
+"country": "HK", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-07-23", 
@@ -11280,14 +11285,19 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-07-23", 
-"country": "US", 
-"Total Users": "3"
+"date": "2015-07-24", 
+"country": "JP", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-07-24", 
 "country": "US", 
 "Total Users": "5"
+}, 
+{
+"date": "2015-07-24", 
+"country": "IN", 
+"Total Users": "87"
 }, 
 {
 "date": "2015-07-24", 
@@ -11296,23 +11306,13 @@
 }, 
 {
 "date": "2015-07-24", 
-"country": "NZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-24", 
-"country": "HK", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-07-24", 
 "country": "GB", 
 "Total Users": "3"
 }, 
 {
 "date": "2015-07-24", 
-"country": "JP", 
-"Total Users": "2"
+"country": "NZ", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-07-24", 
@@ -11331,13 +11331,13 @@
 }, 
 {
 "date": "2015-07-24", 
-"country": "IN", 
-"Total Users": "87"
+"country": "HK", 
+"Total Users": "5"
 }, 
 {
 "date": "2015-07-25", 
-"country": "JP", 
-"Total Users": "1"
+"country": "CA", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-07-25", 
@@ -11346,17 +11346,27 @@
 }, 
 {
 "date": "2015-07-25", 
-"country": "MO", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-07-25", 
 "country": "SG", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-07-25", 
+"country": "MO", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-07-25", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-25", 
 "country": "US", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-25", 
+"country": "NZ", 
 "Total Users": "1"
 }, 
 {
@@ -11370,49 +11380,14 @@
 "Total Users": "60"
 }, 
 {
-"date": "2015-07-25", 
-"country": "NZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-25", 
-"country": "CA", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-07-26", 
-"country": "TW", 
-"Total Users": "98"
-}, 
-{
-"date": "2015-07-26", 
-"country": "US", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-07-26", 
-"country": "ID", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-07-26", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-26", 
-"country": "IN", 
-"Total Users": "36"
-}, 
-{
 "date": "2015-07-26", 
 "country": "JP", 
 "Total Users": "2"
 }, 
 {
 "date": "2015-07-26", 
-"country": "HK", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-07-26", 
@@ -11425,19 +11400,34 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-07-27", 
-"country": "TR", 
+"date": "2015-07-26", 
+"country": "ID", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-07-26", 
+"country": "HK", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-07-27", 
+"date": "2015-07-26", 
 "country": "GB", 
 "Total Users": "1"
 }, 
 {
+"date": "2015-07-26", 
+"country": "TW", 
+"Total Users": "98"
+}, 
+{
+"date": "2015-07-26", 
+"country": "IN", 
+"Total Users": "36"
+}, 
+{
 "date": "2015-07-27", 
-"country": "US", 
-"Total Users": "4"
+"country": "IN", 
+"Total Users": "76"
 }, 
 {
 "date": "2015-07-27", 
@@ -11451,8 +11441,13 @@
 }, 
 {
 "date": "2015-07-27", 
-"country": "IN", 
-"Total Users": "76"
+"country": "TR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-27", 
+"country": "GB", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-07-27", 
@@ -11460,8 +11455,13 @@
 "Total Users": "1"
 }, 
 {
+"date": "2015-07-27", 
+"country": "US", 
+"Total Users": "4"
+}, 
+{
 "date": "2015-07-28", 
-"country": "KW", 
+"country": "MO", 
 "Total Users": "1"
 }, 
 {
@@ -11476,22 +11476,12 @@
 }, 
 {
 "date": "2015-07-28", 
+"country": "US", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-07-28", 
 "country": "NZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-28", 
-"country": "CY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-28", 
-"country": "IN", 
-"Total Users": "59"
-}, 
-{
-"date": "2015-07-28", 
-"country": "MO", 
 "Total Users": "1"
 }, 
 {
@@ -11501,42 +11491,27 @@
 }, 
 {
 "date": "2015-07-28", 
+"country": "KW", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-28", 
+"country": "IN", 
+"Total Users": "59"
+}, 
+{
+"date": "2015-07-28", 
+"country": "CY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-28", 
 "country": "JP", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-07-28", 
-"country": "US", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-07-28", 
 "country": "HK", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-29", 
-"country": "BR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-29", 
-"country": "TW", 
-"Total Users": "152"
-}, 
-{
-"date": "2015-07-29", 
-"country": "IN", 
-"Total Users": "59"
-}, 
-{
-"date": "2015-07-29", 
-"country": "US", 
-"Total Users": "7"
-}, 
-{
-"date": "2015-07-29", 
-"country": "MO", 
 "Total Users": "1"
 }, 
 {
@@ -11546,8 +11521,33 @@
 }, 
 {
 "date": "2015-07-29", 
+"country": "TW", 
+"Total Users": "152"
+}, 
+{
+"date": "2015-07-29", 
+"country": "US", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-07-29", 
+"country": "BR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-29", 
+"country": "MO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-29", 
 "country": "HK", 
 "Total Users": "6"
+}, 
+{
+"date": "2015-07-29", 
+"country": "IN", 
+"Total Users": "59"
 }, 
 {
 "date": "2015-07-29", 
@@ -11556,13 +11556,8 @@
 }, 
 {
 "date": "2015-07-30", 
-"country": "HK", 
-"Total Users": "8"
-}, 
-{
-"date": "2015-07-30", 
-"country": "GB", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "5"
 }, 
 {
 "date": "2015-07-30", 
@@ -11571,8 +11566,8 @@
 }, 
 {
 "date": "2015-07-30", 
-"country": "US", 
-"Total Users": "5"
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-07-30", 
@@ -11591,7 +11586,27 @@
 }, 
 {
 "date": "2015-07-30", 
-"country": "AU", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-30", 
+"country": "HK", 
+"Total Users": "8"
+}, 
+{
+"date": "2015-07-31", 
+"country": "US", 
+"Total Users": "9"
+}, 
+{
+"date": "2015-07-31", 
+"country": "GB", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-07-31", 
+"country": "ZA", 
 "Total Users": "1"
 }, 
 {
@@ -11601,12 +11616,7 @@
 }, 
 {
 "date": "2015-07-31", 
-"country": "NO", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-31", 
-"country": "ZA", 
+"country": "ID", 
 "Total Users": "1"
 }, 
 {
@@ -11618,6 +11628,16 @@
 "date": "2015-07-31", 
 "country": "MO", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-07-31", 
+"country": "NO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-07-31", 
+"country": "HK", 
+"Total Users": "10"
 }, 
 {
 "date": "2015-07-31", 
@@ -11635,29 +11655,9 @@
 "Total Users": "278"
 }, 
 {
-"date": "2015-07-31", 
-"country": "US", 
-"Total Users": "9"
-}, 
-{
-"date": "2015-07-31", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-07-31", 
-"country": "HK", 
-"Total Users": "10"
-}, 
-{
-"date": "2015-07-31", 
-"country": "GB", 
-"Total Users": "4"
-}, 
-{
 "date": "2015-08-01", 
-"country": "ES", 
-"Total Users": "1"
+"country": "IN", 
+"Total Users": "62"
 }, 
 {
 "date": "2015-08-01", 
@@ -11666,18 +11666,13 @@
 }, 
 {
 "date": "2015-08-01", 
-"country": "TW", 
-"Total Users": "85"
+"country": "ES", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-08-01", 
-"country": "HK", 
-"Total Users": "11"
-}, 
-{
-"date": "2015-08-01", 
-"country": "IN", 
-"Total Users": "62"
+"country": "AU", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-08-01", 
@@ -11691,13 +11686,13 @@
 }, 
 {
 "date": "2015-08-01", 
-"country": "AU", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "85"
 }, 
 {
-"date": "2015-08-02", 
-"country": "GB", 
-"Total Users": "1"
+"date": "2015-08-01", 
+"country": "HK", 
+"Total Users": "11"
 }, 
 {
 "date": "2015-08-02", 
@@ -11711,13 +11706,8 @@
 }, 
 {
 "date": "2015-08-02", 
-"country": "US", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-08-02", 
-"country": "HK", 
-"Total Users": "10"
+"country": "KE", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-08-02", 
@@ -11726,8 +11716,18 @@
 }, 
 {
 "date": "2015-08-02", 
-"country": "KE", 
+"country": "GB", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-08-02", 
+"country": "HK", 
+"Total Users": "10"
+}, 
+{
+"date": "2015-08-02", 
+"country": "US", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-08-03", 
@@ -11736,18 +11736,13 @@
 }, 
 {
 "date": "2015-08-03", 
-"country": "IN", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-08-03", 
 "country": "JP", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-08-04", 
-"country": "SG", 
-"Total Users": "1"
+"date": "2015-08-03", 
+"country": "IN", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-08-04", 
@@ -11761,7 +11756,22 @@
 }, 
 {
 "date": "2015-08-04", 
-"country": "MO", 
+"country": "IN", 
+"Total Users": "89"
+}, 
+{
+"date": "2015-08-04", 
+"country": "HK", 
+"Total Users": "13"
+}, 
+{
+"date": "2015-08-04", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-04", 
+"country": "GB", 
 "Total Users": "1"
 }, 
 {
@@ -11771,23 +11781,13 @@
 }, 
 {
 "date": "2015-08-04", 
-"country": "AR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-04", 
-"country": "TH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-04", 
 "country": "US", 
 "Total Users": "6"
 }, 
 {
 "date": "2015-08-04", 
-"country": "IN", 
-"Total Users": "89"
+"country": "AR", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-08-04", 
@@ -11796,37 +11796,12 @@
 }, 
 {
 "date": "2015-08-04", 
-"country": "GB", 
+"country": "MO", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-08-04", 
-"country": "HK", 
-"Total Users": "13"
-}, 
-{
-"date": "2015-08-05", 
-"country": "TW", 
-"Total Users": "285"
-}, 
-{
-"date": "2015-08-05", 
-"country": "PH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-05", 
-"country": "IN", 
-"Total Users": "48"
-}, 
-{
-"date": "2015-08-05", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-05", 
-"country": "US", 
+"country": "TH", 
 "Total Users": "1"
 }, 
 {
@@ -11836,47 +11811,32 @@
 }, 
 {
 "date": "2015-08-05", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-05", 
+"country": "IN", 
+"Total Users": "48"
+}, 
+{
+"date": "2015-08-05", 
+"country": "PH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-05", 
 "country": "VN", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-08-06", 
-"country": "GB", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-08-06", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-06", 
-"country": "US", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-08-06", 
+"date": "2015-08-05", 
 "country": "TW", 
-"Total Users": "211"
+"Total Users": "285"
 }, 
 {
-"date": "2015-08-06", 
-"country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-08-06", 
-"country": "AU", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-08-06", 
-"country": "IN", 
-"Total Users": "92"
-}, 
-{
-"date": "2015-08-06", 
-"country": "CA", 
+"date": "2015-08-05", 
+"country": "US", 
 "Total Users": "1"
 }, 
 {
@@ -11886,23 +11846,48 @@
 }, 
 {
 "date": "2015-08-06", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-06", 
+"country": "TW", 
+"Total Users": "211"
+}, 
+{
+"date": "2015-08-06", 
+"country": "US", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-08-06", 
+"country": "IN", 
+"Total Users": "92"
+}, 
+{
+"date": "2015-08-06", 
+"country": "GB", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-08-06", 
 "country": "HK", 
 "Total Users": "19"
 }, 
 {
-"date": "2015-08-07", 
-"country": "HK", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-08-07", 
-"country": "MY", 
+"date": "2015-08-06", 
+"country": "JP", 
 "Total Users": "2"
 }, 
 {
-"date": "2015-08-07", 
-"country": "IN", 
-"Total Users": "75"
+"date": "2015-08-06", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-06", 
+"country": "AU", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-08-07", 
@@ -11911,18 +11896,8 @@
 }, 
 {
 "date": "2015-08-07", 
-"country": "KR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-07", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-07", 
-"country": "PH", 
-"Total Users": "1"
+"country": "MY", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-08-07", 
@@ -11936,13 +11911,33 @@
 }, 
 {
 "date": "2015-08-07", 
+"country": "KR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-07", 
+"country": "IN", 
+"Total Users": "75"
+}, 
+{
+"date": "2015-08-07", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-07", 
+"country": "PH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-07", 
 "country": "TW", 
 "Total Users": "130"
 }, 
 {
-"date": "2015-08-08", 
-"country": "TW", 
-"Total Users": "58"
+"date": "2015-08-07", 
+"country": "HK", 
+"Total Users": "5"
 }, 
 {
 "date": "2015-08-08", 
@@ -11951,8 +11946,8 @@
 }, 
 {
 "date": "2015-08-08", 
-"country": "HK", 
-"Total Users": "3"
+"country": "TW", 
+"Total Users": "58"
 }, 
 {
 "date": "2015-08-08", 
@@ -11963,6 +11958,11 @@
 "date": "2015-08-08", 
 "country": "US", 
 "Total Users": "4"
+}, 
+{
+"date": "2015-08-08", 
+"country": "HK", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-08-08", 
@@ -11976,8 +11976,8 @@
 }, 
 {
 "date": "2015-08-09", 
-"country": "US", 
-"Total Users": "6"
+"country": "NZ", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-08-09", 
@@ -11986,8 +11986,8 @@
 }, 
 {
 "date": "2015-08-09", 
-"country": "NZ", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-08-09", 
@@ -12001,32 +12001,12 @@
 }, 
 {
 "date": "2015-08-10", 
-"country": "HK", 
-"Total Users": "22"
+"country": "US", 
+"Total Users": "5"
 }, 
 {
 "date": "2015-08-10", 
 "country": "NZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-10", 
-"country": "AE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-10", 
-"country": "MY", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-08-10", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-10", 
-"country": "KW", 
 "Total Users": "1"
 }, 
 {
@@ -12036,7 +12016,7 @@
 }, 
 {
 "date": "2015-08-10", 
-"country": "KH", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
@@ -12046,8 +12026,8 @@
 }, 
 {
 "date": "2015-08-10", 
-"country": "IN", 
-"Total Users": "89"
+"country": "HK", 
+"Total Users": "22"
 }, 
 {
 "date": "2015-08-10", 
@@ -12056,23 +12036,33 @@
 }, 
 {
 "date": "2015-08-10", 
-"country": "US", 
-"Total Users": "5"
+"country": "IN", 
+"Total Users": "89"
 }, 
 {
-"date": "2015-08-11", 
-"country": "VE", 
+"date": "2015-08-10", 
+"country": "KH", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-08-11", 
-"country": "ES", 
+"date": "2015-08-10", 
+"country": "AE", 
 "Total Users": "1"
 }, 
 {
+"date": "2015-08-10", 
+"country": "KW", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-10", 
+"country": "MY", 
+"Total Users": "2"
+}, 
+{
 "date": "2015-08-11", 
-"country": "US", 
-"Total Users": "6"
+"country": "CZ", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-08-11", 
@@ -12086,13 +12076,8 @@
 }, 
 {
 "date": "2015-08-11", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-11", 
-"country": "CZ", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-08-11", 
@@ -12105,28 +12090,18 @@
 "Total Users": "118"
 }, 
 {
-"date": "2015-08-12", 
-"country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-08-12", 
-"country": "HK", 
-"Total Users": "11"
-}, 
-{
-"date": "2015-08-12", 
-"country": "US", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-08-12", 
+"date": "2015-08-11", 
 "country": "MY", 
-"Total Users": "3"
+"Total Users": "1"
 }, 
 {
-"date": "2015-08-12", 
-"country": "KW", 
+"date": "2015-08-11", 
+"country": "VE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-11", 
+"country": "ES", 
 "Total Users": "1"
 }, 
 {
@@ -12136,13 +12111,58 @@
 }, 
 {
 "date": "2015-08-12", 
-"country": "CA", 
+"country": "JP", 
 "Total Users": "2"
+}, 
+{
+"date": "2015-08-12", 
+"country": "MY", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-08-12", 
+"country": "HK", 
+"Total Users": "11"
 }, 
 {
 "date": "2015-08-12", 
 "country": "IN", 
 "Total Users": "49"
+}, 
+{
+"date": "2015-08-12", 
+"country": "US", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-08-12", 
+"country": "KW", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-12", 
+"country": "CA", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-08-13", 
+"country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-13", 
+"country": "TW", 
+"Total Users": "70"
+}, 
+{
+"date": "2015-08-13", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-13", 
+"country": "GB", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-08-13", 
@@ -12151,8 +12171,8 @@
 }, 
 {
 "date": "2015-08-13", 
-"country": "MO", 
-"Total Users": "1"
+"country": "HK", 
+"Total Users": "7"
 }, 
 {
 "date": "2015-08-13", 
@@ -12161,7 +12181,7 @@
 }, 
 {
 "date": "2015-08-13", 
-"country": "JP", 
+"country": "MO", 
 "Total Users": "1"
 }, 
 {
@@ -12171,62 +12191,7 @@
 }, 
 {
 "date": "2015-08-13", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-13", 
 "country": "ZA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-13", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-13", 
-"country": "HK", 
-"Total Users": "7"
-}, 
-{
-"date": "2015-08-13", 
-"country": "TW", 
-"Total Users": "70"
-}, 
-{
-"date": "2015-08-14", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-14", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-14", 
-"country": "US", 
-"Total Users": "13"
-}, 
-{
-"date": "2015-08-14", 
-"country": "IN", 
-"Total Users": "82"
-}, 
-{
-"date": "2015-08-14", 
-"country": "TW", 
-"Total Users": "49"
-}, 
-{
-"date": "2015-08-14", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-14", 
-"country": "JP", 
 "Total Users": "1"
 }, 
 {
@@ -12235,9 +12200,44 @@
 "Total Users": "15"
 }, 
 {
-"date": "2015-08-15", 
+"date": "2015-08-14", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-14", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-14", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-14", 
+"country": "TW", 
+"Total Users": "49"
+}, 
+{
+"date": "2015-08-14", 
 "country": "IN", 
-"Total Users": "31"
+"Total Users": "82"
+}, 
+{
+"date": "2015-08-14", 
+"country": "US", 
+"Total Users": "13"
+}, 
+{
+"date": "2015-08-14", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-15", 
+"country": "RO", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-08-15", 
@@ -12251,13 +12251,8 @@
 }, 
 {
 "date": "2015-08-15", 
-"country": "HK", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-15", 
-"country": "RO", 
-"Total Users": "2"
+"country": "IN", 
+"Total Users": "31"
 }, 
 {
 "date": "2015-08-15", 
@@ -12265,14 +12260,9 @@
 "Total Users": "6"
 }, 
 {
-"date": "2015-08-16", 
-"country": "JP", 
+"date": "2015-08-15", 
+"country": "HK", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-08-16", 
-"country": "TW", 
-"Total Users": "34"
 }, 
 {
 "date": "2015-08-16", 
@@ -12286,8 +12276,23 @@
 }, 
 {
 "date": "2015-08-16", 
+"country": "TW", 
+"Total Users": "34"
+}, 
+{
+"date": "2015-08-16", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-16", 
 "country": "US", 
 "Total Users": "4"
+}, 
+{
+"date": "2015-08-17", 
+"country": "HK", 
+"Total Users": "16"
 }, 
 {
 "date": "2015-08-17", 
@@ -12301,28 +12306,28 @@
 }, 
 {
 "date": "2015-08-17", 
-"country": "IN", 
-"Total Users": "38"
-}, 
-{
-"date": "2015-08-17", 
-"country": "HK", 
-"Total Users": "16"
-}, 
-{
-"date": "2015-08-17", 
 "country": "ID", 
 "Total Users": "1"
 }, 
 {
+"date": "2015-08-17", 
+"country": "IN", 
+"Total Users": "38"
+}, 
+{
 "date": "2015-08-18", 
-"country": "SG", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "10"
 }, 
 {
 "date": "2015-08-18", 
 "country": "TW", 
 "Total Users": "40"
+}, 
+{
+"date": "2015-08-18", 
+"country": "HK", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-08-18", 
@@ -12341,13 +12346,18 @@
 }, 
 {
 "date": "2015-08-18", 
-"country": "HK", 
-"Total Users": "4"
+"country": "SG", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-08-18", 
-"country": "US", 
-"Total Users": "10"
+"date": "2015-08-19", 
+"country": "FR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-19", 
+"country": "TW", 
+"Total Users": "70"
 }, 
 {
 "date": "2015-08-19", 
@@ -12361,13 +12371,8 @@
 }, 
 {
 "date": "2015-08-19", 
-"country": "TW", 
-"Total Users": "70"
-}, 
-{
-"date": "2015-08-19", 
-"country": "FR", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "9"
 }, 
 {
 "date": "2015-08-19", 
@@ -12376,21 +12381,11 @@
 }, 
 {
 "date": "2015-08-19", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-19", 
-"country": "US", 
-"Total Users": "9"
-}, 
-{
-"date": "2015-08-19", 
 "country": "KH", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-08-20", 
+"date": "2015-08-19", 
 "country": "JP", 
 "Total Users": "1"
 }, 
@@ -12401,13 +12396,8 @@
 }, 
 {
 "date": "2015-08-20", 
-"country": "ES", 
+"country": "GB", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-08-20", 
-"country": "IN", 
-"Total Users": "53"
 }, 
 {
 "date": "2015-08-20", 
@@ -12416,7 +12406,7 @@
 }, 
 {
 "date": "2015-08-20", 
-"country": "GB", 
+"country": "ES", 
 "Total Users": "1"
 }, 
 {
@@ -12425,8 +12415,48 @@
 "Total Users": "8"
 }, 
 {
+"date": "2015-08-20", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-20", 
+"country": "IN", 
+"Total Users": "53"
+}, 
+{
+"date": "2015-08-21", 
+"country": "RU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-21", 
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-08-21", 
+"country": "IT", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-21", 
+"country": "IN", 
+"Total Users": "76"
+}, 
+{
 "date": "2015-08-21", 
 "country": "ES", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-21", 
+"country": "US", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-08-21", 
+"country": "BR", 
 "Total Users": "1"
 }, 
 {
@@ -12436,48 +12466,23 @@
 }, 
 {
 "date": "2015-08-21", 
-"country": "RU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-21", 
-"country": "BR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-21", 
-"country": "IT", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-21", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-21", 
-"country": "US", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-08-21", 
-"country": "IN", 
-"Total Users": "76"
-}, 
-{
-"date": "2015-08-21", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-08-21", 
 "country": "TW", 
 "Total Users": "39"
 }, 
 {
+"date": "2015-08-21", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
 "date": "2015-08-22", 
-"country": "US", 
+"country": "HK", 
 "Total Users": "4"
+}, 
+{
+"date": "2015-08-22", 
+"country": "IN", 
+"Total Users": "49"
 }, 
 {
 "date": "2015-08-22", 
@@ -12486,7 +12491,7 @@
 }, 
 {
 "date": "2015-08-22", 
-"country": "JP", 
+"country": "ID", 
 "Total Users": "1"
 }, 
 {
@@ -12496,8 +12501,8 @@
 }, 
 {
 "date": "2015-08-22", 
-"country": "IN", 
-"Total Users": "49"
+"country": "US", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-08-22", 
@@ -12506,13 +12511,8 @@
 }, 
 {
 "date": "2015-08-22", 
-"country": "ID", 
+"country": "JP", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-08-22", 
-"country": "HK", 
-"Total Users": "4"
 }, 
 {
 "date": "2015-08-23", 
@@ -12521,22 +12521,12 @@
 }, 
 {
 "date": "2015-08-23", 
-"country": "HK", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-08-23", 
-"country": "KH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-23", 
 "country": "GB", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-08-23", 
-"country": "NZ", 
+"country": "KH", 
 "Total Users": "1"
 }, 
 {
@@ -12546,8 +12536,18 @@
 }, 
 {
 "date": "2015-08-23", 
+"country": "NZ", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-23", 
 "country": "IN", 
 "Total Users": "21"
+}, 
+{
+"date": "2015-08-23", 
+"country": "HK", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-08-23", 
@@ -12556,8 +12556,28 @@
 }, 
 {
 "date": "2015-08-24", 
+"country": "IN", 
+"Total Users": "66"
+}, 
+{
+"date": "2015-08-24", 
+"country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-24", 
 "country": "AU", 
 "Total Users": "2"
+}, 
+{
+"date": "2015-08-24", 
+"country": "GB", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-08-24", 
+"country": "TW", 
+"Total Users": "64"
 }, 
 {
 "date": "2015-08-24", 
@@ -12576,63 +12596,13 @@
 }, 
 {
 "date": "2015-08-24", 
-"country": "IN", 
-"Total Users": "66"
-}, 
-{
-"date": "2015-08-24", 
 "country": "US", 
 "Total Users": "5"
-}, 
-{
-"date": "2015-08-24", 
-"country": "GB", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-08-24", 
-"country": "TW", 
-"Total Users": "64"
-}, 
-{
-"date": "2015-08-24", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-25", 
-"country": "AE", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-08-25", 
 "country": "VN", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-08-25", 
-"country": "IN", 
-"Total Users": "106"
-}, 
-{
-"date": "2015-08-25", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-25", 
-"country": "US", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-08-25", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-25", 
-"country": "TW", 
-"Total Users": "73"
 }, 
 {
 "date": "2015-08-25", 
@@ -12646,7 +12616,42 @@
 }, 
 {
 "date": "2015-08-25", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-25", 
+"country": "AE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-25", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-25", 
+"country": "IN", 
+"Total Users": "106"
+}, 
+{
+"date": "2015-08-25", 
 "country": "MO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-25", 
+"country": "US", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-08-25", 
+"country": "TW", 
+"Total Users": "73"
+}, 
+{
+"date": "2015-08-26", 
+"country": "AU", 
 "Total Users": "1"
 }, 
 {
@@ -12661,13 +12666,8 @@
 }, 
 {
 "date": "2015-08-26", 
-"country": "PG", 
+"country": "RO", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-08-26", 
-"country": "CA", 
-"Total Users": "2"
 }, 
 {
 "date": "2015-08-26", 
@@ -12681,18 +12681,13 @@
 }, 
 {
 "date": "2015-08-26", 
-"country": "JP", 
+"country": "HK", 
+"Total Users": "56"
+}, 
+{
+"date": "2015-08-26", 
+"country": "CA", 
 "Total Users": "2"
-}, 
-{
-"date": "2015-08-26", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-26", 
-"country": "ID", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-08-26", 
@@ -12701,23 +12696,18 @@
 }, 
 {
 "date": "2015-08-26", 
-"country": "HK", 
-"Total Users": "56"
+"country": "JP", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-08-26", 
-"country": "RO", 
+"country": "ID", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-08-27", 
-"country": "TW", 
-"Total Users": "49"
-}, 
-{
-"date": "2015-08-27", 
-"country": "HK", 
-"Total Users": "17"
+"date": "2015-08-26", 
+"country": "PG", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-08-27", 
@@ -12726,12 +12716,17 @@
 }, 
 {
 "date": "2015-08-27", 
-"country": "US", 
-"Total Users": "3"
+"country": "HK", 
+"Total Users": "17"
 }, 
 {
 "date": "2015-08-27", 
 "country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-27", 
+"country": "ID", 
 "Total Users": "1"
 }, 
 {
@@ -12741,33 +12736,23 @@
 }, 
 {
 "date": "2015-08-27", 
+"country": "US", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-08-27", 
 "country": "PR", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-08-27", 
-"country": "IN", 
-"Total Users": "863"
+"country": "TW", 
+"Total Users": "49"
 }, 
 {
 "date": "2015-08-27", 
-"country": "ID", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-28", 
-"country": "TW", 
-"Total Users": "54"
-}, 
-{
-"date": "2015-08-28", 
-"country": "US", 
-"Total Users": "12"
-}, 
-{
-"date": "2015-08-28", 
-"country": "GB", 
-"Total Users": "2"
+"country": "IN", 
+"Total Users": "863"
 }, 
 {
 "date": "2015-08-28", 
@@ -12776,8 +12761,18 @@
 }, 
 {
 "date": "2015-08-28", 
-"country": "HK", 
+"country": "IN", 
+"Total Users": "249"
+}, 
+{
+"date": "2015-08-28", 
+"country": "GB", 
 "Total Users": "2"
+}, 
+{
+"date": "2015-08-28", 
+"country": "US", 
+"Total Users": "12"
 }, 
 {
 "date": "2015-08-28", 
@@ -12791,13 +12786,13 @@
 }, 
 {
 "date": "2015-08-28", 
-"country": "IN", 
-"Total Users": "249"
+"country": "HK", 
+"Total Users": "2"
 }, 
 {
-"date": "2015-08-29", 
+"date": "2015-08-28", 
 "country": "TW", 
-"Total Users": "41"
+"Total Users": "54"
 }, 
 {
 "date": "2015-08-29", 
@@ -12806,8 +12801,8 @@
 }, 
 {
 "date": "2015-08-29", 
-"country": "IN", 
-"Total Users": "162"
+"country": "US", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-08-29", 
@@ -12816,13 +12811,18 @@
 }, 
 {
 "date": "2015-08-29", 
-"country": "CA", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "41"
 }, 
 {
 "date": "2015-08-29", 
-"country": "US", 
-"Total Users": "6"
+"country": "IN", 
+"Total Users": "162"
+}, 
+{
+"date": "2015-08-29", 
+"country": "CA", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-08-29", 
@@ -12831,12 +12831,7 @@
 }, 
 {
 "date": "2015-08-30", 
-"country": "SE", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-08-30", 
-"country": "JP", 
+"country": "ZA", 
 "Total Users": "1"
 }, 
 {
@@ -12846,8 +12841,13 @@
 }, 
 {
 "date": "2015-08-30", 
-"country": "US", 
-"Total Users": "4"
+"country": "IN", 
+"Total Users": "30"
+}, 
+{
+"date": "2015-08-30", 
+"country": "JP", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-08-30", 
@@ -12856,17 +12856,17 @@
 }, 
 {
 "date": "2015-08-30", 
-"country": "IN", 
-"Total Users": "30"
+"country": "SE", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-08-30", 
-"country": "ZA", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-08-31", 
-"country": "ID", 
+"country": "MY", 
 "Total Users": "1"
 }, 
 {
@@ -12876,42 +12876,7 @@
 }, 
 {
 "date": "2015-08-31", 
-"country": "NZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-31", 
-"country": "SE", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-31", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-31", 
-"country": "IN", 
-"Total Users": "61"
-}, 
-{
-"date": "2015-08-31", 
-"country": "US", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-08-31", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-08-31", 
-"country": "HK", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-08-31", 
-"country": "GB", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
@@ -12921,7 +12886,57 @@
 }, 
 {
 "date": "2015-08-31", 
-"country": "JP", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-31", 
+"country": "US", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-08-31", 
+"country": "NZ", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-31", 
+"country": "HK", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-08-31", 
+"country": "SE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-31", 
+"country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-08-31", 
+"country": "IN", 
+"Total Users": "61"
+}, 
+{
+"date": "2015-08-31", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-01", 
+"country": "MY", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-01", 
+"country": "IN", 
+"Total Users": "39"
+}, 
+{
+"date": "2015-09-01", 
+"country": "BD", 
 "Total Users": "1"
 }, 
 {
@@ -12936,8 +12951,13 @@
 }, 
 {
 "date": "2015-09-01", 
-"country": "TW", 
-"Total Users": "56"
+"country": "BR", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-01", 
+"country": "US", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-09-01", 
@@ -12946,43 +12966,23 @@
 }, 
 {
 "date": "2015-09-01", 
-"country": "BD", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-01", 
-"country": "US", 
-"Total Users": "3"
-}, 
-{
-"date": "2015-09-01", 
-"country": "MY", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-09-01", 
 "country": "MO", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-09-01", 
-"country": "BR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-01", 
-"country": "IN", 
-"Total Users": "39"
-}, 
-{
-"date": "2015-09-02", 
-"country": "US", 
-"Total Users": "3"
+"country": "TW", 
+"Total Users": "56"
 }, 
 {
 "date": "2015-09-02", 
 "country": "TW", 
 "Total Users": "65"
+}, 
+{
+"date": "2015-09-02", 
+"country": "IN", 
+"Total Users": "26"
 }, 
 {
 "date": "2015-09-02", 
@@ -12996,8 +12996,18 @@
 }, 
 {
 "date": "2015-09-02", 
+"country": "US", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-09-03", 
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-03", 
 "country": "IN", 
-"Total Users": "26"
+"Total Users": "27"
 }, 
 {
 "date": "2015-09-03", 
@@ -13011,6 +13021,11 @@
 }, 
 {
 "date": "2015-09-03", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-03", 
 "country": "TW", 
 "Total Users": "44"
 }, 
@@ -13020,19 +13035,9 @@
 "Total Users": "3"
 }, 
 {
-"date": "2015-09-03", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-09-03", 
-"country": "SG", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-03", 
+"date": "2015-09-04", 
 "country": "IN", 
-"Total Users": "27"
+"Total Users": "19"
 }, 
 {
 "date": "2015-09-04", 
@@ -13056,32 +13061,7 @@
 }, 
 {
 "date": "2015-09-04", 
-"country": "IN", 
-"Total Users": "19"
-}, 
-{
-"date": "2015-09-04", 
 "country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-05", 
-"country": "IN", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-09-05", 
-"country": "EE", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-09-05", 
-"country": "US", 
-"Total Users": "9"
-}, 
-{
-"date": "2015-09-05", 
-"country": "ES", 
 "Total Users": "1"
 }, 
 {
@@ -13091,18 +13071,33 @@
 }, 
 {
 "date": "2015-09-05", 
-"country": "PL", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-09-05", 
-"country": "DE", 
-"Total Users": "2"
+"country": "IN", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-09-05", 
 "country": "CA", 
 "Total Users": "2"
+}, 
+{
+"date": "2015-09-05", 
+"country": "ES", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-05", 
+"country": "EE", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-05", 
+"country": "PL", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-05", 
+"country": "US", 
+"Total Users": "9"
 }, 
 {
 "date": "2015-09-05", 
@@ -13110,29 +13105,9 @@
 "Total Users": "4"
 }, 
 {
-"date": "2015-09-06", 
-"country": "US", 
-"Total Users": "8"
-}, 
-{
-"date": "2015-09-06", 
-"country": "CA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-06", 
-"country": "TW", 
-"Total Users": "72"
-}, 
-{
-"date": "2015-09-06", 
-"country": "IN", 
-"Total Users": "9"
-}, 
-{
-"date": "2015-09-06", 
-"country": "GB", 
-"Total Users": "1"
+"date": "2015-09-05", 
+"country": "DE", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-09-06", 
@@ -13141,8 +13116,33 @@
 }, 
 {
 "date": "2015-09-06", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-06", 
 "country": "HK", 
 "Total Users": "3"
+}, 
+{
+"date": "2015-09-06", 
+"country": "US", 
+"Total Users": "8"
+}, 
+{
+"date": "2015-09-06", 
+"country": "TW", 
+"Total Users": "72"
+}, 
+{
+"date": "2015-09-06", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-06", 
+"country": "IN", 
+"Total Users": "9"
 }, 
 {
 "date": "2015-09-07", 
@@ -13156,18 +13156,13 @@
 }, 
 {
 "date": "2015-09-07", 
-"country": "HK", 
-"Total Users": "6"
-}, 
-{
-"date": "2015-09-07", 
-"country": "US", 
-"Total Users": "5"
-}, 
-{
-"date": "2015-09-07", 
 "country": "KZ", 
 "Total Users": "1"
+}, 
+{
+"date": "2015-09-07", 
+"country": "HK", 
+"Total Users": "6"
 }, 
 {
 "date": "2015-09-07", 
@@ -13175,9 +13170,14 @@
 "Total Users": "19"
 }, 
 {
+"date": "2015-09-07", 
+"country": "US", 
+"Total Users": "5"
+}, 
+{
 "date": "2015-09-08", 
-"country": "KE", 
-"Total Users": "1"
+"country": "US", 
+"Total Users": "9"
 }, 
 {
 "date": "2015-09-08", 
@@ -13186,8 +13186,8 @@
 }, 
 {
 "date": "2015-09-08", 
-"country": "IN", 
-"Total Users": "21"
+"country": "JP", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-09-08", 
@@ -13196,8 +13196,18 @@
 }, 
 {
 "date": "2015-09-08", 
-"country": "US", 
-"Total Users": "9"
+"country": "ES", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-08", 
+"country": "KE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-08", 
+"country": "IN", 
+"Total Users": "21"
 }, 
 {
 "date": "2015-09-08", 
@@ -13211,33 +13221,13 @@
 }, 
 {
 "date": "2015-09-08", 
-"country": "ES", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-08", 
-"country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-09-08", 
 "country": "FI", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-09-09", 
-"country": "TW", 
-"Total Users": "143"
-}, 
-{
-"date": "2015-09-09", 
-"country": "IQ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-09", 
-"country": "AU", 
-"Total Users": "3"
+"country": "US", 
+"Total Users": "16"
 }, 
 {
 "date": "2015-09-09", 
@@ -13248,6 +13238,11 @@
 "date": "2015-09-09", 
 "country": "MY", 
 "Total Users": "2"
+}, 
+{
+"date": "2015-09-09", 
+"country": "TW", 
+"Total Users": "143"
 }, 
 {
 "date": "2015-09-09", 
@@ -13266,12 +13261,22 @@
 }, 
 {
 "date": "2015-09-09", 
-"country": "US", 
-"Total Users": "16"
+"country": "IQ", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-09", 
+"country": "AU", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-09-10", 
 "country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-10", 
+"country": "PH", 
 "Total Users": "1"
 }, 
 {
@@ -13281,13 +13286,8 @@
 }, 
 {
 "date": "2015-09-10", 
-"country": "US", 
-"Total Users": "17"
-}, 
-{
-"date": "2015-09-10", 
-"country": "IN", 
-"Total Users": "28"
+"country": "HK", 
+"Total Users": "11"
 }, 
 {
 "date": "2015-09-10", 
@@ -13296,28 +13296,13 @@
 }, 
 {
 "date": "2015-09-10", 
-"country": "PH", 
-"Total Users": "1"
+"country": "IN", 
+"Total Users": "28"
 }, 
 {
 "date": "2015-09-10", 
-"country": "HK", 
-"Total Users": "11"
-}, 
-{
-"date": "2015-09-11", 
-"country": "TW", 
-"Total Users": "105"
-}, 
-{
-"date": "2015-09-11", 
 "country": "US", 
-"Total Users": "18"
-}, 
-{
-"date": "2015-09-11", 
-"country": "ES", 
-"Total Users": "1"
+"Total Users": "17"
 }, 
 {
 "date": "2015-09-11", 
@@ -13326,8 +13311,8 @@
 }, 
 {
 "date": "2015-09-11", 
-"country": "HK", 
-"Total Users": "6"
+"country": "TW", 
+"Total Users": "105"
 }, 
 {
 "date": "2015-09-11", 
@@ -13336,7 +13321,7 @@
 }, 
 {
 "date": "2015-09-11", 
-"country": "JP", 
+"country": "ES", 
 "Total Users": "1"
 }, 
 {
@@ -13345,9 +13330,24 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-09-12", 
+"date": "2015-09-11", 
+"country": "US", 
+"Total Users": "18"
+}, 
+{
+"date": "2015-09-11", 
 "country": "HK", 
 "Total Users": "6"
+}, 
+{
+"date": "2015-09-11", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-12", 
+"country": "MD", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-09-12", 
@@ -13361,6 +13361,11 @@
 }, 
 {
 "date": "2015-09-12", 
+"country": "HK", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-09-12", 
 "country": "IN", 
 "Total Users": "10"
 }, 
@@ -13370,14 +13375,24 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-09-12", 
-"country": "MD", 
+"date": "2015-09-13", 
+"country": "HK", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-09-13", 
-"country": "GU", 
-"Total Users": "1"
+"country": "TW", 
+"Total Users": "70"
+}, 
+{
+"date": "2015-09-13", 
+"country": "IN", 
+"Total Users": "11"
+}, 
+{
+"date": "2015-09-13", 
+"country": "IT", 
+"Total Users": "2"
 }, 
 {
 "date": "2015-09-13", 
@@ -13391,48 +13406,18 @@
 }, 
 {
 "date": "2015-09-13", 
-"country": "IT", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-09-13", 
-"country": "IN", 
-"Total Users": "11"
-}, 
-{
-"date": "2015-09-13", 
-"country": "TW", 
-"Total Users": "70"
-}, 
-{
-"date": "2015-09-13", 
-"country": "HK", 
+"country": "GU", 
 "Total Users": "1"
-}, 
-{
-"date": "2015-09-14", 
-"country": "IN", 
-"Total Users": "35"
-}, 
-{
-"date": "2015-09-14", 
-"country": "KH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-14", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-14", 
-"country": "TW", 
-"Total Users": "104"
 }, 
 {
 "date": "2015-09-14", 
 "country": "JP", 
 "Total Users": "3"
+}, 
+{
+"date": "2015-09-14", 
+"country": "MY", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-09-14", 
@@ -13446,7 +13431,27 @@
 }, 
 {
 "date": "2015-09-14", 
+"country": "TW", 
+"Total Users": "104"
+}, 
+{
+"date": "2015-09-14", 
+"country": "KH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-14", 
 "country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-14", 
+"country": "IN", 
+"Total Users": "35"
+}, 
+{
+"date": "2015-09-15", 
+"country": "ZA", 
 "Total Users": "1"
 }, 
 {
@@ -13456,7 +13461,17 @@
 }, 
 {
 "date": "2015-09-15", 
+"country": "DE", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-15", 
 "country": "MU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-15", 
+"country": "JP", 
 "Total Users": "1"
 }, 
 {
@@ -13471,8 +13486,8 @@
 }, 
 {
 "date": "2015-09-15", 
-"country": "ZA", 
-"Total Users": "1"
+"country": "HK", 
+"Total Users": "4"
 }, 
 {
 "date": "2015-09-15", 
@@ -13480,23 +13495,8 @@
 "Total Users": "4"
 }, 
 {
-"date": "2015-09-15", 
-"country": "HK", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-09-15", 
-"country": "JP", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-15", 
-"country": "DE", 
-"Total Users": "1"
-}, 
-{
 "date": "2015-09-16", 
-"country": "SG", 
+"country": "AU", 
 "Total Users": "1"
 }, 
 {
@@ -13506,18 +13506,13 @@
 }, 
 {
 "date": "2015-09-16", 
-"country": "TW", 
-"Total Users": "97"
-}, 
-{
-"date": "2015-09-16", 
-"country": "AU", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-16", 
 "country": "US", 
 "Total Users": "11"
+}, 
+{
+"date": "2015-09-16", 
+"country": "SG", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-09-16", 
@@ -13526,8 +13521,33 @@
 }, 
 {
 "date": "2015-09-16", 
+"country": "TW", 
+"Total Users": "97"
+}, 
+{
+"date": "2015-09-16", 
 "country": "HK", 
 "Total Users": "3"
+}, 
+{
+"date": "2015-09-17", 
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-17", 
+"country": "ES", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-17", 
+"country": "TW", 
+"Total Users": "89"
+}, 
+{
+"date": "2015-09-17", 
+"country": "IN", 
+"Total Users": "12"
 }, 
 {
 "date": "2015-09-17", 
@@ -13546,33 +13566,8 @@
 }, 
 {
 "date": "2015-09-17", 
-"country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-09-17", 
-"country": "IN", 
-"Total Users": "12"
-}, 
-{
-"date": "2015-09-17", 
 "country": "US", 
 "Total Users": "9"
-}, 
-{
-"date": "2015-09-17", 
-"country": "ES", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-17", 
-"country": "TW", 
-"Total Users": "89"
-}, 
-{
-"date": "2015-09-18", 
-"country": "US", 
-"Total Users": "6"
 }, 
 {
 "date": "2015-09-18", 
@@ -13581,13 +13576,8 @@
 }, 
 {
 "date": "2015-09-18", 
-"country": "HK", 
-"Total Users": "8"
-}, 
-{
-"date": "2015-09-18", 
-"country": "GB", 
-"Total Users": "1"
+"country": "IN", 
+"Total Users": "15"
 }, 
 {
 "date": "2015-09-18", 
@@ -13596,8 +13586,23 @@
 }, 
 {
 "date": "2015-09-18", 
-"country": "IN", 
-"Total Users": "15"
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-18", 
+"country": "HK", 
+"Total Users": "8"
+}, 
+{
+"date": "2015-09-18", 
+"country": "US", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-09-19", 
+"country": "NG", 
+"Total Users": "1"
 }, 
 {
 "date": "2015-09-19", 
@@ -13606,13 +13611,23 @@
 }, 
 {
 "date": "2015-09-19", 
+"country": "US", 
+"Total Users": "8"
+}, 
+{
+"date": "2015-09-19", 
+"country": "TW", 
+"Total Users": "42"
+}, 
+{
+"date": "2015-09-19", 
 "country": "HK", 
 "Total Users": "3"
 }, 
 {
 "date": "2015-09-19", 
-"country": "NG", 
-"Total Users": "1"
+"country": "IN", 
+"Total Users": "9"
 }, 
 {
 "date": "2015-09-19", 
@@ -13625,19 +13640,14 @@
 "Total Users": "1"
 }, 
 {
-"date": "2015-09-19", 
-"country": "TW", 
-"Total Users": "42"
+"date": "2015-09-20", 
+"country": "SA", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-09-19", 
-"country": "IN", 
-"Total Users": "9"
-}, 
-{
-"date": "2015-09-19", 
+"date": "2015-09-20", 
 "country": "US", 
-"Total Users": "8"
+"Total Users": "4"
 }, 
 {
 "date": "2015-09-20", 
@@ -13651,32 +13661,22 @@
 }, 
 {
 "date": "2015-09-20", 
-"country": "MY", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-20", 
 "country": "TW", 
 "Total Users": "52"
 }, 
 {
 "date": "2015-09-20", 
-"country": "US", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-09-20", 
-"country": "ZA", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-20", 
-"country": "SA", 
+"country": "MY", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-09-20", 
 "country": "HK", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-20", 
+"country": "ZA", 
 "Total Users": "1"
 }, 
 {
@@ -13686,33 +13686,18 @@
 }, 
 {
 "date": "2015-09-21", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-21", 
 "country": "TW", 
 "Total Users": "117"
 }, 
 {
 "date": "2015-09-21", 
-"country": "JP", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-09-21", 
-"country": "CZ", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-21", 
-"country": "US", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-09-21", 
-"country": "PH", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-21", 
-"country": "NE", 
-"Total Users": "1"
+"country": "IN", 
+"Total Users": "24"
 }, 
 {
 "date": "2015-09-21", 
@@ -13721,48 +13706,33 @@
 }, 
 {
 "date": "2015-09-21", 
-"country": "GB", 
+"country": "CZ", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-09-21", 
-"country": "IN", 
-"Total Users": "24"
+"country": "JP", 
+"Total Users": "2"
 }, 
 {
-"date": "2015-09-22", 
-"country": "HK", 
-"Total Users": "4"
-}, 
-{
-"date": "2015-09-22", 
-"country": "TR", 
+"date": "2015-09-21", 
+"country": "NE", 
 "Total Users": "1"
 }, 
 {
-"date": "2015-09-22", 
+"date": "2015-09-21", 
+"country": "US", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-09-21", 
 "country": "PH", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-09-22", 
-"country": "US", 
-"Total Users": "7"
-}, 
-{
-"date": "2015-09-22", 
 "country": "JP", 
 "Total Users": "4"
-}, 
-{
-"date": "2015-09-22", 
-"country": "GB", 
-"Total Users": "2"
-}, 
-{
-"date": "2015-09-22", 
-"country": "MY", 
-"Total Users": "1"
 }, 
 {
 "date": "2015-09-22", 
@@ -13781,32 +13751,37 @@
 }, 
 {
 "date": "2015-09-22", 
+"country": "PH", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-22", 
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-22", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-22", 
+"country": "US", 
+"Total Users": "7"
+}, 
+{
+"date": "2015-09-22", 
+"country": "HK", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-09-22", 
 "country": "TW", 
 "Total Users": "142"
 }, 
 {
-"date": "2015-09-23", 
-"country": "GB", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-23", 
-"country": "TW", 
-"Total Users": "130"
-}, 
-{
-"date": "2015-09-23", 
-"country": "KR", 
-"Total Users": "1"
-}, 
-{
-"date": "2015-09-23", 
-"country": "IN", 
-"Total Users": "35"
-}, 
-{
-"date": "2015-09-23", 
-"country": "AU", 
+"date": "2015-09-22", 
+"country": "TR", 
 "Total Users": "1"
 }, 
 {
@@ -13816,7 +13791,22 @@
 }, 
 {
 "date": "2015-09-23", 
-"country": "TH", 
+"country": "US", 
+"Total Users": "15"
+}, 
+{
+"date": "2015-09-23", 
+"country": "AU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-23", 
+"country": "IN", 
+"Total Users": "35"
+}, 
+{
+"date": "2015-09-23", 
+"country": "KR", 
 "Total Users": "1"
 }, 
 {
@@ -13826,12 +13816,17 @@
 }, 
 {
 "date": "2015-09-23", 
-"country": "US", 
-"Total Users": "15"
+"country": "TH", 
+"Total Users": "1"
 }, 
 {
-"date": "2015-09-24", 
-"country": "PK", 
+"date": "2015-09-23", 
+"country": "TW", 
+"Total Users": "130"
+}, 
+{
+"date": "2015-09-23", 
+"country": "GB", 
 "Total Users": "1"
 }, 
 {
@@ -13851,17 +13846,272 @@
 }, 
 {
 "date": "2015-09-24", 
+"country": "PK", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-24", 
 "country": "AU", 
 "Total Users": "1"
 }, 
 {
 "date": "2015-09-24", 
-"country": "TW", 
-"Total Users": "141"
+"country": "HK", 
+"Total Users": "3"
 }, 
 {
 "date": "2015-09-24", 
+"country": "TW", 
+"Total Users": "142"
+}, 
+{
+"date": "2015-09-25", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-25", 
+"country": "CD", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-25", 
+"country": "TW", 
+"Total Users": "118"
+}, 
+{
+"date": "2015-09-25", 
+"country": "NL", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-25", 
 "country": "HK", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-09-25", 
+"country": "US", 
+"Total Users": "9"
+}, 
+{
+"date": "2015-09-25", 
+"country": "IT", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-25", 
+"country": "MO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-25", 
+"country": "IN", 
+"Total Users": "13"
+}, 
+{
+"date": "2015-09-26", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-26", 
+"country": "CA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-26", 
+"country": "AU", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-26", 
+"country": "TW", 
+"Total Users": "102"
+}, 
+{
+"date": "2015-09-26", 
+"country": "IN", 
+"Total Users": "100"
+}, 
+{
+"date": "2015-09-26", 
+"country": "US", 
+"Total Users": "12"
+}, 
+{
+"date": "2015-09-26", 
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-26", 
+"country": "GB", 
 "Total Users": "3"
+}, 
+{
+"date": "2015-09-26", 
+"country": "HK", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-27", 
+"country": "IN", 
+"Total Users": "64"
+}, 
+{
+"date": "2015-09-27", 
+"country": "US", 
+"Total Users": "6"
+}, 
+{
+"date": "2015-09-27", 
+"country": "HK", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-27", 
+"country": "NL", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-27", 
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-27", 
+"country": "TW", 
+"Total Users": "104"
+}, 
+{
+"date": "2015-09-27", 
+"country": "GB", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-28", 
+"country": "IN", 
+"Total Users": "65"
+}, 
+{
+"date": "2015-09-28", 
+"country": "ID", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-28", 
+"country": "JP", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-28", 
+"country": "HK", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-09-28", 
+"country": "TW", 
+"Total Users": "131"
+}, 
+{
+"date": "2015-09-28", 
+"country": "US", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-29", 
+"country": "TW", 
+"Total Users": "120"
+}, 
+{
+"date": "2015-09-29", 
+"country": "MY", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-29", 
+"country": "US", 
+"Total Users": "3"
+}, 
+{
+"date": "2015-09-29", 
+"country": "IN", 
+"Total Users": "36"
+}, 
+{
+"date": "2015-09-29", 
+"country": "HK", 
+"Total Users": "4"
+}, 
+{
+"date": "2015-09-30", 
+"country": "TW", 
+"Total Users": "124"
+}, 
+{
+"date": "2015-09-30", 
+"country": "US", 
+"Total Users": "5"
+}, 
+{
+"date": "2015-09-30", 
+"country": "ID", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-30", 
+"country": "SG", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-30", 
+"country": "RU", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-30", 
+"country": "IN", 
+"Total Users": "26"
+}, 
+{
+"date": "2015-09-30", 
+"country": "NO", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-09-30", 
+"country": "HK", 
+"Total Users": "2"
+}, 
+{
+"date": "2015-10-01", 
+"country": "TW", 
+"Total Users": "92"
+}, 
+{
+"date": "2015-10-01", 
+"country": "SA", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-10-01", 
+"country": "JP", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-10-01", 
+"country": "GB", 
+"Total Users": "1"
+}, 
+{
+"date": "2015-10-01", 
+"country": "IN", 
+"Total Users": "30"
+}, 
+{
+"date": "2015-10-01", 
+"country": "US", 
+"Total Users": "4"
 }
 ]

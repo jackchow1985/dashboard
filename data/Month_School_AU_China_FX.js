@@ -1,353 +1,303 @@
 [
 {
-"date": "2015-05-01", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3105"
-}, 
-{
-"date": "2015-05-01", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2023"
-}, 
-{
-"date": "2015-05-01", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1327"
-}, 
-{
-"date": "2015-05-01", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "729"
-}, 
-{
-"date": "2015-05-01", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3299"
-}, 
-{
-"date": "2015-05-01", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "844"
-}, 
-{
-"date": "2015-05-01", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "6020"
-}, 
-{
-"date": "2015-05-01", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "344"
-}, 
-{
-"date": "2015-05-01", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "4691"
-}, 
-{
-"date": "2015-05-01", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "966"
-}, 
-{
 "date": "2015-05-02", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "4075"
+"Active Users": "970"
 }, 
 {
 "date": "2015-05-02", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2724"
+"Active Users": "701"
 }, 
 {
 "date": "2015-05-02", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1652"
+"Active Users": "325"
 }, 
 {
 "date": "2015-05-02", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "966"
+"Active Users": "237"
 }, 
 {
 "date": "2015-05-02", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4218"
+"Active Users": "919"
 }, 
 {
 "date": "2015-05-02", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "1002"
+"Active Users": "158"
 }, 
 {
 "date": "2015-05-02", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "7340"
+"Active Users": "1320"
 }, 
 {
 "date": "2015-05-02", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "529"
+"Active Users": "185"
 }, 
 {
 "date": "2015-05-02", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "5884"
+"Active Users": "1193"
 }, 
 {
 "date": "2015-05-02", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1196"
+"Active Users": "230"
 }, 
 {
 "date": "2015-05-03", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "4379"
+"Active Users": "1274"
 }, 
 {
 "date": "2015-05-03", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3044"
+"Active Users": "1021"
 }, 
 {
 "date": "2015-05-03", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1821"
+"Active Users": "494"
 }, 
 {
 "date": "2015-05-03", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "1106"
+"Active Users": "377"
 }, 
 {
 "date": "2015-05-03", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4660"
+"Active Users": "1361"
 }, 
 {
 "date": "2015-05-03", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "1089"
+"Active Users": "245"
 }, 
 {
 "date": "2015-05-03", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "8101"
-}, 
-{
-"date": "2015-05-03", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "658"
-}, 
-{
-"date": "2015-05-03", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "6314"
-}, 
-{
-"date": "2015-05-03", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1289"
-}, 
-{
-"date": "2015-05-04", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "6221"
-}, 
-{
-"date": "2015-05-04", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "5007"
-}, 
-{
-"date": "2015-05-04", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "3305"
-}, 
-{
-"date": "2015-05-04", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "1965"
-}, 
-{
-"date": "2015-05-04", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "7205"
-}, 
-{
-"date": "2015-05-04", 
-"school": "\u5317\u4eac\u5927\u5b66", 
 "Active Users": "2081"
 }, 
 {
+"date": "2015-05-03", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "314"
+}, 
+{
+"date": "2015-05-03", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "1623"
+}, 
+{
+"date": "2015-05-03", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "323"
+}, 
+{
+"date": "2015-05-04", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "3116"
+}, 
+{
+"date": "2015-05-04", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "2984"
+}, 
+{
+"date": "2015-05-04", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "1978"
+}, 
+{
+"date": "2015-05-04", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "1236"
+}, 
+{
+"date": "2015-05-04", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "3906"
+}, 
+{
+"date": "2015-05-04", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "1237"
+}, 
+{
 "date": "2015-05-04", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "13944"
+"Active Users": "7924"
 }, 
 {
 "date": "2015-05-04", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1219"
+"Active Users": "875"
 }, 
 {
 "date": "2015-05-04", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "9217"
+"Active Users": "4526"
 }, 
 {
 "date": "2015-05-04", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1879"
+"Active Users": "913"
 }, 
 {
 "date": "2015-05-05", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "8399"
+"Active Users": "5294"
 }, 
 {
 "date": "2015-05-05", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "6972"
+"Active Users": "4949"
 }, 
 {
 "date": "2015-05-05", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "4709"
+"Active Users": "3382"
 }, 
 {
 "date": "2015-05-05", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2719"
+"Active Users": "1990"
 }, 
 {
 "date": "2015-05-05", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "9680"
+"Active Users": "6381"
 }, 
 {
 "date": "2015-05-05", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "2829"
+"Active Users": "1985"
 }, 
 {
 "date": "2015-05-05", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "20710"
+"Active Users": "14690"
 }, 
 {
 "date": "2015-05-05", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1699"
+"Active Users": "1355"
 }, 
 {
 "date": "2015-05-05", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "12079"
+"Active Users": "7388"
 }, 
 {
 "date": "2015-05-05", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2920"
+"Active Users": "1954"
 }, 
 {
 "date": "2015-05-06", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "10397"
+"Active Users": "7292"
 }, 
 {
 "date": "2015-05-06", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "9244"
+"Active Users": "7221"
 }, 
 {
 "date": "2015-05-06", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "6713"
+"Active Users": "5386"
 }, 
 {
 "date": "2015-05-06", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4185"
+"Active Users": "3456"
 }, 
 {
 "date": "2015-05-06", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "12124"
+"Active Users": "8825"
 }, 
 {
 "date": "2015-05-06", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3469"
+"Active Users": "2625"
 }, 
 {
 "date": "2015-05-06", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "28223"
+"Active Users": "22203"
 }, 
 {
 "date": "2015-05-06", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "2546"
+"Active Users": "2202"
 }, 
 {
 "date": "2015-05-06", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "16070"
+"Active Users": "11379"
 }, 
 {
 "date": "2015-05-06", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "3465"
+"Active Users": "2499"
 }, 
 {
 "date": "2015-05-07", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "12934"
+"Active Users": "9829"
 }, 
 {
 "date": "2015-05-07", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "11535"
+"Active Users": "9512"
 }, 
 {
 "date": "2015-05-07", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "8445"
+"Active Users": "7118"
 }, 
 {
 "date": "2015-05-07", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5199"
+"Active Users": "4470"
 }, 
 {
 "date": "2015-05-07", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "14488"
+"Active Users": "11189"
 }, 
 {
 "date": "2015-05-07", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3845"
+"Active Users": "3001"
 }, 
 {
 "date": "2015-05-07", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "34659"
+"Active Users": "28639"
 }, 
 {
 "date": "2015-05-07", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "3497"
+"Active Users": "3153"
 }, 
 {
 "date": "2015-05-07", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "20840"
+"Active Users": "16149"
 }, 
 {
 "date": "2015-05-07", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "4367"
+"Active Users": "3401"
 }, 
 {
 "date": "2015-05-08", 
@@ -402,7251 +352,7251 @@
 {
 "date": "2015-05-09", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "11996"
+"Active Users": "12966"
 }, 
 {
 "date": "2015-05-09", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "11659"
+"Active Users": "12360"
 }, 
 {
 "date": "2015-05-09", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "8821"
+"Active Users": "9146"
 }, 
 {
 "date": "2015-05-09", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5431"
+"Active Users": "5668"
 }, 
 {
 "date": "2015-05-09", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "14521"
+"Active Users": "15440"
 }, 
 {
 "date": "2015-05-09", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3402"
+"Active Users": "3560"
 }, 
 {
 "date": "2015-05-09", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "34634"
+"Active Users": "35954"
 }, 
 {
 "date": "2015-05-09", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "3677"
+"Active Users": "3862"
 }, 
 {
 "date": "2015-05-09", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "21043"
+"Active Users": "22236"
 }, 
 {
 "date": "2015-05-09", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "4356"
+"Active Users": "4586"
 }, 
 {
 "date": "2015-05-10", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "12102"
+"Active Users": "13376"
 }, 
 {
 "date": "2015-05-10", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "11648"
+"Active Users": "12669"
 }, 
 {
 "date": "2015-05-10", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "8857"
+"Active Users": "9351"
 }, 
 {
 "date": "2015-05-10", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5426"
+"Active Users": "5803"
 }, 
 {
 "date": "2015-05-10", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "14549"
+"Active Users": "15910"
 }, 
 {
 "date": "2015-05-10", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3360"
+"Active Users": "3605"
 }, 
 {
 "date": "2015-05-10", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "34496"
+"Active Users": "36577"
 }, 
 {
 "date": "2015-05-10", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "3652"
+"Active Users": "3966"
 }, 
 {
 "date": "2015-05-10", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "21106"
+"Active Users": "22729"
 }, 
 {
 "date": "2015-05-10", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "4408"
+"Active Users": "4731"
 }, 
 {
 "date": "2015-05-11", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "12963"
+"Active Users": "16079"
 }, 
 {
 "date": "2015-05-11", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "11389"
+"Active Users": "14373"
 }, 
 {
 "date": "2015-05-11", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "8264"
+"Active Users": "10242"
 }, 
 {
 "date": "2015-05-11", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5169"
+"Active Users": "6405"
 }, 
 {
 "date": "2015-05-11", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "13774"
+"Active Users": "17680"
 }, 
 {
 "date": "2015-05-11", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "2984"
+"Active Users": "4221"
 }, 
 {
 "date": "2015-05-11", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "34217"
+"Active Users": "42141"
 }, 
 {
 "date": "2015-05-11", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "3387"
+"Active Users": "4262"
 }, 
 {
 "date": "2015-05-11", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "20369"
+"Active Users": "24895"
 }, 
 {
 "date": "2015-05-11", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "4457"
+"Active Users": "5370"
 }, 
 {
 "date": "2015-05-12", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "12052"
+"Active Users": "17346"
 }, 
 {
 "date": "2015-05-12", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "11148"
+"Active Users": "16097"
 }, 
 {
 "date": "2015-05-12", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "7868"
+"Active Users": "11250"
 }, 
 {
 "date": "2015-05-12", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5490"
+"Active Users": "7480"
 }, 
 {
 "date": "2015-05-12", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "13218"
+"Active Users": "19599"
 }, 
 {
 "date": "2015-05-12", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "2867"
+"Active Users": "4852"
 }, 
 {
 "date": "2015-05-12", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "32674"
+"Active Users": "47364"
 }, 
 {
 "date": "2015-05-12", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "3641"
+"Active Users": "4996"
 }, 
 {
 "date": "2015-05-12", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "19831"
+"Active Users": "27219"
 }, 
 {
 "date": "2015-05-12", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "4195"
+"Active Users": "6149"
 }, 
 {
 "date": "2015-05-13", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "11294"
+"Active Users": "18586"
 }, 
 {
 "date": "2015-05-13", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "10390"
+"Active Users": "17611"
 }, 
 {
 "date": "2015-05-13", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "6649"
+"Active Users": "12035"
 }, 
 {
 "date": "2015-05-13", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4918"
+"Active Users": "8374"
 }, 
 {
 "date": "2015-05-13", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "13374"
+"Active Users": "22199"
 }, 
 {
 "date": "2015-05-13", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "2868"
+"Active Users": "5493"
 }, 
 {
 "date": "2015-05-13", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "30828"
+"Active Users": "53031"
 }, 
 {
 "date": "2015-05-13", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "3695"
+"Active Users": "5897"
 }, 
 {
 "date": "2015-05-13", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "18158"
+"Active Users": "29537"
 }, 
 {
 "date": "2015-05-13", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "4789"
+"Active Users": "7288"
 }, 
 {
 "date": "2015-05-14", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "10256"
+"Active Users": "20085"
 }, 
 {
 "date": "2015-05-14", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "9615"
+"Active Users": "19127"
 }, 
 {
 "date": "2015-05-14", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "5643"
+"Active Users": "12761"
 }, 
 {
 "date": "2015-05-14", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4926"
+"Active Users": "9396"
 }, 
 {
 "date": "2015-05-14", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "13381"
+"Active Users": "24570"
 }, 
 {
 "date": "2015-05-14", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3486"
+"Active Users": "6487"
 }, 
 {
 "date": "2015-05-14", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "32949"
+"Active Users": "61588"
 }, 
 {
 "date": "2015-05-14", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "3217"
+"Active Users": "6370"
 }, 
 {
 "date": "2015-05-14", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "15646"
+"Active Users": "31795"
 }, 
 {
 "date": "2015-05-14", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "4641"
-}, 
-{
-"date": "2015-05-15", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "8362"
-}, 
-{
-"date": "2015-05-15", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "8527"
-}, 
-{
-"date": "2015-05-15", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "4525"
-}, 
-{
-"date": "2015-05-15", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4538"
-}, 
-{
-"date": "2015-05-15", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "11793"
-}, 
-{
-"date": "2015-05-15", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3935"
-}, 
-{
-"date": "2015-05-15", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "31205"
-}, 
-{
-"date": "2015-05-15", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "3170"
-}, 
-{
-"date": "2015-05-15", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "12334"
-}, 
-{
-"date": "2015-05-15", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "4366"
-}, 
-{
-"date": "2015-05-16", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "8174"
-}, 
-{
-"date": "2015-05-16", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "8366"
-}, 
-{
-"date": "2015-05-16", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "4430"
-}, 
-{
-"date": "2015-05-16", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4573"
-}, 
-{
-"date": "2015-05-16", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "10905"
-}, 
-{
-"date": "2015-05-16", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3987"
-}, 
-{
-"date": "2015-05-16", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "31130"
-}, 
-{
-"date": "2015-05-16", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "3228"
-}, 
-{
-"date": "2015-05-16", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "11530"
-}, 
-{
-"date": "2015-05-16", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "4393"
-}, 
-{
-"date": "2015-05-17", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "7852"
-}, 
-{
-"date": "2015-05-17", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "8140"
-}, 
-{
-"date": "2015-05-17", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "4297"
-}, 
-{
-"date": "2015-05-17", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4486"
-}, 
-{
-"date": "2015-05-17", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "10540"
-}, 
-{
-"date": "2015-05-17", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3981"
-}, 
-{
-"date": "2015-05-17", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "30830"
-}, 
-{
-"date": "2015-05-17", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "3202"
-}, 
-{
-"date": "2015-05-17", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "11228"
-}, 
-{
-"date": "2015-05-17", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "4281"
-}, 
-{
-"date": "2015-05-18", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "5756"
-}, 
-{
-"date": "2015-05-18", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "7676"
-}, 
-{
-"date": "2015-05-18", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "3770"
-}, 
-{
-"date": "2015-05-18", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4255"
-}, 
-{
-"date": "2015-05-18", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "9871"
-}, 
-{
-"date": "2015-05-18", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4067"
-}, 
-{
-"date": "2015-05-18", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "28429"
-}, 
-{
-"date": "2015-05-18", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "3226"
-}, 
-{
-"date": "2015-05-18", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "10387"
-}, 
-{
-"date": "2015-05-18", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "4177"
-}, 
-{
-"date": "2015-05-19", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "5408"
-}, 
-{
-"date": "2015-05-19", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "7917"
-}, 
-{
-"date": "2015-05-19", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "3031"
-}, 
-{
-"date": "2015-05-19", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3870"
-}, 
-{
-"date": "2015-05-19", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "9123"
-}, 
-{
-"date": "2015-05-19", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4419"
-}, 
-{
-"date": "2015-05-19", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "26516"
-}, 
-{
-"date": "2015-05-19", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "3037"
-}, 
-{
-"date": "2015-05-19", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "9370"
-}, 
-{
-"date": "2015-05-19", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "4120"
-}, 
-{
-"date": "2015-05-20", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "4866"
-}, 
-{
-"date": "2015-05-20", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
 "Active Users": "8042"
 }, 
 {
-"date": "2015-05-20", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2630"
-}, 
-{
-"date": "2015-05-20", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3660"
-}, 
-{
-"date": "2015-05-20", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "7566"
-}, 
-{
-"date": "2015-05-20", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4459"
-}, 
-{
-"date": "2015-05-20", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "24384"
-}, 
-{
-"date": "2015-05-20", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "2492"
-}, 
-{
-"date": "2015-05-20", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "8523"
-}, 
-{
-"date": "2015-05-20", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "3604"
-}, 
-{
-"date": "2015-05-21", 
+"date": "2015-05-15", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "4493"
+"Active Users": "20852"
 }, 
 {
-"date": "2015-05-21", 
+"date": "2015-05-15", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "8043"
+"Active Users": "20404"
 }, 
 {
-"date": "2015-05-21", 
+"date": "2015-05-15", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2317"
+"Active Users": "13425"
 }, 
 {
-"date": "2015-05-21", 
+"date": "2015-05-15", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3192"
+"Active Users": "10019"
 }, 
 {
-"date": "2015-05-21", 
+"date": "2015-05-15", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "6182"
+"Active Users": "25948"
 }, 
 {
-"date": "2015-05-21", 
+"date": "2015-05-15", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4426"
+"Active Users": "7403"
 }, 
 {
-"date": "2015-05-21", 
+"date": "2015-05-15", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "18816"
+"Active Users": "66341"
 }, 
 {
-"date": "2015-05-21", 
+"date": "2015-05-15", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "2286"
+"Active Users": "6905"
 }, 
 {
-"date": "2015-05-21", 
+"date": "2015-05-15", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "7561"
+"Active Users": "33370"
 }, 
 {
-"date": "2015-05-21", 
+"date": "2015-05-15", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "3414"
+"Active Users": "8755"
 }, 
 {
-"date": "2015-05-22", 
+"date": "2015-05-16", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "4831"
+"Active Users": "21140"
 }, 
 {
-"date": "2015-05-22", 
+"date": "2015-05-16", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "8429"
+"Active Users": "20726"
 }, 
 {
-"date": "2015-05-22", 
+"date": "2015-05-16", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1972"
+"Active Users": "13576"
 }, 
 {
-"date": "2015-05-22", 
+"date": "2015-05-16", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3074"
+"Active Users": "10241"
 }, 
 {
-"date": "2015-05-22", 
+"date": "2015-05-16", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "5667"
+"Active Users": "26345"
 }, 
 {
-"date": "2015-05-22", 
+"date": "2015-05-16", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4391"
+"Active Users": "7547"
 }, 
 {
-"date": "2015-05-22", 
+"date": "2015-05-16", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "16753"
+"Active Users": "67084"
 }, 
 {
-"date": "2015-05-22", 
+"date": "2015-05-16", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "2020"
+"Active Users": "7090"
 }, 
 {
-"date": "2015-05-22", 
+"date": "2015-05-16", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "7792"
+"Active Users": "33766"
 }, 
 {
-"date": "2015-05-22", 
+"date": "2015-05-16", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "3517"
+"Active Users": "8979"
 }, 
 {
-"date": "2015-05-23", 
+"date": "2015-05-17", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "4726"
+"Active Users": "21228"
 }, 
 {
-"date": "2015-05-23", 
+"date": "2015-05-17", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "8432"
+"Active Users": "20809"
 }, 
 {
-"date": "2015-05-23", 
+"date": "2015-05-17", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1887"
+"Active Users": "13648"
 }, 
 {
-"date": "2015-05-23", 
+"date": "2015-05-17", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3010"
+"Active Users": "10289"
 }, 
 {
-"date": "2015-05-23", 
+"date": "2015-05-17", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "5536"
+"Active Users": "26450"
 }, 
 {
-"date": "2015-05-23", 
+"date": "2015-05-17", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4419"
+"Active Users": "7586"
 }, 
 {
-"date": "2015-05-23", 
+"date": "2015-05-17", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "16608"
+"Active Users": "67407"
 }, 
 {
-"date": "2015-05-23", 
+"date": "2015-05-17", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1942"
+"Active Users": "7168"
 }, 
 {
-"date": "2015-05-23", 
+"date": "2015-05-17", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "7735"
+"Active Users": "33957"
 }, 
 {
-"date": "2015-05-23", 
+"date": "2015-05-17", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "3426"
+"Active Users": "9012"
 }, 
 {
-"date": "2015-05-24", 
+"date": "2015-05-18", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "4704"
+"Active Users": "21835"
 }, 
 {
-"date": "2015-05-24", 
+"date": "2015-05-18", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "8491"
+"Active Users": "22049"
 }, 
 {
-"date": "2015-05-24", 
+"date": "2015-05-18", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1849"
+"Active Users": "14012"
 }, 
 {
-"date": "2015-05-24", 
+"date": "2015-05-18", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2991"
+"Active Users": "10660"
 }, 
 {
-"date": "2015-05-24", 
+"date": "2015-05-18", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "5517"
+"Active Users": "27551"
 }, 
 {
-"date": "2015-05-24", 
+"date": "2015-05-18", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4485"
+"Active Users": "8288"
 }, 
 {
-"date": "2015-05-24", 
+"date": "2015-05-18", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "16608"
+"Active Users": "70570"
 }, 
 {
-"date": "2015-05-24", 
+"date": "2015-05-18", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1917"
+"Active Users": "7488"
 }, 
 {
-"date": "2015-05-24", 
+"date": "2015-05-18", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "7645"
+"Active Users": "35282"
 }, 
 {
-"date": "2015-05-24", 
+"date": "2015-05-18", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "3469"
+"Active Users": "9547"
 }, 
 {
-"date": "2015-05-25", 
+"date": "2015-05-19", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "4442"
+"Active Users": "22754"
 }, 
 {
-"date": "2015-05-25", 
+"date": "2015-05-19", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "8185"
+"Active Users": "24014"
 }, 
 {
-"date": "2015-05-25", 
+"date": "2015-05-19", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1630"
+"Active Users": "14281"
 }, 
 {
-"date": "2015-05-25", 
+"date": "2015-05-19", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2987"
+"Active Users": "11350"
 }, 
 {
-"date": "2015-05-25", 
+"date": "2015-05-19", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "5058"
+"Active Users": "28722"
 }, 
 {
-"date": "2015-05-25", 
+"date": "2015-05-19", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4632"
+"Active Users": "9271"
 }, 
 {
-"date": "2015-05-25", 
+"date": "2015-05-19", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "15446"
+"Active Users": "73880"
 }, 
 {
-"date": "2015-05-25", 
+"date": "2015-05-19", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1843"
-}, 
-{
-"date": "2015-05-25", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "7175"
-}, 
-{
-"date": "2015-05-25", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "3393"
-}, 
-{
-"date": "2015-05-26", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3895"
-}, 
-{
-"date": "2015-05-26", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "7735"
-}, 
-{
-"date": "2015-05-26", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1617"
-}, 
-{
-"date": "2015-05-26", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2817"
-}, 
-{
-"date": "2015-05-26", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4657"
-}, 
-{
-"date": "2015-05-26", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4732"
-}, 
-{
-"date": "2015-05-26", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "15306"
-}, 
-{
-"date": "2015-05-26", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1538"
-}, 
-{
-"date": "2015-05-26", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "7251"
-}, 
-{
-"date": "2015-05-26", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "3276"
-}, 
-{
-"date": "2015-05-27", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3680"
-}, 
-{
-"date": "2015-05-27", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "7582"
-}, 
-{
-"date": "2015-05-27", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1341"
-}, 
-{
-"date": "2015-05-27", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2440"
-}, 
-{
-"date": "2015-05-27", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4312"
-}, 
-{
-"date": "2015-05-27", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4727"
-}, 
-{
-"date": "2015-05-27", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "14405"
-}, 
-{
-"date": "2015-05-27", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1349"
-}, 
-{
-"date": "2015-05-27", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "7315"
-}, 
-{
-"date": "2015-05-27", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "3201"
-}, 
-{
-"date": "2015-05-28", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3187"
-}, 
-{
-"date": "2015-05-28", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "8641"
-}, 
-{
-"date": "2015-05-28", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1162"
-}, 
-{
-"date": "2015-05-28", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2202"
-}, 
-{
-"date": "2015-05-28", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4277"
-}, 
-{
-"date": "2015-05-28", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4629"
-}, 
-{
-"date": "2015-05-28", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "14193"
-}, 
-{
-"date": "2015-05-28", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1301"
-}, 
-{
-"date": "2015-05-28", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "7962"
-}, 
-{
-"date": "2015-05-28", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "3221"
-}, 
-{
-"date": "2015-05-29", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2617"
-}, 
-{
-"date": "2015-05-29", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "8730"
-}, 
-{
-"date": "2015-05-29", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1011"
-}, 
-{
-"date": "2015-05-29", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "1943"
-}, 
-{
-"date": "2015-05-29", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4246"
-}, 
-{
-"date": "2015-05-29", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4413"
-}, 
-{
-"date": "2015-05-29", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "13755"
-}, 
-{
-"date": "2015-05-29", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1242"
-}, 
-{
-"date": "2015-05-29", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "7786"
-}, 
-{
-"date": "2015-05-29", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2963"
-}, 
-{
-"date": "2015-05-30", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2528"
-}, 
-{
-"date": "2015-05-30", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "8659"
-}, 
-{
-"date": "2015-05-30", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "990"
-}, 
-{
-"date": "2015-05-30", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "1875"
-}, 
-{
-"date": "2015-05-30", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4183"
-}, 
-{
-"date": "2015-05-30", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4463"
-}, 
-{
-"date": "2015-05-30", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "13546"
-}, 
-{
-"date": "2015-05-30", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1198"
-}, 
-{
-"date": "2015-05-30", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "7722"
-}, 
-{
-"date": "2015-05-30", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "3033"
-}, 
-{
-"date": "2015-05-31", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2501"
-}, 
-{
-"date": "2015-05-31", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "8668"
-}, 
-{
-"date": "2015-05-31", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "998"
-}, 
-{
-"date": "2015-05-31", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "1865"
-}, 
-{
-"date": "2015-05-31", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4150"
-}, 
-{
-"date": "2015-05-31", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4450"
-}, 
-{
-"date": "2015-05-31", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "13497"
-}, 
-{
-"date": "2015-05-31", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1194"
-}, 
-{
-"date": "2015-05-31", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "7711"
-}, 
-{
-"date": "2015-05-31", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2992"
-}, 
-{
-"date": "2015-06-01", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2484"
-}, 
-{
-"date": "2015-06-01", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "9811"
-}, 
-{
-"date": "2015-06-01", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "982"
-}, 
-{
-"date": "2015-06-01", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "1878"
-}, 
-{
-"date": "2015-06-01", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4469"
-}, 
-{
-"date": "2015-06-01", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4343"
-}, 
-{
-"date": "2015-06-01", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "13442"
-}, 
-{
-"date": "2015-06-01", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1145"
-}, 
-{
-"date": "2015-06-01", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "8119"
-}, 
-{
-"date": "2015-06-01", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2888"
-}, 
-{
-"date": "2015-06-02", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2486"
-}, 
-{
-"date": "2015-06-02", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "10050"
-}, 
-{
-"date": "2015-06-02", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "827"
-}, 
-{
-"date": "2015-06-02", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2111"
-}, 
-{
-"date": "2015-06-02", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4723"
-}, 
-{
-"date": "2015-06-02", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4353"
-}, 
-{
-"date": "2015-06-02", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "12776"
-}, 
-{
-"date": "2015-06-02", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1068"
-}, 
-{
-"date": "2015-06-02", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
 "Active Users": "8033"
 }, 
 {
+"date": "2015-05-19", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "36589"
+}, 
+{
+"date": "2015-05-19", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "10269"
+}, 
+{
+"date": "2015-05-20", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "23452"
+}, 
+{
+"date": "2015-05-20", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "25653"
+}, 
+{
+"date": "2015-05-20", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "14665"
+}, 
+{
+"date": "2015-05-20", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12034"
+}, 
+{
+"date": "2015-05-20", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "29765"
+}, 
+{
+"date": "2015-05-20", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "9952"
+}, 
+{
+"date": "2015-05-20", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "77415"
+}, 
+{
+"date": "2015-05-20", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "8389"
+}, 
+{
+"date": "2015-05-20", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "38060"
+}, 
+{
+"date": "2015-05-20", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "10892"
+}, 
+{
+"date": "2015-05-21", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "24578"
+}, 
+{
+"date": "2015-05-21", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "27170"
+}, 
+{
+"date": "2015-05-21", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "15078"
+}, 
+{
+"date": "2015-05-21", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12588"
+}, 
+{
+"date": "2015-05-21", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "30752"
+}, 
+{
+"date": "2015-05-21", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "10913"
+}, 
+{
+"date": "2015-05-21", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "80404"
+}, 
+{
+"date": "2015-05-21", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "8656"
+}, 
+{
+"date": "2015-05-21", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "39356"
+}, 
+{
+"date": "2015-05-21", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "11456"
+}, 
+{
+"date": "2015-05-22", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "25683"
+}, 
+{
+"date": "2015-05-22", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "28833"
+}, 
+{
+"date": "2015-05-22", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "15397"
+}, 
+{
+"date": "2015-05-22", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13093"
+}, 
+{
+"date": "2015-05-22", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "31615"
+}, 
+{
+"date": "2015-05-22", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "11794"
+}, 
+{
+"date": "2015-05-22", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "83094"
+}, 
+{
+"date": "2015-05-22", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "8925"
+}, 
+{
+"date": "2015-05-22", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "41162"
+}, 
+{
+"date": "2015-05-22", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "12272"
+}, 
+{
+"date": "2015-05-23", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "25866"
+}, 
+{
+"date": "2015-05-23", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "29158"
+}, 
+{
+"date": "2015-05-23", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "15463"
+}, 
+{
+"date": "2015-05-23", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13251"
+}, 
+{
+"date": "2015-05-23", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "31881"
+}, 
+{
+"date": "2015-05-23", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "11966"
+}, 
+{
+"date": "2015-05-23", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "83692"
+}, 
+{
+"date": "2015-05-23", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "9032"
+}, 
+{
+"date": "2015-05-23", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "41501"
+}, 
+{
+"date": "2015-05-23", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "12405"
+}, 
+{
+"date": "2015-05-24", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "25932"
+}, 
+{
+"date": "2015-05-24", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "29300"
+}, 
+{
+"date": "2015-05-24", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "15497"
+}, 
+{
+"date": "2015-05-24", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13280"
+}, 
+{
+"date": "2015-05-24", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "31967"
+}, 
+{
+"date": "2015-05-24", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "12071"
+}, 
+{
+"date": "2015-05-24", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "84015"
+}, 
+{
+"date": "2015-05-24", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "9085"
+}, 
+{
+"date": "2015-05-24", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "41602"
+}, 
+{
+"date": "2015-05-24", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "12481"
+}, 
+{
+"date": "2015-05-25", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "26277"
+}, 
+{
+"date": "2015-05-25", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "30234"
+}, 
+{
+"date": "2015-05-25", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "15642"
+}, 
+{
+"date": "2015-05-25", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13647"
+}, 
+{
+"date": "2015-05-25", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "32609"
+}, 
+{
+"date": "2015-05-25", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "12920"
+}, 
+{
+"date": "2015-05-25", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "86016"
+}, 
+{
+"date": "2015-05-25", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "9331"
+}, 
+{
+"date": "2015-05-25", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "42457"
+}, 
+{
+"date": "2015-05-25", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "12940"
+}, 
+{
+"date": "2015-05-26", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "26649"
+}, 
+{
+"date": "2015-05-26", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "31749"
+}, 
+{
+"date": "2015-05-26", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "15898"
+}, 
+{
+"date": "2015-05-26", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "14167"
+}, 
+{
+"date": "2015-05-26", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "33379"
+}, 
+{
+"date": "2015-05-26", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "14003"
+}, 
+{
+"date": "2015-05-26", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "89186"
+}, 
+{
+"date": "2015-05-26", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "9571"
+}, 
+{
+"date": "2015-05-26", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "43840"
+}, 
+{
+"date": "2015-05-26", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "13545"
+}, 
+{
+"date": "2015-05-27", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "27132"
+}, 
+{
+"date": "2015-05-27", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "33235"
+}, 
+{
+"date": "2015-05-27", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "16006"
+}, 
+{
+"date": "2015-05-27", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "14474"
+}, 
+{
+"date": "2015-05-27", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "34077"
+}, 
+{
+"date": "2015-05-27", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "14679"
+}, 
+{
+"date": "2015-05-27", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "91820"
+}, 
+{
+"date": "2015-05-27", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "9738"
+}, 
+{
+"date": "2015-05-27", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "45375"
+}, 
+{
+"date": "2015-05-27", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "14093"
+}, 
+{
+"date": "2015-05-28", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "27765"
+}, 
+{
+"date": "2015-05-28", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "35811"
+}, 
+{
+"date": "2015-05-28", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "16240"
+}, 
+{
+"date": "2015-05-28", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "14790"
+}, 
+{
+"date": "2015-05-28", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "35029"
+}, 
+{
+"date": "2015-05-28", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "15542"
+}, 
+{
+"date": "2015-05-28", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "94597"
+}, 
+{
+"date": "2015-05-28", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "9957"
+}, 
+{
+"date": "2015-05-28", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "47318"
+}, 
+{
+"date": "2015-05-28", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "14677"
+}, 
+{
+"date": "2015-05-29", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "28300"
+}, 
+{
+"date": "2015-05-29", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "37563"
+}, 
+{
+"date": "2015-05-29", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "16408"
+}, 
+{
+"date": "2015-05-29", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "15036"
+}, 
+{
+"date": "2015-05-29", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "35861"
+}, 
+{
+"date": "2015-05-29", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "16207"
+}, 
+{
+"date": "2015-05-29", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "96849"
+}, 
+{
+"date": "2015-05-29", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "10167"
+}, 
+{
+"date": "2015-05-29", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "48948"
+}, 
+{
+"date": "2015-05-29", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "15235"
+}, 
+{
+"date": "2015-05-30", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "28394"
+}, 
+{
+"date": "2015-05-30", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "37817"
+}, 
+{
+"date": "2015-05-30", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "16453"
+}, 
+{
+"date": "2015-05-30", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "15126"
+}, 
+{
+"date": "2015-05-30", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "36064"
+}, 
+{
+"date": "2015-05-30", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "16429"
+}, 
+{
+"date": "2015-05-30", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "97238"
+}, 
+{
+"date": "2015-05-30", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "10230"
+}, 
+{
+"date": "2015-05-30", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "49223"
+}, 
+{
+"date": "2015-05-30", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "15438"
+}, 
+{
+"date": "2015-05-31", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "28433"
+}, 
+{
+"date": "2015-05-31", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "37968"
+}, 
+{
+"date": "2015-05-31", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "16495"
+}, 
+{
+"date": "2015-05-31", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "15145"
+}, 
+{
+"date": "2015-05-31", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "36117"
+}, 
+{
+"date": "2015-05-31", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "16521"
+}, 
+{
+"date": "2015-05-31", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "97512"
+}, 
+{
+"date": "2015-05-31", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "10279"
+}, 
+{
+"date": "2015-05-31", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "49313"
+}, 
+{
+"date": "2015-05-31", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "15473"
+}, 
+{
+"date": "2015-06-01", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "27791"
+}, 
+{
+"date": "2015-06-01", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "39344"
+}, 
+{
+"date": "2015-06-01", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "16299"
+}, 
+{
+"date": "2015-06-01", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "15288"
+}, 
+{
+"date": "2015-06-01", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "36159"
+}, 
+{
+"date": "2015-06-01", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "17105"
+}, 
+{
+"date": "2015-06-01", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "98138"
+}, 
+{
+"date": "2015-06-01", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "10291"
+}, 
+{
+"date": "2015-06-01", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "49383"
+}, 
+{
+"date": "2015-06-01", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "15598"
+}, 
+{
+"date": "2015-06-02", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "27861"
+}, 
+{
+"date": "2015-06-02", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "40778"
+}, 
+{
+"date": "2015-06-02", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "16231"
+}, 
+{
+"date": "2015-06-02", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "15901"
+}, 
+{
+"date": "2015-06-02", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "36741"
+}, 
+{
+"date": "2015-06-02", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18111"
+}, 
+{
+"date": "2015-06-02", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "99881"
+}, 
+{
+"date": "2015-06-02", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "10325"
+}, 
+{
+"date": "2015-06-02", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "50250"
+}, 
+{
 "date": "2015-06-02", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2614"
+"Active Users": "15836"
 }, 
 {
 "date": "2015-06-03", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2639"
+"Active Users": "26655"
 }, 
 {
 "date": "2015-06-03", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "9431"
+"Active Users": "39682"
 }, 
 {
 "date": "2015-06-03", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "874"
+"Active Users": "14902"
 }, 
 {
 "date": "2015-06-03", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2586"
+"Active Users": "15824"
 }, 
 {
 "date": "2015-06-03", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4800"
+"Active Users": "34971"
 }, 
 {
 "date": "2015-06-03", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4873"
+"Active Users": "18315"
 }, 
 {
 "date": "2015-06-03", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "12173"
+"Active Users": "96069"
 }, 
 {
 "date": "2015-06-03", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1212"
+"Active Users": "10075"
 }, 
 {
 "date": "2015-06-03", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "7501"
+"Active Users": "48350"
 }, 
 {
 "date": "2015-06-03", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2476"
+"Active Users": "15656"
 }, 
 {
 "date": "2015-06-04", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2655"
+"Active Users": "25126"
 }, 
 {
 "date": "2015-06-04", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "7626"
+"Active Users": "38488"
 }, 
 {
 "date": "2015-06-04", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "779"
+"Active Users": "13637"
 }, 
 {
 "date": "2015-06-04", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3009"
+"Active Users": "15809"
 }, 
 {
 "date": "2015-06-04", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4368"
+"Active Users": "33016"
 }, 
 {
 "date": "2015-06-04", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5021"
+"Active Users": "18578"
 }, 
 {
 "date": "2015-06-04", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "11611"
+"Active Users": "91518"
 }, 
 {
 "date": "2015-06-04", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1230"
+"Active Users": "9832"
 }, 
 {
 "date": "2015-06-04", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "6385"
+"Active Users": "46315"
 }, 
 {
 "date": "2015-06-04", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2140"
+"Active Users": "14863"
 }, 
 {
 "date": "2015-06-05", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2614"
+"Active Users": "23622"
 }, 
 {
 "date": "2015-06-05", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "6580"
+"Active Users": "36922"
 }, 
 {
 "date": "2015-06-05", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "745"
+"Active Users": "11767"
 }, 
 {
 "date": "2015-06-05", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3155"
+"Active Users": "14735"
 }, 
 {
 "date": "2015-06-05", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "4004"
+"Active Users": "31040"
 }, 
 {
 "date": "2015-06-05", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5440"
+"Active Users": "19022"
 }, 
 {
 "date": "2015-06-05", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "11646"
+"Active Users": "86292"
 }, 
 {
 "date": "2015-06-05", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1273"
+"Active Users": "9238"
 }, 
 {
 "date": "2015-06-05", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "5404"
+"Active Users": "42973"
 }, 
 {
 "date": "2015-06-05", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1824"
+"Active Users": "14560"
 }, 
 {
 "date": "2015-06-06", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2675"
+"Active Users": "21240"
 }, 
 {
 "date": "2015-06-06", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "34780"
+}, 
+{
+"date": "2015-06-06", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "10057"
+}, 
+{
+"date": "2015-06-06", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13824"
+}, 
+{
+"date": "2015-06-06", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "28824"
+}, 
+{
+"date": "2015-06-06", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18783"
+}, 
+{
+"date": "2015-06-06", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "80235"
+}, 
+{
+"date": "2015-06-06", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "8353"
+}, 
+{
+"date": "2015-06-06", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "38333"
+}, 
+{
+"date": "2015-06-06", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "13740"
+}, 
+{
+"date": "2015-06-07", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "18631"
+}, 
+{
+"date": "2015-06-07", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "32468"
+}, 
+{
+"date": "2015-06-07", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "8302"
+}, 
+{
+"date": "2015-06-07", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12852"
+}, 
+{
+"date": "2015-06-07", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "25931"
+}, 
+{
+"date": "2015-06-07", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18399"
+}, 
+{
+"date": "2015-06-07", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "73954"
+}, 
+{
+"date": "2015-06-07", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "7818"
+}, 
+{
+"date": "2015-06-07", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "33501"
+}, 
+{
+"date": "2015-06-07", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "12775"
+}, 
+{
+"date": "2015-06-08", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "18509"
+}, 
+{
+"date": "2015-06-08", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "32286"
+}, 
+{
+"date": "2015-06-08", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "8159"
+}, 
+{
+"date": "2015-06-08", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12882"
+}, 
+{
+"date": "2015-06-08", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "25090"
+}, 
+{
+"date": "2015-06-08", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18786"
+}, 
+{
+"date": "2015-06-08", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "73709"
+}, 
+{
+"date": "2015-06-08", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "7752"
+}, 
+{
+"date": "2015-06-08", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "32601"
+}, 
+{
+"date": "2015-06-08", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "12711"
+}, 
+{
+"date": "2015-06-09", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "18432"
+}, 
+{
+"date": "2015-06-09", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "32227"
+}, 
+{
+"date": "2015-06-09", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "8046"
+}, 
+{
+"date": "2015-06-09", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12909"
+}, 
+{
+"date": "2015-06-09", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "25067"
+}, 
+{
+"date": "2015-06-09", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19190"
+}, 
+{
+"date": "2015-06-09", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "73719"
+}, 
+{
+"date": "2015-06-09", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "7738"
+}, 
+{
+"date": "2015-06-09", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "32444"
+}, 
+{
+"date": "2015-06-09", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "12717"
+}, 
+{
+"date": "2015-06-10", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "16299"
+}, 
+{
+"date": "2015-06-10", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "30729"
+}, 
+{
+"date": "2015-06-10", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "7208"
+}, 
+{
+"date": "2015-06-10", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12461"
+}, 
+{
+"date": "2015-06-10", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "23652"
+}, 
+{
+"date": "2015-06-10", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19328"
+}, 
+{
+"date": "2015-06-10", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "68794"
+}, 
+{
+"date": "2015-06-10", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "7529"
+}, 
+{
+"date": "2015-06-10", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "30534"
+}, 
+{
+"date": "2015-06-10", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "12177"
+}, 
+{
+"date": "2015-06-11", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "15607"
+}, 
+{
+"date": "2015-06-11", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "29238"
+}, 
+{
+"date": "2015-06-11", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "6354"
+}, 
+{
+"date": "2015-06-11", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "11565"
+}, 
+{
+"date": "2015-06-11", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "21979"
+}, 
+{
+"date": "2015-06-11", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19623"
+}, 
+{
+"date": "2015-06-11", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "64142"
+}, 
+{
+"date": "2015-06-11", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "6882"
+}, 
+{
+"date": "2015-06-11", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "28571"
+}, 
+{
+"date": "2015-06-11", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "11480"
+}, 
+{
+"date": "2015-06-12", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "14682"
+}, 
+{
+"date": "2015-06-12", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "27877"
+}, 
+{
+"date": "2015-06-12", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "5927"
+}, 
+{
+"date": "2015-06-12", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "10829"
+}, 
+{
+"date": "2015-06-12", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "19636"
+}, 
+{
+"date": "2015-06-12", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19738"
+}, 
+{
+"date": "2015-06-12", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "58830"
+}, 
+{
+"date": "2015-06-12", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "6038"
+}, 
+{
+"date": "2015-06-12", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "26499"
+}, 
+{
+"date": "2015-06-12", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "10427"
+}, 
+{
+"date": "2015-06-13", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "13255"
+}, 
+{
+"date": "2015-06-13", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "26401"
+}, 
+{
+"date": "2015-06-13", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "5242"
+}, 
+{
+"date": "2015-06-13", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "9856"
+}, 
+{
+"date": "2015-06-13", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "17330"
+}, 
+{
+"date": "2015-06-13", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18851"
+}, 
+{
+"date": "2015-06-13", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "50397"
+}, 
+{
+"date": "2015-06-13", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "5583"
+}, 
+{
+"date": "2015-06-13", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "24293"
+}, 
+{
+"date": "2015-06-13", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "9717"
+}, 
+{
+"date": "2015-06-14", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "12522"
+}, 
+{
+"date": "2015-06-14", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "25166"
+}, 
+{
+"date": "2015-06-14", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4593"
+}, 
+{
+"date": "2015-06-14", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "9267"
+}, 
+{
+"date": "2015-06-14", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "15978"
+}, 
+{
+"date": "2015-06-14", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18022"
+}, 
+{
+"date": "2015-06-14", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "45684"
+}, 
+{
+"date": "2015-06-14", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "5064"
+}, 
+{
+"date": "2015-06-14", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "22736"
+}, 
+{
+"date": "2015-06-14", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "9022"
+}, 
+{
+"date": "2015-06-15", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "12555"
+}, 
+{
+"date": "2015-06-15", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "24950"
+}, 
+{
+"date": "2015-06-15", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4530"
+}, 
+{
+"date": "2015-06-15", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "9289"
+}, 
+{
+"date": "2015-06-15", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "16094"
+}, 
+{
+"date": "2015-06-15", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18624"
+}, 
+{
+"date": "2015-06-15", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "45351"
+}, 
+{
+"date": "2015-06-15", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4982"
+}, 
+{
+"date": "2015-06-15", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "22664"
+}, 
+{
+"date": "2015-06-15", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "8891"
+}, 
+{
+"date": "2015-06-16", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "12733"
+}, 
+{
+"date": "2015-06-16", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "24972"
+}, 
+{
+"date": "2015-06-16", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4698"
+}, 
+{
+"date": "2015-06-16", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "9420"
+}, 
+{
+"date": "2015-06-16", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "16412"
+}, 
+{
+"date": "2015-06-16", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19434"
+}, 
+{
+"date": "2015-06-16", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "45540"
+}, 
+{
+"date": "2015-06-16", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4968"
+}, 
+{
+"date": "2015-06-16", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "22843"
+}, 
+{
+"date": "2015-06-16", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "8942"
+}, 
+{
+"date": "2015-06-17", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "12503"
+}, 
+{
+"date": "2015-06-17", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "23838"
+}, 
+{
+"date": "2015-06-17", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4469"
+}, 
+{
+"date": "2015-06-17", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "9169"
+}, 
+{
+"date": "2015-06-17", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "15693"
+}, 
+{
+"date": "2015-06-17", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19744"
+}, 
+{
+"date": "2015-06-17", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "42762"
+}, 
+{
+"date": "2015-06-17", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4682"
+}, 
+{
+"date": "2015-06-17", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "22086"
+}, 
+{
+"date": "2015-06-17", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "8507"
+}, 
+{
+"date": "2015-06-18", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "11986"
+}, 
+{
+"date": "2015-06-18", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "21985"
+}, 
+{
+"date": "2015-06-18", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4490"
+}, 
+{
+"date": "2015-06-18", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "10017"
+}, 
+{
+"date": "2015-06-18", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "15017"
+}, 
+{
+"date": "2015-06-18", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19944"
+}, 
+{
+"date": "2015-06-18", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "39897"
+}, 
+{
+"date": "2015-06-18", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4183"
+}, 
+{
+"date": "2015-06-18", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "21149"
+}, 
+{
+"date": "2015-06-18", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "7847"
+}, 
+{
+"date": "2015-06-19", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "11321"
+}, 
+{
+"date": "2015-06-19", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "20507"
+}, 
+{
+"date": "2015-06-19", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4326"
+}, 
+{
+"date": "2015-06-19", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "9922"
+}, 
+{
+"date": "2015-06-19", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "14337"
+}, 
+{
+"date": "2015-06-19", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19865"
+}, 
+{
+"date": "2015-06-19", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "36673"
+}, 
+{
+"date": "2015-06-19", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3923"
+}, 
+{
+"date": "2015-06-19", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "19919"
+}, 
+{
+"date": "2015-06-19", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "7379"
+}, 
+{
+"date": "2015-06-20", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "10206"
+}, 
+{
+"date": "2015-06-20", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "19033"
+}, 
+{
+"date": "2015-06-20", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3962"
+}, 
+{
+"date": "2015-06-20", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "9486"
+}, 
+{
+"date": "2015-06-20", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "13464"
+}, 
+{
+"date": "2015-06-20", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19050"
+}, 
+{
+"date": "2015-06-20", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "33814"
+}, 
+{
+"date": "2015-06-20", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3668"
+}, 
+{
+"date": "2015-06-20", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "18654"
+}, 
+{
+"date": "2015-06-20", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "6838"
+}, 
+{
+"date": "2015-06-21", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "9124"
+}, 
+{
+"date": "2015-06-21", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "17391"
+}, 
+{
+"date": "2015-06-21", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3657"
+}, 
+{
+"date": "2015-06-21", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "9174"
+}, 
+{
+"date": "2015-06-21", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "12642"
+}, 
+{
+"date": "2015-06-21", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18217"
+}, 
+{
+"date": "2015-06-21", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "31218"
+}, 
+{
+"date": "2015-06-21", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3402"
+}, 
+{
+"date": "2015-06-21", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "16860"
+}, 
+{
+"date": "2015-06-21", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "6033"
+}, 
+{
+"date": "2015-06-22", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "8955"
+}, 
+{
+"date": "2015-06-22", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "17178"
+}, 
+{
+"date": "2015-06-22", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3628"
+}, 
+{
+"date": "2015-06-22", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "9657"
+}, 
+{
+"date": "2015-06-22", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "12865"
+}, 
+{
+"date": "2015-06-22", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18664"
+}, 
+{
+"date": "2015-06-22", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "31172"
+}, 
+{
+"date": "2015-06-22", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3314"
+}, 
+{
+"date": "2015-06-22", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "16720"
+}, 
+{
+"date": "2015-06-22", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5926"
+}, 
+{
+"date": "2015-06-23", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "8909"
+}, 
+{
+"date": "2015-06-23", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "17122"
+}, 
+{
+"date": "2015-06-23", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3747"
+}, 
+{
+"date": "2015-06-23", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "10429"
+}, 
+{
+"date": "2015-06-23", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "13254"
+}, 
+{
+"date": "2015-06-23", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19350"
+}, 
+{
+"date": "2015-06-23", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "31498"
+}, 
+{
+"date": "2015-06-23", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3345"
+}, 
+{
+"date": "2015-06-23", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "16801"
+}, 
+{
+"date": "2015-06-23", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5932"
+}, 
+{
+"date": "2015-06-24", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "8616"
+}, 
+{
+"date": "2015-06-24", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "16288"
+}, 
+{
+"date": "2015-06-24", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3734"
+}, 
+{
+"date": "2015-06-24", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "10646"
+}, 
+{
+"date": "2015-06-24", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "13027"
+}, 
+{
+"date": "2015-06-24", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19202"
+}, 
+{
+"date": "2015-06-24", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "30069"
+}, 
+{
+"date": "2015-06-24", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3131"
+}, 
+{
+"date": "2015-06-24", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "16158"
+}, 
+{
+"date": "2015-06-24", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5532"
+}, 
+{
+"date": "2015-06-25", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "8291"
+}, 
+{
+"date": "2015-06-25", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "14883"
+}, 
+{
+"date": "2015-06-25", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3578"
+}, 
+{
+"date": "2015-06-25", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "10855"
+}, 
+{
+"date": "2015-06-25", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "12657"
+}, 
+{
+"date": "2015-06-25", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18946"
+}, 
+{
+"date": "2015-06-25", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "27501"
+}, 
+{
+"date": "2015-06-25", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "2930"
+}, 
+{
+"date": "2015-06-25", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "14941"
+}, 
+{
+"date": "2015-06-25", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "4960"
+}, 
+{
+"date": "2015-06-26", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "7830"
+}, 
+{
+"date": "2015-06-26", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "13475"
+}, 
+{
+"date": "2015-06-26", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3589"
+}, 
+{
+"date": "2015-06-26", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "11069"
+}, 
+{
+"date": "2015-06-26", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "12191"
+}, 
+{
+"date": "2015-06-26", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18973"
+}, 
+{
+"date": "2015-06-26", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "25162"
+}, 
+{
+"date": "2015-06-26", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3016"
+}, 
+{
+"date": "2015-06-26", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "13557"
+}, 
+{
+"date": "2015-06-26", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "4482"
+}, 
+{
+"date": "2015-06-27", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "7239"
+}, 
+{
+"date": "2015-06-27", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "11014"
+}, 
+{
+"date": "2015-06-27", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3388"
+}, 
+{
+"date": "2015-06-27", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "10829"
+}, 
+{
+"date": "2015-06-27", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "11295"
+}, 
+{
+"date": "2015-06-27", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18396"
+}, 
+{
+"date": "2015-06-27", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "22471"
+}, 
+{
+"date": "2015-06-27", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "2837"
+}, 
+{
+"date": "2015-06-27", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "11639"
+}, 
+{
+"date": "2015-06-27", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "3938"
+}, 
+{
+"date": "2015-06-28", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "6739"
+}, 
+{
+"date": "2015-06-28", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "9299"
+}, 
+{
+"date": "2015-06-28", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3242"
+}, 
+{
+"date": "2015-06-28", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "10639"
+}, 
+{
+"date": "2015-06-28", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "10492"
+}, 
+{
+"date": "2015-06-28", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "17859"
+}, 
+{
+"date": "2015-06-28", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "20297"
+}, 
+{
+"date": "2015-06-28", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "2678"
+}, 
+{
+"date": "2015-06-28", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "10022"
+}, 
+{
+"date": "2015-06-28", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "3399"
+}, 
+{
+"date": "2015-06-29", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "6727"
+}, 
+{
+"date": "2015-06-29", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "9190"
+}, 
+{
+"date": "2015-06-29", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3315"
+}, 
+{
+"date": "2015-06-29", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "10989"
+}, 
+{
+"date": "2015-06-29", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "10744"
+}, 
+{
+"date": "2015-06-29", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18270"
+}, 
+{
+"date": "2015-06-29", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "20252"
+}, 
+{
+"date": "2015-06-29", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "2688"
+}, 
+{
+"date": "2015-06-29", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "9832"
+}, 
+{
+"date": "2015-06-29", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "3320"
+}, 
+{
+"date": "2015-06-30", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "6788"
+}, 
+{
+"date": "2015-06-30", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "9274"
+}, 
+{
+"date": "2015-06-30", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3418"
+}, 
+{
+"date": "2015-06-30", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "11277"
+}, 
+{
+"date": "2015-06-30", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "11089"
+}, 
+{
+"date": "2015-06-30", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18610"
+}, 
+{
+"date": "2015-06-30", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "20399"
+}, 
+{
+"date": "2015-06-30", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "2721"
+}, 
+{
+"date": "2015-06-30", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "10046"
+}, 
+{
+"date": "2015-06-30", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "3425"
+}, 
+{
+"date": "2015-07-01", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "6726"
+}, 
+{
+"date": "2015-07-01", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "7445"
+}, 
+{
+"date": "2015-07-01", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3383"
+}, 
+{
+"date": "2015-07-01", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "11283"
+}, 
+{
+"date": "2015-07-01", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "10415"
+}, 
+{
+"date": "2015-07-01", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18554"
+}, 
+{
+"date": "2015-07-01", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "18850"
+}, 
+{
+"date": "2015-07-01", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "2719"
+}, 
+{
+"date": "2015-07-01", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "8936"
+}, 
+{
+"date": "2015-07-01", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "3207"
+}, 
+{
+"date": "2015-07-02", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "6708"
+}, 
+{
+"date": "2015-07-02", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "5904"
+}, 
+{
+"date": "2015-07-02", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3459"
+}, 
+{
+"date": "2015-07-02", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "11087"
+}, 
+{
+"date": "2015-07-02", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "9620"
+}, 
+{
+"date": "2015-07-02", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18110"
+}, 
+{
+"date": "2015-07-02", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "16760"
+}, 
+{
+"date": "2015-07-02", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "2724"
+}, 
+{
+"date": "2015-07-02", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "7759"
+}, 
+{
+"date": "2015-07-02", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "2957"
+}, 
+{
+"date": "2015-07-03", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
 "Active Users": "6475"
 }, 
 {
-"date": "2015-06-06", 
+"date": "2015-07-03", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "5264"
+}, 
+{
+"date": "2015-07-03", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "722"
+"Active Users": "3495"
 }, 
 {
-"date": "2015-06-06", 
+"date": "2015-07-03", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3168"
+"Active Users": "10682"
 }, 
 {
-"date": "2015-06-06", 
+"date": "2015-07-03", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3949"
+"Active Users": "9152"
 }, 
 {
-"date": "2015-06-06", 
+"date": "2015-07-03", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5355"
+"Active Users": "17497"
 }, 
 {
-"date": "2015-06-06", 
+"date": "2015-07-03", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "11636"
+"Active Users": "15072"
 }, 
 {
-"date": "2015-06-06", 
+"date": "2015-07-03", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1276"
+"Active Users": "2507"
 }, 
 {
-"date": "2015-06-06", 
+"date": "2015-07-03", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "6888"
+}, 
+{
+"date": "2015-07-03", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "2650"
+}, 
+{
+"date": "2015-07-04", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "5916"
+}, 
+{
+"date": "2015-07-04", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "4591"
+}, 
+{
+"date": "2015-07-04", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3432"
+}, 
+{
+"date": "2015-07-04", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "10092"
+}, 
+{
+"date": "2015-07-04", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "8714"
+}, 
+{
+"date": "2015-07-04", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "16701"
+}, 
+{
+"date": "2015-07-04", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "13009"
+}, 
+{
+"date": "2015-07-04", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "2299"
+}, 
+{
+"date": "2015-07-04", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "6109"
+}, 
+{
+"date": "2015-07-04", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "2424"
+}, 
+{
+"date": "2015-07-05", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "5638"
+}, 
+{
+"date": "2015-07-05", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "3913"
+}, 
+{
+"date": "2015-07-05", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3316"
+}, 
+{
+"date": "2015-07-05", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "9779"
+}, 
+{
+"date": "2015-07-05", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "8335"
+}, 
+{
+"date": "2015-07-05", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "15783"
+}, 
+{
+"date": "2015-07-05", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "10840"
+}, 
+{
+"date": "2015-07-05", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "2083"
+}, 
+{
+"date": "2015-07-05", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5483"
+}, 
+{
+"date": "2015-07-05", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "2215"
+}, 
+{
+"date": "2015-07-06", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "6748"
+}, 
+{
+"date": "2015-07-06", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "4171"
+}, 
+{
+"date": "2015-07-06", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3594"
+}, 
+{
+"date": "2015-07-06", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "10204"
+}, 
+{
+"date": "2015-07-06", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "8636"
+}, 
+{
+"date": "2015-07-06", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "16595"
+}, 
+{
+"date": "2015-07-06", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "10886"
+}, 
+{
+"date": "2015-07-06", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "2285"
+}, 
+{
+"date": "2015-07-06", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5616"
+}, 
+{
+"date": "2015-07-06", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "2234"
+}, 
+{
+"date": "2015-07-07", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "7898"
+}, 
+{
+"date": "2015-07-07", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "5038"
+}, 
+{
+"date": "2015-07-07", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "3832"
+}, 
+{
+"date": "2015-07-07", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "10944"
+}, 
+{
+"date": "2015-07-07", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "9313"
+}, 
+{
+"date": "2015-07-07", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "17466"
+}, 
+{
+"date": "2015-07-07", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "11102"
+}, 
+{
+"date": "2015-07-07", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "2606"
+}, 
+{
+"date": "2015-07-07", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5863"
+}, 
+{
+"date": "2015-07-07", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "2545"
+}, 
+{
+"date": "2015-07-08", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "8586"
+}, 
+{
+"date": "2015-07-08", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "5654"
+}, 
+{
+"date": "2015-07-08", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4129"
+}, 
+{
+"date": "2015-07-08", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "11284"
+}, 
+{
+"date": "2015-07-08", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "9627"
+}, 
+{
+"date": "2015-07-08", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "17978"
+}, 
+{
+"date": "2015-07-08", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "11369"
+}, 
+{
+"date": "2015-07-08", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3042"
+}, 
+{
+"date": "2015-07-08", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5864"
+}, 
+{
+"date": "2015-07-08", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "2642"
+}, 
+{
+"date": "2015-07-09", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "9069"
+}, 
+{
+"date": "2015-07-09", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "6169"
+}, 
+{
+"date": "2015-07-09", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4532"
+}, 
+{
+"date": "2015-07-09", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "11614"
+}, 
+{
+"date": "2015-07-09", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "9938"
+}, 
+{
+"date": "2015-07-09", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18314"
+}, 
+{
+"date": "2015-07-09", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "11454"
+}, 
+{
+"date": "2015-07-09", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3205"
+}, 
+{
+"date": "2015-07-09", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5831"
+}, 
+{
+"date": "2015-07-09", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "2714"
+}, 
+{
+"date": "2015-07-10", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "9064"
+}, 
+{
+"date": "2015-07-10", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "6572"
+}, 
+{
+"date": "2015-07-10", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4817"
+}, 
+{
+"date": "2015-07-10", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12148"
+}, 
+{
+"date": "2015-07-10", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "10113"
+}, 
+{
+"date": "2015-07-10", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18222"
+}, 
+{
+"date": "2015-07-10", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "11546"
+}, 
+{
+"date": "2015-07-10", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3314"
+}, 
+{
+"date": "2015-07-10", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5744"
+}, 
+{
+"date": "2015-07-10", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "2919"
+}, 
+{
+"date": "2015-07-11", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "8657"
+}, 
+{
+"date": "2015-07-11", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "6593"
+}, 
+{
+"date": "2015-07-11", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4760"
+}, 
+{
+"date": "2015-07-11", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12141"
+}, 
+{
+"date": "2015-07-11", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "10053"
+}, 
+{
+"date": "2015-07-11", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "17485"
+}, 
+{
+"date": "2015-07-11", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "11187"
+}, 
+{
+"date": "2015-07-11", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3296"
+}, 
+{
+"date": "2015-07-11", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5420"
+}, 
+{
+"date": "2015-07-11", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "2918"
+}, 
+{
+"date": "2015-07-12", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "8402"
+}, 
+{
+"date": "2015-07-12", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "6508"
+}, 
+{
+"date": "2015-07-12", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4428"
+}, 
+{
+"date": "2015-07-12", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12045"
+}, 
+{
+"date": "2015-07-12", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "9883"
+}, 
+{
+"date": "2015-07-12", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "16851"
+}, 
+{
+"date": "2015-07-12", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "10961"
+}, 
+{
+"date": "2015-07-12", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3263"
+}, 
+{
+"date": "2015-07-12", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5207"
+}, 
+{
+"date": "2015-07-12", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "2847"
+}, 
+{
+"date": "2015-07-13", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "8713"
+}, 
+{
+"date": "2015-07-13", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "6959"
+}, 
+{
+"date": "2015-07-13", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4731"
+}, 
+{
+"date": "2015-07-13", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12557"
+}, 
+{
+"date": "2015-07-13", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "10157"
+}, 
+{
+"date": "2015-07-13", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "17822"
+}, 
+{
+"date": "2015-07-13", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "11846"
+}, 
+{
+"date": "2015-07-13", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3313"
+}, 
+{
+"date": "2015-07-13", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5505"
+}, 
+{
+"date": "2015-07-13", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "3026"
+}, 
+{
+"date": "2015-07-14", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "9454"
+}, 
+{
+"date": "2015-07-14", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "7537"
+}, 
+{
+"date": "2015-07-14", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4890"
+}, 
+{
+"date": "2015-07-14", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13014"
+}, 
+{
+"date": "2015-07-14", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "10623"
+}, 
+{
+"date": "2015-07-14", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18893"
+}, 
+{
+"date": "2015-07-14", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "13221"
+}, 
+{
+"date": "2015-07-14", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3386"
+}, 
+{
+"date": "2015-07-14", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5835"
+}, 
+{
+"date": "2015-07-14", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "3339"
+}, 
+{
+"date": "2015-07-15", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "9774"
+}, 
+{
+"date": "2015-07-15", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "8047"
+}, 
+{
+"date": "2015-07-15", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "5122"
+}, 
+{
+"date": "2015-07-15", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13553"
+}, 
+{
+"date": "2015-07-15", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "10604"
+}, 
+{
+"date": "2015-07-15", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19086"
+}, 
+{
+"date": "2015-07-15", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "14109"
+}, 
+{
+"date": "2015-07-15", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3462"
+}, 
+{
+"date": "2015-07-15", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5637"
+}, 
+{
+"date": "2015-07-15", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "3463"
+}, 
+{
+"date": "2015-07-16", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "10225"
+}, 
+{
+"date": "2015-07-16", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "8438"
+}, 
+{
+"date": "2015-07-16", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "5273"
+}, 
+{
+"date": "2015-07-16", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13946"
+}, 
+{
+"date": "2015-07-16", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "10988"
+}, 
+{
+"date": "2015-07-16", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19113"
+}, 
+{
+"date": "2015-07-16", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "15706"
+}, 
+{
+"date": "2015-07-16", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3533"
+}, 
+{
+"date": "2015-07-16", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5479"
+}, 
+{
+"date": "2015-07-16", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "3675"
+}, 
+{
+"date": "2015-07-17", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "10397"
+}, 
+{
+"date": "2015-07-17", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "8808"
+}, 
+{
+"date": "2015-07-17", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "5778"
+}, 
+{
+"date": "2015-07-17", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "14462"
+}, 
+{
+"date": "2015-07-17", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "11277"
+}, 
+{
+"date": "2015-07-17", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19055"
+}, 
+{
+"date": "2015-07-17", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "17690"
+}, 
+{
+"date": "2015-07-17", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3620"
+}, 
+{
+"date": "2015-07-17", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5140"
+}, 
+{
+"date": "2015-07-17", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "4028"
+}, 
+{
+"date": "2015-07-18", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "10278"
+}, 
+{
+"date": "2015-07-18", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "8816"
+}, 
+{
+"date": "2015-07-18", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "5587"
+}, 
+{
+"date": "2015-07-18", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13023"
+}, 
+{
+"date": "2015-07-18", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "10912"
+}, 
+{
+"date": "2015-07-18", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18142"
+}, 
+{
+"date": "2015-07-18", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "17789"
+}, 
+{
+"date": "2015-07-18", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3619"
+}, 
+{
+"date": "2015-07-18", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "4838"
+}, 
+{
+"date": "2015-07-18", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "4013"
+}, 
+{
+"date": "2015-07-19", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "10257"
+}, 
+{
+"date": "2015-07-19", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "8682"
+}, 
+{
+"date": "2015-07-19", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "5379"
+}, 
+{
+"date": "2015-07-19", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12459"
+}, 
+{
+"date": "2015-07-19", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "10581"
+}, 
+{
+"date": "2015-07-19", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "17681"
+}, 
+{
+"date": "2015-07-19", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "17562"
+}, 
+{
+"date": "2015-07-19", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3526"
+}, 
+{
+"date": "2015-07-19", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "4600"
+}, 
+{
+"date": "2015-07-19", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "3873"
+}, 
+{
+"date": "2015-07-20", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "10861"
+}, 
+{
+"date": "2015-07-20", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "9100"
+}, 
+{
+"date": "2015-07-20", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "5742"
+}, 
+{
+"date": "2015-07-20", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12891"
+}, 
+{
+"date": "2015-07-20", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "11319"
+}, 
+{
+"date": "2015-07-20", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18448"
+}, 
+{
+"date": "2015-07-20", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "19438"
+}, 
+{
+"date": "2015-07-20", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3819"
+}, 
+{
+"date": "2015-07-20", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "4767"
+}, 
+{
+"date": "2015-07-20", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "4223"
+}, 
+{
+"date": "2015-07-21", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "11387"
+}, 
+{
+"date": "2015-07-21", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "9610"
+}, 
+{
+"date": "2015-07-21", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "6095"
+}, 
+{
+"date": "2015-07-21", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13214"
+}, 
+{
+"date": "2015-07-21", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "11838"
+}, 
+{
+"date": "2015-07-21", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19162"
+}, 
+{
+"date": "2015-07-21", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "21185"
+}, 
+{
+"date": "2015-07-21", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4040"
+}, 
+{
+"date": "2015-07-21", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5099"
+}, 
+{
+"date": "2015-07-21", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "4460"
+}, 
+{
+"date": "2015-07-22", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "11981"
+}, 
+{
+"date": "2015-07-22", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "10095"
+}, 
+{
+"date": "2015-07-22", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "6623"
+}, 
+{
+"date": "2015-07-22", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13240"
+}, 
+{
+"date": "2015-07-22", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "11831"
+}, 
+{
+"date": "2015-07-22", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19268"
+}, 
+{
+"date": "2015-07-22", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "22429"
+}, 
+{
+"date": "2015-07-22", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4252"
+}, 
+{
+"date": "2015-07-22", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5200"
+}, 
+{
+"date": "2015-07-22", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "4754"
+}, 
+{
+"date": "2015-07-23", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "12647"
+}, 
+{
+"date": "2015-07-23", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "10893"
+}, 
+{
+"date": "2015-07-23", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "7113"
+}, 
+{
+"date": "2015-07-23", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13277"
+}, 
+{
+"date": "2015-07-23", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "11839"
+}, 
+{
+"date": "2015-07-23", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19134"
+}, 
+{
+"date": "2015-07-23", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "23556"
+}, 
+{
+"date": "2015-07-23", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4441"
+}, 
+{
+"date": "2015-07-23", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5286"
+}, 
+{
+"date": "2015-07-23", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5000"
+}, 
+{
+"date": "2015-07-24", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "13102"
+}, 
+{
+"date": "2015-07-24", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "11497"
+}, 
+{
+"date": "2015-07-24", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "7476"
+}, 
+{
+"date": "2015-07-24", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13239"
+}, 
+{
+"date": "2015-07-24", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "11940"
+}, 
+{
+"date": "2015-07-24", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19569"
+}, 
+{
+"date": "2015-07-24", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "25021"
+}, 
+{
+"date": "2015-07-24", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4817"
+}, 
+{
+"date": "2015-07-24", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5244"
+}, 
+{
+"date": "2015-07-24", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5117"
+}, 
+{
+"date": "2015-07-25", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "13122"
+}, 
+{
+"date": "2015-07-25", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "11516"
+}, 
+{
+"date": "2015-07-25", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "7458"
+}, 
+{
+"date": "2015-07-25", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12631"
+}, 
+{
+"date": "2015-07-25", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "11624"
+}, 
+{
+"date": "2015-07-25", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18903"
+}, 
+{
+"date": "2015-07-25", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "24741"
+}, 
+{
+"date": "2015-07-25", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4829"
+}, 
+{
+"date": "2015-07-25", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5108"
+}, 
+{
+"date": "2015-07-25", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5191"
+}, 
+{
+"date": "2015-07-26", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "13122"
+}, 
+{
+"date": "2015-07-26", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "11491"
+}, 
+{
+"date": "2015-07-26", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "7360"
+}, 
+{
+"date": "2015-07-26", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12174"
+}, 
+{
+"date": "2015-07-26", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "11448"
+}, 
+{
+"date": "2015-07-26", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18273"
+}, 
+{
+"date": "2015-07-26", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "24626"
+}, 
+{
+"date": "2015-07-26", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4604"
+}, 
+{
+"date": "2015-07-26", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "4980"
+}, 
+{
+"date": "2015-07-26", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5124"
+}, 
+{
+"date": "2015-07-27", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "13593"
+}, 
+{
+"date": "2015-07-27", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "11809"
+}, 
+{
+"date": "2015-07-27", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "7672"
+}, 
+{
+"date": "2015-07-27", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12523"
+}, 
+{
+"date": "2015-07-27", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "11891"
+}, 
+{
+"date": "2015-07-27", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18636"
+}, 
+{
+"date": "2015-07-27", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "26079"
+}, 
+{
+"date": "2015-07-27", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4692"
+}, 
+{
+"date": "2015-07-27", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5111"
+}, 
+{
+"date": "2015-07-27", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5250"
+}, 
+{
+"date": "2015-07-28", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "13981"
+}, 
+{
+"date": "2015-07-28", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "12244"
+}, 
+{
+"date": "2015-07-28", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "8458"
+}, 
+{
+"date": "2015-07-28", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13123"
+}, 
+{
+"date": "2015-07-28", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "12280"
+}, 
+{
+"date": "2015-07-28", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19556"
+}, 
+{
+"date": "2015-07-28", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "27916"
+}, 
+{
+"date": "2015-07-28", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4834"
+}, 
+{
+"date": "2015-07-28", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5262"
+}, 
+{
+"date": "2015-07-28", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5451"
+}, 
+{
+"date": "2015-07-29", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "14365"
+}, 
+{
+"date": "2015-07-29", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "12660"
+}, 
+{
+"date": "2015-07-29", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "8909"
+}, 
+{
+"date": "2015-07-29", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13282"
+}, 
+{
+"date": "2015-07-29", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "12205"
+}, 
+{
+"date": "2015-07-29", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "20122"
+}, 
+{
+"date": "2015-07-29", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "29195"
+}, 
+{
+"date": "2015-07-29", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4870"
+}, 
+{
+"date": "2015-07-29", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5411"
+}, 
+{
+"date": "2015-07-29", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5514"
+}, 
+{
+"date": "2015-07-30", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "14718"
+}, 
+{
+"date": "2015-07-30", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "13058"
+}, 
+{
+"date": "2015-07-30", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "9480"
+}, 
+{
+"date": "2015-07-30", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13473"
+}, 
+{
+"date": "2015-07-30", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "12110"
+}, 
+{
+"date": "2015-07-30", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "20784"
+}, 
+{
+"date": "2015-07-30", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "30632"
+}, 
+{
+"date": "2015-07-30", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4980"
+}, 
+{
+"date": "2015-07-30", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5333"
+}, 
+{
+"date": "2015-07-30", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5618"
+}, 
+{
+"date": "2015-07-31", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "15039"
+}, 
+{
+"date": "2015-07-31", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "13297"
+}, 
+{
+"date": "2015-07-31", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "10064"
+}, 
+{
+"date": "2015-07-31", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13748"
+}, 
+{
+"date": "2015-07-31", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "12218"
+}, 
+{
+"date": "2015-07-31", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "21508"
+}, 
+{
+"date": "2015-07-31", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "32855"
+}, 
+{
+"date": "2015-07-31", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4943"
+}, 
+{
+"date": "2015-07-31", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5412"
+}, 
+{
+"date": "2015-07-31", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5781"
+}, 
+{
+"date": "2015-08-01", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "14773"
+}, 
+{
+"date": "2015-08-01", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "13278"
+}, 
+{
+"date": "2015-08-01", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "10013"
+}, 
+{
+"date": "2015-08-01", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13422"
+}, 
+{
+"date": "2015-08-01", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "12099"
+}, 
+{
+"date": "2015-08-01", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "21031"
+}, 
+{
+"date": "2015-08-01", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "32928"
+}, 
+{
+"date": "2015-08-01", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4809"
+}, 
+{
+"date": "2015-08-01", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5382"
+}, 
+{
+"date": "2015-08-01", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "5764"
+}, 
+{
+"date": "2015-08-02", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "14384"
+}, 
+{
+"date": "2015-08-02", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "13091"
+}, 
+{
+"date": "2015-08-02", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "9834"
+}, 
+{
+"date": "2015-08-02", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13090"
+}, 
+{
+"date": "2015-08-02", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "11828"
+}, 
+{
+"date": "2015-08-02", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "20686"
+}, 
+{
+"date": "2015-08-02", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "32690"
+}, 
+{
+"date": "2015-08-02", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4726"
+}, 
+{
+"date": "2015-08-02", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
 "Active Users": "5259"
 }, 
 {
-"date": "2015-06-06", 
+"date": "2015-08-02", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1703"
+"Active Users": "5676"
 }, 
 {
-"date": "2015-06-07", 
+"date": "2015-08-03", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2688"
+"Active Users": "14714"
 }, 
 {
-"date": "2015-06-07", 
+"date": "2015-08-03", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "6377"
+"Active Users": "13576"
 }, 
 {
-"date": "2015-06-07", 
+"date": "2015-08-03", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "707"
+"Active Users": "9993"
 }, 
 {
-"date": "2015-06-07", 
+"date": "2015-08-03", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3188"
+"Active Users": "13668"
 }, 
 {
-"date": "2015-06-07", 
+"date": "2015-08-03", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3969"
+"Active Users": "11989"
 }, 
 {
-"date": "2015-06-07", 
+"date": "2015-08-03", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5346"
+"Active Users": "21363"
 }, 
 {
-"date": "2015-06-07", 
+"date": "2015-08-03", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "11578"
+"Active Users": "34499"
 }, 
 {
-"date": "2015-06-07", 
+"date": "2015-08-03", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1274"
+"Active Users": "4818"
 }, 
 {
-"date": "2015-06-07", 
+"date": "2015-08-03", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "5224"
+"Active Users": "5547"
 }, 
 {
-"date": "2015-06-07", 
+"date": "2015-08-03", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1691"
+"Active Users": "5893"
 }, 
 {
-"date": "2015-06-08", 
+"date": "2015-08-04", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2714"
+"Active Users": "15235"
 }, 
 {
-"date": "2015-06-08", 
+"date": "2015-08-04", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "4601"
+"Active Users": "14104"
 }, 
 {
-"date": "2015-06-08", 
+"date": "2015-08-04", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "681"
+"Active Users": "10479"
 }, 
 {
-"date": "2015-06-08", 
+"date": "2015-08-04", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3025"
+"Active Users": "14137"
 }, 
 {
-"date": "2015-06-08", 
+"date": "2015-08-04", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3452"
+"Active Users": "12243"
 }, 
 {
-"date": "2015-06-08", 
+"date": "2015-08-04", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5083"
+"Active Users": "21933"
 }, 
 {
-"date": "2015-06-08", 
+"date": "2015-08-04", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "10205"
+"Active Users": "36574"
 }, 
 {
-"date": "2015-06-08", 
+"date": "2015-08-04", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1138"
+"Active Users": "4946"
 }, 
 {
-"date": "2015-06-08", 
+"date": "2015-08-04", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "4261"
+"Active Users": "5696"
 }, 
 {
-"date": "2015-06-08", 
+"date": "2015-08-04", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1469"
+"Active Users": "6083"
 }, 
 {
-"date": "2015-06-09", 
+"date": "2015-08-05", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2673"
+"Active Users": "14387"
 }, 
 {
-"date": "2015-06-09", 
+"date": "2015-08-05", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3097"
+"Active Users": "14208"
 }, 
 {
-"date": "2015-06-09", 
+"date": "2015-08-05", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "672"
+"Active Users": "10520"
 }, 
 {
-"date": "2015-06-09", 
+"date": "2015-08-05", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2434"
+"Active Users": "13985"
 }, 
 {
-"date": "2015-06-09", 
+"date": "2015-08-05", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2875"
+"Active Users": "12256"
 }, 
 {
-"date": "2015-06-09", 
+"date": "2015-08-05", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4439"
+"Active Users": "21804"
 }, 
 {
-"date": "2015-06-09", 
+"date": "2015-08-05", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "8334"
+"Active Users": "37916"
 }, 
 {
-"date": "2015-06-09", 
+"date": "2015-08-05", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1065"
+"Active Users": "4884"
 }, 
 {
-"date": "2015-06-09", 
+"date": "2015-08-05", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "3300"
+"Active Users": "5674"
 }, 
 {
-"date": "2015-06-09", 
+"date": "2015-08-05", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1289"
+"Active Users": "6246"
 }, 
 {
-"date": "2015-06-10", 
+"date": "2015-08-06", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2607"
+"Active Users": "13726"
 }, 
 {
-"date": "2015-06-10", 
+"date": "2015-08-06", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2436"
+"Active Users": "13587"
 }, 
 {
-"date": "2015-06-10", 
+"date": "2015-08-06", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "570"
+"Active Users": "10611"
 }, 
 {
-"date": "2015-06-10", 
+"date": "2015-08-06", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "1806"
+"Active Users": "13505"
 }, 
 {
-"date": "2015-06-10", 
+"date": "2015-08-06", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2455"
+"Active Users": "11979"
 }, 
 {
-"date": "2015-06-10", 
+"date": "2015-08-06", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3997"
+"Active Users": "21479"
 }, 
 {
-"date": "2015-06-10", 
+"date": "2015-08-06", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "6942"
+"Active Users": "38788"
 }, 
 {
-"date": "2015-06-10", 
+"date": "2015-08-06", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "841"
+"Active Users": "4724"
 }, 
 {
-"date": "2015-06-10", 
+"date": "2015-08-06", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2553"
+"Active Users": "5639"
 }, 
 {
-"date": "2015-06-10", 
+"date": "2015-08-06", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "978"
+"Active Users": "6104"
 }, 
 {
-"date": "2015-06-11", 
+"date": "2015-08-07", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2533"
+"Active Users": "12979"
 }, 
 {
-"date": "2015-06-11", 
+"date": "2015-08-07", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1898"
+"Active Users": "13069"
 }, 
 {
-"date": "2015-06-11", 
+"date": "2015-08-07", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "585"
+"Active Users": "10434"
 }, 
 {
-"date": "2015-06-11", 
+"date": "2015-08-07", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "1246"
+"Active Users": "13206"
 }, 
 {
-"date": "2015-06-11", 
+"date": "2015-08-07", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2181"
+"Active Users": "11660"
 }, 
 {
-"date": "2015-06-11", 
+"date": "2015-08-07", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3912"
+"Active Users": "20954"
 }, 
 {
-"date": "2015-06-11", 
+"date": "2015-08-07", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "39419"
+}, 
+{
+"date": "2015-08-07", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4363"
+}, 
+{
+"date": "2015-08-07", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5546"
+}, 
+{
+"date": "2015-08-07", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "6217"
+}, 
+{
+"date": "2015-08-08", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "12193"
+}, 
+{
+"date": "2015-08-08", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "12388"
+}, 
+{
+"date": "2015-08-08", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "9992"
+}, 
+{
+"date": "2015-08-08", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "12787"
+}, 
+{
+"date": "2015-08-08", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "10959"
+}, 
+{
+"date": "2015-08-08", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "20311"
+}, 
+{
+"date": "2015-08-08", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "38982"
+}, 
+{
+"date": "2015-08-08", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "4144"
+}, 
+{
+"date": "2015-08-08", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
 "Active Users": "5298"
 }, 
 {
-"date": "2015-06-11", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "691"
-}, 
-{
-"date": "2015-06-11", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2087"
-}, 
-{
-"date": "2015-06-11", 
+"date": "2015-08-08", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "812"
+"Active Users": "6043"
 }, 
 {
-"date": "2015-06-12", 
+"date": "2015-08-09", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2354"
+"Active Users": "11647"
 }, 
 {
-"date": "2015-06-12", 
+"date": "2015-08-09", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1345"
+"Active Users": "11820"
 }, 
 {
-"date": "2015-06-12", 
+"date": "2015-08-09", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "809"
+"Active Users": "9685"
 }, 
 {
-"date": "2015-06-12", 
+"date": "2015-08-09", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "1012"
+"Active Users": "12150"
 }, 
 {
-"date": "2015-06-12", 
+"date": "2015-08-09", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1970"
+"Active Users": "10451"
 }, 
 {
-"date": "2015-06-12", 
+"date": "2015-08-09", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3584"
+"Active Users": "19735"
 }, 
 {
-"date": "2015-06-12", 
+"date": "2015-08-09", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "3366"
+"Active Users": "38362"
 }, 
 {
-"date": "2015-06-12", 
+"date": "2015-08-09", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "495"
+"Active Users": "3965"
 }, 
 {
-"date": "2015-06-12", 
+"date": "2015-08-09", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1684"
+"Active Users": "5154"
 }, 
 {
-"date": "2015-06-12", 
+"date": "2015-08-09", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "656"
+"Active Users": "5748"
 }, 
 {
-"date": "2015-06-13", 
+"date": "2015-08-10", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2271"
+"Active Users": "11667"
 }, 
 {
-"date": "2015-06-13", 
+"date": "2015-08-10", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1236"
+"Active Users": "11758"
 }, 
 {
-"date": "2015-06-13", 
+"date": "2015-08-10", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "828"
+"Active Users": "9664"
 }, 
 {
-"date": "2015-06-13", 
+"date": "2015-08-10", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "958"
+"Active Users": "12204"
 }, 
 {
-"date": "2015-06-13", 
+"date": "2015-08-10", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1887"
+"Active Users": "10459"
 }, 
 {
-"date": "2015-06-13", 
+"date": "2015-08-10", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3554"
+"Active Users": "19963"
 }, 
 {
-"date": "2015-06-13", 
+"date": "2015-08-10", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "3111"
+"Active Users": "39798"
 }, 
 {
-"date": "2015-06-13", 
+"date": "2015-08-10", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "447"
+"Active Users": "4028"
 }, 
 {
-"date": "2015-06-13", 
+"date": "2015-08-10", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1606"
+"Active Users": "5192"
 }, 
 {
-"date": "2015-06-13", 
+"date": "2015-08-10", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "618"
+"Active Users": "5821"
 }, 
 {
-"date": "2015-06-14", 
+"date": "2015-08-11", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2253"
+"Active Users": "11935"
 }, 
 {
-"date": "2015-06-14", 
+"date": "2015-08-11", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1225"
+"Active Users": "12026"
 }, 
 {
-"date": "2015-06-14", 
+"date": "2015-08-11", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "816"
+"Active Users": "9849"
 }, 
 {
-"date": "2015-06-14", 
+"date": "2015-08-11", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "953"
+"Active Users": "12528"
 }, 
 {
-"date": "2015-06-14", 
+"date": "2015-08-11", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1840"
+"Active Users": "10846"
 }, 
 {
-"date": "2015-06-14", 
+"date": "2015-08-11", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3558"
+"Active Users": "20623"
 }, 
 {
-"date": "2015-06-14", 
+"date": "2015-08-11", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2935"
+"Active Users": "41793"
 }, 
 {
-"date": "2015-06-14", 
+"date": "2015-08-11", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "416"
+"Active Users": "4240"
 }, 
 {
-"date": "2015-06-14", 
+"date": "2015-08-11", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1569"
+"Active Users": "5296"
 }, 
 {
-"date": "2015-06-14", 
+"date": "2015-08-11", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "613"
+"Active Users": "6327"
 }, 
 {
-"date": "2015-06-15", 
+"date": "2015-08-12", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2220"
+"Active Users": "12028"
 }, 
 {
-"date": "2015-06-15", 
+"date": "2015-08-12", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1030"
+"Active Users": "12526"
 }, 
 {
-"date": "2015-06-15", 
+"date": "2015-08-12", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "801"
+"Active Users": "9625"
 }, 
 {
-"date": "2015-06-15", 
+"date": "2015-08-12", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "980"
+"Active Users": "12840"
 }, 
 {
-"date": "2015-06-15", 
+"date": "2015-08-12", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1909"
+"Active Users": "10857"
 }, 
 {
-"date": "2015-06-15", 
+"date": "2015-08-12", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3825"
+"Active Users": "20589"
 }, 
 {
-"date": "2015-06-15", 
+"date": "2015-08-12", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2772"
+"Active Users": "42402"
 }, 
 {
-"date": "2015-06-15", 
+"date": "2015-08-12", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "458"
+"Active Users": "4380"
 }, 
 {
-"date": "2015-06-15", 
+"date": "2015-08-12", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1593"
+"Active Users": "5248"
 }, 
 {
-"date": "2015-06-15", 
+"date": "2015-08-12", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "573"
+"Active Users": "6550"
 }, 
 {
-"date": "2015-06-16", 
+"date": "2015-08-13", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2153"
+"Active Users": "11732"
 }, 
 {
-"date": "2015-06-16", 
+"date": "2015-08-13", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "885"
+"Active Users": "12710"
 }, 
 {
-"date": "2015-06-16", 
+"date": "2015-08-13", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "949"
+"Active Users": "9629"
 }, 
 {
-"date": "2015-06-16", 
+"date": "2015-08-13", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "997"
+"Active Users": "13157"
 }, 
 {
-"date": "2015-06-16", 
+"date": "2015-08-13", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1885"
+"Active Users": "10618"
 }, 
 {
-"date": "2015-06-16", 
+"date": "2015-08-13", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4225"
+"Active Users": "20424"
 }, 
 {
-"date": "2015-06-16", 
+"date": "2015-08-13", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2651"
+"Active Users": "42422"
 }, 
 {
-"date": "2015-06-16", 
+"date": "2015-08-13", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "432"
+"Active Users": "4444"
 }, 
 {
-"date": "2015-06-16", 
+"date": "2015-08-13", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1627"
+"Active Users": "5127"
 }, 
 {
-"date": "2015-06-16", 
+"date": "2015-08-13", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "506"
+"Active Users": "6603"
 }, 
 {
-"date": "2015-06-17", 
+"date": "2015-08-14", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1960"
+"Active Users": "11416"
 }, 
 {
-"date": "2015-06-17", 
+"date": "2015-08-14", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "785"
+"Active Users": "12891"
 }, 
 {
-"date": "2015-06-17", 
+"date": "2015-08-14", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1031"
+"Active Users": "9353"
 }, 
 {
-"date": "2015-06-17", 
+"date": "2015-08-14", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "963"
+"Active Users": "12933"
 }, 
 {
-"date": "2015-06-17", 
+"date": "2015-08-14", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1912"
+"Active Users": "10353"
 }, 
 {
-"date": "2015-06-17", 
+"date": "2015-08-14", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4483"
+"Active Users": "20112"
 }, 
 {
-"date": "2015-06-17", 
+"date": "2015-08-14", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2397"
+"Active Users": "42450"
 }, 
 {
-"date": "2015-06-17", 
+"date": "2015-08-14", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "379"
+"Active Users": "4398"
 }, 
 {
-"date": "2015-06-17", 
+"date": "2015-08-14", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1939"
+"Active Users": "5286"
 }, 
 {
-"date": "2015-06-17", 
+"date": "2015-08-14", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "507"
+"Active Users": "6644"
 }, 
 {
-"date": "2015-06-18", 
+"date": "2015-08-15", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1787"
+"Active Users": "10775"
 }, 
 {
-"date": "2015-06-18", 
+"date": "2015-08-15", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "664"
+"Active Users": "12551"
 }, 
 {
-"date": "2015-06-18", 
+"date": "2015-08-15", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1167"
+"Active Users": "8974"
 }, 
 {
-"date": "2015-06-18", 
+"date": "2015-08-15", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2322"
+"Active Users": "12588"
 }, 
 {
-"date": "2015-06-18", 
+"date": "2015-08-15", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2161"
+"Active Users": "9626"
 }, 
 {
-"date": "2015-06-18", 
+"date": "2015-08-15", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4740"
+"Active Users": "19415"
 }, 
 {
-"date": "2015-06-18", 
+"date": "2015-08-15", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2271"
+"Active Users": "40563"
 }, 
 {
-"date": "2015-06-18", 
+"date": "2015-08-15", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "338"
+"Active Users": "4367"
 }, 
 {
-"date": "2015-06-18", 
+"date": "2015-08-15", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1948"
+"Active Users": "5117"
 }, 
 {
-"date": "2015-06-18", 
+"date": "2015-08-15", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "487"
+"Active Users": "6432"
 }, 
 {
-"date": "2015-06-19", 
+"date": "2015-08-16", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1505"
+"Active Users": "10238"
 }, 
 {
-"date": "2015-06-19", 
+"date": "2015-08-16", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "672"
+"Active Users": "12128"
 }, 
 {
-"date": "2015-06-19", 
+"date": "2015-08-16", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1029"
+"Active Users": "8358"
 }, 
 {
-"date": "2015-06-19", 
+"date": "2015-08-16", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2753"
+"Active Users": "12011"
 }, 
 {
-"date": "2015-06-19", 
+"date": "2015-08-16", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2267"
+"Active Users": "8982"
 }, 
 {
-"date": "2015-06-19", 
+"date": "2015-08-16", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4586"
+"Active Users": "18523"
 }, 
 {
-"date": "2015-06-19", 
+"date": "2015-08-16", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2227"
+"Active Users": "38264"
 }, 
 {
-"date": "2015-06-19", 
+"date": "2015-08-16", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "377"
+"Active Users": "4274"
 }, 
 {
-"date": "2015-06-19", 
+"date": "2015-08-16", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1943"
+"Active Users": "4903"
 }, 
 {
-"date": "2015-06-19", 
+"date": "2015-08-16", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "556"
+"Active Users": "5992"
 }, 
 {
-"date": "2015-06-20", 
+"date": "2015-08-17", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1444"
+"Active Users": "10221"
 }, 
 {
-"date": "2015-06-20", 
+"date": "2015-08-17", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "675"
+"Active Users": "12613"
 }, 
 {
-"date": "2015-06-20", 
+"date": "2015-08-17", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1037"
+"Active Users": "8338"
 }, 
 {
-"date": "2015-06-20", 
+"date": "2015-08-17", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2822"
+"Active Users": "12319"
 }, 
 {
-"date": "2015-06-20", 
+"date": "2015-08-17", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2316"
+"Active Users": "9029"
 }, 
 {
-"date": "2015-06-20", 
+"date": "2015-08-17", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4625"
+"Active Users": "18751"
 }, 
 {
-"date": "2015-06-20", 
+"date": "2015-08-17", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2233"
+"Active Users": "38731"
 }, 
 {
-"date": "2015-06-20", 
+"date": "2015-08-17", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "371"
+"Active Users": "4328"
 }, 
 {
-"date": "2015-06-20", 
+"date": "2015-08-17", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1922"
+"Active Users": "4943"
 }, 
 {
-"date": "2015-06-20", 
+"date": "2015-08-17", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "535"
+"Active Users": "6224"
 }, 
 {
-"date": "2015-06-21", 
+"date": "2015-08-18", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1433"
+"Active Users": "10434"
 }, 
 {
-"date": "2015-06-21", 
+"date": "2015-08-18", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "654"
+"Active Users": "13201"
 }, 
 {
-"date": "2015-06-21", 
+"date": "2015-08-18", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1036"
+"Active Users": "8411"
 }, 
 {
-"date": "2015-06-21", 
+"date": "2015-08-18", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2981"
+"Active Users": "12725"
 }, 
 {
-"date": "2015-06-21", 
+"date": "2015-08-18", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2331"
+"Active Users": "9135"
 }, 
 {
-"date": "2015-06-21", 
+"date": "2015-08-18", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4586"
+"Active Users": "19127"
 }, 
 {
-"date": "2015-06-21", 
+"date": "2015-08-18", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2287"
+"Active Users": "39716"
 }, 
 {
-"date": "2015-06-21", 
+"date": "2015-08-18", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "358"
+"Active Users": "4493"
 }, 
 {
-"date": "2015-06-21", 
+"date": "2015-08-18", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1916"
+"Active Users": "5275"
 }, 
 {
-"date": "2015-06-21", 
+"date": "2015-08-18", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "528"
+"Active Users": "6519"
 }, 
 {
-"date": "2015-06-22", 
+"date": "2015-08-19", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1126"
+"Active Users": "10129"
 }, 
 {
-"date": "2015-06-22", 
+"date": "2015-08-19", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "660"
+"Active Users": "13391"
 }, 
 {
-"date": "2015-06-22", 
+"date": "2015-08-19", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "985"
+"Active Users": "8094"
 }, 
 {
-"date": "2015-06-22", 
+"date": "2015-08-19", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3378"
+"Active Users": "12589"
 }, 
 {
-"date": "2015-06-22", 
+"date": "2015-08-19", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2307"
+"Active Users": "8438"
 }, 
 {
-"date": "2015-06-22", 
+"date": "2015-08-19", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4459"
+"Active Users": "18796"
 }, 
 {
-"date": "2015-06-22", 
+"date": "2015-08-19", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2429"
+"Active Users": "39016"
 }, 
 {
-"date": "2015-06-22", 
+"date": "2015-08-19", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "274"
+"Active Users": "4266"
 }, 
 {
-"date": "2015-06-22", 
+"date": "2015-08-19", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1791"
+"Active Users": "5312"
 }, 
 {
-"date": "2015-06-22", 
+"date": "2015-08-19", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "461"
+"Active Users": "6411"
 }, 
 {
-"date": "2015-06-23", 
+"date": "2015-08-20", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "880"
+"Active Users": "9902"
 }, 
 {
-"date": "2015-06-23", 
+"date": "2015-08-20", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "641"
+"Active Users": "13599"
 }, 
 {
-"date": "2015-06-23", 
+"date": "2015-08-20", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "898"
+"Active Users": "7806"
 }, 
 {
-"date": "2015-06-23", 
+"date": "2015-08-20", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4000"
+"Active Users": "12462"
 }, 
 {
-"date": "2015-06-23", 
+"date": "2015-08-20", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2359"
+"Active Users": "8011"
 }, 
 {
-"date": "2015-06-23", 
+"date": "2015-08-20", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4401"
+"Active Users": "18593"
 }, 
 {
-"date": "2015-06-23", 
+"date": "2015-08-20", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2566"
+"Active Users": "39075"
 }, 
 {
-"date": "2015-06-23", 
+"date": "2015-08-20", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "294"
+"Active Users": "4151"
 }, 
 {
-"date": "2015-06-23", 
+"date": "2015-08-20", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1603"
+"Active Users": "5144"
 }, 
 {
-"date": "2015-06-23", 
+"date": "2015-08-20", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "459"
+"Active Users": "6427"
 }, 
 {
-"date": "2015-06-24", 
+"date": "2015-08-21", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "555"
+"Active Users": "9490"
 }, 
 {
-"date": "2015-06-24", 
+"date": "2015-08-21", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "635"
+"Active Users": "13664"
 }, 
 {
-"date": "2015-06-24", 
+"date": "2015-08-21", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "895"
+"Active Users": "7372"
 }, 
 {
-"date": "2015-06-24", 
+"date": "2015-08-21", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4464"
+"Active Users": "12377"
 }, 
 {
-"date": "2015-06-24", 
+"date": "2015-08-21", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2392"
+"Active Users": "7662"
 }, 
 {
-"date": "2015-06-24", 
+"date": "2015-08-21", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4090"
+"Active Users": "18410"
 }, 
 {
-"date": "2015-06-24", 
+"date": "2015-08-21", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2753"
+"Active Users": "39070"
 }, 
 {
-"date": "2015-06-24", 
+"date": "2015-08-21", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "292"
+"Active Users": "3977"
 }, 
 {
-"date": "2015-06-24", 
+"date": "2015-08-21", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1247"
+"Active Users": "5004"
 }, 
 {
-"date": "2015-06-24", 
+"date": "2015-08-21", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "418"
+"Active Users": "6322"
 }, 
 {
-"date": "2015-06-25", 
+"date": "2015-08-22", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "200"
+"Active Users": "8869"
 }, 
 {
-"date": "2015-06-25", 
+"date": "2015-08-22", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "633"
+"Active Users": "12861"
 }, 
 {
-"date": "2015-06-25", 
+"date": "2015-08-22", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "705"
+"Active Users": "6771"
 }, 
 {
-"date": "2015-06-25", 
+"date": "2015-08-22", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3655"
+"Active Users": "11684"
 }, 
 {
-"date": "2015-06-25", 
+"date": "2015-08-22", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2297"
+"Active Users": "7223"
 }, 
 {
-"date": "2015-06-25", 
+"date": "2015-08-22", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3734"
+"Active Users": "17904"
 }, 
 {
-"date": "2015-06-25", 
+"date": "2015-08-22", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2910"
+"Active Users": "37780"
 }, 
 {
-"date": "2015-06-25", 
+"date": "2015-08-22", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "285"
+"Active Users": "3742"
 }, 
 {
-"date": "2015-06-25", 
+"date": "2015-08-22", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1043"
+"Active Users": "4791"
 }, 
 {
-"date": "2015-06-25", 
+"date": "2015-08-22", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "389"
+"Active Users": "6112"
 }, 
 {
-"date": "2015-06-26", 
+"date": "2015-08-23", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "189"
+"Active Users": "8405"
 }, 
 {
-"date": "2015-06-26", 
+"date": "2015-08-23", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "550"
+"Active Users": "12228"
 }, 
 {
-"date": "2015-06-26", 
+"date": "2015-08-23", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "604"
+"Active Users": "6285"
 }, 
 {
-"date": "2015-06-26", 
+"date": "2015-08-23", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3587"
+"Active Users": "11186"
 }, 
 {
-"date": "2015-06-26", 
+"date": "2015-08-23", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2166"
+"Active Users": "6725"
 }, 
 {
-"date": "2015-06-26", 
+"date": "2015-08-23", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3835"
+"Active Users": "16812"
 }, 
 {
-"date": "2015-06-26", 
+"date": "2015-08-23", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2894"
+"Active Users": "35907"
 }, 
 {
-"date": "2015-06-26", 
+"date": "2015-08-23", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "442"
+"Active Users": "3343"
 }, 
 {
-"date": "2015-06-26", 
+"date": "2015-08-23", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "953"
+"Active Users": "4633"
 }, 
 {
-"date": "2015-06-26", 
+"date": "2015-08-23", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "304"
+"Active Users": "5952"
 }, 
 {
-"date": "2015-06-27", 
+"date": "2015-08-24", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "220"
+"Active Users": "8544"
 }, 
 {
-"date": "2015-06-27", 
+"date": "2015-08-24", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "622"
+"Active Users": "12639"
 }, 
 {
-"date": "2015-06-27", 
+"date": "2015-08-24", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "588"
+"Active Users": "6289"
 }, 
 {
-"date": "2015-06-27", 
+"date": "2015-08-24", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3545"
+"Active Users": "11586"
 }, 
 {
-"date": "2015-06-27", 
+"date": "2015-08-24", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2108"
+"Active Users": "6745"
 }, 
 {
-"date": "2015-06-27", 
+"date": "2015-08-24", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3975"
+"Active Users": "17084"
 }, 
 {
-"date": "2015-06-27", 
+"date": "2015-08-24", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2850"
+"Active Users": "36334"
 }, 
 {
-"date": "2015-06-27", 
+"date": "2015-08-24", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "470"
+"Active Users": "3332"
 }, 
 {
-"date": "2015-06-27", 
+"date": "2015-08-24", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "947"
+"Active Users": "4777"
 }, 
 {
-"date": "2015-06-27", 
+"date": "2015-08-24", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "321"
+"Active Users": "6057"
 }, 
 {
-"date": "2015-06-28", 
+"date": "2015-08-25", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "232"
+"Active Users": "8670"
 }, 
 {
-"date": "2015-06-28", 
+"date": "2015-08-25", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "638"
+"Active Users": "12953"
 }, 
 {
-"date": "2015-06-28", 
+"date": "2015-08-25", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "596"
+"Active Users": "6298"
 }, 
 {
-"date": "2015-06-28", 
+"date": "2015-08-25", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3408"
+"Active Users": "11987"
 }, 
 {
-"date": "2015-06-28", 
+"date": "2015-08-25", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2096"
+"Active Users": "6788"
 }, 
 {
-"date": "2015-06-28", 
+"date": "2015-08-25", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4055"
+"Active Users": "18027"
 }, 
 {
-"date": "2015-06-28", 
+"date": "2015-08-25", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2834"
+"Active Users": "37515"
 }, 
 {
-"date": "2015-06-28", 
+"date": "2015-08-25", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "518"
+"Active Users": "3463"
 }, 
 {
-"date": "2015-06-28", 
+"date": "2015-08-25", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "948"
+"Active Users": "4883"
 }, 
 {
-"date": "2015-06-28", 
+"date": "2015-08-25", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "329"
+"Active Users": "6215"
 }, 
 {
-"date": "2015-06-29", 
+"date": "2015-08-26", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "300"
+"Active Users": "8295"
 }, 
 {
-"date": "2015-06-29", 
+"date": "2015-08-26", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "671"
+"Active Users": "12840"
 }, 
 {
-"date": "2015-06-29", 
+"date": "2015-08-26", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "677"
+"Active Users": "6041"
 }, 
 {
-"date": "2015-06-29", 
+"date": "2015-08-26", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "11910"
+}, 
+{
+"date": "2015-08-26", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "6387"
+}, 
+{
+"date": "2015-08-26", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "18126"
+}, 
+{
+"date": "2015-08-26", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "37084"
+}, 
+{
+"date": "2015-08-26", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "3381"
+}, 
+{
+"date": "2015-08-26", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "4846"
+}, 
+{
+"date": "2015-08-26", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "6168"
+}, 
+{
+"date": "2015-08-27", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "8076"
+}, 
+{
+"date": "2015-08-27", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "12565"
+}, 
+{
+"date": "2015-08-27", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "5423"
+}, 
+{
+"date": "2015-08-27", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "11583"
+}, 
+{
+"date": "2015-08-27", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "6118"
+}, 
+{
+"date": "2015-08-27", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "17987"
+}, 
+{
+"date": "2015-08-27", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "36146"
+}, 
+{
+"date": "2015-08-27", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
 "Active Users": "3207"
 }, 
 {
-"date": "2015-06-29", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2062"
-}, 
-{
-"date": "2015-06-29", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4069"
-}, 
-{
-"date": "2015-06-29", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2626"
-}, 
-{
-"date": "2015-06-29", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "572"
-}, 
-{
-"date": "2015-06-29", 
+"date": "2015-08-27", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "834"
+"Active Users": "4748"
 }, 
 {
-"date": "2015-06-29", 
+"date": "2015-08-27", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "427"
+"Active Users": "6010"
 }, 
 {
-"date": "2015-06-30", 
+"date": "2015-08-28", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "380"
+"Active Users": "7719"
 }, 
 {
-"date": "2015-06-30", 
+"date": "2015-08-28", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "820"
+"Active Users": "12191"
 }, 
 {
-"date": "2015-06-30", 
+"date": "2015-08-28", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "669"
+"Active Users": "5143"
 }, 
 {
-"date": "2015-06-30", 
+"date": "2015-08-28", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2713"
+"Active Users": "11301"
 }, 
 {
-"date": "2015-06-30", 
+"date": "2015-08-28", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1985"
+"Active Users": "5818"
 }, 
 {
-"date": "2015-06-30", 
+"date": "2015-08-28", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3710"
+"Active Users": "17821"
 }, 
 {
-"date": "2015-06-30", 
+"date": "2015-08-28", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2398"
+"Active Users": "35366"
 }, 
 {
-"date": "2015-06-30", 
+"date": "2015-08-28", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "570"
+"Active Users": "3113"
 }, 
 {
-"date": "2015-06-30", 
+"date": "2015-08-28", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "956"
+"Active Users": "4554"
 }, 
 {
-"date": "2015-06-30", 
+"date": "2015-08-28", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "485"
+"Active Users": "5872"
 }, 
 {
-"date": "2015-07-01", 
+"date": "2015-08-29", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "594"
+"Active Users": "7311"
 }, 
 {
-"date": "2015-07-01", 
+"date": "2015-08-29", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "968"
+"Active Users": "11615"
 }, 
 {
-"date": "2015-07-01", 
+"date": "2015-08-29", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "631"
+"Active Users": "4467"
 }, 
 {
-"date": "2015-07-01", 
+"date": "2015-08-29", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2515"
+"Active Users": "11007"
 }, 
 {
-"date": "2015-07-01", 
+"date": "2015-08-29", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1857"
+"Active Users": "5550"
 }, 
 {
-"date": "2015-07-01", 
+"date": "2015-08-29", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3695"
+"Active Users": "16896"
 }, 
 {
-"date": "2015-07-01", 
+"date": "2015-08-29", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2223"
+"Active Users": "33781"
 }, 
 {
-"date": "2015-07-01", 
+"date": "2015-08-29", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "733"
+"Active Users": "2935"
 }, 
 {
-"date": "2015-07-01", 
+"date": "2015-08-29", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "897"
+"Active Users": "4353"
 }, 
 {
-"date": "2015-07-01", 
+"date": "2015-08-29", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "563"
+"Active Users": "5646"
 }, 
 {
-"date": "2015-07-02", 
+"date": "2015-08-30", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "903"
+"Active Users": "6739"
 }, 
 {
-"date": "2015-07-02", 
+"date": "2015-08-30", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1071"
+"Active Users": "11170"
 }, 
 {
-"date": "2015-07-02", 
+"date": "2015-08-30", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "708"
+"Active Users": "3822"
 }, 
 {
-"date": "2015-07-02", 
+"date": "2015-08-30", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2343"
+"Active Users": "10411"
 }, 
 {
-"date": "2015-07-02", 
+"date": "2015-08-30", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1686"
+"Active Users": "5185"
 }, 
 {
-"date": "2015-07-02", 
+"date": "2015-08-30", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3517"
+"Active Users": "15589"
 }, 
 {
-"date": "2015-07-02", 
+"date": "2015-08-30", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2035"
+"Active Users": "31397"
 }, 
 {
-"date": "2015-07-02", 
+"date": "2015-08-30", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "862"
+"Active Users": "2789"
 }, 
 {
-"date": "2015-07-02", 
+"date": "2015-08-30", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "851"
+"Active Users": "4136"
 }, 
 {
-"date": "2015-07-02", 
+"date": "2015-08-30", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "611"
+"Active Users": "5370"
 }, 
 {
-"date": "2015-07-03", 
+"date": "2015-08-31", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1284"
+"Active Users": "6781"
 }, 
 {
-"date": "2015-07-03", 
+"date": "2015-08-31", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1220"
+"Active Users": "11094"
 }, 
 {
-"date": "2015-07-03", 
+"date": "2015-08-31", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "780"
+"Active Users": "3860"
 }, 
 {
-"date": "2015-07-03", 
+"date": "2015-08-31", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2199"
+"Active Users": "10538"
 }, 
 {
-"date": "2015-07-03", 
+"date": "2015-08-31", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1761"
+"Active Users": "5248"
 }, 
 {
-"date": "2015-07-03", 
+"date": "2015-08-31", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3397"
+"Active Users": "16621"
 }, 
 {
-"date": "2015-07-03", 
+"date": "2015-08-31", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2083"
+"Active Users": "33119"
 }, 
 {
-"date": "2015-07-03", 
+"date": "2015-08-31", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "703"
+"Active Users": "2758"
 }, 
 {
-"date": "2015-07-03", 
+"date": "2015-08-31", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "832"
+"Active Users": "4107"
 }, 
 {
-"date": "2015-07-03", 
+"date": "2015-08-31", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "644"
+"Active Users": "5467"
 }, 
 {
-"date": "2015-07-04", 
+"date": "2015-09-01", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1332"
+"Active Users": "7120"
 }, 
 {
-"date": "2015-07-04", 
+"date": "2015-09-01", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1203"
+"Active Users": "11215"
 }, 
 {
-"date": "2015-07-04", 
+"date": "2015-09-01", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "823"
+"Active Users": "4131"
 }, 
 {
-"date": "2015-07-04", 
+"date": "2015-09-01", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2272"
+"Active Users": "11057"
 }, 
 {
-"date": "2015-07-04", 
+"date": "2015-09-01", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1787"
+"Active Users": "5555"
 }, 
 {
-"date": "2015-07-04", 
+"date": "2015-09-01", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3326"
+"Active Users": "17526"
 }, 
 {
-"date": "2015-07-04", 
+"date": "2015-09-01", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2149"
+"Active Users": "37416"
 }, 
 {
-"date": "2015-07-04", 
+"date": "2015-09-01", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "692"
+"Active Users": "2756"
 }, 
 {
-"date": "2015-07-04", 
+"date": "2015-09-01", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "855"
+"Active Users": "4408"
 }, 
 {
-"date": "2015-07-04", 
+"date": "2015-09-01", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "626"
+"Active Users": "5861"
 }, 
 {
-"date": "2015-07-05", 
+"date": "2015-09-02", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1513"
+"Active Users": "6985"
 }, 
 {
-"date": "2015-07-05", 
+"date": "2015-09-02", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1194"
+"Active Users": "10870"
 }, 
 {
-"date": "2015-07-05", 
+"date": "2015-09-02", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "819"
+"Active Users": "4194"
 }, 
 {
-"date": "2015-07-05", 
+"date": "2015-09-02", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2295"
+"Active Users": "10845"
 }, 
 {
-"date": "2015-07-05", 
+"date": "2015-09-02", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1847"
+"Active Users": "5715"
 }, 
 {
-"date": "2015-07-05", 
+"date": "2015-09-02", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3364"
+"Active Users": "17843"
 }, 
 {
-"date": "2015-07-05", 
+"date": "2015-09-02", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2189"
+"Active Users": "39379"
 }, 
 {
-"date": "2015-07-05", 
+"date": "2015-09-02", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "678"
+"Active Users": "2641"
 }, 
 {
-"date": "2015-07-05", 
+"date": "2015-09-02", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "865"
+"Active Users": "4504"
 }, 
 {
-"date": "2015-07-05", 
+"date": "2015-09-02", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "640"
+"Active Users": "5977"
 }, 
 {
-"date": "2015-07-06", 
+"date": "2015-09-03", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2696"
+"Active Users": "6439"
 }, 
 {
-"date": "2015-07-06", 
+"date": "2015-09-03", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1456"
+"Active Users": "10532"
 }, 
 {
-"date": "2015-07-06", 
+"date": "2015-09-03", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1001"
+"Active Users": "3936"
 }, 
 {
-"date": "2015-07-06", 
+"date": "2015-09-03", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2383"
+"Active Users": "10772"
 }, 
 {
-"date": "2015-07-06", 
+"date": "2015-09-03", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1841"
+"Active Users": "5671"
 }, 
 {
-"date": "2015-07-06", 
+"date": "2015-09-03", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3680"
+"Active Users": "18340"
 }, 
 {
-"date": "2015-07-06", 
+"date": "2015-09-03", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2270"
+"Active Users": "40116"
 }, 
 {
-"date": "2015-07-06", 
+"date": "2015-09-03", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "873"
+"Active Users": "2490"
 }, 
 {
-"date": "2015-07-06", 
+"date": "2015-09-03", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1043"
+"Active Users": "4769"
 }, 
 {
-"date": "2015-07-06", 
+"date": "2015-09-03", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "617"
+"Active Users": "6027"
 }, 
 {
-"date": "2015-07-07", 
+"date": "2015-09-04", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3798"
+"Active Users": "6261"
 }, 
 {
-"date": "2015-07-07", 
+"date": "2015-09-04", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2141"
+"Active Users": "10213"
 }, 
 {
-"date": "2015-07-07", 
+"date": "2015-09-04", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1121"
+"Active Users": "3825"
 }, 
 {
-"date": "2015-07-07", 
+"date": "2015-09-04", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2855"
+"Active Users": "11064"
 }, 
 {
-"date": "2015-07-07", 
+"date": "2015-09-04", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2193"
+"Active Users": "5595"
 }, 
 {
-"date": "2015-07-07", 
+"date": "2015-09-04", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4202"
+"Active Users": "18311"
 }, 
 {
-"date": "2015-07-07", 
+"date": "2015-09-04", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2281"
+"Active Users": "41536"
 }, 
 {
-"date": "2015-07-07", 
+"date": "2015-09-04", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1159"
+"Active Users": "2284"
 }, 
 {
-"date": "2015-07-07", 
+"date": "2015-09-04", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1041"
+"Active Users": "5001"
 }, 
 {
-"date": "2015-07-07", 
+"date": "2015-09-04", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "811"
+"Active Users": "6051"
 }, 
 {
-"date": "2015-07-08", 
+"date": "2015-09-05", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "4574"
+"Active Users": "5802"
 }, 
 {
-"date": "2015-07-08", 
+"date": "2015-09-05", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2810"
+"Active Users": "10012"
 }, 
 {
-"date": "2015-07-08", 
+"date": "2015-09-05", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1427"
+"Active Users": "3599"
 }, 
 {
-"date": "2015-07-08", 
+"date": "2015-09-05", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3026"
+"Active Users": "10979"
 }, 
 {
-"date": "2015-07-08", 
+"date": "2015-09-05", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2664"
+"Active Users": "5231"
 }, 
 {
-"date": "2015-07-08", 
+"date": "2015-09-05", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4507"
+"Active Users": "17954"
 }, 
 {
-"date": "2015-07-08", 
+"date": "2015-09-05", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "2724"
+"Active Users": "41018"
 }, 
 {
-"date": "2015-07-08", 
+"date": "2015-09-05", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1461"
+"Active Users": "2076"
 }, 
 {
-"date": "2015-07-08", 
+"date": "2015-09-05", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1189"
+"Active Users": "4832"
 }, 
 {
-"date": "2015-07-08", 
+"date": "2015-09-05", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "904"
+"Active Users": "6062"
 }, 
 {
-"date": "2015-07-09", 
+"date": "2015-09-06", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "5034"
+"Active Users": "5549"
 }, 
 {
-"date": "2015-07-09", 
+"date": "2015-09-06", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3362"
+"Active Users": "9671"
 }, 
 {
-"date": "2015-07-09", 
+"date": "2015-09-06", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1745"
+"Active Users": "3403"
 }, 
 {
-"date": "2015-07-09", 
+"date": "2015-09-06", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2961"
+"Active Users": "10800"
 }, 
 {
-"date": "2015-07-09", 
+"date": "2015-09-06", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3193"
+"Active Users": "4838"
 }, 
 {
-"date": "2015-07-09", 
+"date": "2015-09-06", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4643"
+"Active Users": "17661"
 }, 
 {
-"date": "2015-07-09", 
+"date": "2015-09-06", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "3028"
+"Active Users": "39933"
 }, 
 {
-"date": "2015-07-09", 
+"date": "2015-09-06", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1546"
+"Active Users": "1946"
 }, 
 {
-"date": "2015-07-09", 
+"date": "2015-09-06", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1372"
+"Active Users": "4641"
 }, 
 {
-"date": "2015-07-09", 
+"date": "2015-09-06", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1046"
+"Active Users": "5754"
 }, 
 {
-"date": "2015-07-10", 
+"date": "2015-09-07", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "5196"
+"Active Users": "5898"
 }, 
 {
-"date": "2015-07-10", 
+"date": "2015-09-07", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3744"
+"Active Users": "9929"
 }, 
 {
-"date": "2015-07-10", 
+"date": "2015-09-07", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1892"
+"Active Users": "3558"
 }, 
 {
-"date": "2015-07-10", 
+"date": "2015-09-07", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3272"
+"Active Users": "11562"
 }, 
 {
-"date": "2015-07-10", 
+"date": "2015-09-07", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3416"
+"Active Users": "5242"
 }, 
 {
-"date": "2015-07-10", 
+"date": "2015-09-07", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4722"
+"Active Users": "18594"
 }, 
 {
-"date": "2015-07-10", 
+"date": "2015-09-07", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "3416"
+"Active Users": "42601"
 }, 
 {
-"date": "2015-07-10", 
+"date": "2015-09-07", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1648"
+"Active Users": "1920"
 }, 
 {
-"date": "2015-07-10", 
+"date": "2015-09-07", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1409"
+"Active Users": "5129"
 }, 
 {
-"date": "2015-07-10", 
+"date": "2015-09-07", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1247"
+"Active Users": "6168"
 }, 
 {
-"date": "2015-07-11", 
+"date": "2015-09-08", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "5274"
+"Active Users": "6179"
 }, 
 {
-"date": "2015-07-11", 
+"date": "2015-09-08", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3900"
+"Active Users": "10572"
 }, 
 {
-"date": "2015-07-11", 
+"date": "2015-09-08", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1913"
+"Active Users": "3848"
 }, 
 {
-"date": "2015-07-11", 
+"date": "2015-09-08", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3295"
+"Active Users": "12179"
 }, 
 {
-"date": "2015-07-11", 
+"date": "2015-09-08", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3520"
+"Active Users": "5559"
 }, 
 {
-"date": "2015-07-11", 
+"date": "2015-09-08", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4696"
+"Active Users": "19275"
 }, 
 {
-"date": "2015-07-11", 
+"date": "2015-09-08", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "3476"
+"Active Users": "45127"
 }, 
 {
-"date": "2015-07-11", 
+"date": "2015-09-08", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1688"
+"Active Users": "1942"
 }, 
 {
-"date": "2015-07-11", 
+"date": "2015-09-08", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1398"
+"Active Users": "5486"
 }, 
 {
-"date": "2015-07-11", 
+"date": "2015-09-08", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1306"
+"Active Users": "6435"
 }, 
 {
-"date": "2015-07-12", 
+"date": "2015-09-09", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "5118"
+"Active Users": "6480"
 }, 
 {
-"date": "2015-07-12", 
+"date": "2015-09-09", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3940"
+"Active Users": "10873"
 }, 
 {
-"date": "2015-07-12", 
+"date": "2015-09-09", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1921"
+"Active Users": "4104"
 }, 
 {
-"date": "2015-07-12", 
+"date": "2015-09-09", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3278"
+"Active Users": "12769"
 }, 
 {
-"date": "2015-07-12", 
+"date": "2015-09-09", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3518"
+"Active Users": "5716"
 }, 
 {
-"date": "2015-07-12", 
+"date": "2015-09-09", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4652"
+"Active Users": "19461"
 }, 
 {
-"date": "2015-07-12", 
+"date": "2015-09-09", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "3487"
+"Active Users": "46154"
 }, 
 {
-"date": "2015-07-12", 
+"date": "2015-09-09", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1675"
+"Active Users": "1851"
 }, 
 {
-"date": "2015-07-12", 
+"date": "2015-09-09", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1408"
+"Active Users": "5724"
 }, 
 {
-"date": "2015-07-12", 
+"date": "2015-09-09", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1288"
+"Active Users": "6616"
 }, 
 {
-"date": "2015-07-13", 
+"date": "2015-09-10", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "4236"
+"Active Users": "7205"
 }, 
 {
-"date": "2015-07-13", 
+"date": "2015-09-10", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "4024"
+"Active Users": "11109"
 }, 
 {
-"date": "2015-07-13", 
+"date": "2015-09-10", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1965"
+"Active Users": "4248"
 }, 
 {
-"date": "2015-07-13", 
+"date": "2015-09-10", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3311"
+"Active Users": "13619"
 }, 
 {
-"date": "2015-07-13", 
+"date": "2015-09-10", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3408"
+"Active Users": "5758"
 }, 
 {
-"date": "2015-07-13", 
+"date": "2015-09-10", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4781"
+"Active Users": "19392"
 }, 
 {
-"date": "2015-07-13", 
+"date": "2015-09-10", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "4071"
+"Active Users": "46304"
 }, 
 {
-"date": "2015-07-13", 
+"date": "2015-09-10", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "1638"
+}, 
+{
+"date": "2015-09-10", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "5869"
+}, 
+{
+"date": "2015-09-10", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "6520"
+}, 
+{
+"date": "2015-09-11", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "7260"
+}, 
+{
+"date": "2015-09-11", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "10715"
+}, 
+{
+"date": "2015-09-11", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4348"
+}, 
+{
+"date": "2015-09-11", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "13624"
+}, 
+{
+"date": "2015-09-11", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "5977"
+}, 
+{
+"date": "2015-09-11", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "19589"
+}, 
+{
+"date": "2015-09-11", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "47315"
+}, 
+{
+"date": "2015-09-11", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
 "Active Users": "1475"
 }, 
 {
-"date": "2015-07-13", 
+"date": "2015-09-11", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1495"
+"Active Users": "5829"
 }, 
 {
-"date": "2015-07-13", 
+"date": "2015-09-11", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1410"
+"Active Users": "6473"
 }, 
 {
-"date": "2015-07-14", 
+"date": "2015-09-12", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3809"
+"Active Users": "7020"
 }, 
 {
-"date": "2015-07-14", 
+"date": "2015-09-12", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3724"
-}, 
-{
-"date": "2015-07-14", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1874"
-}, 
-{
-"date": "2015-07-14", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3023"
-}, 
-{
-"date": "2015-07-14", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3150"
-}, 
-{
-"date": "2015-07-14", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4985"
-}, 
-{
-"date": "2015-07-14", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "5054"
-}, 
-{
-"date": "2015-07-14", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1196"
-}, 
-{
-"date": "2015-07-14", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1541"
-}, 
-{
-"date": "2015-07-14", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1407"
-}, 
-{
-"date": "2015-07-15", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3408"
-}, 
-{
-"date": "2015-07-15", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3423"
-}, 
-{
-"date": "2015-07-15", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1794"
-}, 
-{
-"date": "2015-07-15", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3249"
-}, 
-{
-"date": "2015-07-15", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2886"
-}, 
-{
-"date": "2015-07-15", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4933"
-}, 
-{
-"date": "2015-07-15", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "5512"
-}, 
-{
-"date": "2015-07-15", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "878"
-}, 
-{
-"date": "2015-07-15", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1366"
-}, 
-{
-"date": "2015-07-15", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1394"
-}, 
-{
-"date": "2015-07-16", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3309"
-}, 
-{
-"date": "2015-07-16", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3154"
-}, 
-{
-"date": "2015-07-16", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1690"
-}, 
-{
-"date": "2015-07-16", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3329"
-}, 
-{
-"date": "2015-07-16", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2935"
-}, 
-{
-"date": "2015-07-16", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5024"
-}, 
-{
-"date": "2015-07-16", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "6903"
-}, 
-{
-"date": "2015-07-16", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "760"
-}, 
-{
-"date": "2015-07-16", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1275"
-}, 
-{
-"date": "2015-07-16", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1467"
-}, 
-{
-"date": "2015-07-17", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3293"
-}, 
-{
-"date": "2015-07-17", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3021"
-}, 
-{
-"date": "2015-07-17", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1992"
-}, 
-{
-"date": "2015-07-17", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3277"
-}, 
-{
-"date": "2015-07-17", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3076"
-}, 
-{
-"date": "2015-07-17", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5316"
-}, 
-{
-"date": "2015-07-17", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "8541"
-}, 
-{
-"date": "2015-07-17", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "685"
-}, 
-{
-"date": "2015-07-17", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1335"
-}, 
-{
-"date": "2015-07-17", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1616"
-}, 
-{
-"date": "2015-07-18", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3408"
-}, 
-{
-"date": "2015-07-18", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2887"
-}, 
-{
-"date": "2015-07-18", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1994"
-}, 
-{
-"date": "2015-07-18", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3204"
-}, 
-{
-"date": "2015-07-18", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3020"
-}, 
-{
-"date": "2015-07-18", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5397"
-}, 
-{
-"date": "2015-07-18", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "8873"
-}, 
-{
-"date": "2015-07-18", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "661"
-}, 
-{
-"date": "2015-07-18", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1366"
-}, 
-{
-"date": "2015-07-18", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1582"
-}, 
-{
-"date": "2015-07-19", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3360"
-}, 
-{
-"date": "2015-07-19", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2846"
-}, 
-{
-"date": "2015-07-19", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1980"
-}, 
-{
-"date": "2015-07-19", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3167"
-}, 
-{
-"date": "2015-07-19", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2965"
-}, 
-{
-"date": "2015-07-19", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5416"
-}, 
-{
-"date": "2015-07-19", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "8828"
-}, 
-{
-"date": "2015-07-19", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "640"
-}, 
-{
-"date": "2015-07-19", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1336"
-}, 
-{
-"date": "2015-07-19", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1582"
-}, 
-{
-"date": "2015-07-20", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3592"
-}, 
-{
-"date": "2015-07-20", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2816"
-}, 
-{
-"date": "2015-07-20", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2048"
-}, 
-{
-"date": "2015-07-20", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3156"
-}, 
-{
-"date": "2015-07-20", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3478"
-}, 
-{
-"date": "2015-07-20", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5251"
-}, 
-{
-"date": "2015-07-20", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "9825"
-}, 
-{
-"date": "2015-07-20", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "877"
-}, 
-{
-"date": "2015-07-20", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1184"
-}, 
-{
-"date": "2015-07-20", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1732"
-}, 
-{
-"date": "2015-07-21", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3366"
-}, 
-{
-"date": "2015-07-21", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2727"
-}, 
-{
-"date": "2015-07-21", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2241"
-}, 
-{
-"date": "2015-07-21", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3181"
-}, 
-{
-"date": "2015-07-21", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3546"
-}, 
-{
-"date": "2015-07-21", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4855"
-}, 
-{
-"date": "2015-07-21", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "10251"
-}, 
-{
-"date": "2015-07-21", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1012"
-}, 
-{
-"date": "2015-07-21", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1180"
-}, 
-{
-"date": "2015-07-21", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1649"
-}, 
-{
-"date": "2015-07-22", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3333"
-}, 
-{
-"date": "2015-07-22", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2708"
-}, 
-{
-"date": "2015-07-22", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2486"
-}, 
-{
-"date": "2015-07-22", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3065"
-}, 
-{
-"date": "2015-07-22", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3534"
-}, 
-{
-"date": "2015-07-22", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4641"
-}, 
-{
-"date": "2015-07-22", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "10749"
-}, 
-{
-"date": "2015-07-22", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1064"
-}, 
-{
-"date": "2015-07-22", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1354"
-}, 
-{
-"date": "2015-07-22", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1752"
-}, 
-{
-"date": "2015-07-23", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3302"
-}, 
-{
-"date": "2015-07-23", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3096"
-}, 
-{
-"date": "2015-07-23", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2738"
-}, 
-{
-"date": "2015-07-23", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3331"
-}, 
-{
-"date": "2015-07-23", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3210"
-}, 
-{
-"date": "2015-07-23", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4422"
-}, 
-{
-"date": "2015-07-23", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "10416"
-}, 
-{
-"date": "2015-07-23", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1202"
-}, 
-{
-"date": "2015-07-23", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1410"
-}, 
-{
-"date": "2015-07-23", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1784"
-}, 
-{
-"date": "2015-07-24", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3260"
-}, 
-{
-"date": "2015-07-24", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3324"
-}, 
-{
-"date": "2015-07-24", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2593"
-}, 
-{
-"date": "2015-07-24", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3241"
-}, 
-{
-"date": "2015-07-24", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3055"
-}, 
-{
-"date": "2015-07-24", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4604"
-}, 
-{
-"date": "2015-07-24", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "10084"
-}, 
-{
-"date": "2015-07-24", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1489"
-}, 
-{
-"date": "2015-07-24", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1351"
-}, 
-{
-"date": "2015-07-24", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1507"
-}, 
-{
-"date": "2015-07-25", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3044"
-}, 
-{
-"date": "2015-07-25", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3333"
-}, 
-{
-"date": "2015-07-25", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2576"
-}, 
-{
-"date": "2015-07-25", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3263"
-}, 
-{
-"date": "2015-07-25", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3009"
-}, 
-{
-"date": "2015-07-25", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4495"
-}, 
-{
-"date": "2015-07-25", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "9862"
-}, 
-{
-"date": "2015-07-25", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1495"
-}, 
-{
-"date": "2015-07-25", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1313"
-}, 
-{
-"date": "2015-07-25", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1567"
-}, 
-{
-"date": "2015-07-26", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3054"
-}, 
-{
-"date": "2015-07-26", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3359"
-}, 
-{
-"date": "2015-07-26", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2585"
-}, 
-{
-"date": "2015-07-26", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3302"
-}, 
-{
-"date": "2015-07-26", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "3033"
-}, 
-{
-"date": "2015-07-26", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4427"
-}, 
-{
-"date": "2015-07-26", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "9958"
-}, 
-{
-"date": "2015-07-26", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1520"
-}, 
-{
-"date": "2015-07-26", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1333"
-}, 
-{
-"date": "2015-07-26", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1555"
-}, 
-{
-"date": "2015-07-27", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2952"
-}, 
-{
-"date": "2015-07-27", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3331"
-}, 
-{
-"date": "2015-07-27", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2518"
-}, 
-{
-"date": "2015-07-27", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3177"
-}, 
-{
-"date": "2015-07-27", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2680"
-}, 
-{
-"date": "2015-07-27", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4163"
-}, 
-{
-"date": "2015-07-27", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "9491"
-}, 
-{
-"date": "2015-07-27", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1343"
-}, 
-{
-"date": "2015-07-27", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1291"
-}, 
-{
-"date": "2015-07-27", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1348"
-}, 
-{
-"date": "2015-07-28", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2826"
-}, 
-{
-"date": "2015-07-28", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3272"
-}, 
-{
-"date": "2015-07-28", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2959"
-}, 
-{
-"date": "2015-07-28", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3317"
-}, 
-{
-"date": "2015-07-28", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2538"
-}, 
-{
-"date": "2015-07-28", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4449"
-}, 
-{
-"date": "2015-07-28", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "9565"
-}, 
-{
-"date": "2015-07-28", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1312"
-}, 
-{
-"date": "2015-07-28", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1111"
-}, 
-{
-"date": "2015-07-28", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1320"
-}, 
-{
-"date": "2015-07-29", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2684"
-}, 
-{
-"date": "2015-07-29", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3236"
-}, 
-{
-"date": "2015-07-29", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2963"
-}, 
-{
-"date": "2015-07-29", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3249"
-}, 
-{
-"date": "2015-07-29", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2436"
-}, 
-{
-"date": "2015-07-29", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4923"
-}, 
-{
-"date": "2015-07-29", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "9392"
-}, 
-{
-"date": "2015-07-29", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1190"
-}, 
-{
-"date": "2015-07-29", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1045"
-}, 
-{
-"date": "2015-07-29", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1187"
-}, 
-{
-"date": "2015-07-30", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2451"
-}, 
-{
-"date": "2015-07-30", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2985"
-}, 
-{
-"date": "2015-07-30", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "3036"
-}, 
-{
-"date": "2015-07-30", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2909"
-}, 
-{
-"date": "2015-07-30", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2256"
-}, 
-{
-"date": "2015-07-30", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5360"
-}, 
-{
-"date": "2015-07-30", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "9474"
-}, 
-{
-"date": "2015-07-30", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "1109"
-}, 
-{
-"date": "2015-07-30", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1003"
-}, 
-{
-"date": "2015-07-30", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1103"
-}, 
-{
-"date": "2015-07-31", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2531"
-}, 
-{
-"date": "2015-07-31", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2768"
-}, 
-{
-"date": "2015-07-31", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "3219"
-}, 
-{
-"date": "2015-07-31", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3024"
-}, 
-{
-"date": "2015-07-31", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2135"
-}, 
-{
-"date": "2015-07-31", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5634"
-}, 
-{
-"date": "2015-07-31", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
 "Active Users": "10057"
 }, 
 {
-"date": "2015-07-31", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "859"
-}, 
-{
-"date": "2015-07-31", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1065"
-}, 
-{
-"date": "2015-07-31", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1227"
-}, 
-{
-"date": "2015-08-01", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2554"
-}, 
-{
-"date": "2015-08-01", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2833"
-}, 
-{
-"date": "2015-08-01", 
+"date": "2015-09-12", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "3263"
+"Active Users": "4214"
 }, 
 {
-"date": "2015-08-01", 
+"date": "2015-09-12", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3134"
+"Active Users": "13134"
 }, 
 {
-"date": "2015-08-01", 
+"date": "2015-09-12", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2161"
+"Active Users": "5822"
 }, 
 {
-"date": "2015-08-01", 
+"date": "2015-09-12", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5645"
+"Active Users": "18853"
 }, 
 {
-"date": "2015-08-01", 
+"date": "2015-09-12", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "10222"
+"Active Users": "46360"
 }, 
 {
-"date": "2015-08-01", 
+"date": "2015-09-12", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "842"
+"Active Users": "1337"
 }, 
 {
-"date": "2015-08-01", 
+"date": "2015-09-12", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1125"
+"Active Users": "5657"
 }, 
 {
-"date": "2015-08-01", 
+"date": "2015-09-12", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1184"
+"Active Users": "6158"
 }, 
 {
-"date": "2015-08-02", 
+"date": "2015-09-13", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2546"
+"Active Users": "6895"
 }, 
 {
-"date": "2015-08-02", 
+"date": "2015-09-13", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2820"
+"Active Users": "9354"
 }, 
 {
-"date": "2015-08-02", 
+"date": "2015-09-13", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "3254"
+"Active Users": "4182"
 }, 
 {
-"date": "2015-08-02", 
+"date": "2015-09-13", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3115"
+"Active Users": "12710"
 }, 
 {
-"date": "2015-08-02", 
+"date": "2015-09-13", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2141"
+"Active Users": "5604"
 }, 
 {
-"date": "2015-08-02", 
+"date": "2015-09-13", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5810"
+"Active Users": "18287"
 }, 
 {
-"date": "2015-08-02", 
+"date": "2015-09-13", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "10147"
+"Active Users": "45271"
 }, 
 {
-"date": "2015-08-02", 
+"date": "2015-09-13", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "825"
+"Active Users": "1216"
 }, 
 {
-"date": "2015-08-02", 
+"date": "2015-09-13", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1111"
+"Active Users": "5372"
 }, 
 {
-"date": "2015-08-02", 
+"date": "2015-09-13", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1196"
+"Active Users": "5935"
 }, 
 {
-"date": "2015-08-03", 
+"date": "2015-09-14", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2453"
+"Active Users": "7468"
 }, 
 {
-"date": "2015-08-03", 
+"date": "2015-09-14", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2970"
+"Active Users": "9601"
 }, 
 {
-"date": "2015-08-03", 
+"date": "2015-09-14", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "3144"
+"Active Users": "4261"
 }, 
 {
-"date": "2015-08-03", 
+"date": "2015-09-14", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3417"
+"Active Users": "13373"
 }, 
 {
-"date": "2015-08-03", 
+"date": "2015-09-14", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1885"
+"Active Users": "5690"
 }, 
 {
-"date": "2015-08-03", 
+"date": "2015-09-14", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "6053"
+"Active Users": "19378"
 }, 
 {
-"date": "2015-08-03", 
+"date": "2015-09-14", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "10569"
+"Active Users": "47229"
 }, 
 {
-"date": "2015-08-03", 
+"date": "2015-09-14", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "818"
+"Active Users": "1121"
 }, 
 {
-"date": "2015-08-03", 
+"date": "2015-09-14", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1291"
+"Active Users": "5501"
 }, 
 {
-"date": "2015-08-03", 
+"date": "2015-09-14", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1269"
+"Active Users": "6199"
 }, 
 {
-"date": "2015-08-04", 
+"date": "2015-09-15", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2767"
+"Active Users": "7827"
 }, 
 {
-"date": "2015-08-04", 
+"date": "2015-09-15", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3054"
+"Active Users": "10018"
 }, 
 {
-"date": "2015-08-04", 
+"date": "2015-09-15", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2840"
+"Active Users": "4294"
 }, 
 {
-"date": "2015-08-04", 
+"date": "2015-09-15", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3309"
+"Active Users": "13952"
 }, 
 {
-"date": "2015-08-04", 
+"date": "2015-09-15", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1810"
+"Active Users": "5811"
 }, 
 {
-"date": "2015-08-04", 
+"date": "2015-09-15", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5741"
+"Active Users": "20458"
 }, 
 {
-"date": "2015-08-04", 
+"date": "2015-09-15", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "10847"
+"Active Users": "49645"
 }, 
 {
-"date": "2015-08-04", 
+"date": "2015-09-15", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "790"
+"Active Users": "1103"
 }, 
 {
-"date": "2015-08-04", 
+"date": "2015-09-15", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1299"
+"Active Users": "5740"
 }, 
 {
-"date": "2015-08-04", 
+"date": "2015-09-15", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1272"
+"Active Users": "6733"
 }, 
 {
-"date": "2015-08-05", 
+"date": "2015-09-16", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2718"
+"Active Users": "8242"
 }, 
 {
-"date": "2015-08-05", 
+"date": "2015-09-16", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3004"
+"Active Users": "9798"
 }, 
 {
-"date": "2015-08-05", 
+"date": "2015-09-16", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2612"
+"Active Users": "4386"
 }, 
 {
-"date": "2015-08-05", 
+"date": "2015-09-16", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3086"
+"Active Users": "14511"
 }, 
 {
-"date": "2015-08-05", 
+"date": "2015-09-16", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1892"
+"Active Users": "5987"
 }, 
 {
-"date": "2015-08-05", 
+"date": "2015-09-16", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5362"
+"Active Users": "21282"
 }, 
 {
-"date": "2015-08-05", 
+"date": "2015-09-16", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "10991"
+"Active Users": "51125"
 }, 
 {
-"date": "2015-08-05", 
+"date": "2015-09-16", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "887"
+"Active Users": "1013"
 }, 
 {
-"date": "2015-08-05", 
+"date": "2015-09-16", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1306"
+"Active Users": "6005"
 }, 
 {
-"date": "2015-08-05", 
+"date": "2015-09-16", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1349"
+"Active Users": "6792"
 }, 
 {
-"date": "2015-08-06", 
+"date": "2015-09-17", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2806"
+"Active Users": "8677"
 }, 
 {
-"date": "2015-08-06", 
+"date": "2015-09-17", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2670"
+"Active Users": "9738"
 }, 
 {
-"date": "2015-08-06", 
+"date": "2015-09-17", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "2252"
+"Active Users": "4363"
 }, 
 {
-"date": "2015-08-06", 
+"date": "2015-09-17", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2887"
+"Active Users": "14811"
 }, 
 {
-"date": "2015-08-06", 
+"date": "2015-09-17", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2062"
+"Active Users": "6253"
 }, 
 {
-"date": "2015-08-06", 
+"date": "2015-09-17", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4897"
+"Active Users": "21949"
 }, 
 {
-"date": "2015-08-06", 
+"date": "2015-09-17", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "10437"
+"Active Users": "52604"
 }, 
 {
-"date": "2015-08-06", 
+"date": "2015-09-17", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "903"
+"Active Users": "845"
 }, 
 {
-"date": "2015-08-06", 
+"date": "2015-09-17", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1347"
+"Active Users": "6115"
 }, 
 {
-"date": "2015-08-06", 
+"date": "2015-09-17", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1297"
+"Active Users": "6881"
 }, 
 {
-"date": "2015-08-07", 
+"date": "2015-09-18", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2514"
+"Active Users": "8878"
 }, 
 {
-"date": "2015-08-07", 
+"date": "2015-09-18", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2582"
+"Active Users": "9486"
 }, 
 {
-"date": "2015-08-07", 
+"date": "2015-09-18", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1797"
+"Active Users": "4403"
 }, 
 {
-"date": "2015-08-07", 
+"date": "2015-09-18", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2484"
+"Active Users": "15957"
 }, 
 {
-"date": "2015-08-07", 
+"date": "2015-09-18", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2106"
+"Active Users": "6289"
 }, 
 {
-"date": "2015-08-07", 
+"date": "2015-09-18", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3953"
+"Active Users": "22513"
 }, 
 {
-"date": "2015-08-07", 
+"date": "2015-09-18", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "9288"
+"Active Users": "54053"
 }, 
 {
-"date": "2015-08-07", 
+"date": "2015-09-18", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "881"
-}, 
-{
-"date": "2015-08-07", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1323"
-}, 
-{
-"date": "2015-08-07", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1340"
-}, 
-{
-"date": "2015-08-08", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2454"
-}, 
-{
-"date": "2015-08-08", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2472"
-}, 
-{
-"date": "2015-08-08", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1724"
-}, 
-{
-"date": "2015-08-08", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2326"
-}, 
-{
-"date": "2015-08-08", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2053"
-}, 
-{
-"date": "2015-08-08", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3923"
-}, 
-{
-"date": "2015-08-08", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "9082"
-}, 
-{
-"date": "2015-08-08", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "881"
-}, 
-{
-"date": "2015-08-08", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1288"
-}, 
-{
-"date": "2015-08-08", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1325"
-}, 
-{
-"date": "2015-08-09", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2459"
-}, 
-{
-"date": "2015-08-09", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2473"
-}, 
-{
-"date": "2015-08-09", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1743"
-}, 
-{
-"date": "2015-08-09", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2332"
-}, 
-{
-"date": "2015-08-09", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2039"
-}, 
-{
-"date": "2015-08-09", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3771"
-}, 
-{
-"date": "2015-08-09", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "9088"
-}, 
-{
-"date": "2015-08-09", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "887"
-}, 
-{
-"date": "2015-08-09", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1304"
-}, 
-{
-"date": "2015-08-09", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1319"
-}, 
-{
-"date": "2015-08-10", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2227"
-}, 
-{
-"date": "2015-08-10", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2082"
-}, 
-{
-"date": "2015-08-10", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1584"
-}, 
-{
-"date": "2015-08-10", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "1831"
-}, 
-{
-"date": "2015-08-10", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1990"
-}, 
-{
-"date": "2015-08-10", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3296"
-}, 
-{
-"date": "2015-08-10", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "8775"
-}, 
-{
-"date": "2015-08-10", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "898"
-}, 
-{
-"date": "2015-08-10", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1043"
-}, 
-{
-"date": "2015-08-10", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1234"
-}, 
-{
-"date": "2015-08-11", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1818"
-}, 
-{
-"date": "2015-08-11", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1862"
-}, 
-{
-"date": "2015-08-11", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1291"
-}, 
-{
-"date": "2015-08-11", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "1669"
-}, 
-{
-"date": "2015-08-11", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2121"
-}, 
-{
-"date": "2015-08-11", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3342"
-}, 
-{
-"date": "2015-08-11", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "8706"
-}, 
-{
-"date": "2015-08-11", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "969"
-}, 
-{
-"date": "2015-08-11", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1008"
-}, 
-{
-"date": "2015-08-11", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1532"
-}, 
-{
-"date": "2015-08-12", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1877"
-}, 
-{
-"date": "2015-08-12", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2342"
-}, 
-{
-"date": "2015-08-12", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1070"
-}, 
-{
-"date": "2015-08-12", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2166"
-}, 
-{
-"date": "2015-08-12", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2009"
-}, 
-{
-"date": "2015-08-12", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3566"
-}, 
-{
-"date": "2015-08-12", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "8557"
-}, 
-{
-"date": "2015-08-12", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "971"
-}, 
-{
-"date": "2015-08-12", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1069"
-}, 
-{
-"date": "2015-08-12", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1714"
-}, 
-{
-"date": "2015-08-13", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1815"
-}, 
-{
-"date": "2015-08-13", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2847"
-}, 
-{
-"date": "2015-08-13", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "892"
-}, 
-{
-"date": "2015-08-13", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2675"
-}, 
-{
-"date": "2015-08-13", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1789"
-}, 
-{
-"date": "2015-08-13", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3930"
-}, 
-{
-"date": "2015-08-13", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "8688"
-}, 
-{
-"date": "2015-08-13", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "916"
-}, 
-{
-"date": "2015-08-13", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1029"
-}, 
-{
-"date": "2015-08-13", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1906"
-}, 
-{
-"date": "2015-08-14", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1845"
-}, 
-{
-"date": "2015-08-14", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3245"
-}, 
-{
-"date": "2015-08-14", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "713"
-}, 
-{
-"date": "2015-08-14", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2976"
-}, 
-{
-"date": "2015-08-14", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1579"
-}, 
-{
-"date": "2015-08-14", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4091"
-}, 
-{
-"date": "2015-08-14", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "8543"
-}, 
-{
-"date": "2015-08-14", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "913"
-}, 
-{
-"date": "2015-08-14", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1106"
-}, 
-{
-"date": "2015-08-14", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1821"
-}, 
-{
-"date": "2015-08-15", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1891"
-}, 
-{
-"date": "2015-08-15", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3317"
-}, 
-{
-"date": "2015-08-15", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "672"
-}, 
-{
-"date": "2015-08-15", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3130"
-}, 
-{
-"date": "2015-08-15", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1602"
-}, 
-{
-"date": "2015-08-15", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4128"
-}, 
-{
-"date": "2015-08-15", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "8484"
-}, 
-{
-"date": "2015-08-15", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "983"
-}, 
-{
-"date": "2015-08-15", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1094"
-}, 
-{
-"date": "2015-08-15", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1856"
-}, 
-{
-"date": "2015-08-16", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1884"
-}, 
-{
-"date": "2015-08-16", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3329"
-}, 
-{
-"date": "2015-08-16", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "665"
-}, 
-{
-"date": "2015-08-16", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3138"
-}, 
-{
-"date": "2015-08-16", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1607"
-}, 
-{
-"date": "2015-08-16", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4104"
-}, 
-{
-"date": "2015-08-16", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "8443"
-}, 
-{
-"date": "2015-08-16", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "994"
-}, 
-{
-"date": "2015-08-16", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1084"
-}, 
-{
-"date": "2015-08-16", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1860"
-}, 
-{
-"date": "2015-08-17", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1962"
-}, 
-{
-"date": "2015-08-17", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3742"
-}, 
-{
-"date": "2015-08-17", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "668"
-}, 
-{
-"date": "2015-08-17", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3319"
-}, 
-{
-"date": "2015-08-17", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1590"
-}, 
-{
-"date": "2015-08-17", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4185"
-}, 
-{
-"date": "2015-08-17", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "7806"
-}, 
-{
-"date": "2015-08-17", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "961"
-}, 
-{
-"date": "2015-08-17", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1117"
-}, 
-{
-"date": "2015-08-17", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1985"
-}, 
-{
-"date": "2015-08-18", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1859"
-}, 
-{
-"date": "2015-08-18", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "4021"
-}, 
-{
-"date": "2015-08-18", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "542"
-}, 
-{
-"date": "2015-08-18", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3364"
-}, 
-{
-"date": "2015-08-18", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1254"
-}, 
-{
-"date": "2015-08-18", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3920"
-}, 
-{
-"date": "2015-08-18", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "6751"
-}, 
-{
-"date": "2015-08-18", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "893"
-}, 
-{
-"date": "2015-08-18", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1315"
-}, 
-{
-"date": "2015-08-18", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1774"
-}, 
-{
-"date": "2015-08-19", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1693"
-}, 
-{
-"date": "2015-08-19", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3681"
-}, 
-{
-"date": "2015-08-19", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "517"
-}, 
-{
-"date": "2015-08-19", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2905"
-}, 
-{
-"date": "2015-08-19", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1059"
-}, 
-{
-"date": "2015-08-19", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3458"
-}, 
-{
-"date": "2015-08-19", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "6439"
-}, 
-{
-"date": "2015-08-19", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "763"
-}, 
-{
-"date": "2015-08-19", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1248"
-}, 
-{
-"date": "2015-08-19", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1593"
-}, 
-{
-"date": "2015-08-20", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1536"
-}, 
-{
-"date": "2015-08-20", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3616"
-}, 
-{
-"date": "2015-08-20", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "418"
-}, 
-{
-"date": "2015-08-20", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2486"
-}, 
-{
-"date": "2015-08-20", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "939"
-}, 
-{
-"date": "2015-08-20", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3024"
-}, 
-{
-"date": "2015-08-20", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "6904"
-}, 
-{
-"date": "2015-08-20", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "719"
-}, 
-{
-"date": "2015-08-20", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1197"
-}, 
-{
-"date": "2015-08-20", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1473"
-}, 
-{
-"date": "2015-08-21", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1407"
-}, 
-{
-"date": "2015-08-21", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3481"
-}, 
-{
-"date": "2015-08-21", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "505"
-}, 
-{
-"date": "2015-08-21", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2509"
-}, 
-{
-"date": "2015-08-21", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "843"
-}, 
-{
-"date": "2015-08-21", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "2939"
-}, 
-{
-"date": "2015-08-21", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "7369"
-}, 
-{
-"date": "2015-08-21", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "643"
-}, 
-{
-"date": "2015-08-21", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1072"
-}, 
-{
-"date": "2015-08-21", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1430"
-}, 
-{
-"date": "2015-08-22", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1396"
-}, 
-{
-"date": "2015-08-22", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3406"
-}, 
-{
-"date": "2015-08-22", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "535"
-}, 
-{
-"date": "2015-08-22", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2427"
-}, 
-{
-"date": "2015-08-22", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "807"
-}, 
-{
-"date": "2015-08-22", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "2911"
-}, 
-{
-"date": "2015-08-22", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "7633"
-}, 
-{
-"date": "2015-08-22", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "577"
-}, 
-{
-"date": "2015-08-22", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1084"
-}, 
-{
-"date": "2015-08-22", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1464"
-}, 
-{
-"date": "2015-08-23", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1427"
-}, 
-{
-"date": "2015-08-23", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3424"
-}, 
-{
-"date": "2015-08-23", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "520"
-}, 
-{
-"date": "2015-08-23", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2416"
-}, 
-{
-"date": "2015-08-23", 
-"school": "\u4e94\u9091\u5927\u5b66", 
 "Active Users": "798"
 }, 
 {
-"date": "2015-08-23", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "2893"
-}, 
-{
-"date": "2015-08-23", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "7727"
-}, 
-{
-"date": "2015-08-23", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "558"
-}, 
-{
-"date": "2015-08-23", 
+"date": "2015-09-18", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1081"
-}, 
-{
-"date": "2015-08-23", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1467"
-}, 
-{
-"date": "2015-08-24", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1367"
-}, 
-{
-"date": "2015-08-24", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3359"
-}, 
-{
-"date": "2015-08-24", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "527"
-}, 
-{
-"date": "2015-08-24", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2530"
-}, 
-{
-"date": "2015-08-24", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "725"
-}, 
-{
-"date": "2015-08-24", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "2828"
-}, 
-{
-"date": "2015-08-24", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "7465"
-}, 
-{
-"date": "2015-08-24", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "499"
-}, 
-{
-"date": "2015-08-24", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1147"
-}, 
-{
-"date": "2015-08-24", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1400"
-}, 
-{
-"date": "2015-08-25", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1290"
-}, 
-{
-"date": "2015-08-25", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "3111"
-}, 
-{
-"date": "2015-08-25", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "472"
-}, 
-{
-"date": "2015-08-25", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2564"
-}, 
-{
-"date": "2015-08-25", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "686"
-}, 
-{
-"date": "2015-08-25", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3327"
-}, 
-{
-"date": "2015-08-25", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "7757"
-}, 
-{
-"date": "2015-08-25", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "490"
-}, 
-{
-"date": "2015-08-25", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "941"
-}, 
-{
-"date": "2015-08-25", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1251"
-}, 
-{
-"date": "2015-08-26", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1118"
-}, 
-{
-"date": "2015-08-26", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2780"
-}, 
-{
-"date": "2015-08-26", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "465"
-}, 
-{
-"date": "2015-08-26", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2498"
-}, 
-{
-"date": "2015-08-26", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "629"
-}, 
-{
-"date": "2015-08-26", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3493"
-}, 
-{
-"date": "2015-08-26", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "7559"
-}, 
-{
-"date": "2015-08-26", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "458"
-}, 
-{
-"date": "2015-08-26", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "825"
-}, 
-{
-"date": "2015-08-26", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1105"
-}, 
-{
-"date": "2015-08-27", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1000"
-}, 
-{
-"date": "2015-08-27", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2238"
-}, 
-{
-"date": "2015-08-27", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "576"
-}, 
-{
-"date": "2015-08-27", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2438"
-}, 
-{
-"date": "2015-08-27", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "645"
-}, 
-{
-"date": "2015-08-27", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "3843"
-}, 
-{
-"date": "2015-08-27", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "6636"
-}, 
-{
-"date": "2015-08-27", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "368"
-}, 
-{
-"date": "2015-08-27", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "715"
-}, 
-{
-"date": "2015-08-27", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "903"
-}, 
-{
-"date": "2015-08-28", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "913"
-}, 
-{
-"date": "2015-08-28", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1763"
-}, 
-{
-"date": "2015-08-28", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "734"
-}, 
-{
-"date": "2015-08-28", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2173"
-}, 
-{
-"date": "2015-08-28", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "592"
-}, 
-{
-"date": "2015-08-28", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4334"
-}, 
-{
-"date": "2015-08-28", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "5688"
-}, 
-{
-"date": "2015-08-28", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "326"
-}, 
-{
-"date": "2015-08-28", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "595"
-}, 
-{
-"date": "2015-08-28", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "737"
-}, 
-{
-"date": "2015-08-29", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "893"
-}, 
-{
-"date": "2015-08-29", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1739"
-}, 
-{
-"date": "2015-08-29", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "732"
-}, 
-{
-"date": "2015-08-29", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2232"
-}, 
-{
-"date": "2015-08-29", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "583"
-}, 
-{
-"date": "2015-08-29", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4352"
-}, 
-{
-"date": "2015-08-29", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "5475"
-}, 
-{
-"date": "2015-08-29", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "302"
-}, 
-{
-"date": "2015-08-29", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "565"
-}, 
-{
-"date": "2015-08-29", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "637"
-}, 
-{
-"date": "2015-08-30", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "865"
-}, 
-{
-"date": "2015-08-30", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1710"
-}, 
-{
-"date": "2015-08-30", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "756"
-}, 
-{
-"date": "2015-08-30", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2249"
-}, 
-{
-"date": "2015-08-30", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "595"
-}, 
-{
-"date": "2015-08-30", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4411"
-}, 
-{
-"date": "2015-08-30", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "5547"
-}, 
-{
-"date": "2015-08-30", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "305"
-}, 
-{
-"date": "2015-08-30", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "568"
-}, 
-{
-"date": "2015-08-30", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "645"
-}, 
-{
-"date": "2015-08-31", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "791"
-}, 
-{
-"date": "2015-08-31", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1288"
-}, 
-{
-"date": "2015-08-31", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "834"
-}, 
-{
-"date": "2015-08-31", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2086"
-}, 
-{
-"date": "2015-08-31", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "664"
-}, 
-{
-"date": "2015-08-31", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5182"
-}, 
-{
-"date": "2015-08-31", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "7007"
-}, 
-{
-"date": "2015-08-31", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "268"
-}, 
-{
-"date": "2015-08-31", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "455"
-}, 
-{
-"date": "2015-08-31", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "594"
-}, 
-{
-"date": "2015-09-01", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "996"
-}, 
-{
-"date": "2015-09-01", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1082"
-}, 
-{
-"date": "2015-09-01", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1087"
-}, 
-{
-"date": "2015-09-01", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2185"
-}, 
-{
-"date": "2015-09-01", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "908"
-}, 
-{
-"date": "2015-09-01", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5309"
-}, 
-{
-"date": "2015-09-01", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "10048"
-}, 
-{
-"date": "2015-09-01", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "118"
-}, 
-{
-"date": "2015-09-01", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "636"
-}, 
-{
-"date": "2015-09-01", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "842"
-}, 
-{
-"date": "2015-09-02", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1143"
-}, 
-{
-"date": "2015-09-02", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1000"
-}, 
-{
-"date": "2015-09-02", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1297"
-}, 
-{
-"date": "2015-09-02", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2352"
-}, 
-{
-"date": "2015-09-02", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1213"
-}, 
-{
-"date": "2015-09-02", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5770"
-}, 
-{
-"date": "2015-09-02", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "12864"
-}, 
-{
-"date": "2015-09-02", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "78"
-}, 
-{
-"date": "2015-09-02", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "949"
-}, 
-{
-"date": "2015-09-02", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1078"
-}, 
-{
-"date": "2015-09-03", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1130"
-}, 
-{
-"date": "2015-09-03", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1021"
-}, 
-{
-"date": "2015-09-03", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1353"
-}, 
-{
-"date": "2015-09-03", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2498"
-}, 
-{
-"date": "2015-09-03", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1363"
-}, 
-{
-"date": "2015-09-03", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "6094"
-}, 
-{
-"date": "2015-09-03", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "14817"
-}, 
-{
-"date": "2015-09-03", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "73"
-}, 
-{
-"date": "2015-09-03", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1320"
-}, 
-{
-"date": "2015-09-03", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1289"
-}, 
-{
-"date": "2015-09-04", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1260"
-}, 
-{
-"date": "2015-09-04", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1026"
-}, 
-{
-"date": "2015-09-04", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1294"
-}, 
-{
-"date": "2015-09-04", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2849"
-}, 
-{
-"date": "2015-09-04", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1669"
-}, 
-{
-"date": "2015-09-04", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5852"
-}, 
-{
-"date": "2015-09-04", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "17161"
-}, 
-{
-"date": "2015-09-04", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "58"
-}, 
-{
-"date": "2015-09-04", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1753"
-}, 
-{
-"date": "2015-09-04", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1528"
-}, 
-{
-"date": "2015-09-05", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1297"
-}, 
-{
-"date": "2015-09-05", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1067"
-}, 
-{
-"date": "2015-09-05", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1384"
-}, 
-{
-"date": "2015-09-05", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2859"
-}, 
-{
-"date": "2015-09-05", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1743"
-}, 
-{
-"date": "2015-09-05", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5955"
-}, 
-{
-"date": "2015-09-05", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "17674"
-}, 
-{
-"date": "2015-09-05", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "44"
-}, 
-{
-"date": "2015-09-05", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1826"
-}, 
-{
-"date": "2015-09-05", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1713"
-}, 
-{
-"date": "2015-09-06", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1324"
-}, 
-{
-"date": "2015-09-06", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1083"
-}, 
-{
-"date": "2015-09-06", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1378"
-}, 
-{
-"date": "2015-09-06", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "2873"
-}, 
-{
-"date": "2015-09-06", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1759"
-}, 
-{
-"date": "2015-09-06", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "6025"
-}, 
-{
-"date": "2015-09-06", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "17824"
-}, 
-{
-"date": "2015-09-06", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "38"
-}, 
-{
-"date": "2015-09-06", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1828"
-}, 
-{
-"date": "2015-09-06", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1724"
-}, 
-{
-"date": "2015-09-07", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1571"
-}, 
-{
-"date": "2015-09-07", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1307"
-}, 
-{
-"date": "2015-09-07", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1422"
-}, 
-{
-"date": "2015-09-07", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3350"
-}, 
-{
-"date": "2015-09-07", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2047"
-}, 
-{
-"date": "2015-09-07", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5896"
-}, 
-{
-"date": "2015-09-07", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "18564"
-}, 
-{
-"date": "2015-09-07", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "43"
-}, 
-{
-"date": "2015-09-07", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2310"
-}, 
-{
-"date": "2015-09-07", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2026"
-}, 
-{
-"date": "2015-09-08", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1518"
-}, 
-{
-"date": "2015-09-08", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1830"
-}, 
-{
-"date": "2015-09-08", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1460"
-}, 
-{
-"date": "2015-09-08", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3454"
-}, 
-{
-"date": "2015-09-08", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2043"
-}, 
-{
-"date": "2015-09-08", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5520"
-}, 
-{
-"date": "2015-09-08", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "16799"
-}, 
-{
-"date": "2015-09-08", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "73"
-}, 
-{
-"date": "2015-09-08", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2382"
-}, 
-{
-"date": "2015-09-08", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1893"
-}, 
-{
-"date": "2015-09-09", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "1722"
-}, 
-{
-"date": "2015-09-09", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2085"
-}, 
-{
-"date": "2015-09-09", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1494"
-}, 
-{
-"date": "2015-09-09", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "3755"
-}, 
-{
-"date": "2015-09-09", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1991"
-}, 
-{
-"date": "2015-09-09", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4914"
-}, 
-{
-"date": "2015-09-09", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "15550"
-}, 
-{
-"date": "2015-09-09", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "108"
-}, 
-{
-"date": "2015-09-09", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2263"
-}, 
-{
-"date": "2015-09-09", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1873"
-}, 
-{
-"date": "2015-09-10", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2584"
-}, 
-{
-"date": "2015-09-10", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2439"
-}, 
-{
-"date": "2015-09-10", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1603"
-}, 
-{
-"date": "2015-09-10", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4516"
-}, 
-{
-"date": "2015-09-10", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2208"
-}, 
-{
-"date": "2015-09-10", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4394"
-}, 
-{
-"date": "2015-09-10", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "14894"
-}, 
-{
-"date": "2015-09-10", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "117"
-}, 
-{
-"date": "2015-09-10", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2108"
-}, 
-{
-"date": "2015-09-10", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2025"
-}, 
-{
-"date": "2015-09-11", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2876"
-}, 
-{
-"date": "2015-09-11", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2844"
-}, 
-{
-"date": "2015-09-11", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1593"
-}, 
-{
-"date": "2015-09-11", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4726"
-}, 
-{
-"date": "2015-09-11", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2391"
-}, 
-{
-"date": "2015-09-11", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4844"
-}, 
-{
-"date": "2015-09-11", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "14336"
-}, 
-{
-"date": "2015-09-11", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "162"
-}, 
-{
-"date": "2015-09-11", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1897"
-}, 
-{
-"date": "2015-09-11", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2136"
-}, 
-{
-"date": "2015-09-12", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3033"
-}, 
-{
-"date": "2015-09-12", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2892"
-}, 
-{
-"date": "2015-09-12", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1507"
-}, 
-{
-"date": "2015-09-12", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4830"
-}, 
-{
-"date": "2015-09-12", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2380"
-}, 
-{
-"date": "2015-09-12", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4829"
-}, 
-{
-"date": "2015-09-12", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "14030"
-}, 
-{
-"date": "2015-09-12", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "177"
-}, 
-{
-"date": "2015-09-12", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1854"
-}, 
-{
-"date": "2015-09-12", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2002"
-}, 
-{
-"date": "2015-09-13", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3191"
-}, 
-{
-"date": "2015-09-13", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2928"
-}, 
-{
-"date": "2015-09-13", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1492"
-}, 
-{
-"date": "2015-09-13", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4886"
-}, 
-{
-"date": "2015-09-13", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2345"
-}, 
-{
-"date": "2015-09-13", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4717"
-}, 
-{
-"date": "2015-09-13", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "13881"
-}, 
-{
-"date": "2015-09-13", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "183"
-}, 
-{
-"date": "2015-09-13", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1837"
-}, 
-{
-"date": "2015-09-13", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2002"
-}, 
-{
-"date": "2015-09-14", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3461"
-}, 
-{
-"date": "2015-09-14", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2989"
-}, 
-{
-"date": "2015-09-14", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1375"
-}, 
-{
-"date": "2015-09-14", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4941"
-}, 
-{
-"date": "2015-09-14", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "2050"
-}, 
-{
-"date": "2015-09-14", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4912"
-}, 
-{
-"date": "2015-09-14", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "13112"
-}, 
-{
-"date": "2015-09-14", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "184"
-}, 
-{
-"date": "2015-09-14", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1466"
-}, 
-{
-"date": "2015-09-14", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1887"
-}, 
-{
-"date": "2015-09-15", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3532"
-}, 
-{
-"date": "2015-09-15", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2775"
-}, 
-{
-"date": "2015-09-15", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "1111"
-}, 
-{
-"date": "2015-09-15", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4911"
-}, 
-{
-"date": "2015-09-15", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1859"
-}, 
-{
-"date": "2015-09-15", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5287"
-}, 
-{
-"date": "2015-09-15", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "12961"
-}, 
-{
-"date": "2015-09-15", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "155"
-}, 
-{
-"date": "2015-09-15", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1338"
-}, 
-{
-"date": "2015-09-15", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2158"
-}, 
-{
-"date": "2015-09-16", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3724"
-}, 
-{
-"date": "2015-09-16", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2667"
-}, 
-{
-"date": "2015-09-16", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "950"
-}, 
-{
-"date": "2015-09-16", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5061"
-}, 
-{
-"date": "2015-09-16", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1861"
-}, 
-{
-"date": "2015-09-16", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "6006"
-}, 
-{
-"date": "2015-09-16", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "12777"
-}, 
-{
-"date": "2015-09-16", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "123"
-}, 
-{
-"date": "2015-09-16", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1398"
-}, 
-{
-"date": "2015-09-16", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2161"
-}, 
-{
-"date": "2015-09-17", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3331"
-}, 
-{
-"date": "2015-09-17", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2650"
-}, 
-{
-"date": "2015-09-17", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "657"
-}, 
-{
-"date": "2015-09-17", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4556"
-}, 
-{
-"date": "2015-09-17", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1749"
-}, 
-{
-"date": "2015-09-17", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "6477"
-}, 
-{
-"date": "2015-09-17", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "13051"
-}, 
-{
-"date": "2015-09-17", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "100"
-}, 
-{
-"date": "2015-09-17", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1561"
-}, 
-{
-"date": "2015-09-17", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2135"
+"Active Users": "6440"
 }, 
 {
 "date": "2015-09-18", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "6999"
+}, 
+{
+"date": "2015-09-19", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3311"
+"Active Users": "8705"
 }, 
 {
-"date": "2015-09-18", 
+"date": "2015-09-19", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2452"
+"Active Users": "8841"
 }, 
 {
-"date": "2015-09-18", 
+"date": "2015-09-19", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4330"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "16219"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "6212"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "22136"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "52740"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "695"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "6367"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "6831"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "8626"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "8256"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4218"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "15821"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "6105"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "21618"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "51214"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "638"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "6243"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "6647"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "9044"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "8635"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4395"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "16876"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "6249"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "22449"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "54410"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "647"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "6722"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "6845"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "9381"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "8900"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4440"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "17946"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "6429"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "23419"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "58131"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "709"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "7081"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "7029"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "9614"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "8712"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4387"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "18375"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "6492"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "23734"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "61746"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "703"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "7204"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "7025"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "9954"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "8647"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4404"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "19110"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "6584"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "23611"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "64933"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
+"Active Users": "569"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
+"Active Users": "7818"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
+"Active Users": "7056"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u4e1c\u534e\u5927\u5b66", 
+"Active Users": "10467"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
+"Active Users": "8637"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
+"Active Users": "4386"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u4e2d\u5c71\u5927\u5b66", 
+"Active Users": "19596"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u4e94\u9091\u5927\u5b66", 
+"Active Users": "6633"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u5317\u4eac\u5927\u5b66", 
+"Active Users": "23877"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
+"Active Users": "67593"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
 "Active Users": "572"
 }, 
 {
-"date": "2015-09-18", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5238"
-}, 
-{
-"date": "2015-09-18", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1371"
-}, 
-{
-"date": "2015-09-18", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "6382"
-}, 
-{
-"date": "2015-09-18", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "13177"
-}, 
-{
-"date": "2015-09-18", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "86"
-}, 
-{
-"date": "2015-09-18", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1859"
-}, 
-{
-"date": "2015-09-18", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2119"
-}, 
-{
-"date": "2015-09-19", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3221"
-}, 
-{
-"date": "2015-09-19", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2400"
-}, 
-{
-"date": "2015-09-19", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "534"
-}, 
-{
-"date": "2015-09-19", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5571"
-}, 
-{
-"date": "2015-09-19", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1329"
-}, 
-{
-"date": "2015-09-19", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "6307"
-}, 
-{
-"date": "2015-09-19", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "13284"
-}, 
-{
-"date": "2015-09-19", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "77"
-}, 
-{
-"date": "2015-09-19", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1907"
-}, 
-{
-"date": "2015-09-19", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2146"
-}, 
-{
-"date": "2015-09-20", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "3138"
-}, 
-{
-"date": "2015-09-20", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2383"
-}, 
-{
-"date": "2015-09-20", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "541"
-}, 
-{
-"date": "2015-09-20", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5620"
-}, 
-{
-"date": "2015-09-20", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1344"
-}, 
-{
-"date": "2015-09-20", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "6270"
-}, 
-{
-"date": "2015-09-20", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "13312"
-}, 
-{
-"date": "2015-09-20", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "65"
-}, 
-{
-"date": "2015-09-20", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1943"
-}, 
-{
-"date": "2015-09-20", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2142"
-}, 
-{
-"date": "2015-09-21", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2972"
-}, 
-{
-"date": "2015-09-21", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2440"
-}, 
-{
-"date": "2015-09-21", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "669"
-}, 
-{
-"date": "2015-09-21", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5930"
-}, 
-{
-"date": "2015-09-21", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1366"
-}, 
-{
-"date": "2015-09-21", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5982"
-}, 
-{
-"date": "2015-09-21", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "14814"
-}, 
-{
-"date": "2015-09-21", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "103"
-}, 
-{
-"date": "2015-09-21", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2305"
-}, 
-{
-"date": "2015-09-21", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "2110"
-}, 
-{
-"date": "2015-09-22", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2981"
-}, 
-{
-"date": "2015-09-22", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2306"
-}, 
-{
-"date": "2015-09-22", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "666"
-}, 
-{
-"date": "2015-09-22", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "6410"
-}, 
-{
-"date": "2015-09-22", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1416"
-}, 
-{
-"date": "2015-09-22", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5854"
-}, 
-{
-"date": "2015-09-22", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "16213"
-}, 
-{
-"date": "2015-09-22", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "164"
-}, 
-{
-"date": "2015-09-22", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2422"
-}, 
-{
-"date": "2015-09-22", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1763"
-}, 
-{
-"date": "2015-09-23", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2739"
-}, 
-{
-"date": "2015-09-23", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2273"
-}, 
-{
-"date": "2015-09-23", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "528"
-}, 
-{
-"date": "2015-09-23", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "6394"
-}, 
-{
-"date": "2015-09-23", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1230"
-}, 
-{
-"date": "2015-09-23", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5280"
-}, 
-{
-"date": "2015-09-23", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "18086"
-}, 
-{
-"date": "2015-09-23", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "189"
-}, 
-{
-"date": "2015-09-23", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2346"
-}, 
-{
-"date": "2015-09-23", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1633"
-}, 
-{
-"date": "2015-09-24", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2567"
-}, 
-{
-"date": "2015-09-24", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "2020"
-}, 
-{
-"date": "2015-09-24", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "513"
-}, 
-{
-"date": "2015-09-24", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "6863"
-}, 
-{
-"date": "2015-09-24", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "1017"
-}, 
-{
-"date": "2015-09-24", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4989"
-}, 
-{
-"date": "2015-09-24", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "20086"
-}, 
-{
-"date": "2015-09-24", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "214"
-}, 
-{
-"date": "2015-09-24", 
-"school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2644"
-}, 
-{
-"date": "2015-09-24", 
-"school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1426"
-}, 
-{
-"date": "2015-09-25", 
-"school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2707"
-}, 
-{
-"date": "2015-09-25", 
-"school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1931"
-}, 
-{
-"date": "2015-09-25", 
-"school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "448"
-}, 
-{
-"date": "2015-09-25", 
-"school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "6137"
-}, 
-{
-"date": "2015-09-25", 
-"school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "973"
-}, 
-{
-"date": "2015-09-25", 
-"school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4857"
-}, 
-{
-"date": "2015-09-25", 
-"school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "21099"
-}, 
-{
-"date": "2015-09-25", 
-"school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "232"
-}, 
-{
 "date": "2015-09-25", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2575"
+"Active Users": "8190"
 }, 
 {
 "date": "2015-09-25", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1268"
+"Active Users": "7162"
 }, 
 {
 "date": "2015-09-26", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2770"
+"Active Users": "10475"
 }, 
 {
 "date": "2015-09-26", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1922"
+"Active Users": "8525"
 }, 
 {
 "date": "2015-09-26", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "454"
+"Active Users": "4208"
 }, 
 {
 "date": "2015-09-26", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5758"
+"Active Users": "19539"
 }, 
 {
 "date": "2015-09-26", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "961"
+"Active Users": "6528"
 }, 
 {
 "date": "2015-09-26", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4881"
+"Active Users": "23174"
 }, 
 {
 "date": "2015-09-26", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "21087"
+"Active Users": "67191"
 }, 
 {
 "date": "2015-09-26", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "248"
+"Active Users": "575"
 }, 
 {
 "date": "2015-09-26", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2589"
+"Active Users": "8241"
 }, 
 {
 "date": "2015-09-26", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1222"
+"Active Users": "7150"
 }, 
 {
 "date": "2015-09-27", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2728"
+"Active Users": "10441"
 }, 
 {
 "date": "2015-09-27", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1854"
+"Active Users": "8347"
 }, 
 {
 "date": "2015-09-27", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "444"
+"Active Users": "3928"
 }, 
 {
 "date": "2015-09-27", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5687"
+"Active Users": "19335"
 }, 
 {
 "date": "2015-09-27", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "955"
+"Active Users": "6468"
 }, 
 {
 "date": "2015-09-27", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4889"
+"Active Users": "22173"
 }, 
 {
 "date": "2015-09-27", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "21048"
+"Active Users": "66574"
 }, 
 {
 "date": "2015-09-27", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "251"
+"Active Users": "563"
 }, 
 {
 "date": "2015-09-27", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2560"
+"Active Users": "8208"
 }, 
 {
 "date": "2015-09-27", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1207"
+"Active Users": "7117"
 }, 
 {
 "date": "2015-09-28", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2664"
+"Active Users": "10815"
 }, 
 {
 "date": "2015-09-28", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1560"
+"Active Users": "8456"
 }, 
 {
 "date": "2015-09-28", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "240"
+"Active Users": "3903"
 }, 
 {
 "date": "2015-09-28", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "5016"
+"Active Users": "19660"
 }, 
 {
 "date": "2015-09-28", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "874"
+"Active Users": "6540"
 }, 
 {
 "date": "2015-09-28", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "4941"
+"Active Users": "23038"
 }, 
 {
 "date": "2015-09-28", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "19655"
+"Active Users": "68590"
 }, 
 {
 "date": "2015-09-28", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "236"
+"Active Users": "581"
 }, 
 {
 "date": "2015-09-28", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2309"
+"Active Users": "8466"
 }, 
 {
 "date": "2015-09-28", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1123"
+"Active Users": "7331"
 }, 
 {
 "date": "2015-09-29", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2719"
+"Active Users": "11235"
 }, 
 {
 "date": "2015-09-29", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1433"
+"Active Users": "8623"
 }, 
 {
 "date": "2015-09-29", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "219"
+"Active Users": "3903"
 }, 
 {
 "date": "2015-09-29", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4753"
+"Active Users": "20450"
 }, 
 {
 "date": "2015-09-29", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "792"
+"Active Users": "6626"
 }, 
 {
 "date": "2015-09-29", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5203"
+"Active Users": "24211"
 }, 
 {
 "date": "2015-09-29", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "18260"
+"Active Users": "70844"
 }, 
 {
 "date": "2015-09-29", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "276"
+"Active Users": "680"
 }, 
 {
 "date": "2015-09-29", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "2124"
+"Active Users": "8637"
 }, 
 {
 "date": "2015-09-29", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1303"
+"Active Users": "7687"
 }, 
 {
 "date": "2015-09-30", 
 "school": "\u4e1c\u534e\u5927\u5b66", 
-"Active Users": "2965"
+"Active Users": "11788"
 }, 
 {
 "date": "2015-09-30", 
 "school": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66", 
-"Active Users": "1352"
+"Active Users": "8776"
 }, 
 {
 "date": "2015-09-30", 
 "school": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66", 
-"Active Users": "249"
+"Active Users": "3802"
 }, 
 {
 "date": "2015-09-30", 
 "school": "\u4e2d\u5c71\u5927\u5b66", 
-"Active Users": "4777"
+"Active Users": "21066"
 }, 
 {
 "date": "2015-09-30", 
 "school": "\u4e94\u9091\u5927\u5b66", 
-"Active Users": "728"
+"Active Users": "6556"
 }, 
 {
 "date": "2015-09-30", 
 "school": "\u5317\u4eac\u5927\u5b66", 
-"Active Users": "5496"
+"Active Users": "24048"
 }, 
 {
 "date": "2015-09-30", 
 "school": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66", 
-"Active Users": "16533"
+"Active Users": "71272"
 }, 
 {
 "date": "2015-09-30", 
 "school": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66", 
-"Active Users": "431"
+"Active Users": "866"
 }, 
 {
 "date": "2015-09-30", 
 "school": "\u5e7f\u4e1c\u8d22\u7ecf\u5927\u5b66\u534e\u5546\u5b66\u9662", 
-"Active Users": "1982"
+"Active Users": "8731"
 }, 
 {
 "date": "2015-09-30", 
 "school": "\u5e7f\u4e1c\u91d1\u878d\u5b66\u9662", 
-"Active Users": "1473"
+"Active Users": "7904"
 }
 ]

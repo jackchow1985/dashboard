@@ -61,7 +61,7 @@
 }, 
 {
 "date": "2015-01-11", 
-"Total Users": "1", 
+"Total Users": "2", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
@@ -96,6 +96,11 @@
 }, 
 {
 "date": "2015-01-18", 
+"Total Users": "4", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-01-18", 
 "Total Users": "6", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
@@ -103,6 +108,11 @@
 "date": "2015-01-21", 
 "Total Users": "2", 
 "school": "The Hong Kong University of Science and Technology"
+}, 
+{
+"date": "2015-01-21", 
+"Total Users": "2", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-01-21", 
@@ -181,7 +191,7 @@
 }, 
 {
 "date": "2015-02-03", 
-"Total Users": "2", 
+"Total Users": "3", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -211,7 +221,7 @@
 }, 
 {
 "date": "2015-02-05", 
-"Total Users": "3", 
+"Total Users": "4", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -351,7 +361,7 @@
 }, 
 {
 "date": "2015-02-21", 
-"Total Users": "4", 
+"Total Users": "5", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -381,7 +391,7 @@
 }, 
 {
 "date": "2015-02-26", 
-"Total Users": "2", 
+"Total Users": "3", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
@@ -441,7 +451,7 @@
 }, 
 {
 "date": "2015-03-04", 
-"Total Users": "4", 
+"Total Users": "5", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -616,7 +626,7 @@
 }, 
 {
 "date": "2015-03-16", 
-"Total Users": "3", 
+"Total Users": "4", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
@@ -626,7 +636,7 @@
 }, 
 {
 "date": "2015-03-16", 
-"Total Users": "6", 
+"Total Users": "7", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -651,7 +661,7 @@
 }, 
 {
 "date": "2015-03-17", 
-"Total Users": "4", 
+"Total Users": "5", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
@@ -661,7 +671,7 @@
 }, 
 {
 "date": "2015-03-17", 
-"Total Users": "9", 
+"Total Users": "10", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -681,7 +691,7 @@
 }, 
 {
 "date": "2015-03-18", 
-"Total Users": "7", 
+"Total Users": "8", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
@@ -691,7 +701,7 @@
 }, 
 {
 "date": "2015-03-18", 
-"Total Users": "11", 
+"Total Users": "12", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -716,12 +726,12 @@
 }, 
 {
 "date": "2015-03-19", 
-"Total Users": "9", 
+"Total Users": "10", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-03-19", 
-"Total Users": "5", 
+"Total Users": "6", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -731,7 +741,7 @@
 }, 
 {
 "date": "2015-03-19", 
-"Total Users": "16", 
+"Total Users": "17", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -781,7 +791,7 @@
 }, 
 {
 "date": "2015-03-21", 
-"Total Users": "6", 
+"Total Users": "7", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -791,12 +801,12 @@
 }, 
 {
 "date": "2015-03-21", 
-"Total Users": "17", 
+"Total Users": "18", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-03-22", 
-"Total Users": "7", 
+"Total Users": "8", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -806,7 +816,7 @@
 }, 
 {
 "date": "2015-03-22", 
-"Total Users": "18", 
+"Total Users": "19", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -826,7 +836,7 @@
 }, 
 {
 "date": "2015-03-24", 
-"Total Users": "10", 
+"Total Users": "11", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -846,7 +856,7 @@
 }, 
 {
 "date": "2015-03-25", 
-"Total Users": "13", 
+"Total Users": "14", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -856,7 +866,7 @@
 }, 
 {
 "date": "2015-03-25", 
-"Total Users": "21", 
+"Total Users": "22", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -871,12 +881,12 @@
 }, 
 {
 "date": "2015-03-26", 
-"Total Users": "10", 
+"Total Users": "11", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-03-26", 
-"Total Users": "18", 
+"Total Users": "19", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -886,7 +896,7 @@
 }, 
 {
 "date": "2015-03-26", 
-"Total Users": "23", 
+"Total Users": "24", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -901,12 +911,12 @@
 }, 
 {
 "date": "2015-03-27", 
-"Total Users": "11", 
+"Total Users": "12", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-03-27", 
-"Total Users": "23", 
+"Total Users": "24", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -916,7 +926,7 @@
 }, 
 {
 "date": "2015-03-27", 
-"Total Users": "28", 
+"Total Users": "29", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -931,12 +941,12 @@
 }, 
 {
 "date": "2015-03-28", 
-"Total Users": "12", 
+"Total Users": "13", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-03-28", 
-"Total Users": "25", 
+"Total Users": "26", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -976,7 +986,7 @@
 }, 
 {
 "date": "2015-03-30", 
-"Total Users": "27", 
+"Total Users": "28", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -986,7 +996,7 @@
 }, 
 {
 "date": "2015-03-30", 
-"Total Users": "29", 
+"Total Users": "30", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1006,17 +1016,17 @@
 }, 
 {
 "date": "2015-03-31", 
-"Total Users": "13", 
+"Total Users": "14", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-03-31", 
-"Total Users": "30", 
+"Total Users": "31", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-03-31", 
-"Total Users": "32", 
+"Total Users": "33", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1041,12 +1051,12 @@
 }, 
 {
 "date": "2015-04-01", 
-"Total Users": "15", 
+"Total Users": "16", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-04-01", 
-"Total Users": "32", 
+"Total Users": "33", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1061,7 +1071,7 @@
 }, 
 {
 "date": "2015-04-02", 
-"Total Users": "34", 
+"Total Users": "35", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1071,7 +1081,7 @@
 }, 
 {
 "date": "2015-04-02", 
-"Total Users": "33", 
+"Total Users": "34", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1086,7 +1096,7 @@
 }, 
 {
 "date": "2015-04-03", 
-"Total Users": "36", 
+"Total Users": "37", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1111,7 +1121,7 @@
 }, 
 {
 "date": "2015-04-04", 
-"Total Users": "37", 
+"Total Users": "38", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1141,12 +1151,12 @@
 }, 
 {
 "date": "2015-04-06", 
-"Total Users": "38", 
+"Total Users": "39", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-04-06", 
-"Total Users": "34", 
+"Total Users": "35", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1161,7 +1171,7 @@
 }, 
 {
 "date": "2015-04-07", 
-"Total Users": "39", 
+"Total Users": "40", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1206,17 +1216,17 @@
 }, 
 {
 "date": "2015-04-09", 
-"Total Users": "17", 
+"Total Users": "18", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-04-09", 
-"Total Users": "42", 
+"Total Users": "43", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-04-09", 
-"Total Users": "35", 
+"Total Users": "36", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1236,7 +1246,7 @@
 }, 
 {
 "date": "2015-04-10", 
-"Total Users": "18", 
+"Total Users": "19", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
@@ -1250,13 +1260,18 @@
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
+"date": "2015-04-10", 
+"Total Users": "25", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
 "date": "2015-04-11", 
 "Total Users": "128", 
 "school": "The Hong Kong University of Science and Technology"
 }, 
 {
 "date": "2015-04-11", 
-"Total Users": "43", 
+"Total Users": "44", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1276,7 +1291,7 @@
 }, 
 {
 "date": "2015-04-12", 
-"Total Users": "25", 
+"Total Users": "26", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -1291,12 +1306,12 @@
 }, 
 {
 "date": "2015-04-13", 
-"Total Users": "19", 
+"Total Users": "20", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-04-13", 
-"Total Users": "36", 
+"Total Users": "37", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1316,7 +1331,7 @@
 }, 
 {
 "date": "2015-04-14", 
-"Total Users": "20", 
+"Total Users": "21", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
@@ -1326,12 +1341,12 @@
 }, 
 {
 "date": "2015-04-14", 
-"Total Users": "37", 
+"Total Users": "38", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-04-15", 
-"Total Users": "21", 
+"Total Users": "22", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
@@ -1361,7 +1376,7 @@
 }, 
 {
 "date": "2015-04-16", 
-"Total Users": "45", 
+"Total Users": "46", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1396,12 +1411,12 @@
 }, 
 {
 "date": "2015-04-19", 
-"Total Users": "22", 
+"Total Users": "23", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-04-19", 
-"Total Users": "47", 
+"Total Users": "48", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1416,7 +1431,7 @@
 }, 
 {
 "date": "2015-04-20", 
-"Total Users": "48", 
+"Total Users": "49", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1436,12 +1451,12 @@
 }, 
 {
 "date": "2015-04-21", 
-"Total Users": "50", 
+"Total Users": "51", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-04-21", 
-"Total Users": "38", 
+"Total Users": "39", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1451,7 +1466,7 @@
 }, 
 {
 "date": "2015-04-22", 
-"Total Users": "51", 
+"Total Users": "52", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1471,12 +1486,12 @@
 }, 
 {
 "date": "2015-04-23", 
-"Total Users": "25", 
+"Total Users": "26", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-04-23", 
-"Total Users": "55", 
+"Total Users": "56", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1486,7 +1501,7 @@
 }, 
 {
 "date": "2015-04-23", 
-"Total Users": "39", 
+"Total Users": "40", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1496,7 +1511,7 @@
 }, 
 {
 "date": "2015-04-23", 
-"Total Users": "27", 
+"Total Users": "28", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -1506,12 +1521,12 @@
 }, 
 {
 "date": "2015-04-24", 
-"Total Users": "31", 
+"Total Users": "32", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-04-24", 
-"Total Users": "63", 
+"Total Users": "64", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1521,7 +1536,7 @@
 }, 
 {
 "date": "2015-04-24", 
-"Total Users": "45", 
+"Total Users": "46", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1531,7 +1546,7 @@
 }, 
 {
 "date": "2015-04-24", 
-"Total Users": "39", 
+"Total Users": "40", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -1541,12 +1556,12 @@
 }, 
 {
 "date": "2015-04-25", 
-"Total Users": "36", 
+"Total Users": "37", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-04-25", 
-"Total Users": "65", 
+"Total Users": "66", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1556,7 +1571,7 @@
 }, 
 {
 "date": "2015-04-25", 
-"Total Users": "53", 
+"Total Users": "54", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1566,7 +1581,7 @@
 }, 
 {
 "date": "2015-04-25", 
-"Total Users": "42", 
+"Total Users": "43", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -1576,12 +1591,12 @@
 }, 
 {
 "date": "2015-04-26", 
-"Total Users": "50", 
+"Total Users": "51", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-04-26", 
-"Total Users": "70", 
+"Total Users": "71", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1591,7 +1606,7 @@
 }, 
 {
 "date": "2015-04-26", 
-"Total Users": "59", 
+"Total Users": "60", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1601,7 +1616,7 @@
 }, 
 {
 "date": "2015-04-26", 
-"Total Users": "47", 
+"Total Users": "48", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -1611,12 +1626,12 @@
 }, 
 {
 "date": "2015-04-27", 
-"Total Users": "58", 
+"Total Users": "59", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-04-27", 
-"Total Users": "75", 
+"Total Users": "76", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1626,7 +1641,7 @@
 }, 
 {
 "date": "2015-04-27", 
-"Total Users": "65", 
+"Total Users": "66", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1636,7 +1651,7 @@
 }, 
 {
 "date": "2015-04-27", 
-"Total Users": "51", 
+"Total Users": "52", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -1646,12 +1661,12 @@
 }, 
 {
 "date": "2015-04-28", 
-"Total Users": "63", 
+"Total Users": "64", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-04-28", 
-"Total Users": "79", 
+"Total Users": "80", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1661,7 +1676,7 @@
 }, 
 {
 "date": "2015-04-28", 
-"Total Users": "75", 
+"Total Users": "76", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1671,17 +1686,17 @@
 }, 
 {
 "date": "2015-04-28", 
-"Total Users": "53", 
+"Total Users": "54", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-04-29", 
-"Total Users": "67", 
+"Total Users": "68", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-04-29", 
-"Total Users": "84", 
+"Total Users": "85", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1691,7 +1706,7 @@
 }, 
 {
 "date": "2015-04-29", 
-"Total Users": "86", 
+"Total Users": "87", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1701,17 +1716,17 @@
 }, 
 {
 "date": "2015-04-29", 
-"Total Users": "60", 
+"Total Users": "61", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-04-30", 
-"Total Users": "72", 
+"Total Users": "73", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-04-30", 
-"Total Users": "87", 
+"Total Users": "88", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1721,7 +1736,7 @@
 }, 
 {
 "date": "2015-04-30", 
-"Total Users": "88", 
+"Total Users": "89", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1731,17 +1746,17 @@
 }, 
 {
 "date": "2015-04-30", 
-"Total Users": "65", 
+"Total Users": "66", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-05-01", 
-"Total Users": "74", 
+"Total Users": "75", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-01", 
-"Total Users": "101", 
+"Total Users": "102", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1751,7 +1766,7 @@
 }, 
 {
 "date": "2015-05-01", 
-"Total Users": "91", 
+"Total Users": "92", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1761,17 +1776,17 @@
 }, 
 {
 "date": "2015-05-01", 
-"Total Users": "69", 
+"Total Users": "70", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-05-02", 
-"Total Users": "80", 
+"Total Users": "81", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-02", 
-"Total Users": "110", 
+"Total Users": "111", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1781,7 +1796,7 @@
 }, 
 {
 "date": "2015-05-02", 
-"Total Users": "97", 
+"Total Users": "98", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1791,7 +1806,7 @@
 }, 
 {
 "date": "2015-05-02", 
-"Total Users": "71", 
+"Total Users": "72", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -1801,12 +1816,12 @@
 }, 
 {
 "date": "2015-05-03", 
-"Total Users": "94", 
+"Total Users": "95", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-03", 
-"Total Users": "112", 
+"Total Users": "113", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1816,7 +1831,7 @@
 }, 
 {
 "date": "2015-05-03", 
-"Total Users": "103", 
+"Total Users": "104", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1826,7 +1841,7 @@
 }, 
 {
 "date": "2015-05-03", 
-"Total Users": "73", 
+"Total Users": "74", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -1836,12 +1851,12 @@
 }, 
 {
 "date": "2015-05-04", 
-"Total Users": "102", 
+"Total Users": "103", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-04", 
-"Total Users": "122", 
+"Total Users": "123", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1851,7 +1866,7 @@
 }, 
 {
 "date": "2015-05-04", 
-"Total Users": "108", 
+"Total Users": "109", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1861,7 +1876,7 @@
 }, 
 {
 "date": "2015-05-04", 
-"Total Users": "79", 
+"Total Users": "80", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -1871,12 +1886,12 @@
 }, 
 {
 "date": "2015-05-05", 
-"Total Users": "114", 
+"Total Users": "115", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-05", 
-"Total Users": "129", 
+"Total Users": "130", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1886,7 +1901,7 @@
 }, 
 {
 "date": "2015-05-05", 
-"Total Users": "123", 
+"Total Users": "124", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1896,17 +1911,17 @@
 }, 
 {
 "date": "2015-05-05", 
-"Total Users": "83", 
+"Total Users": "84", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-05-06", 
-"Total Users": "117", 
+"Total Users": "118", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-06", 
-"Total Users": "137", 
+"Total Users": "138", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1916,7 +1931,7 @@
 }, 
 {
 "date": "2015-05-06", 
-"Total Users": "142", 
+"Total Users": "143", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1926,7 +1941,7 @@
 }, 
 {
 "date": "2015-05-06", 
-"Total Users": "90", 
+"Total Users": "91", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -1941,12 +1956,12 @@
 }, 
 {
 "date": "2015-05-07", 
-"Total Users": "119", 
+"Total Users": "120", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-07", 
-"Total Users": "141", 
+"Total Users": "142", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1956,7 +1971,7 @@
 }, 
 {
 "date": "2015-05-07", 
-"Total Users": "155", 
+"Total Users": "156", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -1966,7 +1981,7 @@
 }, 
 {
 "date": "2015-05-07", 
-"Total Users": "98", 
+"Total Users": "99", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -1981,12 +1996,12 @@
 }, 
 {
 "date": "2015-05-08", 
-"Total Users": "123", 
+"Total Users": "124", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-08", 
-"Total Users": "149", 
+"Total Users": "150", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -1996,7 +2011,7 @@
 }, 
 {
 "date": "2015-05-08", 
-"Total Users": "162", 
+"Total Users": "163", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2006,7 +2021,7 @@
 }, 
 {
 "date": "2015-05-08", 
-"Total Users": "110", 
+"Total Users": "111", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2016,12 +2031,12 @@
 }, 
 {
 "date": "2015-05-09", 
-"Total Users": "124", 
+"Total Users": "125", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-09", 
-"Total Users": "151", 
+"Total Users": "152", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2031,7 +2046,7 @@
 }, 
 {
 "date": "2015-05-09", 
-"Total Users": "167", 
+"Total Users": "168", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2041,17 +2056,17 @@
 }, 
 {
 "date": "2015-05-09", 
-"Total Users": "113", 
+"Total Users": "114", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-05-10", 
-"Total Users": "126", 
+"Total Users": "127", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-10", 
-"Total Users": "158", 
+"Total Users": "159", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2061,12 +2076,12 @@
 }, 
 {
 "date": "2015-05-10", 
-"Total Users": "173", 
+"Total Users": "174", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-05-10", 
-"Total Users": "119", 
+"Total Users": "120", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2081,12 +2096,12 @@
 }, 
 {
 "date": "2015-05-11", 
-"Total Users": "131", 
+"Total Users": "132", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-11", 
-"Total Users": "163", 
+"Total Users": "164", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2096,7 +2111,7 @@
 }, 
 {
 "date": "2015-05-11", 
-"Total Users": "188", 
+"Total Users": "189", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2106,7 +2121,7 @@
 }, 
 {
 "date": "2015-05-11", 
-"Total Users": "129", 
+"Total Users": "130", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2116,12 +2131,12 @@
 }, 
 {
 "date": "2015-05-12", 
-"Total Users": "136", 
+"Total Users": "137", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-12", 
-"Total Users": "174", 
+"Total Users": "175", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2131,7 +2146,7 @@
 }, 
 {
 "date": "2015-05-12", 
-"Total Users": "201", 
+"Total Users": "202", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2141,7 +2156,7 @@
 }, 
 {
 "date": "2015-05-12", 
-"Total Users": "136", 
+"Total Users": "137", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2161,12 +2176,12 @@
 }, 
 {
 "date": "2015-05-13", 
-"Total Users": "148", 
+"Total Users": "149", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-13", 
-"Total Users": "187", 
+"Total Users": "188", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2176,7 +2191,7 @@
 }, 
 {
 "date": "2015-05-13", 
-"Total Users": "208", 
+"Total Users": "209", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2186,7 +2201,7 @@
 }, 
 {
 "date": "2015-05-13", 
-"Total Users": "146", 
+"Total Users": "147", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2201,12 +2216,12 @@
 }, 
 {
 "date": "2015-05-14", 
-"Total Users": "151", 
+"Total Users": "152", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-14", 
-"Total Users": "206", 
+"Total Users": "207", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2216,7 +2231,7 @@
 }, 
 {
 "date": "2015-05-14", 
-"Total Users": "217", 
+"Total Users": "218", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2226,7 +2241,7 @@
 }, 
 {
 "date": "2015-05-14", 
-"Total Users": "154", 
+"Total Users": "155", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2241,12 +2256,12 @@
 }, 
 {
 "date": "2015-05-15", 
-"Total Users": "155", 
+"Total Users": "156", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-15", 
-"Total Users": "220", 
+"Total Users": "221", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2256,7 +2271,7 @@
 }, 
 {
 "date": "2015-05-15", 
-"Total Users": "227", 
+"Total Users": "228", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2266,7 +2281,7 @@
 }, 
 {
 "date": "2015-05-15", 
-"Total Users": "158", 
+"Total Users": "159", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2276,12 +2291,12 @@
 }, 
 {
 "date": "2015-05-16", 
-"Total Users": "156", 
+"Total Users": "157", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-16", 
-"Total Users": "229", 
+"Total Users": "230", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2291,7 +2306,7 @@
 }, 
 {
 "date": "2015-05-16", 
-"Total Users": "230", 
+"Total Users": "231", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2301,7 +2316,7 @@
 }, 
 {
 "date": "2015-05-16", 
-"Total Users": "165", 
+"Total Users": "166", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2316,12 +2331,12 @@
 }, 
 {
 "date": "2015-05-17", 
-"Total Users": "157", 
+"Total Users": "158", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-17", 
-"Total Users": "231", 
+"Total Users": "232", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2331,7 +2346,7 @@
 }, 
 {
 "date": "2015-05-17", 
-"Total Users": "234", 
+"Total Users": "235", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2341,17 +2356,17 @@
 }, 
 {
 "date": "2015-05-17", 
-"Total Users": "167", 
+"Total Users": "168", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-05-18", 
-"Total Users": "163", 
+"Total Users": "164", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-18", 
-"Total Users": "235", 
+"Total Users": "236", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2361,7 +2376,7 @@
 }, 
 {
 "date": "2015-05-18", 
-"Total Users": "239", 
+"Total Users": "240", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2371,17 +2386,17 @@
 }, 
 {
 "date": "2015-05-18", 
-"Total Users": "175", 
+"Total Users": "176", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-05-19", 
-"Total Users": "165", 
+"Total Users": "166", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-19", 
-"Total Users": "238", 
+"Total Users": "239", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2391,7 +2406,7 @@
 }, 
 {
 "date": "2015-05-19", 
-"Total Users": "244", 
+"Total Users": "245", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2401,7 +2416,7 @@
 }, 
 {
 "date": "2015-05-19", 
-"Total Users": "182", 
+"Total Users": "183", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2411,12 +2426,12 @@
 }, 
 {
 "date": "2015-05-20", 
-"Total Users": "171", 
+"Total Users": "172", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-20", 
-"Total Users": "244", 
+"Total Users": "245", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2426,7 +2441,7 @@
 }, 
 {
 "date": "2015-05-20", 
-"Total Users": "252", 
+"Total Users": "253", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2436,7 +2451,7 @@
 }, 
 {
 "date": "2015-05-20", 
-"Total Users": "183", 
+"Total Users": "184", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2446,17 +2461,17 @@
 }, 
 {
 "date": "2015-05-21", 
-"Total Users": "173", 
+"Total Users": "174", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-21", 
-"Total Users": "249", 
+"Total Users": "250", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-05-21", 
-"Total Users": "259", 
+"Total Users": "260", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2466,7 +2481,7 @@
 }, 
 {
 "date": "2015-05-21", 
-"Total Users": "189", 
+"Total Users": "190", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2481,12 +2496,12 @@
 }, 
 {
 "date": "2015-05-22", 
-"Total Users": "174", 
+"Total Users": "175", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-22", 
-"Total Users": "258", 
+"Total Users": "259", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2496,7 +2511,7 @@
 }, 
 {
 "date": "2015-05-22", 
-"Total Users": "262", 
+"Total Users": "263", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2506,7 +2521,7 @@
 }, 
 {
 "date": "2015-05-22", 
-"Total Users": "195", 
+"Total Users": "196", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2516,12 +2531,12 @@
 }, 
 {
 "date": "2015-05-23", 
-"Total Users": "178", 
+"Total Users": "179", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-23", 
-"Total Users": "260", 
+"Total Users": "261", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2531,7 +2546,7 @@
 }, 
 {
 "date": "2015-05-23", 
-"Total Users": "263", 
+"Total Users": "264", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2541,7 +2556,7 @@
 }, 
 {
 "date": "2015-05-23", 
-"Total Users": "198", 
+"Total Users": "199", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2551,7 +2566,7 @@
 }, 
 {
 "date": "2015-05-24", 
-"Total Users": "262", 
+"Total Users": "263", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2561,7 +2576,7 @@
 }, 
 {
 "date": "2015-05-24", 
-"Total Users": "265", 
+"Total Users": "266", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2571,7 +2586,7 @@
 }, 
 {
 "date": "2015-05-24", 
-"Total Users": "199", 
+"Total Users": "200", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2581,7 +2596,7 @@
 }, 
 {
 "date": "2015-05-25", 
-"Total Users": "267", 
+"Total Users": "268", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2591,12 +2606,12 @@
 }, 
 {
 "date": "2015-05-25", 
-"Total Users": "267", 
+"Total Users": "268", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-05-25", 
-"Total Users": "205", 
+"Total Users": "206", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2606,12 +2621,12 @@
 }, 
 {
 "date": "2015-05-26", 
-"Total Users": "180", 
+"Total Users": "181", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-26", 
-"Total Users": "274", 
+"Total Users": "275", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2621,7 +2636,7 @@
 }, 
 {
 "date": "2015-05-26", 
-"Total Users": "269", 
+"Total Users": "270", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2641,7 +2656,7 @@
 }, 
 {
 "date": "2015-05-27", 
-"Total Users": "278", 
+"Total Users": "279", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2651,7 +2666,7 @@
 }, 
 {
 "date": "2015-05-27", 
-"Total Users": "273", 
+"Total Users": "274", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2671,12 +2686,12 @@
 }, 
 {
 "date": "2015-05-28", 
-"Total Users": "183", 
+"Total Users": "184", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-05-28", 
-"Total Users": "281", 
+"Total Users": "282", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2686,7 +2701,7 @@
 }, 
 {
 "date": "2015-05-28", 
-"Total Users": "275", 
+"Total Users": "276", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2696,7 +2711,7 @@
 }, 
 {
 "date": "2015-05-28", 
-"Total Users": "209", 
+"Total Users": "210", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2711,7 +2726,7 @@
 }, 
 {
 "date": "2015-05-29", 
-"Total Users": "285", 
+"Total Users": "286", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2721,7 +2736,7 @@
 }, 
 {
 "date": "2015-05-29", 
-"Total Users": "277", 
+"Total Users": "278", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2741,7 +2756,7 @@
 }, 
 {
 "date": "2015-05-30", 
-"Total Users": "287", 
+"Total Users": "288", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2766,12 +2781,12 @@
 }, 
 {
 "date": "2015-06-01", 
-"Total Users": "184", 
+"Total Users": "185", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-01", 
-"Total Users": "290", 
+"Total Users": "291", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2781,7 +2796,7 @@
 }, 
 {
 "date": "2015-06-01", 
-"Total Users": "284", 
+"Total Users": "285", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2791,12 +2806,12 @@
 }, 
 {
 "date": "2015-06-01", 
-"Total Users": "211", 
+"Total Users": "212", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-06-02", 
-"Total Users": "292", 
+"Total Users": "293", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2806,7 +2821,7 @@
 }, 
 {
 "date": "2015-06-02", 
-"Total Users": "289", 
+"Total Users": "290", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2816,17 +2831,17 @@
 }, 
 {
 "date": "2015-06-02", 
-"Total Users": "212", 
+"Total Users": "213", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-06-03", 
-"Total Users": "187", 
+"Total Users": "188", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-03", 
-"Total Users": "295", 
+"Total Users": "296", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2836,7 +2851,7 @@
 }, 
 {
 "date": "2015-06-03", 
-"Total Users": "292", 
+"Total Users": "293", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2856,7 +2871,7 @@
 }, 
 {
 "date": "2015-06-04", 
-"Total Users": "298", 
+"Total Users": "299", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2866,7 +2881,7 @@
 }, 
 {
 "date": "2015-06-04", 
-"Total Users": "305", 
+"Total Users": "306", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2876,7 +2891,7 @@
 }, 
 {
 "date": "2015-06-04", 
-"Total Users": "214", 
+"Total Users": "215", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -2886,12 +2901,12 @@
 }, 
 {
 "date": "2015-06-05", 
-"Total Users": "189", 
+"Total Users": "190", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-05", 
-"Total Users": "300", 
+"Total Users": "301", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2901,7 +2916,7 @@
 }, 
 {
 "date": "2015-06-05", 
-"Total Users": "307", 
+"Total Users": "308", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2916,7 +2931,7 @@
 }, 
 {
 "date": "2015-06-06", 
-"Total Users": "192", 
+"Total Users": "193", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
@@ -2926,7 +2941,7 @@
 }, 
 {
 "date": "2015-06-06", 
-"Total Users": "309", 
+"Total Users": "310", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2941,7 +2956,7 @@
 }, 
 {
 "date": "2015-06-07", 
-"Total Users": "301", 
+"Total Users": "302", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2951,7 +2966,7 @@
 }, 
 {
 "date": "2015-06-07", 
-"Total Users": "310", 
+"Total Users": "311", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2961,12 +2976,12 @@
 }, 
 {
 "date": "2015-06-08", 
-"Total Users": "193", 
+"Total Users": "194", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-08", 
-"Total Users": "308", 
+"Total Users": "309", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -2976,7 +2991,7 @@
 }, 
 {
 "date": "2015-06-08", 
-"Total Users": "316", 
+"Total Users": "317", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -2986,7 +3001,7 @@
 }, 
 {
 "date": "2015-06-08", 
-"Total Users": "217", 
+"Total Users": "218", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3006,12 +3021,12 @@
 }, 
 {
 "date": "2015-06-09", 
-"Total Users": "196", 
+"Total Users": "197", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-09", 
-"Total Users": "310", 
+"Total Users": "311", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3021,7 +3036,7 @@
 }, 
 {
 "date": "2015-06-09", 
-"Total Users": "331", 
+"Total Users": "332", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3031,7 +3046,7 @@
 }, 
 {
 "date": "2015-06-09", 
-"Total Users": "219", 
+"Total Users": "221", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3041,12 +3056,12 @@
 }, 
 {
 "date": "2015-06-10", 
-"Total Users": "199", 
+"Total Users": "200", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-10", 
-"Total Users": "317", 
+"Total Users": "318", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3056,7 +3071,7 @@
 }, 
 {
 "date": "2015-06-10", 
-"Total Users": "357", 
+"Total Users": "358", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3066,7 +3081,7 @@
 }, 
 {
 "date": "2015-06-10", 
-"Total Users": "227", 
+"Total Users": "229", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3081,12 +3096,12 @@
 }, 
 {
 "date": "2015-06-11", 
-"Total Users": "203", 
+"Total Users": "204", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-11", 
-"Total Users": "319", 
+"Total Users": "320", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3096,7 +3111,7 @@
 }, 
 {
 "date": "2015-06-11", 
-"Total Users": "358", 
+"Total Users": "359", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3106,17 +3121,17 @@
 }, 
 {
 "date": "2015-06-11", 
-"Total Users": "230", 
+"Total Users": "232", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-06-12", 
-"Total Users": "206", 
+"Total Users": "207", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-12", 
-"Total Users": "322", 
+"Total Users": "323", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3126,7 +3141,7 @@
 }, 
 {
 "date": "2015-06-12", 
-"Total Users": "359", 
+"Total Users": "360", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3136,17 +3151,17 @@
 }, 
 {
 "date": "2015-06-12", 
-"Total Users": "231", 
+"Total Users": "233", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-06-13", 
-"Total Users": "207", 
+"Total Users": "208", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-13", 
-"Total Users": "324", 
+"Total Users": "325", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3156,7 +3171,7 @@
 }, 
 {
 "date": "2015-06-13", 
-"Total Users": "361", 
+"Total Users": "362", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3166,12 +3181,12 @@
 }, 
 {
 "date": "2015-06-15", 
-"Total Users": "208", 
+"Total Users": "209", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-15", 
-"Total Users": "325", 
+"Total Users": "326", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3181,12 +3196,12 @@
 }, 
 {
 "date": "2015-06-15", 
-"Total Users": "362", 
+"Total Users": "363", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-06-15", 
-"Total Users": "234", 
+"Total Users": "236", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3211,7 +3226,7 @@
 }, 
 {
 "date": "2015-06-16", 
-"Total Users": "364", 
+"Total Users": "365", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3241,7 +3256,7 @@
 }, 
 {
 "date": "2015-06-17", 
-"Total Users": "235", 
+"Total Users": "237", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3251,12 +3266,12 @@
 }, 
 {
 "date": "2015-06-18", 
-"Total Users": "211", 
+"Total Users": "212", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-18", 
-"Total Users": "326", 
+"Total Users": "327", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3266,7 +3281,7 @@
 }, 
 {
 "date": "2015-06-18", 
-"Total Users": "377", 
+"Total Users": "378", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3276,7 +3291,7 @@
 }, 
 {
 "date": "2015-06-18", 
-"Total Users": "239", 
+"Total Users": "241", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3291,12 +3306,12 @@
 }, 
 {
 "date": "2015-06-19", 
-"Total Users": "212", 
+"Total Users": "213", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-19", 
-"Total Users": "329", 
+"Total Users": "330", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3306,7 +3321,7 @@
 }, 
 {
 "date": "2015-06-19", 
-"Total Users": "385", 
+"Total Users": "386", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3316,17 +3331,17 @@
 }, 
 {
 "date": "2015-06-19", 
-"Total Users": "243", 
+"Total Users": "245", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-06-20", 
-"Total Users": "214", 
+"Total Users": "215", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-20", 
-"Total Users": "330", 
+"Total Users": "331", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3336,7 +3351,7 @@
 }, 
 {
 "date": "2015-06-20", 
-"Total Users": "390", 
+"Total Users": "391", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3346,7 +3361,7 @@
 }, 
 {
 "date": "2015-06-20", 
-"Total Users": "244", 
+"Total Users": "246", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3381,12 +3396,12 @@
 }, 
 {
 "date": "2015-06-22", 
-"Total Users": "215", 
+"Total Users": "216", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-22", 
-"Total Users": "333", 
+"Total Users": "334", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3396,7 +3411,7 @@
 }, 
 {
 "date": "2015-06-22", 
-"Total Users": "395", 
+"Total Users": "396", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3406,7 +3421,7 @@
 }, 
 {
 "date": "2015-06-22", 
-"Total Users": "248", 
+"Total Users": "250", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3421,12 +3436,12 @@
 }, 
 {
 "date": "2015-06-23", 
-"Total Users": "218", 
+"Total Users": "219", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-23", 
-"Total Users": "339", 
+"Total Users": "340", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3436,7 +3451,7 @@
 }, 
 {
 "date": "2015-06-23", 
-"Total Users": "402", 
+"Total Users": "403", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3446,7 +3461,7 @@
 }, 
 {
 "date": "2015-06-23", 
-"Total Users": "249", 
+"Total Users": "251", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3456,7 +3471,7 @@
 }, 
 {
 "date": "2015-06-24", 
-"Total Users": "346", 
+"Total Users": "347", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3466,7 +3481,7 @@
 }, 
 {
 "date": "2015-06-24", 
-"Total Users": "409", 
+"Total Users": "410", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3476,7 +3491,7 @@
 }, 
 {
 "date": "2015-06-24", 
-"Total Users": "252", 
+"Total Users": "254", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3491,12 +3506,12 @@
 }, 
 {
 "date": "2015-06-25", 
-"Total Users": "219", 
+"Total Users": "220", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-25", 
-"Total Users": "348", 
+"Total Users": "349", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3506,7 +3521,7 @@
 }, 
 {
 "date": "2015-06-25", 
-"Total Users": "414", 
+"Total Users": "415", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3516,17 +3531,17 @@
 }, 
 {
 "date": "2015-06-25", 
-"Total Users": "258", 
+"Total Users": "260", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-06-26", 
-"Total Users": "220", 
+"Total Users": "221", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-26", 
-"Total Users": "349", 
+"Total Users": "350", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3536,7 +3551,7 @@
 }, 
 {
 "date": "2015-06-26", 
-"Total Users": "417", 
+"Total Users": "418", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3546,12 +3561,12 @@
 }, 
 {
 "date": "2015-06-26", 
-"Total Users": "259", 
+"Total Users": "261", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-06-27", 
-"Total Users": "351", 
+"Total Users": "352", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3561,7 +3576,7 @@
 }, 
 {
 "date": "2015-06-27", 
-"Total Users": "420", 
+"Total Users": "421", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3571,7 +3586,7 @@
 }, 
 {
 "date": "2015-06-27", 
-"Total Users": "261", 
+"Total Users": "263", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3581,7 +3596,7 @@
 }, 
 {
 "date": "2015-06-28", 
-"Total Users": "352", 
+"Total Users": "353", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3601,12 +3616,12 @@
 }, 
 {
 "date": "2015-06-29", 
-"Total Users": "223", 
+"Total Users": "224", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-29", 
-"Total Users": "355", 
+"Total Users": "356", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3616,7 +3631,7 @@
 }, 
 {
 "date": "2015-06-29", 
-"Total Users": "424", 
+"Total Users": "425", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3626,7 +3641,7 @@
 }, 
 {
 "date": "2015-06-29", 
-"Total Users": "262", 
+"Total Users": "264", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3641,12 +3656,12 @@
 }, 
 {
 "date": "2015-06-30", 
-"Total Users": "224", 
+"Total Users": "225", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-06-30", 
-"Total Users": "357", 
+"Total Users": "358", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3656,7 +3671,7 @@
 }, 
 {
 "date": "2015-06-30", 
-"Total Users": "428", 
+"Total Users": "429", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3666,7 +3681,7 @@
 }, 
 {
 "date": "2015-06-30", 
-"Total Users": "266", 
+"Total Users": "268", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3691,7 +3706,7 @@
 }, 
 {
 "date": "2015-07-01", 
-"Total Users": "362", 
+"Total Users": "363", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3701,7 +3716,7 @@
 }, 
 {
 "date": "2015-07-01", 
-"Total Users": "434", 
+"Total Users": "435", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3711,7 +3726,7 @@
 }, 
 {
 "date": "2015-07-01", 
-"Total Users": "271", 
+"Total Users": "273", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3731,12 +3746,12 @@
 }, 
 {
 "date": "2015-07-02", 
-"Total Users": "367", 
+"Total Users": "368", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-07-02", 
-"Total Users": "436", 
+"Total Users": "437", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3746,7 +3761,7 @@
 }, 
 {
 "date": "2015-07-02", 
-"Total Users": "273", 
+"Total Users": "275", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3771,12 +3786,12 @@
 }, 
 {
 "date": "2015-07-03", 
-"Total Users": "227", 
+"Total Users": "228", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-07-03", 
-"Total Users": "371", 
+"Total Users": "372", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3786,7 +3801,7 @@
 }, 
 {
 "date": "2015-07-03", 
-"Total Users": "439", 
+"Total Users": "440", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3796,7 +3811,7 @@
 }, 
 {
 "date": "2015-07-03", 
-"Total Users": "275", 
+"Total Users": "277", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3811,7 +3826,7 @@
 }, 
 {
 "date": "2015-07-04", 
-"Total Users": "373", 
+"Total Users": "374", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3821,7 +3836,7 @@
 }, 
 {
 "date": "2015-07-04", 
-"Total Users": "441", 
+"Total Users": "442", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3831,7 +3846,7 @@
 }, 
 {
 "date": "2015-07-04", 
-"Total Users": "277", 
+"Total Users": "279", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3841,7 +3856,7 @@
 }, 
 {
 "date": "2015-07-05", 
-"Total Users": "228", 
+"Total Users": "229", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
@@ -3851,12 +3866,12 @@
 }, 
 {
 "date": "2015-07-06", 
-"Total Users": "229", 
+"Total Users": "230", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-07-06", 
-"Total Users": "374", 
+"Total Users": "375", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3866,7 +3881,7 @@
 }, 
 {
 "date": "2015-07-06", 
-"Total Users": "443", 
+"Total Users": "444", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3876,7 +3891,7 @@
 }, 
 {
 "date": "2015-07-06", 
-"Total Users": "278", 
+"Total Users": "280", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3886,7 +3901,7 @@
 }, 
 {
 "date": "2015-07-07", 
-"Total Users": "445", 
+"Total Users": "446", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3896,12 +3911,12 @@
 }, 
 {
 "date": "2015-07-08", 
-"Total Users": "230", 
+"Total Users": "231", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-07-08", 
-"Total Users": "375", 
+"Total Users": "376", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3911,7 +3926,7 @@
 }, 
 {
 "date": "2015-07-08", 
-"Total Users": "447", 
+"Total Users": "448", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3921,7 +3936,7 @@
 }, 
 {
 "date": "2015-07-08", 
-"Total Users": "280", 
+"Total Users": "282", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3931,7 +3946,7 @@
 }, 
 {
 "date": "2015-07-09", 
-"Total Users": "377", 
+"Total Users": "378", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -3941,7 +3956,7 @@
 }, 
 {
 "date": "2015-07-09", 
-"Total Users": "450", 
+"Total Users": "451", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3951,7 +3966,7 @@
 }, 
 {
 "date": "2015-07-09", 
-"Total Users": "282", 
+"Total Users": "284", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -3971,7 +3986,7 @@
 }, 
 {
 "date": "2015-07-10", 
-"Total Users": "452", 
+"Total Users": "453", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -3986,7 +4001,7 @@
 }, 
 {
 "date": "2015-07-11", 
-"Total Users": "378", 
+"Total Users": "379", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -4001,7 +4016,7 @@
 }, 
 {
 "date": "2015-07-12", 
-"Total Users": "283", 
+"Total Users": "285", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4016,7 +4031,7 @@
 }, 
 {
 "date": "2015-07-13", 
-"Total Users": "379", 
+"Total Users": "380", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -4026,17 +4041,17 @@
 }, 
 {
 "date": "2015-07-13", 
-"Total Users": "285", 
+"Total Users": "287", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-07-14", 
-"Total Users": "380", 
+"Total Users": "381", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-07-14", 
-"Total Users": "455", 
+"Total Users": "456", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -4046,7 +4061,7 @@
 }, 
 {
 "date": "2015-07-14", 
-"Total Users": "286", 
+"Total Users": "288", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4061,7 +4076,7 @@
 }, 
 {
 "date": "2015-07-15", 
-"Total Users": "287", 
+"Total Users": "289", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4071,12 +4086,12 @@
 }, 
 {
 "date": "2015-07-16", 
-"Total Users": "231", 
+"Total Users": "232", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-07-16", 
-"Total Users": "381", 
+"Total Users": "382", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -4086,7 +4101,7 @@
 }, 
 {
 "date": "2015-07-16", 
-"Total Users": "458", 
+"Total Users": "459", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -4096,7 +4111,7 @@
 }, 
 {
 "date": "2015-07-16", 
-"Total Users": "288", 
+"Total Users": "290", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4111,12 +4126,12 @@
 }, 
 {
 "date": "2015-07-17", 
-"Total Users": "233", 
+"Total Users": "234", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-07-17", 
-"Total Users": "383", 
+"Total Users": "384", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -4126,7 +4141,7 @@
 }, 
 {
 "date": "2015-07-17", 
-"Total Users": "459", 
+"Total Users": "460", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -4141,37 +4156,37 @@
 }, 
 {
 "date": "2015-07-18", 
-"Total Users": "235", 
+"Total Users": "236", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-07-18", 
-"Total Users": "290", 
-"school": "\u9022\u7532\u5927\u5b78"
-}, 
-{
-"date": "2015-07-19", 
-"Total Users": "460", 
-"school": "\u6de1\u6c5f\u5927\u5b78"
-}, 
-{
-"date": "2015-07-19", 
-"Total Users": "291", 
-"school": "\u9022\u7532\u5927\u5b78"
-}, 
-{
-"date": "2015-07-20", 
-"Total Users": "385", 
-"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
-}, 
-{
-"date": "2015-07-20", 
 "Total Users": "292", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
+"date": "2015-07-19", 
+"Total Users": "461", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-07-19", 
+"Total Users": "293", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-07-20", 
+"Total Users": "386", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-07-20", 
+"Total Users": "294", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
 "date": "2015-07-21", 
-"Total Users": "387", 
+"Total Users": "388", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -4186,7 +4201,7 @@
 }, 
 {
 "date": "2015-07-21", 
-"Total Users": "293", 
+"Total Users": "295", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4196,17 +4211,17 @@
 }, 
 {
 "date": "2015-07-22", 
-"Total Users": "237", 
+"Total Users": "238", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-07-22", 
-"Total Users": "388", 
+"Total Users": "389", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-07-22", 
-"Total Users": "462", 
+"Total Users": "463", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -4221,7 +4236,7 @@
 }, 
 {
 "date": "2015-07-23", 
-"Total Users": "391", 
+"Total Users": "392", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -4231,7 +4246,7 @@
 }, 
 {
 "date": "2015-07-24", 
-"Total Users": "463", 
+"Total Users": "464", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -4241,7 +4256,7 @@
 }, 
 {
 "date": "2015-07-24", 
-"Total Users": "295", 
+"Total Users": "297", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4251,12 +4266,12 @@
 }, 
 {
 "date": "2015-07-25", 
-"Total Users": "395", 
+"Total Users": "396", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-07-25", 
-"Total Users": "298", 
+"Total Users": "300", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4266,12 +4281,12 @@
 }, 
 {
 "date": "2015-07-26", 
-"Total Users": "238", 
+"Total Users": "239", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-07-26", 
-"Total Users": "396", 
+"Total Users": "397", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -4281,7 +4296,7 @@
 }, 
 {
 "date": "2015-07-26", 
-"Total Users": "464", 
+"Total Users": "465", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -4291,7 +4306,7 @@
 }, 
 {
 "date": "2015-07-27", 
-"Total Users": "399", 
+"Total Users": "400", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -4301,17 +4316,17 @@
 }, 
 {
 "date": "2015-07-27", 
-"Total Users": "465", 
+"Total Users": "466", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-07-27", 
-"Total Users": "461", 
+"Total Users": "462", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-07-27", 
-"Total Users": "302", 
+"Total Users": "304", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4321,17 +4336,17 @@
 }, 
 {
 "date": "2015-07-28", 
-"Total Users": "400", 
+"Total Users": "401", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-07-28", 
-"Total Users": "466", 
+"Total Users": "467", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-07-28", 
-"Total Users": "303", 
+"Total Users": "305", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4346,12 +4361,12 @@
 }, 
 {
 "date": "2015-07-29", 
-"Total Users": "239", 
+"Total Users": "240", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-07-29", 
-"Total Users": "402", 
+"Total Users": "403", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -4361,27 +4376,27 @@
 }, 
 {
 "date": "2015-07-29", 
-"Total Users": "472", 
+"Total Users": "473", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-07-29", 
-"Total Users": "462", 
+"Total Users": "463", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-07-29", 
-"Total Users": "305", 
+"Total Users": "307", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-07-30", 
-"Total Users": "247", 
+"Total Users": "248", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-07-30", 
-"Total Users": "403", 
+"Total Users": "404", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -4391,17 +4406,17 @@
 }, 
 {
 "date": "2015-07-30", 
-"Total Users": "479", 
+"Total Users": "480", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-07-30", 
-"Total Users": "466", 
+"Total Users": "467", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-07-30", 
-"Total Users": "308", 
+"Total Users": "310", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4421,12 +4436,12 @@
 }, 
 {
 "date": "2015-07-31", 
-"Total Users": "250", 
+"Total Users": "251", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-07-31", 
-"Total Users": "408", 
+"Total Users": "409", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
@@ -4436,17 +4451,17 @@
 }, 
 {
 "date": "2015-07-31", 
-"Total Users": "480", 
+"Total Users": "481", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-07-31", 
-"Total Users": "467", 
+"Total Users": "468", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-07-31", 
-"Total Users": "310", 
+"Total Users": "312", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4461,22 +4476,22 @@
 }, 
 {
 "date": "2015-08-01", 
-"Total Users": "410", 
+"Total Users": "411", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-01", 
-"Total Users": "514", 
+"Total Users": "515", 
 "school": "\u6771\u5433\u5927\u5b78"
 }, 
 {
 "date": "2015-08-01", 
-"Total Users": "483", 
+"Total Users": "484", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-01", 
-"Total Users": "311", 
+"Total Users": "313", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4496,32 +4511,32 @@
 }, 
 {
 "date": "2015-08-02", 
-"Total Users": "251", 
+"Total Users": "252", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-08-02", 
-"Total Users": "411", 
+"Total Users": "412", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-02", 
-"Total Users": "515", 
+"Total Users": "516", 
 "school": "\u6771\u5433\u5927\u5b78"
 }, 
 {
 "date": "2015-08-02", 
-"Total Users": "485", 
+"Total Users": "486", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-02", 
-"Total Users": "468", 
+"Total Users": "469", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-02", 
-"Total Users": "312", 
+"Total Users": "314", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4541,27 +4556,27 @@
 }, 
 {
 "date": "2015-08-03", 
-"Total Users": "413", 
+"Total Users": "414", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-03", 
-"Total Users": "517", 
+"Total Users": "518", 
 "school": "\u6771\u5433\u5927\u5b78"
 }, 
 {
 "date": "2015-08-03", 
-"Total Users": "488", 
+"Total Users": "489", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-03", 
-"Total Users": "469", 
+"Total Users": "470", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-03", 
-"Total Users": "313", 
+"Total Users": "315", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4571,32 +4586,32 @@
 }, 
 {
 "date": "2015-08-04", 
-"Total Users": "253", 
+"Total Users": "254", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-08-04", 
-"Total Users": "418", 
+"Total Users": "419", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-04", 
-"Total Users": "521", 
+"Total Users": "522", 
 "school": "\u6771\u5433\u5927\u5b78"
 }, 
 {
 "date": "2015-08-04", 
-"Total Users": "492", 
+"Total Users": "493", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-04", 
-"Total Users": "475", 
+"Total Users": "476", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-04", 
-"Total Users": "314", 
+"Total Users": "316", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4611,22 +4626,22 @@
 }, 
 {
 "date": "2015-08-05", 
-"Total Users": "425", 
+"Total Users": "426", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-05", 
-"Total Users": "523", 
+"Total Users": "524", 
 "school": "\u6771\u5433\u5927\u5b78"
 }, 
 {
 "date": "2015-08-05", 
-"Total Users": "495", 
+"Total Users": "496", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-05", 
-"Total Users": "319", 
+"Total Users": "321", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4646,27 +4661,27 @@
 }, 
 {
 "date": "2015-08-06", 
-"Total Users": "257", 
+"Total Users": "258", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-08-06", 
-"Total Users": "431", 
+"Total Users": "432", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-06", 
-"Total Users": "525", 
+"Total Users": "526", 
 "school": "\u6771\u5433\u5927\u5b78"
 }, 
 {
 "date": "2015-08-06", 
-"Total Users": "496", 
+"Total Users": "497", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-06", 
-"Total Users": "320", 
+"Total Users": "322", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4676,27 +4691,27 @@
 }, 
 {
 "date": "2015-08-07", 
-"Total Users": "260", 
+"Total Users": "261", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-08-07", 
-"Total Users": "437", 
+"Total Users": "438", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-07", 
-"Total Users": "526", 
+"Total Users": "527", 
 "school": "\u6771\u5433\u5927\u5b78"
 }, 
 {
 "date": "2015-08-07", 
-"Total Users": "478", 
+"Total Users": "479", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-07", 
-"Total Users": "321", 
+"Total Users": "323", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4706,27 +4721,27 @@
 }, 
 {
 "date": "2015-08-08", 
-"Total Users": "439", 
+"Total Users": "440", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-08", 
-"Total Users": "527", 
+"Total Users": "528", 
 "school": "\u6771\u5433\u5927\u5b78"
 }, 
 {
 "date": "2015-08-08", 
-"Total Users": "497", 
+"Total Users": "498", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-08", 
-"Total Users": "479", 
+"Total Users": "480", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-08", 
-"Total Users": "323", 
+"Total Users": "325", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4736,17 +4751,17 @@
 }, 
 {
 "date": "2015-08-09", 
-"Total Users": "261", 
+"Total Users": "262", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-08-09", 
-"Total Users": "441", 
+"Total Users": "442", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-09", 
-"Total Users": "528", 
+"Total Users": "529", 
 "school": "\u6771\u5433\u5927\u5b78"
 }, 
 {
@@ -4766,7 +4781,7 @@
 }, 
 {
 "date": "2015-08-10", 
-"Total Users": "480", 
+"Total Users": "481", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
@@ -4786,17 +4801,17 @@
 }, 
 {
 "date": "2015-08-11", 
-"Total Users": "262", 
+"Total Users": "263", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-08-11", 
-"Total Users": "443", 
+"Total Users": "444", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-11", 
-"Total Users": "498", 
+"Total Users": "499", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -4811,22 +4826,22 @@
 }, 
 {
 "date": "2015-08-12", 
-"Total Users": "444", 
+"Total Users": "445", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-12", 
-"Total Users": "501", 
+"Total Users": "502", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-12", 
-"Total Users": "481", 
+"Total Users": "482", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-12", 
-"Total Users": "324", 
+"Total Users": "326", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4841,17 +4856,17 @@
 }, 
 {
 "date": "2015-08-13", 
-"Total Users": "502", 
+"Total Users": "503", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-13", 
-"Total Users": "483", 
+"Total Users": "484", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-13", 
-"Total Users": "326", 
+"Total Users": "328", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4866,22 +4881,22 @@
 }, 
 {
 "date": "2015-08-14", 
-"Total Users": "447", 
+"Total Users": "448", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-14", 
-"Total Users": "503", 
+"Total Users": "504", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-14", 
-"Total Users": "484", 
+"Total Users": "485", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-14", 
-"Total Users": "327", 
+"Total Users": "329", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4891,18 +4906,23 @@
 }, 
 {
 "date": "2015-08-15", 
-"Total Users": "448", 
+"Total Users": "449", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-15", 
-"Total Users": "505", 
+"Total Users": "506", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-15", 
-"Total Users": "485", 
+"Total Users": "486", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-08-15", 
+"Total Users": "330", 
+"school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-08-16", 
@@ -4916,12 +4936,12 @@
 }, 
 {
 "date": "2015-08-16", 
-"Total Users": "486", 
+"Total Users": "487", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-16", 
-"Total Users": "328", 
+"Total Users": "331", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -4936,38 +4956,33 @@
 }, 
 {
 "date": "2015-08-17", 
-"Total Users": "263", 
+"Total Users": "264", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-08-17", 
-"Total Users": "451", 
-"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
-}, 
-{
-"date": "2015-08-17", 
-"Total Users": "506", 
-"school": "\u6de1\u6c5f\u5927\u5b78"
-}, 
-{
-"date": "2015-08-17", 
-"Total Users": "329", 
-"school": "\u9022\u7532\u5927\u5b78"
-}, 
-{
-"date": "2015-08-19", 
 "Total Users": "452", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
-"date": "2015-08-19", 
-"Total Users": "508", 
+"date": "2015-08-17", 
+"Total Users": "507", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
-"date": "2015-08-19", 
-"Total Users": "330", 
+"date": "2015-08-17", 
+"Total Users": "332", 
 "school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-08-19", 
+"Total Users": "454", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-08-19", 
+"Total Users": "509", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-20", 
@@ -4976,12 +4991,12 @@
 }, 
 {
 "date": "2015-08-20", 
-"Total Users": "264", 
+"Total Users": "265", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-08-20", 
-"Total Users": "509", 
+"Total Users": "511", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -5001,12 +5016,12 @@
 }, 
 {
 "date": "2015-08-21", 
-"Total Users": "488", 
+"Total Users": "489", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-21", 
-"Total Users": "331", 
+"Total Users": "333", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -5021,12 +5036,12 @@
 }, 
 {
 "date": "2015-08-22", 
-"Total Users": "511", 
+"Total Users": "513", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-22", 
-"Total Users": "489", 
+"Total Users": "490", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
@@ -5046,12 +5061,12 @@
 }, 
 {
 "date": "2015-08-24", 
-"Total Users": "265", 
+"Total Users": "266", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-08-24", 
-"Total Users": "332", 
+"Total Users": "334", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -5066,17 +5081,17 @@
 }, 
 {
 "date": "2015-08-25", 
-"Total Users": "453", 
+"Total Users": "455", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-25", 
-"Total Users": "490", 
+"Total Users": "491", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-25", 
-"Total Users": "334", 
+"Total Users": "336", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -5086,27 +5101,27 @@
 }, 
 {
 "date": "2015-08-26", 
-"Total Users": "321", 
+"Total Users": "322", 
 "school": "XLRI-Xavier School Of Management"
 }, 
 {
 "date": "2015-08-26", 
-"Total Users": "266", 
+"Total Users": "267", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-08-26", 
-"Total Users": "512", 
+"Total Users": "514", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-26", 
-"Total Users": "492", 
+"Total Users": "493", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-26", 
-"Total Users": "335", 
+"Total Users": "337", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -5126,32 +5141,32 @@
 }, 
 {
 "date": "2015-08-27", 
-"Total Users": "358", 
+"Total Users": "359", 
 "school": "XLRI-Xavier School Of Management"
 }, 
 {
 "date": "2015-08-27", 
-"Total Users": "267", 
+"Total Users": "268", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-08-27", 
-"Total Users": "454", 
+"Total Users": "456", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-08-27", 
-"Total Users": "529", 
+"Total Users": "530", 
 "school": "\u6771\u5433\u5927\u5b78"
 }, 
 {
 "date": "2015-08-27", 
-"Total Users": "514", 
+"Total Users": "516", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-08-27", 
-"Total Users": "493", 
+"Total Users": "494", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
@@ -5161,17 +5176,17 @@
 }, 
 {
 "date": "2015-08-28", 
-"Total Users": "362", 
+"Total Users": "363", 
 "school": "XLRI-Xavier School Of Management"
 }, 
 {
 "date": "2015-08-28", 
-"Total Users": "268", 
+"Total Users": "269", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-08-28", 
-"Total Users": "517", 
+"Total Users": "519", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
@@ -5186,52 +5201,52 @@
 }, 
 {
 "date": "2015-08-29", 
-"Total Users": "270", 
-"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
-}, 
-{
-"date": "2015-08-29", 
-"Total Users": "455", 
-"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
-}, 
-{
-"date": "2015-08-29", 
-"Total Users": "495", 
-"school": "\u8f14\u4ec1\u5927\u5b78"
-}, 
-{
-"date": "2015-08-30", 
-"Total Users": "363", 
-"school": "XLRI-Xavier School Of Management"
-}, 
-{
-"date": "2015-08-30", 
-"Total Users": "456", 
-"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
-}, 
-{
-"date": "2015-08-30", 
-"Total Users": "519", 
-"school": "\u6de1\u6c5f\u5927\u5b78"
-}, 
-{
-"date": "2015-08-30", 
-"Total Users": "497", 
-"school": "\u8f14\u4ec1\u5927\u5b78"
-}, 
-{
-"date": "2015-08-31", 
 "Total Users": "271", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
-"date": "2015-08-31", 
+"date": "2015-08-29", 
+"Total Users": "457", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-08-29", 
+"Total Users": "496", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-08-30", 
+"Total Users": "364", 
+"school": "XLRI-Xavier School Of Management"
+}, 
+{
+"date": "2015-08-30", 
+"Total Users": "458", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-08-30", 
+"Total Users": "521", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-08-30", 
 "Total Users": "498", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-08-31", 
-"Total Users": "338", 
+"Total Users": "272", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-08-31", 
+"Total Users": "499", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-08-31", 
+"Total Users": "340", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -5241,82 +5256,82 @@
 }, 
 {
 "date": "2015-09-01", 
-"Total Users": "273", 
-"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
-}, 
-{
-"date": "2015-09-01", 
-"Total Users": "457", 
-"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
-}, 
-{
-"date": "2015-09-02", 
-"Total Users": "364", 
-"school": "XLRI-Xavier School Of Management"
-}, 
-{
-"date": "2015-09-02", 
 "Total Users": "274", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
-"date": "2015-09-02", 
-"Total Users": "458", 
-"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
-}, 
-{
-"date": "2015-09-02", 
-"Total Users": "520", 
-"school": "\u6de1\u6c5f\u5927\u5b78"
-}, 
-{
-"date": "2015-09-02", 
-"Total Users": "499", 
-"school": "\u8f14\u4ec1\u5927\u5b78"
-}, 
-{
-"date": "2015-09-03", 
+"date": "2015-09-01", 
 "Total Users": "459", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
-"date": "2015-09-03", 
-"Total Users": "530", 
-"school": "\u6771\u5433\u5927\u5b78"
+"date": "2015-09-02", 
+"Total Users": "365", 
+"school": "XLRI-Xavier School Of Management"
 }, 
 {
-"date": "2015-09-04", 
+"date": "2015-09-02", 
 "Total Users": "275", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
-"date": "2015-09-05", 
-"Total Users": "367", 
-"school": "XLRI-Xavier School Of Management"
-}, 
-{
-"date": "2015-09-05", 
-"Total Users": "532", 
-"school": "\u6771\u5433\u5927\u5b78"
-}, 
-{
-"date": "2015-09-06", 
+"date": "2015-09-02", 
 "Total Users": "460", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
-"date": "2015-09-06", 
+"date": "2015-09-02", 
+"Total Users": "522", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-02", 
+"Total Users": "500", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-03", 
+"Total Users": "461", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-03", 
+"Total Users": "531", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-04", 
+"Total Users": "276", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-05", 
+"Total Users": "368", 
+"school": "XLRI-Xavier School Of Management"
+}, 
+{
+"date": "2015-09-05", 
 "Total Users": "533", 
 "school": "\u6771\u5433\u5927\u5b78"
 }, 
 {
 "date": "2015-09-06", 
-"Total Users": "500", 
+"Total Users": "462", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-06", 
+"Total Users": "534", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-06", 
+"Total Users": "501", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-09-06", 
-"Total Users": "339", 
+"Total Users": "341", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -5326,67 +5341,67 @@
 }, 
 {
 "date": "2015-09-07", 
-"Total Users": "368", 
+"Total Users": "369", 
 "school": "XLRI-Xavier School Of Management"
 }, 
 {
 "date": "2015-09-07", 
-"Total Users": "281", 
+"Total Users": "283", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-09-07", 
-"Total Users": "462", 
+"Total Users": "464", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-09-07", 
-"Total Users": "521", 
-"school": "\u6de1\u6c5f\u5927\u5b78"
-}, 
-{
-"date": "2015-09-07", 
-"Total Users": "501", 
-"school": "\u8f14\u4ec1\u5927\u5b78"
-}, 
-{
-"date": "2015-09-07", 
-"Total Users": "340", 
-"school": "\u9022\u7532\u5927\u5b78"
-}, 
-{
-"date": "2015-09-08", 
-"Total Users": "371", 
-"school": "XLRI-Xavier School Of Management"
-}, 
-{
-"date": "2015-09-08", 
-"Total Users": "282", 
-"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
-}, 
-{
-"date": "2015-09-08", 
-"Total Users": "467", 
-"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
-}, 
-{
-"date": "2015-09-08", 
-"Total Users": "534", 
-"school": "\u6771\u5433\u5927\u5b78"
-}, 
-{
-"date": "2015-09-08", 
 "Total Users": "523", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
-"date": "2015-09-08", 
+"date": "2015-09-07", 
 "Total Users": "502", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
+"date": "2015-09-07", 
+"Total Users": "342", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
 "date": "2015-09-08", 
-"Total Users": "341", 
+"Total Users": "372", 
+"school": "XLRI-Xavier School Of Management"
+}, 
+{
+"date": "2015-09-08", 
+"Total Users": "284", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-08", 
+"Total Users": "469", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-08", 
+"Total Users": "535", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-08", 
+"Total Users": "525", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-08", 
+"Total Users": "503", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-08", 
+"Total Users": "343", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -5396,112 +5411,117 @@
 }, 
 {
 "date": "2015-09-09", 
-"Total Users": "284", 
+"Total Users": "286", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-09-09", 
-"Total Users": "468", 
-"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
-}, 
-{
-"date": "2015-09-09", 
-"Total Users": "536", 
-"school": "\u6771\u5433\u5927\u5b78"
-}, 
-{
-"date": "2015-09-09", 
-"Total Users": "525", 
-"school": "\u6de1\u6c5f\u5927\u5b78"
-}, 
-{
-"date": "2015-09-09", 
-"Total Users": "505", 
-"school": "\u8f14\u4ec1\u5927\u5b78"
-}, 
-{
-"date": "2015-09-09", 
-"Total Users": "342", 
-"school": "\u9022\u7532\u5927\u5b78"
-}, 
-{
-"date": "2015-09-10", 
-"Total Users": "285", 
-"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
-}, 
-{
-"date": "2015-09-10", 
-"Total Users": "469", 
-"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
-}, 
-{
-"date": "2015-09-10", 
-"Total Users": "526", 
-"school": "\u6de1\u6c5f\u5927\u5b78"
-}, 
-{
-"date": "2015-09-10", 
-"Total Users": "506", 
-"school": "\u8f14\u4ec1\u5927\u5b78"
-}, 
-{
-"date": "2015-09-10", 
-"Total Users": "344", 
-"school": "\u9022\u7532\u5927\u5b78"
-}, 
-{
-"date": "2015-09-11", 
-"Total Users": "290", 
-"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
-}, 
-{
-"date": "2015-09-11", 
-"Total Users": "470", 
-"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
-}, 
-{
-"date": "2015-09-11", 
-"Total Users": "537", 
-"school": "\u6771\u5433\u5927\u5b78"
-}, 
-{
-"date": "2015-09-11", 
-"Total Users": "527", 
-"school": "\u6de1\u6c5f\u5927\u5b78"
-}, 
-{
-"date": "2015-09-11", 
-"Total Users": "507", 
-"school": "\u8f14\u4ec1\u5927\u5b78"
-}, 
-{
-"date": "2015-09-12", 
-"Total Users": "291", 
-"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
-}, 
-{
-"date": "2015-09-12", 
 "Total Users": "471", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
-"date": "2015-09-14", 
+"date": "2015-09-09", 
+"Total Users": "537", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-09", 
+"Total Users": "527", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-09", 
+"Total Users": "506", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-09", 
+"Total Users": "344", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-10", 
+"Total Users": "287", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-10", 
 "Total Users": "472", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
-"date": "2015-09-14", 
+"date": "2015-09-10", 
 "Total Users": "528", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
-"date": "2015-09-14", 
+"date": "2015-09-10", 
+"Total Users": "507", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-10", 
+"Total Users": "346", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-11", 
+"Total Users": "292", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-11", 
+"Total Users": "473", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-11", 
+"Total Users": "538", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-11", 
+"Total Users": "529", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-11", 
 "Total Users": "508", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
+"date": "2015-09-12", 
+"Total Users": "293", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-12", 
+"Total Users": "474", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-13", 
+"Total Users": "475", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
 "date": "2015-09-14", 
-"Total Users": "346", 
+"Total Users": "478", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-14", 
+"Total Users": "530", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-14", 
+"Total Users": "509", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-14", 
+"Total Users": "348", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -5511,32 +5531,32 @@
 }, 
 {
 "date": "2015-09-15", 
-"Total Users": "293", 
+"Total Users": "295", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
 }, 
 {
 "date": "2015-09-15", 
-"Total Users": "473", 
+"Total Users": "479", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-09-15", 
-"Total Users": "538", 
+"Total Users": "539", 
 "school": "\u6771\u5433\u5927\u5b78"
 }, 
 {
 "date": "2015-09-15", 
-"Total Users": "529", 
+"Total Users": "531", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-09-15", 
-"Total Users": "509", 
+"Total Users": "510", 
 "school": "\u8f14\u4ec1\u5927\u5b78"
 }, 
 {
 "date": "2015-09-15", 
-"Total Users": "347", 
+"Total Users": "349", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
@@ -5546,27 +5566,392 @@
 }, 
 {
 "date": "2015-09-16", 
-"Total Users": "530", 
+"Total Users": "532", 
 "school": "\u6de1\u6c5f\u5927\u5b78"
 }, 
 {
 "date": "2015-09-16", 
-"Total Users": "349", 
+"Total Users": "352", 
 "school": "\u9022\u7532\u5927\u5b78"
 }, 
 {
 "date": "2015-09-17", 
-"Total Users": "300", 
-"school": "National Taiwan University"
+"Total Users": "373", 
+"school": "XLRI-Xavier School Of Management"
 }, 
 {
 "date": "2015-09-17", 
-"Total Users": "474", 
+"Total Users": "480", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
 }, 
 {
 "date": "2015-09-17", 
-"Total Users": "540", 
+"Total Users": "542", 
 "school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-18", 
+"Total Users": "300", 
+"school": "National Taiwan University"
+}, 
+{
+"date": "2015-09-18", 
+"Total Users": "374", 
+"school": "XLRI-Xavier School Of Management"
+}, 
+{
+"date": "2015-09-18", 
+"Total Users": "482", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-18", 
+"Total Users": "533", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-18", 
+"Total Users": "354", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-19", 
+"Total Users": "355", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-20", 
+"Total Users": "483", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-20", 
+"Total Users": "534", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-20", 
+"Total Users": "356", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-21", 
+"Total Users": "484", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-21", 
+"Total Users": "543", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-21", 
+"Total Users": "512", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-21", 
+"Total Users": "361", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-22", 
+"Total Users": "378", 
+"school": "XLRI-Xavier School Of Management"
+}, 
+{
+"date": "2015-09-22", 
+"Total Users": "297", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-22", 
+"Total Users": "485", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-22", 
+"Total Users": "545", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-22", 
+"Total Users": "540", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-22", 
+"Total Users": "513", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-22", 
+"Total Users": "362", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-23", 
+"Total Users": "380", 
+"school": "XLRI-Xavier School Of Management"
+}, 
+{
+"date": "2015-09-23", 
+"Total Users": "298", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-23", 
+"Total Users": "488", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-23", 
+"Total Users": "546", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-23", 
+"Total Users": "544", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-23", 
+"Total Users": "515", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-23", 
+"Total Users": "367", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-24", 
+"Total Users": "301", 
+"school": "National Taiwan University"
+}, 
+{
+"date": "2015-09-24", 
+"Total Users": "381", 
+"school": "XLRI-Xavier School Of Management"
+}, 
+{
+"date": "2015-09-24", 
+"Total Users": "299", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-24", 
+"Total Users": "491", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-24", 
+"Total Users": "547", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-24", 
+"Total Users": "546", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-24", 
+"Total Users": "518", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-25", 
+"Total Users": "300", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-25", 
+"Total Users": "495", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-25", 
+"Total Users": "548", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-25", 
+"Total Users": "547", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-25", 
+"Total Users": "368", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-26", 
+"Total Users": "302", 
+"school": "National Taiwan University"
+}, 
+{
+"date": "2015-09-26", 
+"Total Users": "382", 
+"school": "XLRI-Xavier School Of Management"
+}, 
+{
+"date": "2015-09-26", 
+"Total Users": "302", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-26", 
+"Total Users": "497", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-26", 
+"Total Users": "550", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-26", 
+"Total Users": "520", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-26", 
+"Total Users": "369", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-27", 
+"Total Users": "383", 
+"school": "XLRI-Xavier School Of Management"
+}, 
+{
+"date": "2015-09-27", 
+"Total Users": "303", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-27", 
+"Total Users": "498", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-27", 
+"Total Users": "549", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-27", 
+"Total Users": "551", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-27", 
+"Total Users": "521", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-27", 
+"Total Users": "371", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-28", 
+"Total Users": "305", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-28", 
+"Total Users": "502", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-28", 
+"Total Users": "550", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-28", 
+"Total Users": "552", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-28", 
+"Total Users": "525", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-28", 
+"Total Users": "374", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-29", 
+"Total Users": "503", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-29", 
+"Total Users": "551", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-09-29", 
+"Total Users": "529", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-29", 
+"Total Users": "376", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-09-30", 
+"Total Users": "384", 
+"school": "XLRI-Xavier School Of Management"
+}, 
+{
+"date": "2015-09-30", 
+"Total Users": "306", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78"
+}, 
+{
+"date": "2015-09-30", 
+"Total Users": "506", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-09-30", 
+"Total Users": "557", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-09-30", 
+"Total Users": "531", 
+"school": "\u8f14\u4ec1\u5927\u5b78"
+}, 
+{
+"date": "2015-09-30", 
+"Total Users": "379", 
+"school": "\u9022\u7532\u5927\u5b78"
+}, 
+{
+"date": "2015-10-01", 
+"Total Users": "507", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78"
+}, 
+{
+"date": "2015-10-01", 
+"Total Users": "552", 
+"school": "\u6771\u5433\u5927\u5b78"
+}, 
+{
+"date": "2015-10-01", 
+"Total Users": "558", 
+"school": "\u6de1\u6c5f\u5927\u5b78"
+}, 
+{
+"date": "2015-10-01", 
+"Total Users": "381", 
+"school": "\u9022\u7532\u5927\u5b78"
 }
 ]

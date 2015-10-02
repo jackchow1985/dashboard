@@ -282,7 +282,7 @@
 {
 "date": "2015-01-11", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "9"
+"Active Users": "23"
 }, 
 {
 "date": "2015-01-11", 
@@ -312,7 +312,7 @@
 {
 "date": "2015-01-12", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "21"
+"Active Users": "35"
 }, 
 {
 "date": "2015-01-12", 
@@ -342,7 +342,7 @@
 {
 "date": "2015-01-13", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "75"
+"Active Users": "89"
 }, 
 {
 "date": "2015-01-13", 
@@ -372,7 +372,7 @@
 {
 "date": "2015-01-14", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "123"
+"Active Users": "137"
 }, 
 {
 "date": "2015-01-14", 
@@ -402,7 +402,7 @@
 {
 "date": "2015-01-15", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "157"
+"Active Users": "171"
 }, 
 {
 "date": "2015-01-15", 
@@ -432,7 +432,7 @@
 {
 "date": "2015-01-16", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "160"
+"Active Users": "174"
 }, 
 {
 "date": "2015-01-16", 
@@ -462,7 +462,7 @@
 {
 "date": "2015-01-17", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "160"
+"Active Users": "174"
 }, 
 {
 "date": "2015-01-17", 
@@ -492,7 +492,7 @@
 {
 "date": "2015-01-18", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "160"
+"Active Users": "174"
 }, 
 {
 "date": "2015-01-18", 
@@ -522,7 +522,7 @@
 {
 "date": "2015-01-19", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "169"
+"Active Users": "183"
 }, 
 {
 "date": "2015-01-19", 
@@ -552,7 +552,7 @@
 {
 "date": "2015-01-20", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "169"
+"Active Users": "183"
 }, 
 {
 "date": "2015-01-20", 
@@ -582,12 +582,12 @@
 {
 "date": "2015-01-21", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "175"
+"Active Users": "189"
 }, 
 {
 "date": "2015-01-21", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "97"
 }, 
 {
 "date": "2015-01-21", 
@@ -617,12 +617,12 @@
 {
 "date": "2015-01-22", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "177"
+"Active Users": "191"
 }, 
 {
 "date": "2015-01-22", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "138"
 }, 
 {
 "date": "2015-01-22", 
@@ -652,12 +652,12 @@
 {
 "date": "2015-01-23", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "177"
+"Active Users": "191"
 }, 
 {
 "date": "2015-01-23", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "168"
 }, 
 {
 "date": "2015-01-23", 
@@ -687,12 +687,12 @@
 {
 "date": "2015-01-24", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "177"
+"Active Users": "191"
 }, 
 {
 "date": "2015-01-24", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "192"
 }, 
 {
 "date": "2015-01-24", 
@@ -722,12 +722,12 @@
 {
 "date": "2015-01-25", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "180"
+"Active Users": "194"
 }, 
 {
 "date": "2015-01-25", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "207"
 }, 
 {
 "date": "2015-01-25", 
@@ -757,12 +757,12 @@
 {
 "date": "2015-01-26", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "180"
+"Active Users": "194"
 }, 
 {
 "date": "2015-01-26", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "213"
 }, 
 {
 "date": "2015-01-26", 
@@ -792,12 +792,12 @@
 {
 "date": "2015-01-27", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "180"
+"Active Users": "194"
 }, 
 {
 "date": "2015-01-27", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "216"
 }, 
 {
 "date": "2015-01-27", 
@@ -827,12 +827,12 @@
 {
 "date": "2015-01-28", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "180"
+"Active Users": "194"
 }, 
 {
 "date": "2015-01-28", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "219"
 }, 
 {
 "date": "2015-01-28", 
@@ -862,12 +862,12 @@
 {
 "date": "2015-01-29", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "180"
+"Active Users": "194"
 }, 
 {
 "date": "2015-01-29", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "219"
 }, 
 {
 "date": "2015-01-29", 
@@ -907,12 +907,12 @@
 {
 "date": "2015-01-30", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "180"
+"Active Users": "194"
 }, 
 {
 "date": "2015-01-30", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "219"
 }, 
 {
 "date": "2015-01-30", 
@@ -952,12 +952,12 @@
 {
 "date": "2015-01-31", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "180"
+"Active Users": "194"
 }, 
 {
 "date": "2015-01-31", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "219"
 }, 
 {
 "date": "2015-01-31", 
@@ -997,12 +997,12 @@
 {
 "date": "2015-02-01", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "180"
+"Active Users": "194"
 }, 
 {
 "date": "2015-02-01", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "219"
 }, 
 {
 "date": "2015-02-01", 
@@ -1042,12 +1042,12 @@
 {
 "date": "2015-02-02", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "192"
+"Active Users": "206"
 }, 
 {
 "date": "2015-02-02", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "13"
+"Active Users": "222"
 }, 
 {
 "date": "2015-02-02", 
@@ -1087,12 +1087,12 @@
 {
 "date": "2015-02-03", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "192"
+"Active Users": "206"
 }, 
 {
 "date": "2015-02-03", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "16"
+"Active Users": "225"
 }, 
 {
 "date": "2015-02-03", 
@@ -1132,12 +1132,12 @@
 {
 "date": "2015-02-04", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "195"
+"Active Users": "209"
 }, 
 {
 "date": "2015-02-04", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "26"
+"Active Users": "235"
 }, 
 {
 "date": "2015-02-04", 
@@ -1177,12 +1177,12 @@
 {
 "date": "2015-02-05", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "195"
+"Active Users": "209"
 }, 
 {
 "date": "2015-02-05", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "46"
+"Active Users": "255"
 }, 
 {
 "date": "2015-02-05", 
@@ -1222,12 +1222,12 @@
 {
 "date": "2015-02-06", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "195"
+"Active Users": "209"
 }, 
 {
 "date": "2015-02-06", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "75"
+"Active Users": "284"
 }, 
 {
 "date": "2015-02-06", 
@@ -1267,12 +1267,12 @@
 {
 "date": "2015-02-07", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "195"
+"Active Users": "209"
 }, 
 {
 "date": "2015-02-07", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "85"
+"Active Users": "294"
 }, 
 {
 "date": "2015-02-07", 
@@ -1312,12 +1312,12 @@
 {
 "date": "2015-02-08", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "195"
+"Active Users": "209"
 }, 
 {
 "date": "2015-02-08", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "76"
+"Active Users": "285"
 }, 
 {
 "date": "2015-02-08", 
@@ -1357,12 +1357,12 @@
 {
 "date": "2015-02-09", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "195"
+"Active Users": "209"
 }, 
 {
 "date": "2015-02-09", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "82"
+"Active Users": "291"
 }, 
 {
 "date": "2015-02-09", 
@@ -1407,7 +1407,7 @@
 {
 "date": "2015-02-10", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "95"
+"Active Users": "304"
 }, 
 {
 "date": "2015-02-10", 
@@ -1452,7 +1452,7 @@
 {
 "date": "2015-02-11", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "144"
+"Active Users": "353"
 }, 
 {
 "date": "2015-02-11", 
@@ -1497,7 +1497,7 @@
 {
 "date": "2015-02-12", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "182"
+"Active Users": "391"
 }, 
 {
 "date": "2015-02-12", 
@@ -1542,7 +1542,7 @@
 {
 "date": "2015-02-13", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "199"
+"Active Users": "408"
 }, 
 {
 "date": "2015-02-13", 
@@ -1587,7 +1587,7 @@
 {
 "date": "2015-02-14", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "199"
+"Active Users": "408"
 }, 
 {
 "date": "2015-02-14", 
@@ -1632,7 +1632,7 @@
 {
 "date": "2015-02-15", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "202"
+"Active Users": "411"
 }, 
 {
 "date": "2015-02-15", 
@@ -1677,7 +1677,7 @@
 {
 "date": "2015-02-16", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "207"
+"Active Users": "416"
 }, 
 {
 "date": "2015-02-16", 
@@ -1722,7 +1722,7 @@
 {
 "date": "2015-02-17", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "210"
+"Active Users": "419"
 }, 
 {
 "date": "2015-02-17", 
@@ -1767,7 +1767,7 @@
 {
 "date": "2015-02-18", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "210"
+"Active Users": "419"
 }, 
 {
 "date": "2015-02-18", 
@@ -1812,7 +1812,7 @@
 {
 "date": "2015-02-19", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "214"
+"Active Users": "423"
 }, 
 {
 "date": "2015-02-19", 
@@ -1857,7 +1857,7 @@
 {
 "date": "2015-02-20", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "214"
+"Active Users": "339"
 }, 
 {
 "date": "2015-02-20", 
@@ -1902,7 +1902,7 @@
 {
 "date": "2015-02-21", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "236"
+"Active Users": "320"
 }, 
 {
 "date": "2015-02-21", 
@@ -1947,7 +1947,7 @@
 {
 "date": "2015-02-22", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "246"
+"Active Users": "300"
 }, 
 {
 "date": "2015-02-22", 
@@ -1992,7 +1992,7 @@
 {
 "date": "2015-02-23", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "249"
+"Active Users": "279"
 }, 
 {
 "date": "2015-02-23", 
@@ -2037,7 +2037,7 @@
 {
 "date": "2015-02-24", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "249"
+"Active Users": "264"
 }, 
 {
 "date": "2015-02-24", 
@@ -2082,7 +2082,7 @@
 {
 "date": "2015-02-25", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "249"
+"Active Users": "258"
 }, 
 {
 "date": "2015-02-25", 
@@ -2127,7 +2127,7 @@
 {
 "date": "2015-02-26", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "264"
+"Active Users": "270"
 }, 
 {
 "date": "2015-02-26", 
@@ -2172,7 +2172,7 @@
 {
 "date": "2015-02-27", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "264"
+"Active Users": "267"
 }, 
 {
 "date": "2015-02-27", 
@@ -2217,7 +2217,7 @@
 {
 "date": "2015-02-28", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "266"
+"Active Users": "269"
 }, 
 {
 "date": "2015-02-28", 
@@ -2262,7 +2262,7 @@
 {
 "date": "2015-03-01", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "270"
+"Active Users": "273"
 }, 
 {
 "date": "2015-03-01", 
@@ -2307,7 +2307,7 @@
 {
 "date": "2015-03-02", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "273"
+"Active Users": "276"
 }, 
 {
 "date": "2015-03-02", 
@@ -2352,7 +2352,7 @@
 {
 "date": "2015-03-03", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "273"
+"Active Users": "276"
 }, 
 {
 "date": "2015-03-03", 
@@ -4182,7 +4182,7 @@
 {
 "date": "2015-04-11", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "4009"
+"Active Users": "4015"
 }, 
 {
 "date": "2015-04-12", 
@@ -4232,7 +4232,7 @@
 {
 "date": "2015-04-12", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "4025"
+"Active Users": "4034"
 }, 
 {
 "date": "2015-04-13", 
@@ -4282,7 +4282,7 @@
 {
 "date": "2015-04-13", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "4072"
+"Active Users": "4122"
 }, 
 {
 "date": "2015-04-14", 
@@ -4332,7 +4332,7 @@
 {
 "date": "2015-04-14", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "4102"
+"Active Users": "4202"
 }, 
 {
 "date": "2015-04-15", 
@@ -4382,7 +4382,7 @@
 {
 "date": "2015-04-15", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "4092"
+"Active Users": "4219"
 }, 
 {
 "date": "2015-04-16", 
@@ -4432,7 +4432,7 @@
 {
 "date": "2015-04-16", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "4139"
+"Active Users": "4281"
 }, 
 {
 "date": "2015-04-17", 
@@ -4482,7 +4482,7 @@
 {
 "date": "2015-04-17", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "4133"
+"Active Users": "4284"
 }, 
 {
 "date": "2015-04-18", 
@@ -4532,7 +4532,7 @@
 {
 "date": "2015-04-18", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "4039"
+"Active Users": "4219"
 }, 
 {
 "date": "2015-04-19", 
@@ -4582,7 +4582,7 @@
 {
 "date": "2015-04-19", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "3705"
+"Active Users": "3885"
 }, 
 {
 "date": "2015-04-20", 
@@ -4632,7 +4632,7 @@
 {
 "date": "2015-04-20", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "3672"
+"Active Users": "3855"
 }, 
 {
 "date": "2015-04-21", 
@@ -4682,7 +4682,7 @@
 {
 "date": "2015-04-21", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "3654"
+"Active Users": "3840"
 }, 
 {
 "date": "2015-04-22", 
@@ -4732,7 +4732,7 @@
 {
 "date": "2015-04-22", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "3590"
+"Active Users": "3779"
 }, 
 {
 "date": "2015-04-23", 
@@ -4782,7 +4782,7 @@
 {
 "date": "2015-04-23", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "3603"
+"Active Users": "3795"
 }, 
 {
 "date": "2015-04-24", 
@@ -4832,7 +4832,7 @@
 {
 "date": "2015-04-24", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "3761"
+"Active Users": "3956"
 }, 
 {
 "date": "2015-04-25", 
@@ -4882,7 +4882,7 @@
 {
 "date": "2015-04-25", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "3667"
+"Active Users": "3862"
 }, 
 {
 "date": "2015-04-26", 
@@ -4932,7 +4932,7 @@
 {
 "date": "2015-04-26", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "3495"
+"Active Users": "3697"
 }, 
 {
 "date": "2015-04-27", 
@@ -4982,7 +4982,7 @@
 {
 "date": "2015-04-27", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "3937"
+"Active Users": "4147"
 }, 
 {
 "date": "2015-04-28", 
@@ -5032,7 +5032,7 @@
 {
 "date": "2015-04-28", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "4381"
+"Active Users": "4594"
 }, 
 {
 "date": "2015-04-29", 
@@ -5082,7 +5082,7 @@
 {
 "date": "2015-04-29", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "4710"
+"Active Users": "4929"
 }, 
 {
 "date": "2015-04-30", 
@@ -5132,7 +5132,7 @@
 {
 "date": "2015-04-30", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "5288"
+"Active Users": "5513"
 }, 
 {
 "date": "2015-05-01", 
@@ -5182,7 +5182,7 @@
 {
 "date": "2015-05-01", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "5809"
+"Active Users": "6043"
 }, 
 {
 "date": "2015-05-02", 
@@ -5232,7 +5232,7 @@
 {
 "date": "2015-05-02", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "5863"
+"Active Users": "6100"
 }, 
 {
 "date": "2015-05-03", 
@@ -5282,7 +5282,7 @@
 {
 "date": "2015-05-03", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "5871"
+"Active Users": "6108"
 }, 
 {
 "date": "2015-05-04", 
@@ -5332,7 +5332,7 @@
 {
 "date": "2015-05-04", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "6501"
+"Active Users": "6760"
 }, 
 {
 "date": "2015-05-05", 
@@ -5382,7 +5382,7 @@
 {
 "date": "2015-05-05", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "7575"
+"Active Users": "7836"
 }, 
 {
 "date": "2015-05-06", 
@@ -5432,7 +5432,7 @@
 {
 "date": "2015-05-06", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "9339"
+"Active Users": "9606"
 }, 
 {
 "date": "2015-05-07", 
@@ -5482,7 +5482,7 @@
 {
 "date": "2015-05-07", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "10479"
+"Active Users": "10768"
 }, 
 {
 "date": "2015-05-08", 
@@ -5532,7 +5532,7 @@
 {
 "date": "2015-05-08", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "12467"
+"Active Users": "12759"
 }, 
 {
 "date": "2015-05-09", 
@@ -5582,7 +5582,7 @@
 {
 "date": "2015-05-09", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "12989"
+"Active Users": "13290"
 }, 
 {
 "date": "2015-05-10", 
@@ -5632,7 +5632,7 @@
 {
 "date": "2015-05-10", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "13485"
+"Active Users": "13793"
 }, 
 {
 "date": "2015-05-11", 
@@ -5682,7 +5682,7 @@
 {
 "date": "2015-05-11", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "15387"
+"Active Users": "15695"
 }, 
 {
 "date": "2015-05-12", 
@@ -5732,7 +5732,7 @@
 {
 "date": "2015-05-12", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "17548"
+"Active Users": "17877"
 }, 
 {
 "date": "2015-05-13", 
@@ -5782,7 +5782,7 @@
 {
 "date": "2015-05-13", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "19450"
+"Active Users": "19744"
 }, 
 {
 "date": "2015-05-14", 
@@ -5832,7 +5832,7 @@
 {
 "date": "2015-05-14", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "21158"
+"Active Users": "21402"
 }, 
 {
 "date": "2015-05-15", 
@@ -5882,7 +5882,7 @@
 {
 "date": "2015-05-15", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22596"
+"Active Users": "22813"
 }, 
 {
 "date": "2015-05-16", 
@@ -5932,7 +5932,7 @@
 {
 "date": "2015-05-16", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "23473"
+"Active Users": "23675"
 }, 
 {
 "date": "2015-05-17", 
@@ -5982,7 +5982,7 @@
 {
 "date": "2015-05-17", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "23668"
+"Active Users": "23861"
 }, 
 {
 "date": "2015-05-18", 
@@ -6032,7 +6032,7 @@
 {
 "date": "2015-05-18", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "25919"
+"Active Users": "26089"
 }, 
 {
 "date": "2015-05-19", 
@@ -6082,7 +6082,7 @@
 {
 "date": "2015-05-19", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "29145"
+"Active Users": "29315"
 }, 
 {
 "date": "2015-05-20", 
@@ -6132,7 +6132,7 @@
 {
 "date": "2015-05-20", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "31562"
+"Active Users": "31729"
 }, 
 {
 "date": "2015-05-21", 
@@ -6182,7 +6182,7 @@
 {
 "date": "2015-05-21", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "34123"
+"Active Users": "34287"
 }, 
 {
 "date": "2015-05-22", 
@@ -6232,7 +6232,7 @@
 {
 "date": "2015-05-22", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "36785"
+"Active Users": "36946"
 }, 
 {
 "date": "2015-05-23", 
@@ -6282,7 +6282,7 @@
 {
 "date": "2015-05-23", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "37619"
+"Active Users": "37780"
 }, 
 {
 "date": "2015-05-24", 
@@ -6332,7 +6332,7 @@
 {
 "date": "2015-05-24", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "37715"
+"Active Users": "37873"
 }, 
 {
 "date": "2015-05-25", 
@@ -6382,7 +6382,7 @@
 {
 "date": "2015-05-25", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "39461"
+"Active Users": "39619"
 }, 
 {
 "date": "2015-05-26", 
@@ -6432,7 +6432,7 @@
 {
 "date": "2015-05-26", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "41858"
+"Active Users": "42009"
 }, 
 {
 "date": "2015-05-27", 
@@ -6482,7 +6482,7 @@
 {
 "date": "2015-05-27", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "43726"
+"Active Users": "43869"
 }, 
 {
 "date": "2015-05-28", 
@@ -6532,7 +6532,7 @@
 {
 "date": "2015-05-28", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "45532"
+"Active Users": "45672"
 }, 
 {
 "date": "2015-05-29", 
@@ -6582,7 +6582,7 @@
 {
 "date": "2015-05-29", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "46972"
+"Active Users": "47106"
 }, 
 {
 "date": "2015-05-30", 
@@ -6632,7 +6632,7 @@
 {
 "date": "2015-05-30", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "46817"
+"Active Users": "46945"
 }, 
 {
 "date": "2015-05-31", 
@@ -6682,7 +6682,7 @@
 {
 "date": "2015-05-31", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "46160"
+"Active Users": "46279"
 }, 
 {
 "date": "2015-06-01", 
@@ -6732,7 +6732,7 @@
 {
 "date": "2015-06-01", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "47401"
+"Active Users": "47517"
 }, 
 {
 "date": "2015-06-02", 
@@ -6782,7 +6782,7 @@
 {
 "date": "2015-06-02", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "48914"
+"Active Users": "49030"
 }, 
 {
 "date": "2015-06-03", 
@@ -6832,7 +6832,7 @@
 {
 "date": "2015-06-03", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "49619"
+"Active Users": "49713"
 }, 
 {
 "date": "2015-06-04", 
@@ -6882,7 +6882,7 @@
 {
 "date": "2015-06-04", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "49926"
+"Active Users": "50021"
 }, 
 {
 "date": "2015-06-05", 
@@ -6932,7 +6932,7 @@
 {
 "date": "2015-06-05", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "49502"
+"Active Users": "49604"
 }, 
 {
 "date": "2015-06-06", 
@@ -6982,7 +6982,7 @@
 {
 "date": "2015-06-06", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "48660"
+"Active Users": "48740"
 }, 
 {
 "date": "2015-06-07", 
@@ -7032,7 +7032,7 @@
 {
 "date": "2015-06-07", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "46703"
+"Active Users": "46780"
 }, 
 {
 "date": "2015-06-08", 
@@ -7082,7 +7082,7 @@
 {
 "date": "2015-06-08", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "47048"
+"Active Users": "47131"
 }, 
 {
 "date": "2015-06-09", 
@@ -7132,7 +7132,7 @@
 {
 "date": "2015-06-09", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "47874"
+"Active Users": "47953"
 }, 
 {
 "date": "2015-06-10", 
@@ -7182,7 +7182,7 @@
 {
 "date": "2015-06-10", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "47445"
+"Active Users": "47518"
 }, 
 {
 "date": "2015-06-11", 
@@ -7232,7 +7232,7 @@
 {
 "date": "2015-06-11", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "46524"
+"Active Users": "46579"
 }, 
 {
 "date": "2015-06-12", 
@@ -7282,7 +7282,7 @@
 {
 "date": "2015-06-12", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "45252"
+"Active Users": "45301"
 }, 
 {
 "date": "2015-06-13", 
@@ -7332,7 +7332,7 @@
 {
 "date": "2015-06-13", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "43680"
+"Active Users": "43729"
 }, 
 {
 "date": "2015-06-14", 
@@ -7382,7 +7382,7 @@
 {
 "date": "2015-06-14", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "42235"
+"Active Users": "42284"
 }, 
 {
 "date": "2015-06-15", 
@@ -7432,7 +7432,7 @@
 {
 "date": "2015-06-15", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "41830"
+"Active Users": "41879"
 }, 
 {
 "date": "2015-06-16", 
@@ -7482,7 +7482,7 @@
 {
 "date": "2015-06-16", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "42365"
+"Active Users": "42417"
 }, 
 {
 "date": "2015-06-17", 
@@ -7532,7 +7532,7 @@
 {
 "date": "2015-06-17", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "40477"
+"Active Users": "40523"
 }, 
 {
 "date": "2015-06-18", 
@@ -7582,7 +7582,7 @@
 {
 "date": "2015-06-18", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "37852"
+"Active Users": "37901"
 }, 
 {
 "date": "2015-06-19", 
@@ -7632,7 +7632,7 @@
 {
 "date": "2015-06-19", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "36265"
+"Active Users": "36323"
 }, 
 {
 "date": "2015-06-20", 
@@ -7682,7 +7682,7 @@
 {
 "date": "2015-06-20", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "33880"
+"Active Users": "33941"
 }, 
 {
 "date": "2015-06-21", 
@@ -7732,7 +7732,7 @@
 {
 "date": "2015-06-21", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "31266"
+"Active Users": "31330"
 }, 
 {
 "date": "2015-06-22", 
@@ -7782,7 +7782,7 @@
 {
 "date": "2015-06-22", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "31259"
+"Active Users": "31323"
 }, 
 {
 "date": "2015-06-23", 
@@ -7832,7 +7832,7 @@
 {
 "date": "2015-06-23", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "31797"
+"Active Users": "31861"
 }, 
 {
 "date": "2015-06-24", 
@@ -7882,7 +7882,7 @@
 {
 "date": "2015-06-24", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "31186"
+"Active Users": "31256"
 }, 
 {
 "date": "2015-06-25", 
@@ -7932,7 +7932,7 @@
 {
 "date": "2015-06-25", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "29583"
+"Active Users": "29659"
 }, 
 {
 "date": "2015-06-26", 
@@ -7982,7 +7982,7 @@
 {
 "date": "2015-06-26", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "28007"
+"Active Users": "28089"
 }, 
 {
 "date": "2015-06-27", 
@@ -8032,7 +8032,7 @@
 {
 "date": "2015-06-27", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "25660"
+"Active Users": "25742"
 }, 
 {
 "date": "2015-06-28", 
@@ -8082,7 +8082,7 @@
 {
 "date": "2015-06-28", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "23727"
+"Active Users": "23812"
 }, 
 {
 "date": "2015-06-29", 
@@ -8132,7 +8132,7 @@
 {
 "date": "2015-06-29", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "24114"
+"Active Users": "24211"
 }, 
 {
 "date": "2015-06-30", 
@@ -8182,7 +8182,7 @@
 {
 "date": "2015-06-30", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "25189"
+"Active Users": "25292"
 }, 
 {
 "date": "2015-07-01", 
@@ -8232,7 +8232,7 @@
 {
 "date": "2015-07-01", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "24859"
+"Active Users": "24962"
 }, 
 {
 "date": "2015-07-02", 
@@ -8282,7 +8282,7 @@
 {
 "date": "2015-07-02", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "24447"
+"Active Users": "24578"
 }, 
 {
 "date": "2015-07-03", 
@@ -8332,7 +8332,7 @@
 {
 "date": "2015-07-03", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "24044"
+"Active Users": "24178"
 }, 
 {
 "date": "2015-07-04", 
@@ -8382,7 +8382,7 @@
 {
 "date": "2015-07-04", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22996"
+"Active Users": "23134"
 }, 
 {
 "date": "2015-07-05", 
@@ -8432,7 +8432,7 @@
 {
 "date": "2015-07-05", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "21671"
+"Active Users": "21796"
 }, 
 {
 "date": "2015-07-06", 
@@ -8482,7 +8482,7 @@
 {
 "date": "2015-07-06", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22365"
+"Active Users": "22493"
 }, 
 {
 "date": "2015-07-07", 
@@ -8532,7 +8532,7 @@
 {
 "date": "2015-07-07", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "23622"
+"Active Users": "23756"
 }, 
 {
 "date": "2015-07-08", 
@@ -8582,7 +8582,7 @@
 {
 "date": "2015-07-08", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "23915"
+"Active Users": "24037"
 }, 
 {
 "date": "2015-07-09", 
@@ -8632,7 +8632,7 @@
 {
 "date": "2015-07-09", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "23881"
+"Active Users": "24006"
 }, 
 {
 "date": "2015-07-10", 
@@ -8682,7 +8682,7 @@
 {
 "date": "2015-07-10", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "23237"
+"Active Users": "23362"
 }, 
 {
 "date": "2015-07-11", 
@@ -8732,7 +8732,7 @@
 {
 "date": "2015-07-11", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22245"
+"Active Users": "22364"
 }, 
 {
 "date": "2015-07-12", 
@@ -8782,7 +8782,7 @@
 {
 "date": "2015-07-12", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "21660"
+"Active Users": "21782"
 }, 
 {
 "date": "2015-07-13", 
@@ -8832,7 +8832,7 @@
 {
 "date": "2015-07-13", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22244"
+"Active Users": "22372"
 }, 
 {
 "date": "2015-07-14", 
@@ -8882,7 +8882,7 @@
 {
 "date": "2015-07-14", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "23089"
+"Active Users": "23217"
 }, 
 {
 "date": "2015-07-15", 
@@ -8932,7 +8932,7 @@
 {
 "date": "2015-07-15", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "23249"
+"Active Users": "23377"
 }, 
 {
 "date": "2015-07-16", 
@@ -8982,7 +8982,7 @@
 {
 "date": "2015-07-16", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "23227"
+"Active Users": "23352"
 }, 
 {
 "date": "2015-07-17", 
@@ -9032,7 +9032,7 @@
 {
 "date": "2015-07-17", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "23256"
+"Active Users": "23381"
 }, 
 {
 "date": "2015-07-18", 
@@ -9082,7 +9082,7 @@
 {
 "date": "2015-07-18", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22848"
+"Active Users": "22970"
 }, 
 {
 "date": "2015-07-19", 
@@ -9132,7 +9132,7 @@
 {
 "date": "2015-07-19", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22011"
+"Active Users": "22124"
 }, 
 {
 "date": "2015-07-20", 
@@ -9182,7 +9182,7 @@
 {
 "date": "2015-07-20", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22121"
+"Active Users": "22231"
 }, 
 {
 "date": "2015-07-21", 
@@ -9232,7 +9232,7 @@
 {
 "date": "2015-07-21", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22775"
+"Active Users": "22882"
 }, 
 {
 "date": "2015-07-22", 
@@ -9282,7 +9282,7 @@
 {
 "date": "2015-07-22", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22725"
+"Active Users": "22829"
 }, 
 {
 "date": "2015-07-23", 
@@ -9332,7 +9332,7 @@
 {
 "date": "2015-07-23", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22656"
+"Active Users": "22760"
 }, 
 {
 "date": "2015-07-24", 
@@ -9382,7 +9382,7 @@
 {
 "date": "2015-07-24", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "21995"
+"Active Users": "22093"
 }, 
 {
 "date": "2015-07-25", 
@@ -9432,7 +9432,7 @@
 {
 "date": "2015-07-25", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "21363"
+"Active Users": "21455"
 }, 
 {
 "date": "2015-07-26", 
@@ -9482,7 +9482,7 @@
 {
 "date": "2015-07-26", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "20656"
+"Active Users": "20745"
 }, 
 {
 "date": "2015-07-27", 
@@ -9527,12 +9527,12 @@
 {
 "date": "2015-07-27", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "48998"
+"Active Users": "49008"
 }, 
 {
 "date": "2015-07-27", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "21719"
+"Active Users": "21811"
 }, 
 {
 "date": "2015-07-28", 
@@ -9577,12 +9577,12 @@
 {
 "date": "2015-07-28", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "49918"
+"Active Users": "49982"
 }, 
 {
 "date": "2015-07-28", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22667"
+"Active Users": "22762"
 }, 
 {
 "date": "2015-07-29", 
@@ -9627,12 +9627,12 @@
 {
 "date": "2015-07-29", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "47969"
+"Active Users": "48120"
 }, 
 {
 "date": "2015-07-29", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22662"
+"Active Users": "22748"
 }, 
 {
 "date": "2015-07-30", 
@@ -9677,12 +9677,12 @@
 {
 "date": "2015-07-30", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "46484"
+"Active Users": "46688"
 }, 
 {
 "date": "2015-07-30", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22370"
+"Active Users": "22459"
 }, 
 {
 "date": "2015-07-31", 
@@ -9727,12 +9727,12 @@
 {
 "date": "2015-07-31", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "44992"
+"Active Users": "45242"
 }, 
 {
 "date": "2015-07-31", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "22287"
+"Active Users": "22376"
 }, 
 {
 "date": "2015-08-01", 
@@ -9767,7 +9767,7 @@
 {
 "date": "2015-08-01", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "33384"
+"Active Users": "33387"
 }, 
 {
 "date": "2015-08-01", 
@@ -9777,12 +9777,12 @@
 {
 "date": "2015-08-01", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "41838"
+"Active Users": "42105"
 }, 
 {
 "date": "2015-08-01", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "21353"
+"Active Users": "21414"
 }, 
 {
 "date": "2015-08-02", 
@@ -9817,7 +9817,7 @@
 {
 "date": "2015-08-02", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "31780"
+"Active Users": "31783"
 }, 
 {
 "date": "2015-08-02", 
@@ -9827,12 +9827,12 @@
 {
 "date": "2015-08-02", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "39605"
+"Active Users": "39872"
 }, 
 {
 "date": "2015-08-02", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "20422"
+"Active Users": "20480"
 }, 
 {
 "date": "2015-08-03", 
@@ -9867,7 +9867,7 @@
 {
 "date": "2015-08-03", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "31261"
+"Active Users": "31264"
 }, 
 {
 "date": "2015-08-03", 
@@ -9877,12 +9877,12 @@
 {
 "date": "2015-08-03", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "38784"
+"Active Users": "39051"
 }, 
 {
 "date": "2015-08-03", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "20036"
+"Active Users": "20087"
 }, 
 {
 "date": "2015-08-04", 
@@ -9917,7 +9917,7 @@
 {
 "date": "2015-08-04", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "32815"
+"Active Users": "32818"
 }, 
 {
 "date": "2015-08-04", 
@@ -9927,12 +9927,12 @@
 {
 "date": "2015-08-04", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "40110"
+"Active Users": "40394"
 }, 
 {
 "date": "2015-08-04", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "20691"
+"Active Users": "20742"
 }, 
 {
 "date": "2015-08-05", 
@@ -9967,7 +9967,7 @@
 {
 "date": "2015-08-05", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "33115"
+"Active Users": "33128"
 }, 
 {
 "date": "2015-08-05", 
@@ -9977,12 +9977,12 @@
 {
 "date": "2015-08-05", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "39392"
+"Active Users": "39707"
 }, 
 {
 "date": "2015-08-05", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "20451"
+"Active Users": "20499"
 }, 
 {
 "date": "2015-08-06", 
@@ -10017,7 +10017,7 @@
 {
 "date": "2015-08-06", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "33150"
+"Active Users": "33175"
 }, 
 {
 "date": "2015-08-06", 
@@ -10027,12 +10027,12 @@
 {
 "date": "2015-08-06", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "38376"
+"Active Users": "38694"
 }, 
 {
 "date": "2015-08-06", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "20181"
+"Active Users": "20223"
 }, 
 {
 "date": "2015-08-07", 
@@ -10067,7 +10067,7 @@
 {
 "date": "2015-08-07", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "33691"
+"Active Users": "33716"
 }, 
 {
 "date": "2015-08-07", 
@@ -10077,12 +10077,12 @@
 {
 "date": "2015-08-07", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "37775"
+"Active Users": "38113"
 }, 
 {
 "date": "2015-08-07", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "20384"
+"Active Users": "20423"
 }, 
 {
 "date": "2015-08-08", 
@@ -10117,7 +10117,7 @@
 {
 "date": "2015-08-08", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "32205"
+"Active Users": "32230"
 }, 
 {
 "date": "2015-08-08", 
@@ -10127,12 +10127,12 @@
 {
 "date": "2015-08-08", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "35946"
+"Active Users": "36290"
 }, 
 {
 "date": "2015-08-08", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "19350"
+"Active Users": "19383"
 }, 
 {
 "date": "2015-08-09", 
@@ -10167,7 +10167,7 @@
 {
 "date": "2015-08-09", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "30677"
+"Active Users": "30705"
 }, 
 {
 "date": "2015-08-09", 
@@ -10177,12 +10177,12 @@
 {
 "date": "2015-08-09", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "33695"
+"Active Users": "34039"
 }, 
 {
 "date": "2015-08-09", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "18546"
+"Active Users": "18579"
 }, 
 {
 "date": "2015-08-10", 
@@ -10217,7 +10217,7 @@
 {
 "date": "2015-08-10", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "31482"
+"Active Users": "31516"
 }, 
 {
 "date": "2015-08-10", 
@@ -10227,12 +10227,12 @@
 {
 "date": "2015-08-10", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "34104"
+"Active Users": "34458"
 }, 
 {
 "date": "2015-08-10", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "18790"
+"Active Users": "18823"
 }, 
 {
 "date": "2015-08-11", 
@@ -10267,7 +10267,7 @@
 {
 "date": "2015-08-11", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "34004"
+"Active Users": "34038"
 }, 
 {
 "date": "2015-08-11", 
@@ -10277,12 +10277,12 @@
 {
 "date": "2015-08-11", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "35190"
+"Active Users": "35563"
 }, 
 {
 "date": "2015-08-11", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "19362"
+"Active Users": "19392"
 }, 
 {
 "date": "2015-08-12", 
@@ -10317,7 +10317,7 @@
 {
 "date": "2015-08-12", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "35568"
+"Active Users": "35608"
 }, 
 {
 "date": "2015-08-12", 
@@ -10327,12 +10327,12 @@
 {
 "date": "2015-08-12", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "34316"
+"Active Users": "34701"
 }, 
 {
 "date": "2015-08-12", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "19189"
+"Active Users": "19213"
 }, 
 {
 "date": "2015-08-13", 
@@ -10367,7 +10367,7 @@
 {
 "date": "2015-08-13", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "36396"
+"Active Users": "36442"
 }, 
 {
 "date": "2015-08-13", 
@@ -10377,12 +10377,12 @@
 {
 "date": "2015-08-13", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "33645"
+"Active Users": "34052"
 }, 
 {
 "date": "2015-08-13", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "19024"
+"Active Users": "19048"
 }, 
 {
 "date": "2015-08-14", 
@@ -10417,7 +10417,7 @@
 {
 "date": "2015-08-14", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "36842"
+"Active Users": "36897"
 }, 
 {
 "date": "2015-08-14", 
@@ -10427,12 +10427,12 @@
 {
 "date": "2015-08-14", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "32956"
+"Active Users": "33370"
 }, 
 {
 "date": "2015-08-14", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "18946"
+"Active Users": "18970"
 }, 
 {
 "date": "2015-08-15", 
@@ -10467,7 +10467,7 @@
 {
 "date": "2015-08-15", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "35335"
+"Active Users": "35390"
 }, 
 {
 "date": "2015-08-15", 
@@ -10477,12 +10477,12 @@
 {
 "date": "2015-08-15", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "31061"
+"Active Users": "31496"
 }, 
 {
 "date": "2015-08-15", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "18447"
+"Active Users": "18512"
 }, 
 {
 "date": "2015-08-16", 
@@ -10517,7 +10517,7 @@
 {
 "date": "2015-08-16", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "34118"
+"Active Users": "34176"
 }, 
 {
 "date": "2015-08-16", 
@@ -10527,12 +10527,12 @@
 {
 "date": "2015-08-16", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "29266"
+"Active Users": "29701"
 }, 
 {
 "date": "2015-08-16", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "18093"
+"Active Users": "18175"
 }, 
 {
 "date": "2015-08-17", 
@@ -10567,7 +10567,7 @@
 {
 "date": "2015-08-17", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "34702"
+"Active Users": "34763"
 }, 
 {
 "date": "2015-08-17", 
@@ -10577,12 +10577,12 @@
 {
 "date": "2015-08-17", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "29639"
+"Active Users": "30089"
 }, 
 {
 "date": "2015-08-17", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "18412"
+"Active Users": "18763"
 }, 
 {
 "date": "2015-08-18", 
@@ -10617,7 +10617,7 @@
 {
 "date": "2015-08-18", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "35672"
+"Active Users": "35733"
 }, 
 {
 "date": "2015-08-18", 
@@ -10627,12 +10627,12 @@
 {
 "date": "2015-08-18", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "30545"
+"Active Users": "31010"
 }, 
 {
 "date": "2015-08-18", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "18847"
+"Active Users": "19567"
 }, 
 {
 "date": "2015-08-19", 
@@ -10667,7 +10667,7 @@
 {
 "date": "2015-08-19", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "36027"
+"Active Users": "36088"
 }, 
 {
 "date": "2015-08-19", 
@@ -10677,12 +10677,12 @@
 {
 "date": "2015-08-19", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "30693"
+"Active Users": "31173"
 }, 
 {
 "date": "2015-08-19", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "18924"
+"Active Users": "19969"
 }, 
 {
 "date": "2015-08-20", 
@@ -10717,22 +10717,22 @@
 {
 "date": "2015-08-20", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "36312"
+"Active Users": "36373"
 }, 
 {
 "date": "2015-08-20", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "38871"
+"Active Users": "38886"
 }, 
 {
 "date": "2015-08-20", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "30524"
+"Active Users": "31026"
 }, 
 {
 "date": "2015-08-20", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "18756"
+"Active Users": "20006"
 }, 
 {
 "date": "2015-08-21", 
@@ -10767,22 +10767,22 @@
 {
 "date": "2015-08-21", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "36779"
+"Active Users": "36840"
 }, 
 {
 "date": "2015-08-21", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "38561"
+"Active Users": "38603"
 }, 
 {
 "date": "2015-08-21", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "30488"
+"Active Users": "31005"
 }, 
 {
 "date": "2015-08-21", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "18385"
+"Active Users": "20121"
 }, 
 {
 "date": "2015-08-22", 
@@ -10817,22 +10817,22 @@
 {
 "date": "2015-08-22", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "36001"
+"Active Users": "36062"
 }, 
 {
 "date": "2015-08-22", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "37428"
+"Active Users": "37476"
 }, 
 {
 "date": "2015-08-22", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "29559"
+"Active Users": "30094"
 }, 
 {
 "date": "2015-08-22", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "17722"
+"Active Users": "19655"
 }, 
 {
 "date": "2015-08-23", 
@@ -10867,22 +10867,22 @@
 {
 "date": "2015-08-23", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "34516"
+"Active Users": "34580"
 }, 
 {
 "date": "2015-08-23", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "36242"
+"Active Users": "36290"
 }, 
 {
 "date": "2015-08-23", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "28246"
+"Active Users": "28781"
 }, 
 {
 "date": "2015-08-23", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "17067"
+"Active Users": "19118"
 }, 
 {
 "date": "2015-08-24", 
@@ -10917,22 +10917,22 @@
 {
 "date": "2015-08-24", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "35778"
+"Active Users": "35845"
 }, 
 {
 "date": "2015-08-24", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "37281"
+"Active Users": "37338"
 }, 
 {
 "date": "2015-08-24", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "29516"
+"Active Users": "30084"
 }, 
 {
 "date": "2015-08-24", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "17140"
+"Active Users": "19447"
 }, 
 {
 "date": "2015-08-25", 
@@ -10967,22 +10967,22 @@
 {
 "date": "2015-08-25", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "37406"
+"Active Users": "37473"
 }, 
 {
 "date": "2015-08-25", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "38537"
+"Active Users": "38604"
 }, 
 {
 "date": "2015-08-25", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "30996"
+"Active Users": "31570"
 }, 
 {
 "date": "2015-08-25", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "17663"
+"Active Users": "20372"
 }, 
 {
 "date": "2015-08-26", 
@@ -11002,7 +11002,7 @@
 {
 "date": "2015-08-26", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "29461"
+"Active Users": "29481"
 }, 
 {
 "date": "2015-08-26", 
@@ -11017,22 +11017,22 @@
 {
 "date": "2015-08-26", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "37742"
+"Active Users": "37809"
 }, 
 {
 "date": "2015-08-26", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "37795"
+"Active Users": "37870"
 }, 
 {
 "date": "2015-08-26", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "30746"
+"Active Users": "31310"
 }, 
 {
 "date": "2015-08-26", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "17053"
+"Active Users": "20045"
 }, 
 {
 "date": "2015-08-27", 
@@ -11052,7 +11052,7 @@
 {
 "date": "2015-08-27", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "29813"
+"Active Users": "29833"
 }, 
 {
 "date": "2015-08-27", 
@@ -11067,22 +11067,22 @@
 {
 "date": "2015-08-27", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "38269"
+"Active Users": "38336"
 }, 
 {
 "date": "2015-08-27", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "36830"
+"Active Users": "36905"
 }, 
 {
 "date": "2015-08-27", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "30714"
+"Active Users": "31227"
 }, 
 {
 "date": "2015-08-27", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "16377"
+"Active Users": "19684"
 }, 
 {
 "date": "2015-08-28", 
@@ -11102,7 +11102,7 @@
 {
 "date": "2015-08-28", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "29783"
+"Active Users": "29803"
 }, 
 {
 "date": "2015-08-28", 
@@ -11117,22 +11117,22 @@
 {
 "date": "2015-08-28", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "38874"
+"Active Users": "38941"
 }, 
 {
 "date": "2015-08-28", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "35987"
+"Active Users": "36062"
 }, 
 {
 "date": "2015-08-28", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "30680"
+"Active Users": "31113"
 }, 
 {
 "date": "2015-08-28", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "15670"
+"Active Users": "19228"
 }, 
 {
 "date": "2015-08-29", 
@@ -11152,7 +11152,7 @@
 {
 "date": "2015-08-29", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "29089"
+"Active Users": "29109"
 }, 
 {
 "date": "2015-08-29", 
@@ -11167,22 +11167,22 @@
 {
 "date": "2015-08-29", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "37533"
+"Active Users": "37604"
 }, 
 {
 "date": "2015-08-29", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "33418"
+"Active Users": "33493"
 }, 
 {
 "date": "2015-08-29", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "28861"
+"Active Users": "29241"
 }, 
 {
 "date": "2015-08-29", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "14726"
+"Active Users": "18398"
 }, 
 {
 "date": "2015-08-30", 
@@ -11202,7 +11202,7 @@
 {
 "date": "2015-08-30", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "28454"
+"Active Users": "28474"
 }, 
 {
 "date": "2015-08-30", 
@@ -11217,22 +11217,22 @@
 {
 "date": "2015-08-30", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "36064"
+"Active Users": "36135"
 }, 
 {
 "date": "2015-08-30", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "30659"
+"Active Users": "30734"
 }, 
 {
 "date": "2015-08-30", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "27532"
+"Active Users": "27866"
 }, 
 {
 "date": "2015-08-30", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "13588"
+"Active Users": "17304"
 }, 
 {
 "date": "2015-08-31", 
@@ -11252,7 +11252,7 @@
 {
 "date": "2015-08-31", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "28638"
+"Active Users": "28675"
 }, 
 {
 "date": "2015-08-31", 
@@ -11267,22 +11267,22 @@
 {
 "date": "2015-08-31", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "36821"
+"Active Users": "36892"
 }, 
 {
 "date": "2015-08-31", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "30710"
+"Active Users": "30785"
 }, 
 {
 "date": "2015-08-31", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "28348"
+"Active Users": "28665"
 }, 
 {
 "date": "2015-08-31", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "13443"
+"Active Users": "17387"
 }, 
 {
 "date": "2015-09-01", 
@@ -11302,7 +11302,7 @@
 {
 "date": "2015-09-01", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "29668"
+"Active Users": "29743"
 }, 
 {
 "date": "2015-09-01", 
@@ -11317,22 +11317,22 @@
 {
 "date": "2015-09-01", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "38459"
+"Active Users": "38530"
 }, 
 {
 "date": "2015-09-01", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "31328"
+"Active Users": "31403"
 }, 
 {
 "date": "2015-09-01", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "29384"
+"Active Users": "29701"
 }, 
 {
 "date": "2015-09-01", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "13652"
+"Active Users": "17741"
 }, 
 {
 "date": "2015-09-02", 
@@ -11352,7 +11352,7 @@
 {
 "date": "2015-09-02", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "30515"
+"Active Users": "30590"
 }, 
 {
 "date": "2015-09-02", 
@@ -11367,22 +11367,22 @@
 {
 "date": "2015-09-02", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "40329"
+"Active Users": "40400"
 }, 
 {
 "date": "2015-09-02", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "32242"
+"Active Users": "32317"
 }, 
 {
 "date": "2015-09-02", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "30835"
+"Active Users": "31152"
 }, 
 {
 "date": "2015-09-02", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "13857"
+"Active Users": "18208"
 }, 
 {
 "date": "2015-09-03", 
@@ -11402,7 +11402,7 @@
 {
 "date": "2015-09-03", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "30375"
+"Active Users": "30450"
 }, 
 {
 "date": "2015-09-03", 
@@ -11417,22 +11417,22 @@
 {
 "date": "2015-09-03", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "40559"
+"Active Users": "40630"
 }, 
 {
 "date": "2015-09-03", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "30729"
+"Active Users": "30804"
 }, 
 {
 "date": "2015-09-03", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "30257"
+"Active Users": "30557"
 }, 
 {
 "date": "2015-09-03", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "13317"
+"Active Users": "17998"
 }, 
 {
 "date": "2015-09-04", 
@@ -11452,7 +11452,7 @@
 {
 "date": "2015-09-04", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "30422"
+"Active Users": "30497"
 }, 
 {
 "date": "2015-09-04", 
@@ -11467,22 +11467,22 @@
 {
 "date": "2015-09-04", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "40416"
+"Active Users": "40480"
 }, 
 {
 "date": "2015-09-04", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "29882"
+"Active Users": "29957"
 }, 
 {
 "date": "2015-09-04", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "29576"
+"Active Users": "29845"
 }, 
 {
 "date": "2015-09-04", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "12703"
+"Active Users": "17477"
 }, 
 {
 "date": "2015-09-05", 
@@ -11502,7 +11502,7 @@
 {
 "date": "2015-09-05", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "29582"
+"Active Users": "29657"
 }, 
 {
 "date": "2015-09-05", 
@@ -11517,22 +11517,22 @@
 {
 "date": "2015-09-05", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "39243"
+"Active Users": "39295"
 }, 
 {
 "date": "2015-09-05", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "28672"
+"Active Users": "28747"
 }, 
 {
 "date": "2015-09-05", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "28630"
+"Active Users": "28896"
 }, 
 {
 "date": "2015-09-05", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "11649"
+"Active Users": "16550"
 }, 
 {
 "date": "2015-09-06", 
@@ -11552,7 +11552,7 @@
 {
 "date": "2015-09-06", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "28753"
+"Active Users": "28828"
 }, 
 {
 "date": "2015-09-06", 
@@ -11567,22 +11567,22 @@
 {
 "date": "2015-09-06", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "37022"
+"Active Users": "37074"
 }, 
 {
 "date": "2015-09-06", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "27385"
+"Active Users": "27460"
 }, 
 {
 "date": "2015-09-06", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "26781"
+"Active Users": "27027"
 }, 
 {
 "date": "2015-09-06", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "10238"
+"Active Users": "15143"
 }, 
 {
 "date": "2015-09-07", 
@@ -11602,12 +11602,12 @@
 {
 "date": "2015-09-07", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "28689"
+"Active Users": "28764"
 }, 
 {
 "date": "2015-09-07", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "11587"
+"Active Users": "11602"
 }, 
 {
 "date": "2015-09-07", 
@@ -11617,22 +11617,22 @@
 {
 "date": "2015-09-07", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "38087"
+"Active Users": "38139"
 }, 
 {
 "date": "2015-09-07", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "27460"
+"Active Users": "27535"
 }, 
 {
 "date": "2015-09-07", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "27290"
+"Active Users": "27530"
 }, 
 {
 "date": "2015-09-07", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "10451"
+"Active Users": "15370"
 }, 
 {
 "date": "2015-09-08", 
@@ -11652,37 +11652,37 @@
 {
 "date": "2015-09-08", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "29402"
+"Active Users": "29477"
 }, 
 {
 "date": "2015-09-08", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "11903"
+"Active Users": "11918"
 }, 
 {
 "date": "2015-09-08", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "23854"
+"Active Users": "23921"
 }, 
 {
 "date": "2015-09-08", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "39511"
+"Active Users": "39560"
 }, 
 {
 "date": "2015-09-08", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "28473"
+"Active Users": "28548"
 }, 
 {
 "date": "2015-09-08", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "28196"
+"Active Users": "28436"
 }, 
 {
 "date": "2015-09-08", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "10864"
+"Active Users": "16021"
 }, 
 {
 "date": "2015-09-09", 
@@ -11702,37 +11702,37 @@
 {
 "date": "2015-09-09", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "29271"
+"Active Users": "29346"
 }, 
 {
 "date": "2015-09-09", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "12360"
+"Active Users": "12389"
 }, 
 {
 "date": "2015-09-09", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "24203"
+"Active Users": "24235"
 }, 
 {
 "date": "2015-09-09", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "39424"
+"Active Users": "39467"
 }, 
 {
 "date": "2015-09-09", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "28242"
+"Active Users": "28317"
 }, 
 {
 "date": "2015-09-09", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "27859"
+"Active Users": "28089"
 }, 
 {
 "date": "2015-09-09", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "10887"
+"Active Users": "16073"
 }, 
 {
 "date": "2015-09-10", 
@@ -11752,37 +11752,37 @@
 {
 "date": "2015-09-10", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "29117"
+"Active Users": "29192"
 }, 
 {
 "date": "2015-09-10", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "12633"
+"Active Users": "12675"
 }, 
 {
 "date": "2015-09-10", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "24187"
+"Active Users": "24184"
 }, 
 {
 "date": "2015-09-10", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "38737"
+"Active Users": "38780"
 }, 
 {
 "date": "2015-09-10", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "27985"
+"Active Users": "28060"
 }, 
 {
 "date": "2015-09-10", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "27379"
+"Active Users": "27590"
 }, 
 {
 "date": "2015-09-10", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "10868"
+"Active Users": "15930"
 }, 
 {
 "date": "2015-09-11", 
@@ -11802,37 +11802,37 @@
 {
 "date": "2015-09-11", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "28918"
+"Active Users": "28995"
 }, 
 {
 "date": "2015-09-11", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "12848"
+"Active Users": "12890"
 }, 
 {
 "date": "2015-09-11", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "23192"
+"Active Users": "23134"
 }, 
 {
 "date": "2015-09-11", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "36939"
+"Active Users": "36976"
 }, 
 {
 "date": "2015-09-11", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "26931"
+"Active Users": "27006"
 }, 
 {
 "date": "2015-09-11", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "26593"
+"Active Users": "26792"
 }, 
 {
 "date": "2015-09-11", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "11168"
+"Active Users": "15882"
 }, 
 {
 "date": "2015-09-12", 
@@ -11852,37 +11852,37 @@
 {
 "date": "2015-09-12", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "27907"
+"Active Users": "27984"
 }, 
 {
 "date": "2015-09-12", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "12353"
+"Active Users": "12395"
 }, 
 {
 "date": "2015-09-12", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "22260"
+"Active Users": "22208"
 }, 
 {
 "date": "2015-09-12", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "34691"
+"Active Users": "34722"
 }, 
 {
 "date": "2015-09-12", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "25261"
+"Active Users": "25336"
 }, 
 {
 "date": "2015-09-12", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "25552"
+"Active Users": "25729"
 }, 
 {
 "date": "2015-09-12", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "10658"
+"Active Users": "15324"
 }, 
 {
 "date": "2015-09-13", 
@@ -11902,37 +11902,37 @@
 {
 "date": "2015-09-13", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "26412"
+"Active Users": "26489"
 }, 
 {
 "date": "2015-09-13", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "11698"
+"Active Users": "11744"
 }, 
 {
 "date": "2015-09-13", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "21348"
+"Active Users": "21298"
 }, 
 {
 "date": "2015-09-13", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "32631"
+"Active Users": "32653"
 }, 
 {
 "date": "2015-09-13", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "23911"
+"Active Users": "23986"
 }, 
 {
 "date": "2015-09-13", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "24358"
+"Active Users": "24528"
 }, 
 {
 "date": "2015-09-13", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "10062"
+"Active Users": "14720"
 }, 
 {
 "date": "2015-09-14", 
@@ -11952,37 +11952,37 @@
 {
 "date": "2015-09-14", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "26712"
+"Active Users": "26789"
 }, 
 {
 "date": "2015-09-14", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "12366"
+"Active Users": "12425"
 }, 
 {
 "date": "2015-09-14", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "21765"
+"Active Users": "21661"
 }, 
 {
 "date": "2015-09-14", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "33384"
+"Active Users": "33406"
 }, 
 {
 "date": "2015-09-14", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "24324"
+"Active Users": "24405"
 }, 
 {
 "date": "2015-09-14", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "24586"
+"Active Users": "24735"
 }, 
 {
 "date": "2015-09-14", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "10686"
+"Active Users": "14996"
 }, 
 {
 "date": "2015-09-15", 
@@ -12002,37 +12002,37 @@
 {
 "date": "2015-09-15", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "27912"
+"Active Users": "27989"
 }, 
 {
 "date": "2015-09-15", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "13140"
+"Active Users": "13199"
 }, 
 {
 "date": "2015-09-15", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "22279"
+"Active Users": "22371"
 }, 
 {
 "date": "2015-09-15", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "34969"
+"Active Users": "34988"
 }, 
 {
 "date": "2015-09-15", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "25281"
+"Active Users": "25362"
 }, 
 {
 "date": "2015-09-15", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "25327"
+"Active Users": "25476"
 }, 
 {
 "date": "2015-09-15", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "11366"
+"Active Users": "15407"
 }, 
 {
 "date": "2015-09-16", 
@@ -12052,37 +12052,37 @@
 {
 "date": "2015-09-16", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "27873"
+"Active Users": "27950"
 }, 
 {
 "date": "2015-09-16", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "13628"
+"Active Users": "13697"
 }, 
 {
 "date": "2015-09-16", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "22606"
+"Active Users": "22905"
 }, 
 {
 "date": "2015-09-16", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "35668"
+"Active Users": "35684"
 }, 
 {
 "date": "2015-09-16", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "25383"
+"Active Users": "25467"
 }, 
 {
 "date": "2015-09-16", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "25031"
+"Active Users": "25165"
 }, 
 {
 "date": "2015-09-16", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "11704"
+"Active Users": "15151"
 }, 
 {
 "date": "2015-09-17", 
@@ -12092,46 +12092,696 @@
 {
 "date": "2015-09-17", 
 "school": "National Taiwan University", 
-"Active Users": "7761"
+"Active Users": "7758"
 }, 
 {
 "date": "2015-09-17", 
 "school": "The Hong Kong University of Science and Technology", 
-"Active Users": "15296"
+"Active Users": "15299"
 }, 
 {
 "date": "2015-09-17", 
 "school": "XLRI-Xavier School Of Management", 
-"Active Users": "27753"
+"Active Users": "27919"
 }, 
 {
 "date": "2015-09-17", 
 "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
-"Active Users": "14436"
+"Active Users": "14517"
 }, 
 {
 "date": "2015-09-17", 
 "school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
-"Active Users": "22633"
+"Active Users": "23045"
 }, 
 {
 "date": "2015-09-17", 
 "school": "\u6771\u5433\u5927\u5b78", 
-"Active Users": "36556"
+"Active Users": "36578"
 }, 
 {
 "date": "2015-09-17", 
 "school": "\u6de1\u6c5f\u5927\u5b78", 
-"Active Users": "25091"
+"Active Users": "25188"
 }, 
 {
 "date": "2015-09-17", 
 "school": "\u8f14\u4ec1\u5927\u5b78", 
-"Active Users": "24633"
+"Active Users": "24752"
 }, 
 {
 "date": "2015-09-17", 
 "school": "\u9022\u7532\u5927\u5b78", 
-"Active Users": "12052"
+"Active Users": "14700"
+}, 
+{
+"date": "2015-09-18", 
+"school": "City University of Hong Kong", 
+"Active Users": "3039"
+}, 
+{
+"date": "2015-09-18", 
+"school": "National Taiwan University", 
+"Active Users": "7536"
+}, 
+{
+"date": "2015-09-18", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "15473"
+}, 
+{
+"date": "2015-09-18", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "27463"
+}, 
+{
+"date": "2015-09-18", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "15056"
+}, 
+{
+"date": "2015-09-18", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "23353"
+}, 
+{
+"date": "2015-09-18", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "37839"
+}, 
+{
+"date": "2015-09-18", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "24910"
+}, 
+{
+"date": "2015-09-18", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "24399"
+}, 
+{
+"date": "2015-09-18", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "14381"
+}, 
+{
+"date": "2015-09-19", 
+"school": "City University of Hong Kong", 
+"Active Users": "2856"
+}, 
+{
+"date": "2015-09-19", 
+"school": "National Taiwan University", 
+"Active Users": "7110"
+}, 
+{
+"date": "2015-09-19", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "15008"
+}, 
+{
+"date": "2015-09-19", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "26516"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "15042"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "22745"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "37014"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "23940"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "23522"
+}, 
+{
+"date": "2015-09-19", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "13777"
+}, 
+{
+"date": "2015-09-20", 
+"school": "City University of Hong Kong", 
+"Active Users": "2640"
+}, 
+{
+"date": "2015-09-20", 
+"school": "National Taiwan University", 
+"Active Users": "6415"
+}, 
+{
+"date": "2015-09-20", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "14673"
+}, 
+{
+"date": "2015-09-20", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "25521"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "14696"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "21881"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "35753"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "22792"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "22166"
+}, 
+{
+"date": "2015-09-20", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "12826"
+}, 
+{
+"date": "2015-09-21", 
+"school": "City University of Hong Kong", 
+"Active Users": "2603"
+}, 
+{
+"date": "2015-09-21", 
+"school": "National Taiwan University", 
+"Active Users": "6454"
+}, 
+{
+"date": "2015-09-21", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "14773"
+}, 
+{
+"date": "2015-09-21", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "25419"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "15087"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "22121"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "37185"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "23042"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "22454"
+}, 
+{
+"date": "2015-09-21", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "13465"
+}, 
+{
+"date": "2015-09-22", 
+"school": "City University of Hong Kong", 
+"Active Users": "2623"
+}, 
+{
+"date": "2015-09-22", 
+"school": "National Taiwan University", 
+"Active Users": "6606"
+}, 
+{
+"date": "2015-09-22", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "15071"
+}, 
+{
+"date": "2015-09-22", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "26020"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "15775"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "22780"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "38548"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "23865"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "23054"
+}, 
+{
+"date": "2015-09-22", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "13993"
+}, 
+{
+"date": "2015-09-23", 
+"school": "City University of Hong Kong", 
+"Active Users": "2480"
+}, 
+{
+"date": "2015-09-23", 
+"school": "National Taiwan University", 
+"Active Users": "6098"
+}, 
+{
+"date": "2015-09-23", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "15178"
+}, 
+{
+"date": "2015-09-23", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "26078"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "16035"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "22216"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "38543"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "24009"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "22017"
+}, 
+{
+"date": "2015-09-23", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "14795"
+}, 
+{
+"date": "2015-09-24", 
+"school": "City University of Hong Kong", 
+"Active Users": "2397"
+}, 
+{
+"date": "2015-09-24", 
+"school": "National Taiwan University", 
+"Active Users": "6043"
+}, 
+{
+"date": "2015-09-24", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "15059"
+}, 
+{
+"date": "2015-09-24", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "26233"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "16055"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "21772"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "38573"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "24110"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "21303"
+}, 
+{
+"date": "2015-09-24", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "14748"
+}, 
+{
+"date": "2015-09-25", 
+"school": "City University of Hong Kong", 
+"Active Users": "2174"
+}, 
+{
+"date": "2015-09-25", 
+"school": "National Taiwan University", 
+"Active Users": "5790"
+}, 
+{
+"date": "2015-09-25", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "15181"
+}, 
+{
+"date": "2015-09-25", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "25780"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "16598"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "21485"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "38605"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "24557"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "20696"
+}, 
+{
+"date": "2015-09-25", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "14922"
+}, 
+{
+"date": "2015-09-26", 
+"school": "City University of Hong Kong", 
+"Active Users": "1973"
+}, 
+{
+"date": "2015-09-26", 
+"school": "National Taiwan University", 
+"Active Users": "5279"
+}, 
+{
+"date": "2015-09-26", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "14719"
+}, 
+{
+"date": "2015-09-26", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "25166"
+}, 
+{
+"date": "2015-09-26", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "16351"
+}, 
+{
+"date": "2015-09-26", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "20415"
+}, 
+{
+"date": "2015-09-26", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "37097"
+}, 
+{
+"date": "2015-09-26", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "24096"
+}, 
+{
+"date": "2015-09-26", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "19796"
+}, 
+{
+"date": "2015-09-26", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "14479"
+}, 
+{
+"date": "2015-09-27", 
+"school": "City University of Hong Kong", 
+"Active Users": "1842"
+}, 
+{
+"date": "2015-09-27", 
+"school": "National Taiwan University", 
+"Active Users": "4714"
+}, 
+{
+"date": "2015-09-27", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "14262"
+}, 
+{
+"date": "2015-09-27", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "24367"
+}, 
+{
+"date": "2015-09-27", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "15677"
+}, 
+{
+"date": "2015-09-27", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "19188"
+}, 
+{
+"date": "2015-09-27", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "35304"
+}, 
+{
+"date": "2015-09-27", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "23157"
+}, 
+{
+"date": "2015-09-27", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "18755"
+}, 
+{
+"date": "2015-09-27", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "14021"
+}, 
+{
+"date": "2015-09-28", 
+"school": "City University of Hong Kong", 
+"Active Users": "1820"
+}, 
+{
+"date": "2015-09-28", 
+"school": "National Taiwan University", 
+"Active Users": "4664"
+}, 
+{
+"date": "2015-09-28", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "14656"
+}, 
+{
+"date": "2015-09-28", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "25135"
+}, 
+{
+"date": "2015-09-28", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "16190"
+}, 
+{
+"date": "2015-09-28", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "19213"
+}, 
+{
+"date": "2015-09-28", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "36178"
+}, 
+{
+"date": "2015-09-28", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "23214"
+}, 
+{
+"date": "2015-09-28", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "18919"
+}, 
+{
+"date": "2015-09-28", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "14378"
+}, 
+{
+"date": "2015-09-29", 
+"school": "City University of Hong Kong", 
+"Active Users": "1853"
+}, 
+{
+"date": "2015-09-29", 
+"school": "National Taiwan University", 
+"Active Users": "4940"
+}, 
+{
+"date": "2015-09-29", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "15179"
+}, 
+{
+"date": "2015-09-29", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "26468"
+}, 
+{
+"date": "2015-09-29", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "16802"
+}, 
+{
+"date": "2015-09-29", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "19767"
+}, 
+{
+"date": "2015-09-29", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "37493"
+}, 
+{
+"date": "2015-09-29", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "23756"
+}, 
+{
+"date": "2015-09-29", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "19629"
+}, 
+{
+"date": "2015-09-29", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "15201"
+}, 
+{
+"date": "2015-09-30", 
+"school": "City University of Hong Kong", 
+"Active Users": "1845"
+}, 
+{
+"date": "2015-09-30", 
+"school": "National Taiwan University", 
+"Active Users": "4929"
+}, 
+{
+"date": "2015-09-30", 
+"school": "The Hong Kong University of Science and Technology", 
+"Active Users": "15475"
+}, 
+{
+"date": "2015-09-30", 
+"school": "XLRI-Xavier School Of Management", 
+"Active Users": "26933"
+}, 
+{
+"date": "2015-09-30", 
+"school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78", 
+"Active Users": "17169"
+}, 
+{
+"date": "2015-09-30", 
+"school": "\u570b\u7acb\u81fa\u7063\u5927\u5b78", 
+"Active Users": "20563"
+}, 
+{
+"date": "2015-09-30", 
+"school": "\u6771\u5433\u5927\u5b78", 
+"Active Users": "37946"
+}, 
+{
+"date": "2015-09-30", 
+"school": "\u6de1\u6c5f\u5927\u5b78", 
+"Active Users": "24008"
+}, 
+{
+"date": "2015-09-30", 
+"school": "\u8f14\u4ec1\u5927\u5b78", 
+"Active Users": "19404"
+}, 
+{
+"date": "2015-09-30", 
+"school": "\u9022\u7532\u5927\u5b78", 
+"Active Users": "16132"
 }
 ]
