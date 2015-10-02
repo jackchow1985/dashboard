@@ -1513,5 +1513,712 @@ var chartGenerator = {
             data: dng
         }]
     });
-  }
+  },
+
+Date_AU_Global_FX : function(data) {
+    var dng = [];
+    for(var i = 0 ; i < data["Date_AU_Global_FX"].length; i ++) {
+      dng.push([Date.parse(data["Date_AU_Global_FX"][i].date), parseInt(data["Date_AU_Global_FX"][i]["Active Users"])])
+    }
+    $('#Date_AU_Global_FX').highcharts({
+        chart: {
+            type: 'spline',
+            zoomType: 'x',
+      backgroundColor: null
+        },
+        title: {
+            text: 'Daily Active Users'
+        },
+        subtitle: {
+            text: 'Global_FX'
+        },
+        xAxis: {
+            type: 'datetime',
+            title: {
+              text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            floor: 0,
+            title: {
+                text: 'Users'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            area: {
+                color: '#f9105e',
+                marker: {
+                    enabled: null
+                },
+                lineWidth: 1,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },
+
+        credits: {
+          enabled: false
+        },
+
+        series: [{
+            type: 'area',
+            name: 'Active Users',
+            data: dng
+        }]
+    });
+  }, 
+Date_AU_China_FX : function(data) {
+    var dng = [];
+    for(var i = 0 ; i < data["Date_AU_China_FX"].length; i ++) {
+      dng.push([Date.parse(data["Date_AU_China_FX"][i].date), parseInt(data["Date_AU_China_FX"][i]["Active Users"])])
+    }
+    $('#Date_AU_China_FX').highcharts({
+        chart: {
+            type: 'spline',
+            zoomType: 'x',
+      backgroundColor: null
+        },
+        title: {
+            text: 'Daily Active Users'
+        },
+        subtitle: {
+            text: 'China_FX'
+        },
+        xAxis: {
+            type: 'datetime',
+            title: {
+              text: 'Date'
+            },
+            floor: Date.UTC(2015, 04, 17)
+        },
+        yAxis: {
+            ceiling: 2000,
+            floor: 0,
+            title: {
+                text: 'Users'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            area: {
+                color: '#f9105e',
+                marker: {
+                    enabled: null
+                },
+                lineWidth: 1,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },
+
+        credits: {
+          enabled: false
+        },
+
+        series: [{
+            type: 'area',
+            name: 'Active Users',
+            data: dng
+        }]
+    });
+  },
+Date_AU_China_FC : function(data) {
+    var dng = [];
+    for(var i = 0 ; i < data["Date_AU_China_FC"].length; i ++) {
+      dng.push([Date.parse(data["Date_AU_China_FC"][i].date), parseInt(data["Date_AU_China_FC"][i]["Active Users"])])
+    }
+    $('#Date_AU_China_FC').highcharts({
+        chart: {
+            type: 'spline',
+            zoomType: 'x',
+      backgroundColor: null
+        },
+        title: {
+            text: 'Daily Active Users'
+        },
+        subtitle: {
+            text: 'China_FC'
+        },
+        xAxis: {
+            type: 'datetime',
+            title: {
+              text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            floor: 0,
+            title: {
+                text: 'Users'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            area: {
+                color: '#f9105e',
+                marker: {
+                    enabled: null
+                },
+                lineWidth: 1,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },
+
+        credits: {
+          enabled: false
+        },
+
+        series: [{
+            type: 'area',
+            name: 'Active Users',
+            data: dng
+        }]
+    });
+  },
+
+Date_AU_China_SC : function(data) {
+    var dng = [];
+    for(var i = 0 ; i < data["Date_AU_China_SC"].length; i ++) {
+      dng.push([Date.parse(data["Date_AU_China_SC"][i].date), parseInt(data["Date_AU_China_SC"][i]["Active Users"])])
+    }
+    $('#Date_AU_China_SC').highcharts({
+        chart: {
+            type: 'spline',
+            zoomType: 'x',
+      backgroundColor: null
+        },
+        title: {
+            text: 'Daily Active Users'
+        },
+        subtitle: {
+            text: 'China_SC'
+        },
+        xAxis: {
+            type: 'datetime',
+            title: {
+              text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            floor: 0,
+            title: {
+                text: 'Users'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            area: {
+                color: '#f9105e',
+                marker: {
+                    enabled: null
+                },
+                lineWidth: 1,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },
+
+        credits: {
+          enabled: false
+        },
+
+        series: [{
+            type: 'area',
+            name: 'Active Users',
+            data: dng
+        }]
+    });
+  },
+Week_AU_Global_FX : function(data) {
+    var dng = [];
+    for(var i = 0 ; i < data["Week_AU_Global_FX"].length; i ++) {
+      dng.push([Date.parse(data["Week_AU_Global_FX"][i].date), parseInt(data["Week_AU_Global_FX"][i]["Active Users"])])
+    }
+    $('#Week_AU_Global_FX').highcharts({
+        chart: {
+            type: 'spline',
+            zoomType: 'x',
+      backgroundColor: null
+        },
+        title: {
+            text: 'Weekly Active Users'
+        },
+        subtitle: {
+            text: 'Global'
+        },
+        xAxis: {
+            type: 'datetime',
+            title: {
+              text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            floor: 0,
+            title: {
+                text: 'Users'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            area: {
+                color: '#f9105e',
+                marker: {
+                    enabled: null
+                },
+                lineWidth: 1,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: [{
+            type: 'area',
+            name: 'Active Users',
+            data: dng
+        }]
+    });
+  },
+Week_AU_China_FX : function(data) {
+    var dng = [];
+    for(var i = 0 ; i < data["Week_AU_China_FX"].length; i ++) {
+      dng.push([Date.parse(data["Week_AU_China_FX"][i].date), parseInt(data["Week_AU_China_FX"][i]["Active Users"])])
+    }
+    $('#Week_AU_China_FX').highcharts({
+        chart: {
+            type: 'spline',
+            zoomType: 'x',
+      backgroundColor: null
+        },
+        title: {
+            text: 'Weekly Active Users'
+        },
+        subtitle: {
+            text: 'China'
+        },
+        xAxis: {
+            type: 'datetime',
+            title: {
+              text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            floor: 0,
+            title: {
+                text: 'Users'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            area: {
+                color: '#f9105e',
+                marker: {
+                    enabled: null
+                },
+                lineWidth: 1,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: [{
+            type: 'area',
+            name: 'Active Users',
+            data: dng
+        }]
+    });
+  },
+Week_AU_China_FC : function(data) {
+    var dng = [];
+    for(var i = 0 ; i < data["Week_AU_China_FC"].length; i ++) {
+      dng.push([Date.parse(data["Week_AU_China_FC"][i].date), parseInt(data["Week_AU_China_FC"][i]["Active Users"])])
+    }
+    $('#Week_AU_China_FC').highcharts({
+        chart: {
+            type: 'spline',
+            zoomType: 'x',
+      backgroundColor: null
+        },
+        title: {
+            text: 'Weekly Active Users'
+        },
+        subtitle: {
+            text: 'China'
+        },
+        xAxis: {
+            type: 'datetime',
+            title: {
+              text: 'Date'
+            },
+            floor: Date.UTC(2015, 04, 17)
+        },
+        yAxis: {
+            floor: 0,
+            title: {
+                text: 'Users'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            area: {
+                color: '#f9105e',
+                marker: {
+                    enabled: null
+                },
+                lineWidth: 1,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: [{
+            type: 'area',
+            name: 'Active Users',
+            data: dng
+        }]
+    });
+  },
+Week_AU_China_SC : function(data) {
+    var dng = [];
+    for(var i = 0 ; i < data["Week_AU_China_SC"].length; i ++) {
+      dng.push([Date.parse(data["Week_AU_China_SC"][i].date), parseInt(data["Week_AU_China_SC"][i]["Active Users"])])
+    }
+    $('#Week_AU_China_SC').highcharts({
+        chart: {
+            type: 'spline',
+            zoomType: 'x',
+      backgroundColor: null
+        },
+        title: {
+            text: 'Weekly Active Users'
+        },
+        subtitle: {
+            text: 'China'
+        },
+        xAxis: {
+            type: 'datetime',
+            title: {
+              text: 'Date'
+            },
+            floor: Date.UTC(2015, 06, 01)
+        },
+        yAxis: {
+            floor: 0,
+            title: {
+                text: 'Users'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            area: {
+                color: '#f9105e',
+                marker: {
+                    enabled: null
+                },
+                lineWidth: 1,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: [{
+            type: 'area',
+            name: 'Active Users',
+            data: dng
+        }]
+    });
+  },
+Month_AU_Global_FX : function(data) {
+    var dng = [];
+    for(var i = 0 ; i < data["Month_AU_Global_FX"].length; i ++) {
+      dng.push([Date.parse(data["Month_AU_Global_FX"][i].date), parseInt(data["Month_AU_Global_FX"][i]["Active Users"])])
+    }
+    $('#Month_AU_Global_FX').highcharts({
+        chart: {
+            type: 'spline',
+            zoomType: 'x',
+      backgroundColor: null
+        },
+        title: {
+            text: 'Monthly Active Users'
+        },
+        subtitle: {
+            text: 'Global'
+        },
+        xAxis: {
+            type: 'datetime',
+            title: {
+              text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            floor: 0,
+            title: {
+                text: 'Users'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            area: {
+                color: '#f9105e',
+                marker: {
+                    enabled: null
+                },
+                lineWidth: 1,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: [{
+            type: 'area',
+            name: 'Active Users',
+            data: dng
+        }]
+    });
+  },
+Month_AU_China_FX : function(data) {
+    var dng = [];
+    for(var i = 0 ; i < data["Month_AU_China_FX"].length; i ++) {
+      dng.push([Date.parse(data["Month_AU_China_FX"][i].date), parseInt(data["Month_AU_China_FX"][i]["Active Users"])])
+    }
+    $('#Month_AU_China_FX').highcharts({
+        chart: {
+            type: 'spline',
+            zoomType: 'x',
+      backgroundColor: null
+        },
+        title: {
+            text: 'Monthly Active Users'
+        },
+        subtitle: {
+            text: 'China'
+        },
+        xAxis: {
+            type: 'datetime',
+            title: {
+              text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            floor: 0,
+            title: {
+                text: 'Users'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            area: {
+                color: '#f9105e',
+                marker: {
+                    enabled: null
+                },
+                lineWidth: 1,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: [{
+            type: 'area',
+            name: 'Active Users',
+            data: dng
+        }]
+    });
+  },
+Month_AU_China_FC : function(data) {
+    var dng = [];
+    for(var i = 0 ; i < data["Month_AU_China_FC"].length; i ++) {
+      dng.push([Date.parse(data["Month_AU_China_FC"][i].date), parseInt(data["Month_AU_China_FC"][i]["Active Users"])])
+    }
+    $('#Month_AU_China_FC').highcharts({
+        chart: {
+            type: 'spline',
+            zoomType: 'x',
+      backgroundColor: null
+        },
+        title: {
+            text: 'Monthly Active Users'
+        },
+        subtitle: {
+            text: 'China'
+        },
+        xAxis: {
+            type: 'datetime',
+            title: {
+              text: 'Date'
+            },
+            floor: Date.UTC(2015, 04, 17)
+        },
+        yAxis: {
+            floor: 0,
+            title: {
+                text: 'Users'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            area: {
+                color: '#f9105e',
+                marker: {
+                    enabled: null
+                },
+                lineWidth: 1,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: [{
+            type: 'area',
+            name: 'Active Users',
+            data: dng
+        }]
+    });
+  },
+Month_AU_China_SC : function(data) {
+    var dng = [];
+    for(var i = 0 ; i < data["Month_AU_China_SC"].length; i ++) {
+      dng.push([Date.parse(data["Month_AU_China_SC"][i].date), parseInt(data["Month_AU_China_SC"][i]["Active Users"])])
+    }
+    $('#Month_AU_China_SC').highcharts({
+        chart: {
+            type: 'spline',
+            zoomType: 'x',
+      backgroundColor: null
+        },
+        title: {
+            text: 'Monthly Active Users'
+        },
+        subtitle: {
+            text: 'China'
+        },
+        xAxis: {
+            type: 'datetime',
+            title: {
+              text: 'Date'
+            },
+            floor: Date.UTC(2015, 06, 01)
+        },
+        yAxis: {
+            floor: 0,
+            title: {
+                text: 'Users'
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            area: {
+                color: '#f9105e',
+                marker: {
+                    enabled: null
+                },
+                lineWidth: 1,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: [{
+            type: 'area',
+            name: 'Active Users',
+            data: dng
+        }]
+    });
+  }  
 } 
