@@ -54,7 +54,9 @@ var chartGenerator = {
                 threshold: null
             }
         },
-
+        credits: {
+          enabled: false
+        },
         series: [{
             name: 'Global',
             data: globalData
@@ -151,7 +153,9 @@ var chartGenerator = {
                   }
               }
           },
-
+          credits: {
+          enabled: false
+        },
           series: seriesData
       });
     
@@ -212,7 +216,9 @@ var chartGenerator = {
                   threshold: null
               }
           },
-
+          credits: {
+          enabled: false
+        },
           series: [{
               name: 'China_FX',
               data: fx
@@ -286,7 +292,9 @@ var chartGenerator = {
                 threshold: null
             }
         },
-
+        credits: {
+          enabled: false
+        },
         series: [{
             name: 'FX&FC',
             data: fxfc
@@ -1226,7 +1234,9 @@ var chartGenerator = {
                 threshold: null
             }
         },
-
+        credits: {
+          enabled: false
+        },
         series: [{
             type: 'area',
             name: 'New Users',
@@ -1282,7 +1292,9 @@ var chartGenerator = {
                 threshold: null
             }
         },
-
+        credits: {
+          enabled: false
+        },
         series: [{
             type: 'area',
             name: 'New Users',
@@ -1338,7 +1350,9 @@ var chartGenerator = {
                 threshold: null
             }
         },
-
+        credits: {
+          enabled: false
+        },
         series: [{
             type: 'area',
             name: 'New Users',
@@ -1394,7 +1408,9 @@ var chartGenerator = {
                 threshold: null
             }
         },
-
+        credits: {
+          enabled: false
+        },
         series: [{
             type: 'area',
             name: 'New Users',
@@ -1450,7 +1466,9 @@ var chartGenerator = {
                 threshold: null
             }
         },
-
+        credits: {
+          enabled: false
+        },
         series: [{
             type: 'area',
             name: 'New Users',
@@ -1506,7 +1524,9 @@ var chartGenerator = {
                 threshold: null
             }
         },
-
+        credits: {
+          enabled: false
+        },
         series: [{
             type: 'area',
             name: 'New Users',
