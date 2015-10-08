@@ -1,0 +1,151 @@
+<meta charset="utf-8">
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+
+<script src="/javascripts/chart.js"></script>
+<link rel="stylesheet" type="text/css" href="stylesheets/qfver1.0.css">
+<title>FDT Testing Dashboard</title>
+<link rel="icon" href="http://www.forexmaster.io/images/favicon.ico">
+<style>
+.venntooltip {
+  position: absolute;
+  text-align: center;
+  width: 128px;
+  height: 22px;
+  background: #333;
+  color: #ddd;
+  border: 0px;
+  border-radius: 8px;
+  opacity: 0;
+}
+</style>
+<h1 align="center">  FDT Gemstone Dashboard v1<br>
+      <div style="font-size: 12px;">
+
+
+      </div>
+ </h1>
+<table>
+  <tr>
+     <td colspan="6" style="font-size: 24px; text-align: center">
+      Total Users Number
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><div id="Date_School_TU_China" data="Date_School_TU_China|Top10_School_China" class="chart2 chartFromFile" align="center"></div></td>
+    <td colspan="3"><div id="Date_School_TU_Global" class="chart2" align="center"></div></td>
+  </tr>
+  <tr>
+    <td class="radio" colspan="6">
+        <input type="radio" class="radio" name="Region" id="radio_Global" checked="checked"><strong>Global</strong>
+        <input type="radio" class="radio" name="Region" id="radio_China"><strong>China</strong>
+    </td>
+  </tr>
+  <tr>
+     <td colspan="6" style="font-size: 24px; text-align: center">
+      New Users and Active Users
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="Date_School_NU_Global" class="chart3" align="center"></div><div id="Date_School_NU_China" class="invisible_chart3" align="center"></div></td>
+    <td colspan="2"><div id="Week_School_NU_Global" class="chart3" align="center"></div><div id="Week_School_NU_China" class="invisible_chart3" align="center"></div></td>
+    <td colspan="2"><div id="Month_School_NU_Global" class="chart3" align="center"></div><div id="Month_School_NU_China" class="invisible_chart3" align="center"></div></div></td>
+  </tr>
+  <tr>
+    <td class="radio" colspan="6">
+        <input type="radio" class="radio" name="App" id="radio_Global_FX" checked="checked"><strong>Global_FX</strong>
+        <input type="radio" class="radio" name="App" id="radio_China_FX"><strong>China_FX</strong>
+        <input type="radio" class="radio" name="App" id="radio_China_FC"><strong>China_FC</strong>
+        <input type="radio" class="radio" name="App" id="radio_China_SC"><strong>China_SC</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div id="Date_School_AU_Global_FX" class="AU1D chart3" align="center"></div>
+      <div id="Date_School_AU_China_FX" class="AU1D invisible_chart3" align="center"></div>
+      <div id="Date_School_AU_China_FC" class="AU1D invisible_chart3" align="center"></div>
+      <div id="Date_School_AU_China_SC" class="AU1D invisible_chart3" align="center"></div>
+    </td>
+    <td colspan="2">
+      <div id="Week_School_AU_Global_FX" class="AU7D chart3" align="center"></div>
+      <div id="Week_School_AU_China_FX" class="AU7D invisible_chart3" align="center"></div>
+      <div id="Week_School_AU_China_FC" class="AU7D invisible_chart3" align="center"></div>
+      <div id="Week_School_AU_China_SC" class="AU7D invisible_chart3" align="center"></div>
+    </td>
+    <td colspan="2">
+      <div id="Month_School_AU_Global_FX" class="AU30D chart3" align="center"></div>
+      <div id="Month_School_AU_China_FX" class="AU30D invisible_chart3" align="center"></div>
+      <div id="Month_School_AU_China_FC" class="AU30D invisible_chart3" align="center"></div>
+      <div id="Month_School_AU_China_SC" class="AU30D invisible_chart3" align="center"></div>
+    </td>
+  </tr>
+</table>
+
+
+<script>
+$(document).ready(function() {
+  var chartLoadFromFile = $(".chartFromFile");
+  var dataFiles = []
+  for(var i = 0 ; i < chartLoadFromFile.length; i ++) {   
+      $.get("getDataFromFile?file=" + chartLoadFromFile.eq(i).attr("data") + "&chartName=" + chartLoadFromFile.eq(i).attr("id"), function(result) {
+           // console.info(result) 
+           chartGenerator[result.chartName](result.data);
+           
+      }) 
+    
+  }
+
+})
+function display(a,b){
+  var charts=document.getElementsByClassName(a);
+  for(var i=0;i<charts.length;i++){
+    charts[i].style.display="none";
+  }
+  document.getElementById(b).style.display="inline";
+}
+document.getElementById("radio_Global").onclick=function(){
+  document.getElementById("Date_School_NU_Global").style.display="inline";
+  document.getElementById("Week_School_NU_Global").style.display="inline";
+  document.getElementById("Month_School_NU_Global").style.display="inline";
+
+  document.getElementById("Date_School_NU_China").style.display="none";
+  document.getElementById("Week_School_NU_China").style.display="none";
+  document.getElementById("Month_School_NU_China").style.display="none";
+}
+
+document.getElementById("radio_China").onclick=function(){
+  document.getElementById("Date_School_NU_Global").style.display="none";
+  document.getElementById("Week_School_NU_Global").style.display="none";
+  document.getElementById("Month_School_NU_Global").style.display="none";
+
+  document.getElementById("Date_School_NU_China").style.display="inline";
+  document.getElementById("Week_School_NU_China").style.display="inline";
+  document.getElementById("Month_School_NU_China").style.display="inline";
+}
+
+document.getElementById("radio_Global_FX").onclick=function(){
+  display("AU1D", "Date_School_AU_Global_FX");
+  display("AU7D", "Week_School_AU_Global_FX");
+  display("AU30D", "Month_School_AU_Global_FX");
+}
+
+document.getElementById("radio_China_FX").onclick=function(){
+  display("AU1D", "Date_School_AU_China_FX");
+  display("AU7D", "Week_School_AU_China_FX");
+  display("AU30D", "Month_School_AU_China_FX");
+}
+
+document.getElementById("radio_China_FC").onclick=function(){
+  display("AU1D", "Date_School_AU_China_FC");
+  display("AU7D", "Week_School_AU_China_FC");
+  display("AU30D", "Month_School_AU_China_FC");
+}
+
+document.getElementById("radio_China_SC").onclick=function(){
+  display("AU1D", "Date_School_AU_China_SC");
+  display("AU7D", "Week_School_AU_China_SC");
+  display("AU30D", "Month_School_AU_China_SC");
+}
+</script>

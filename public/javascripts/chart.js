@@ -2240,5 +2240,62 @@ Month_AU_China_SC : function(data) {
             data: dng
         }]
     });
+  },
+  Date_School_TU_China: function(data) {
+    var dstc = [];
+    for(var k in data["Top10_School_China"][0]) {
+      var dataArr = []
+      for(var i = 0 ; i < data["Date_School_TU_China"].length; i ++) {
+        if(data["Date_School_TU_China"][i].school == data["Top10_School_China"][0][k])
+          dataArr.push([Date.parse(data["Date_School_TU_China"][i].date), parseInt(data["Date_School_TU_China"][i]["Total Users"])])
+      }
+      dstc.push({
+        name : data["Top10_School_China"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Date_School_TU_China').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'China School Top10'
+        },
+        subtitle: {
+          text: 'Total Users'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+
+        series: dstc
+    });
   }  
 } 
