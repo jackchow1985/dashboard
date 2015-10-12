@@ -2294,8 +2294,1173 @@ Month_AU_China_SC : function(data) {
                 }
             }
         },
-
+        credits: {
+          enabled: false
+        },
         series: dstc
     });
-  }  
+  },
+
+  Date_School_TU_Global: function(data) {
+    var dstg = [];
+    for(var k in data["Top10_School_Global"][0]) {
+      var dataArr = []
+      for(var i = 0 ; i < data["Date_School_TU_Global"].length; i ++) {
+        if(data["Date_School_TU_Global"][i].school == data["Top10_School_Global"][0][k])
+          dataArr.push([Date.parse(data["Date_School_TU_Global"][i].date), parseInt(data["Date_School_TU_Global"][i]["Total Users"])])
+      }
+      dstg.push({
+        name : data["Top10_School_Global"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Date_School_TU_Global').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Global School Top10'
+        },
+        subtitle: {
+          text: 'Total Users'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: dstg
+    });
+  },
+
+  Date_School_NU_Global: function(data) {
+    var dsng = [];
+    for(var k in data["Top10_School_Global"][0]) {
+      var dataArr = []
+      for(var i = 0 ; i < data["Date_School_NU_Global"].length; i ++) {
+        if(data["Date_School_NU_Global"][i].school == data["Top10_School_Global"][0][k])
+          dataArr.push([Date.parse(data["Date_School_NU_Global"][i].date), parseInt(data["Date_School_NU_Global"][i]["New Users"])])
+      }
+      dsng.push({
+        name : data["Top10_School_Global"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Date_School_NU_Global').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Daily New Users'
+        },
+        subtitle: {
+          text: 'Global Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: dsng
+    });
+  },
+
+  Date_School_NU_China: function(data) {
+    var dsng = [];
+    for(var k in data["Top10_School_China"][0]) {
+      var dataArr = []
+      for(var i = 0 ; i < data["Date_School_NU_China"].length; i ++) {
+        if(data["Date_School_NU_China"][i].school == data["Top10_School_China"][0][k])
+          dataArr.push([Date.parse(data["Date_School_NU_China"][i].date), parseInt(data["Date_School_NU_China"][i]["New Users"])])
+      }
+      dsng.push({
+        name : data["Top10_School_China"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Date_School_NU_China').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Daily New Users'
+        },
+        subtitle: {
+          text: 'China Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: dsng
+    });
+  },
+
+  Week_School_NU_Global: function(data) {
+    var wsng = [];
+    for(var k in data["Top10_School_Global"][0]) {
+      var dataArr = []
+      for(var i = 0; i < data["Week_School_NU_Global"].length; i++) {
+        if(data["Week_School_NU_Global"][i].school == data["Top10_School_Global"][0][k])
+          dataArr.push([
+            Date.parse(data["Week_School_NU_Global"][i].date),
+            parseInt(data["Week_School_NU_Global"][i]["New Users"])
+            ])
+      }
+      wsng.push({
+        name : data["Top10_School_Global"][0][k],
+        data : dataArr
+      })
+    }
+
+    $('#Week_School_NU_Global').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Weekly New Users'
+        },
+        subtitle: {
+          text: 'Global Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: wsng
+    });
+  },
+
+  Week_School_NU_China: function(data) {
+    var wsnc = [];
+    for(var k in data["Top10_School_China"][0]) {
+      var dataArr = []
+      for(var i = 0; i < data["Week_School_NU_China"].length; i++) {
+        if(data["Week_School_NU_China"][i].school == data["Top10_School_China"][0][k])
+          dataArr.push([
+            Date.parse(data["Week_School_NU_China"][i].date),
+            parseInt(data["Week_School_NU_China"][i]["New Users"])
+            ])
+      }
+      wsnc.push({
+        name : data["Top10_School_China"][0][k],
+        data : dataArr
+      })  
+      // inner loop: for every item in Week_School_NU_China, see if it is in the 1st of the Top10_School_China,
+      // and if it is, dataArr.push([ ... ])
+      // outer loop: repeat this for all 10 items in Top10_School_China, and it if is, wsnc.push({ ... })
+    }
+    $('#Week_School_NU_China').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Weekly New Users'
+        },
+        subtitle: {
+          text: 'China Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: wsnc
+    });
+  },
+
+  Month_School_NU_Global: function(data) {
+    var msng = [];
+    for(var k in data["Top10_School_Global"][0]) {
+      var dataArr = []
+      for(var i = 0; i < data["Month_School_NU_Global"].length; i++) {
+        if(data["Month_School_NU_Global"][i].school == data["Top10_School_Global"][0][k])
+          dataArr.push([
+            Date.parse(data["Month_School_NU_Global"][i].date),
+            parseInt(data["Month_School_NU_Global"][i]["New Users"])
+            ])
+      }
+      msng.push({
+        name : data["Top10_School_Global"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Month_School_NU_Global').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Monthly New Users'
+        },
+        subtitle: {
+          text: 'Global Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: msng
+    });
+  },
+
+  Month_School_NU_China: function(data) {
+    // inner loop: for every item in Week_School_NU_China, see if it is in the 1st of the Top10_School_China,
+    // and if it is, dataArr.push([ ... ])
+    // outer loop: repeat this for all 10 items in Top10_School_China, and it if is, wsnc.push({ ... })
+    var msnc = [];
+    for(var k in data["Top10_School_China"][0]) {
+      var dataArr = []
+      for(var i = 0; i < data["Month_School_NU_China"].length; i++) {
+        if(data["Month_School_NU_China"][i].school == data["Top10_School_China"][0][k])
+          dataArr.push([
+            Date.parse(data["Month_School_NU_China"][i].date),
+            parseInt(data["Month_School_NU_China"][i]["New Users"])
+            ])
+      }
+      msnc.push({
+        name : data["Top10_School_China"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Month_School_NU_China').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Monthly New Users'
+        },
+        subtitle: {
+          text: 'China Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: msnc
+    });
+  },
+
+  //Date_School_AU_Global_FX
+  Date_School_AU_Global_FX: function(data) {
+    var dsag = [];
+    for(var k in data["Top10_School_Global"][0]) {
+      var dataArr = [];
+      for(var i = 0 ; i < data["Date_School_AU_Global_FX"].length; i ++) {
+        if(data["Date_School_AU_Global_FX"][i].school == data["Top10_School_Global"][0][k])
+          dataArr.push([Date.parse(data["Date_School_AU_Global_FX"][i].date), parseInt(data["Date_School_AU_Global_FX"][i]["Active Users"])])
+      }
+      dsag.push({
+        name : data["Top10_School_Global"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Date_School_AU_Global_FX').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Daily Active Users'
+        },
+        subtitle: {
+          text: 'Global FX Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: dsag
+    });
+  },
+  // Week_School_AU_Global_FX
+  Week_School_AU_Global_FX: function(data) {
+    var wsag = [];
+    for(var k in data["Top10_School_Global"][0]) {
+      var dataArr = [];
+      for(var i = 0 ; i < data["Week_School_AU_Global_FX"].length; i ++) {
+        if(data["Week_School_AU_Global_FX"][i].school == data["Top10_School_Global"][0][k])
+          dataArr.push([Date.parse(data["Week_School_AU_Global_FX"][i].date), parseInt(data["Week_School_AU_Global_FX"][i]["Active Users"])])
+      }
+      wsag.push({
+        name : data["Top10_School_Global"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Week_School_AU_Global_FX').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Weekly Active Users'
+        },
+        subtitle: {
+          text: 'Global FX Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: wsag
+    });
+  },
+  
+  // Month_School_AU_Global_FX
+  Month_School_AU_Global_FX: function(data) {
+    var msag = [];
+    for(var k in data["Top10_School_Global"][0]) {
+      var dataArr = [];
+      for(var i = 0 ; i < data["Month_School_AU_Global_FX"].length; i ++) {
+        if(data["Month_School_AU_Global_FX"][i].school == data["Top10_School_Global"][0][k])
+          dataArr.push([Date.parse(data["Month_School_AU_Global_FX"][i].date), parseInt(data["Month_School_AU_Global_FX"][i]["Active Users"])])
+      }
+      msag.push({
+        name : data["Top10_School_Global"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Month_School_AU_Global_FX').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Monthly Active Users'
+        },
+        subtitle: {
+          text: 'Global FX Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: msag
+    });
+  },
+
+  //Date_School_AU_China_FX
+  Date_School_AU_China_FX: function(data) {
+    var dsacfx = [];
+    for(var k in data["Top10_School_China_FX"][0]) {
+      var dataArr = [];
+      for(var i = 0 ; i < data["Date_School_AU_China_FX"].length; i ++) {
+        if(data["Date_School_AU_China_FX"][i].school == data["Top10_School_China_FX"][0][k])
+          dataArr.push([Date.parse(data["Date_School_AU_China_FX"][i].date), parseInt(data["Date_School_AU_China_FX"][i]["Active Users"])])
+      }
+      dsacfx.push({
+        name : data["Top10_School_China_FX"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Date_School_AU_China_FX').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Daily Active Users'
+        },
+        subtitle: {
+          text: 'China FX Top10 School'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: dsacfx
+    });
+  },
+  // Week_School_AU_China_FX
+  Week_School_AU_China_FX: function(data) {
+    var wsacfx = [];
+    for(var k in data["Top10_School_China_FX"][0]) {
+      var dataArr = [];
+      for(var i = 0 ; i < data["Week_School_AU_China_FX"].length; i ++) {
+        if(data["Week_School_AU_China_FX"][i].school == data["Top10_School_China_FX"][0][k])
+          dataArr.push([Date.parse(data["Week_School_AU_China_FX"][i].date), parseInt(data["Week_School_AU_China_FX"][i]["Active Users"])])
+      }
+      wsacfx.push({
+        name : data["Top10_School_China_FX"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Week_School_AU_China_FX').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Weekly Active Users'
+        },
+        subtitle: {
+          text: 'China FX Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 05, 20)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: wsacfx
+    });
+  },
+  
+  // Month_School_AU_China_FX
+  Month_School_AU_China_FX: function(data) {
+    var msacfx = [];
+    for(var k in data["Top10_School_China_FX"][0]) {
+      var dataArr = [];
+      for(var i = 0 ; i < data["Month_School_AU_China_FX"].length; i ++) {
+        if(data["Month_School_AU_China_FX"][i].school == data["Top10_School_China_FX"][0][k])
+          dataArr.push([Date.parse(data["Month_School_AU_China_FX"][i].date), parseInt(data["Month_School_AU_China_FX"][i]["Active Users"])])
+      }
+      msacfx.push({
+        name : data["Top10_School_China_FX"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Month_School_AU_China_FX').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Monthly Active Users'
+        },
+        subtitle: {
+          text: 'China FX Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 06, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: msacfx
+    });
+  },
+
+  //Date_School_AU_China_FC
+  Date_School_AU_China_FC: function(data) {
+    var dsacfc = [];
+    for(var k in data["Top10_School_China_FC"][0]) {
+      var dataArr = [];
+      for(var i = 0 ; i < data["Date_School_AU_China_FC"].length; i ++) {
+        if(data["Date_School_AU_China_FC"][i].school == data["Top10_School_China_FC"][0][k])
+          dataArr.push([Date.parse(data["Date_School_AU_China_FC"][i].date), parseInt(data["Date_School_AU_China_FC"][i]["Active Users"])])
+      }
+      dsacfc.push({
+        name : data["Top10_School_China_FC"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Date_School_AU_China_FC').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Daily Active Users'
+        },
+        subtitle: {
+          text: 'China FC Top10 School'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: dsacfc
+    });
+  },
+  // Week_School_AU_China_FC
+  Week_School_AU_China_FC: function(data) {
+    var wsacfc = [];
+    for(var k in data["Top10_School_China_FC"][0]) {
+      var dataArr = [];
+      for(var i = 0 ; i < data["Week_School_AU_China_FC"].length; i ++) {
+        if(data["Week_School_AU_China_FC"][i].school == data["Top10_School_China_FC"][0][k])
+          dataArr.push([Date.parse(data["Week_School_AU_China_FC"][i].date), parseInt(data["Week_School_AU_China_FC"][i]["Active Users"])])
+      }
+      wsacfc.push({
+        name : data["Top10_School_China_FC"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Week_School_AU_China_FC').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Weekly Active Users'
+        },
+        subtitle: {
+          text: 'China FC Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: wsacfc
+    });
+  },
+  
+  // Month_School_AU_China_FC
+  Month_School_AU_China_FC: function(data) {
+    var msacfc = [];
+    for(var k in data["Top10_School_China_FC"][0]) {
+      var dataArr = [];
+      for(var i = 0 ; i < data["Month_School_AU_China_FC"].length; i ++) {
+        if(data["Month_School_AU_China_FC"][i].school == data["Top10_School_China_FC"][0][k])
+          dataArr.push([Date.parse(data["Month_School_AU_China_FC"][i].date), parseInt(data["Month_School_AU_China_FC"][i]["Active Users"])])
+      }
+      msacfc.push({
+        name : data["Top10_School_China_FC"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Month_School_AU_China_FC').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Monthly Active Users'
+        },
+        subtitle: {
+          text: 'China FC Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: msacfc
+    });
+  },
+    //Date_School_AU_China_SC
+  Date_School_AU_China_SC: function(data) {
+    var dsacsc = [];
+    for(var k in data["Top10_School_China_SC"][0]) {
+      var dataArr = [];
+      for(var i = 0 ; i < data["Date_School_AU_China_SC"].length; i ++) {
+        if(data["Date_School_AU_China_SC"][i].school == data["Top10_School_China_SC"][0][k])
+          dataArr.push([Date.parse(data["Date_School_AU_China_SC"][i].date), parseInt(data["Date_School_AU_China_SC"][i]["Active Users"])])
+      }
+      dsacsc.push({
+        name : data["Top10_School_China_SC"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Date_School_AU_China_SC').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Daily Active Users'
+        },
+        subtitle: {
+          text: 'China SC Top10 School'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: dsacsc
+    });
+  },
+  // Week_School_AU_China_SC
+  Week_School_AU_China_SC: function(data) {
+    var wsacsc = [];
+    for(var k in data["Top10_School_China_SC"][0]) {
+      var dataArr = [];
+      for(var i = 0 ; i < data["Week_School_AU_China_SC"].length; i ++) {
+        if(data["Week_School_AU_China_SC"][i].school == data["Top10_School_China_SC"][0][k])
+          dataArr.push([Date.parse(data["Week_School_AU_China_SC"][i].date), parseInt(data["Week_School_AU_China_SC"][i]["Active Users"])])
+      }
+      wsacsc.push({
+        name : data["Top10_School_China_SC"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Week_School_AU_China_SC').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Weekly Active Users'
+        },
+        subtitle: {
+          text: 'China SC Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 00, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: wsacsc
+    });
+  },
+  
+  // Month_School_AU_China_SC
+  Month_School_AU_China_SC: function(data) {
+    var msacsc = [];
+    for(var k in data["Top10_School_China_SC"][0]) {
+      var dataArr = [];
+      for(var i = 0 ; i < data["Month_School_AU_China_SC"].length; i ++) {
+        if(data["Month_School_AU_China_SC"][i].school == data["Top10_School_China_SC"][0][k])
+          dataArr.push([Date.parse(data["Month_School_AU_China_SC"][i].date), parseInt(data["Month_School_AU_China_SC"][i]["Active Users"])])
+      }
+      msacsc.push({
+        name : data["Top10_School_China_SC"][0][k],
+        data : dataArr
+      })
+    }
+    $('#Month_School_AU_China_SC').highcharts({
+        chart: {
+                backgroundColor: null,
+                zoomType: 'x'
+        },
+        title: {
+            text: 'Monthly Active Users'
+        },
+        subtitle: {
+          text: 'China SC Top 10 Schools'
+        },
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            },
+            floor: Date.UTC(2015, 01, 01)
+        },
+        yAxis: {
+            title: {
+                text: 'Users'
+            },
+            min: 0
+        },
+        tooltip: {
+            headerFormat: '<b>{series.name}</b><br>',
+            pointFormat: '{point.x:%e. %b}: {point.y:.f} users'
+        },
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+          enabled: false
+        },
+        series: msacsc
+    });
+  }
+
+
+
+
+
+
 } 
